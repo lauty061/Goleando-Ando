@@ -2,12 +2,12 @@ document.addEventListener("DOMContentLoaded", async () => {
     const ligas = {
         "Bundesliga": "/Bundesliga/resultadosale.json",
         "Premier League": "/Premier/resultadosing.json",
-        "LaLiga": "/La Liga/resultadosesp.json",
-        "Serie A": "/Liga Italia/resultadosita.json",
-        "Ligue 1": "/Ligue 1/resultadosfra.json",
-        "Liga Argentina": "/Liga Argentina/resultadosarg.json",
+        "LaLiga": "/La-Liga/resultadosesp.json",
+        "Serie A": "/Liga-Italia/resultadosita.json",
+        "Ligue 1": "/Ligue-1/resultadosfra.json",
+        "Liga Argentina": "/Liga-Argentina/resultadosarg.json",
         "Champions League": "/Champions/resultadoscha.json",
-        "Uefa Europa League": "/Europa League/resultadoseu.json",
+        "Uefa Europa League": "/Europa-League/resultadoseu.json",
         "Copa Libertadores": "/Libertadores/resultadoslib.json"
     };
     const contenedor = document.querySelector(".resumen-ligas");
