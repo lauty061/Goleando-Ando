@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premier League</title>
+    <link rel="shortcut icon" href="PremierLegueLogo.png">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+</head>
+<body class="fondo">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/index.html">Inicio</a></li>
+                <li><a href="/Liga Argentina/liga-argentina.html">Liga Argentina</a></li>
+                <li><a href="/Liga Italia/liga-italiana.html">Serie A</a></li>
+                <li><a href="/La Liga/liga-espanola.html">LaLiga</a></li>
+                <li><a href="/Premier/liga-inglesa.html">Premier League</a></li>
+                <li><a href="/Bundesliga/liga-alemana.html">Bundesliga</a></li>
+                <li><a href="/Ligue 1/liga-francia.html">Ligue 1</a></li>
+                <li><a href="/Champions/champions.html">Champions League</a></li>
+                <li><a href="/Europa League/Europa.html">Europa League</a></li>
+                <li><a href="/Libertadores/libertadores.html">Copa Libertadores</a></li>
+            </ul>
+        </nav>
+        <a id="ancla"></a><div class="liga-banner"></a>
+            <h1 id="titulo-liga">Premier League</h1>
+            <img src="PremierLegueLogo.png" class="logo" alt="Logo Premier League">
+        </div>
+    </header>
+    <main>
+        <section id="fixture">
+            <h2>Fixture</h2>
+            <label for="fecha-select">Seleccionar Fecha:</label>
+            <select id="fecha-select"></select>
+            <table id="fixture-table"></table>
+        </section>
+        <section id="posiciones">
+            <h2>Tabla de Posiciones</h2>
+            <div class="scrollable-table">
+                <table id="tabla-posiciones-table"></table>
+            </div>
+        </section>
+        <section id="goleadores">
+            <h2>Tabla de Goleadores</h2>
+            <table id="tabla-goleadores"></table>
+        </section>
+    <a href="#ancla" class="boton-inicio">🏠 Inicio</a>
+    </main>
+    <script src="/Premier/scripting.js"></script>
+</body>
+</html>
