@@ -6,31 +6,40 @@
     <title>La Liga</title>
     <link rel="shortcut icon" href="LaLigaLogo.png">
     <link rel="stylesheet" href="../styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
 </head>
 <body class="fondo">
     <header>
+        <img src="../imgs/headerLogo.png" alt="" height="50" style="cursor: pointer;" onclick="window.location.href = '../index.html';">
         <nav>
-            <ul>
+            <ul class="nav-menu">
                 <li><a href="../index.html">Inicio</a></li>
-                <li><a href="../Liga-Argentina/liga-argentina.html">Liga Argentina</a></li>
-                <li><a href="../Liga-Italia/liga-italiana.html">Serie A</a></li>
-                <li><a href="liga-espanola.html">LaLiga</a></li>
-                <li><a href="../Premier/liga-inglesa.html">Premier League</a></li>
-                <li><a href="../Bundesliga/liga-alemana.html">Bundesliga</a></li>
-                <li><a href="../Ligue-1/liga-francia.html">Ligue 1</a></li>
-                <li><a href="../Champions/champions.html">Champions League</a></li>
-                <li><a href="../Europa-League/Europa.html">Europa League</a></li>
-                <li><a href="../Libertadores/libertadores.html">Copa Libertadores</a></li>
+                <li class="dropdown">
+                    <button class="dropdown-toggle"><strong>Ligas</strong></button>
+                    <ul class="dropdown-menu">
+                        <li><a href="../Liga-Argentina/liga-argentina.html">Liga Argentina</a></li>
+                        <li><a href="../Liga-Italia/liga-italiana.html">Serie A</a></li>
+                        <li><a href="liga-espanola.html">LaLiga</a></li>
+                        <li><a href="../Premier/liga-inglesa.html">Premier League</a></li>
+                        <li><a href="../Bundesliga/liga-alemana.html">Bundesliga</a></li>
+                        <li><a href="../Ligue-1/liga-francia.html">Ligue 1</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <button class="dropdown-toggle">Competiciones Internacionales</button>
+                    <ul class="dropdown-menu">
+                        <li><a href="../Champions/champions.html">Champions League</a></li>
+                        <li><a href="../Europa-League/Europa.html">Europa League</a></li>
+                        <li><a href="../Libertadores/libertadores.html">Copa Libertadores</a></li>
+                    </ul>
+                </li>
             </ul>
         </nav>
-    <a id="ancla"></a><div class="liga-banner"></a>
-            <h1 id="titulo-liga">La Liga</h1>
-            <img src="LaLigaLogo.png"class="logo">
-        </div>
+    
     </header>
+    <a id="ancla"></a><div class="liga-banner"></a>
+        <h1 id="titulo-liga">La Liga</h1>
+        <img src="LaLigaLogo.png"class="logo">
+    </div>
     <main>
         <section id="fixture">
             <h2>Fixture</h2>
@@ -51,5 +60,6 @@
     <a href="#ancla" class="boton-inicio">🏠 Inicio</a>
     </main>    
     <script src="scriptesp.js"></script>
+    <script src="../navScript.js"></script>
 </body>
 </html>
