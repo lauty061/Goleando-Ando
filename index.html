@@ -3,30 +3,43 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Pagina Futbol</title>
+    <title>GoleandoAndo - Inicio</title>
     <link rel="stylesheet" href="styles.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <link rel="icon" href="tabIcon.png">
 </head>
-<body class="fondo">
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="Liga-Argentina/liga-argentina.html">Liga Argentina</a></li>
-                <li><a href="Liga-Italia/liga-italiana.html">Serie A</a></li>
-                <li><a href="La-Liga/liga-espanola.html">LaLiga</a></li>
-                <li><a href="Premier/liga-inglesa.html">Premier League</a></li>
-                <li><a href="Bundesliga/liga-alemana.html">Bundesliga</a></li>
-                <li><a href="Ligue-1/liga-francia.html">Ligue 1</a></li>
-                <li><a href="Champions/champions.html">Champions League</a></li>
-                <li><a href="Europa-League/Europa.html">Europa League</a></li>
-                <li><a href="Libertadores/libertadores.html">Copa Libertadores</a></li>
-            </ul>
-        </nav>
+<body>
+<header>
+    <img src="headerLogo.png" alt="" height="50" style="cursor: pointer;" onclick="window.location.href = 'index.html';">
+    <nav>
+        <ul class="nav-menu">
+            <li><a href="index.html"><strong>Inicio</strong></a></li>
+            <li class="dropdown">
+                <button class="dropdown-toggle">Ligas</button>
+                <ul class="dropdown-menu">
+                    <li><a href="Liga-Argentina/liga-argentina.html">Liga Argentina</a></li>
+                    <li><a href="Liga-Italia/liga-italiana.html">Serie A</a></li>
+                    <li><a href="La-Liga/liga-espanola.html">LaLiga</a></li>
+                    <li><a href="Premier/liga-inglesa.html">Premier League</a></li>
+                    <li><a href="Bundesliga/liga-alemana.html">Bundesliga</a></li>
+                    <li><a href="Ligue-1/liga-francia.html">Ligue 1</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <button class="dropdown-toggle">Competiciones Internacionales</button>
+                <ul class="dropdown-menu">
+                    <li><a href="Champions/champions.html">Champions League</a></li>
+                    <li><a href="Europa-League/Europa.html">Europa League</a></li>
+                    <li><a href="Libertadores/libertadores.html">Copa Libertadores</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+
+</header>
     <h1>Resumen Futbolístico</h1>
-    </header>
     <main>
         <section id="otras-ligas">
             <h2>Resumen por Liga</h2>
@@ -38,5 +51,6 @@
         </section>
     </main>
 <script src="index.js"></script>
+<script src="navScript.js"></script>
 </body>
 </html>

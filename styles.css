@@ -3,53 +3,101 @@
     padding: 0;
     box-sizing: border-box;
 }
+:root{
+    --background-color: #00033F;
+    --primary-accent-color: #4BC6EF; 
+    --text-color: #FFFFFF;
+    --hover-color: #1A1C4D;
+}
 body {
-    font-family: 'Poppins', sans-serif;
-    color: #333;
-    text-align: center;
-    background-image: url('background.png');
+    font-family: 'Inter';
+    background-image: url('background2.png');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
 }
-nav {
-    background-color: #090831a2;
-    padding: 10px 0;
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 }
-nav ul {
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
     list-style: none;
     display: flex;
-    justify-content: center;
-    gap: 30px;
+    gap: 12px;
 }
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
+  
+.nav-menu li {
+    position: relative;
+    font-family: Rubik;
     font-weight: 400;
+    font-size: 20px;   
 }
-nav ul li a:hover {
-    color: #fdd835;
+  
+.nav-menu a, .dropdown-toggle {
+    color: var(--text-color);
+    background: none;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    padding: 8px 12px;
+    text-decoration: none;
 }
+  
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--background-color);
+    padding: 0;
+    margin: 0;
+    min-width: 180px;
+    z-index: 100;
+    list-style: none;
+}
+  
+.dropdown-menu li a {
+    display: block;
+    padding: 10px;
+    color: var(--text-color);
+    border-bottom: 1px solid var(--primary-accent-color);
+}
+  
+.dropdown-menu li a:hover {
+    background: var(--hover-color);
+}
+  
+.dropdown.open .dropdown-menu {
+    display: block;
+}
+  
 h1 {
-    font-weight: 500;
-    margin: 30px 0 10px;
-    font-size: 2.5rem;
+    text-align: center;
+    color: var(--primary-accent-color);
+    font-family: Rubik;
+    font-weight: 800;
+    font-size: 3.5rem;
+    padding: 4vh;
 }
 h2 {
-    font-size: 1.8rem;
-    color: #444;
-    margin-bottom: 10px;
+    font-size: 2rem;
+    color: var(--text-color);
+    padding: 2%;
+    font-family: Inter;
     border-bottom: 2px solid #ddd;
-    padding-bottom: 5px;
 }
 main {
     display: grid;
     grid-template-columns: 1fr;
     gap: 30px;
-    width: 100%;
+    width: 90%;
     margin: 10px auto;
-    padding: 0 50px;
     grid-template-columns: repeat(2, 1fr);
         grid-template-areas:
             "posiciones posiciones"
@@ -65,31 +113,33 @@ main {
     grid-area: goleadores;
 }
 section {
-    background: white;
     padding: 20px;
-    border-radius: 12px;
     text-align: left;
 }
 table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 10px;
-    font-size: 0.95rem;
+    font-size: 1rem;
+    color: var(--text-color);
 }
 th, td {
-    border: 1px solid #e0e0e0;
     padding: 10px 8px;
     text-align: center;
 }
 th {
-    background-color: #f8f8f8;
+    background-color: var(--background-color);
     font-weight: 600;
+    font-family: Rubik;
 }
 tr:nth-child(even) {
-    background-color: #fafafa;
+    background-color: var(--background-color);
+}
+tr:nth-child(odd) {
+    background-color: var(--background-color);
 }
 tr:hover {
-    background-color: #f1f1f1;
+    background-color: var(--hover-color);
 }
 label {
     font-weight: 500;
@@ -139,22 +189,21 @@ select {
     margin-top: 20px;
 }
 .liga-mini {
-    background: white;
-    padding: 15px;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    border-radius: 8px;
+    padding: 2.4vh;
+    color: var(--text-color);
     text-align: center;
+    background-color: var(--background-color);
+
 }
 #tabla-hoy {
     margin-top: 20px;
-    width: 100%;
-    border-collapse: collapse;
-    background: white;
 }
 #tabla-hoy th, #tabla-hoy td {
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid var(--primary-accent-color);
     text-align: center;
+    font-size: 1rem;
 }
 /*celulares*/
 @media (max-width: 767px) {
