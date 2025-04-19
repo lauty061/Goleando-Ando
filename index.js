@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         "Liga Argentina": "Liga-Argentina/resultadosarg.json",
         "Champions League": "Champions/resultadoscha.json",
         "Uefa Europa League": "Europa-League/resultadoseu.json",
+        "Eliminatorias Conmebol": "Eliminatorias/resultadoseli.json",
         "Copa Libertadores": "Libertadores/resultadoslib.json"
     };
     
