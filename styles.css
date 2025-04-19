@@ -99,10 +99,11 @@ h3{
     font-size: 1.5rem;
     color: var(--text-color);
     padding: 6%;
-    font-family: Inter;
+    font-family: Rubik;
     border-bottom: 2px solid #ddd;
 }
 h4{
+    font-family: Rubik;
     font-size: 1.3rem;
     color: var(--text-color);
     padding: 2%;
@@ -261,11 +262,14 @@ select {
         display: flex;
         flex-direction: column;
         align-items: center;
-        
+
 
     }
     .liga-banner {
         flex-direction: column;
+    }
+    #fixture{
+        gap: 20px;
     }
 
 }
