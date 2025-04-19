@@ -1,0 +1,412 @@
+{
+    "NBA": {
+        "fixture": [
+            {
+                "fecha_torneo": null,
+                "fecha": "19/04/2025 19 HS No iniciado",
+                "local": "NYK",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/347.png",
+                "visitante": "DET",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/335.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "19/04/2025 21 HS No iniciado",
+                "local": "LAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/340.png",
+                "visitante": "MIN",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/344.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "19/04/2025 14 HS No iniciado",
+                "local": "IND",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/338.png",
+                "visitante": "MIL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/343.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "19/04/2025 16 HS No iniciado",
+                "local": "DEN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/334.png",
+                "visitante": "LAC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/339.png"
+            }
+        ],
+        "tabla_posiciones": {
+            "Este": [
+                {
+                    "posicion": "1",
+                    "escudo": "https://statics-files.tycsports.com/escudos/332.png",
+                    "equipo": "CLE                            \n\r\n                                Cleveland Cavaliers",
+                    "porcentaje_pg": "0.78",
+                    "puntos": "82",
+                    "pj": "64",
+                    "pp": "18",
+                    "pf": 9999,
+                    "pc": 9218,
+                    "dg": 781
+                },
+                {
+                    "posicion": "2",
+                    "escudo": "https://statics-files.tycsports.com/escudos/329.png",
+                    "equipo": "BOS                            \n\r\n                                Boston Celtics",
+                    "porcentaje_pg": "0.744",
+                    "puntos": "82",
+                    "pj": "61",
+                    "pp": "21",
+                    "pf": 9534,
+                    "pc": 8787,
+                    "dg": 747
+                },
+                {
+                    "posicion": "3",
+                    "escudo": "https://statics-files.tycsports.com/escudos/347.png",
+                    "equipo": "NYK                            \n\r\n                                New York Knicks",
+                    "porcentaje_pg": "0.622",
+                    "puntos": "82",
+                    "pj": "51",
+                    "pp": "31",
+                    "pf": 9495,
+                    "pc": 9158,
+                    "dg": 337
+                },
+                {
+                    "posicion": "4",
+                    "escudo": "https://statics-files.tycsports.com/escudos/338.png",
+                    "equipo": "IND                            \n\r\n                                Indiana Pacers",
+                    "porcentaje_pg": "0.61",
+                    "puntos": "82",
+                    "pj": "50",
+                    "pp": "32",
+                    "pf": 9624,
+                    "pc": 9441,
+                    "dg": 183
+                },
+                {
+                    "posicion": "5",
+                    "escudo": "https://statics-files.tycsports.com/escudos/343.png",
+                    "equipo": "MIL                            \n\r\n                                Milwaukee Bucks",
+                    "porcentaje_pg": "0.585",
+                    "puntos": "82",
+                    "pj": "48",
+                    "pp": "34",
+                    "pf": 9472,
+                    "pc": 9269,
+                    "dg": 203
+                },
+                {
+                    "posicion": "6",
+                    "escudo": "https://statics-files.tycsports.com/escudos/335.png",
+                    "equipo": "DET                            \n\r\n                                Detroit Pistons",
+                    "porcentaje_pg": "0.537",
+                    "puntos": "82",
+                    "pj": "44",
+                    "pp": "38",
+                    "pf": 9471,
+                    "pc": 9315,
+                    "dg": 156
+                },
+                {
+                    "posicion": "7",
+                    "escudo": "https://statics-files.tycsports.com/escudos/348.png",
+                    "equipo": "ORL                            \n\r\n                                Orlando Magic",
+                    "porcentaje_pg": "0.5",
+                    "puntos": "82",
+                    "pj": "41",
+                    "pp": "41",
+                    "pf": 8645,
+                    "pc": 8655,
+                    "dg": -10
+                },
+                {
+                    "posicion": "8",
+                    "escudo": "https://statics-files.tycsports.com/escudos/328.png",
+                    "equipo": "ATL                            \n\r\n                                Atlanta Hawks",
+                    "porcentaje_pg": "0.488",
+                    "puntos": "82",
+                    "pj": "40",
+                    "pp": "42",
+                    "pf": 9691,
+                    "pc": 9784,
+                    "dg": -93
+                },
+                {
+                    "posicion": "9",
+                    "escudo": "https://statics-files.tycsports.com/escudos/331.png",
+                    "equipo": "CHI                            \n\r\n                                Chicago Bulls",
+                    "porcentaje_pg": "0.476",
+                    "puntos": "82",
+                    "pj": "39",
+                    "pp": "43",
+                    "pf": 9660,
+                    "pc": 9788,
+                    "dg": -128
+                },
+                {
+                    "posicion": "10",
+                    "escudo": "https://statics-files.tycsports.com/escudos/342.png",
+                    "equipo": "MIA                            \n\r\n                                Miami Heat",
+                    "porcentaje_pg": "0.451",
+                    "puntos": "82",
+                    "pj": "37",
+                    "pp": "45",
+                    "pf": 9069,
+                    "pc": 9023,
+                    "dg": 46
+                },
+                {
+                    "posicion": "11",
+                    "escudo": "https://statics-files.tycsports.com/escudos/355.png",
+                    "equipo": "TOR                            \n\r\n                                Toronto Raptors",
+                    "porcentaje_pg": "0.366",
+                    "puntos": "82",
+                    "pj": "30",
+                    "pp": "52",
+                    "pf": 9091,
+                    "pc": 9443,
+                    "dg": -352
+                },
+                {
+                    "posicion": "12",
+                    "escudo": "https://statics-files.tycsports.com/escudos/345.png",
+                    "equipo": "BRO                            \n\r\n                                Brooklyn Nets",
+                    "porcentaje_pg": "0.317",
+                    "puntos": "82",
+                    "pj": "26",
+                    "pp": "56",
+                    "pf": 8619,
+                    "pc": 9202,
+                    "dg": -583
+                },
+                {
+                    "posicion": "13",
+                    "escudo": "https://statics-files.tycsports.com/escudos/349.png",
+                    "equipo": "PHI                            \n\r\n                                Philadelphia 76ers",
+                    "porcentaje_pg": "0.293",
+                    "puntos": "82",
+                    "pj": "24",
+                    "pp": "58",
+                    "pf": 8988,
+                    "pc": 9499,
+                    "dg": -511
+                },
+                {
+                    "posicion": "14",
+                    "escudo": "https://statics-files.tycsports.com/escudos/330.png",
+                    "equipo": "CHA                            \n\r\n                                Charlotte Hornets",
+                    "porcentaje_pg": "0.232",
+                    "puntos": "82",
+                    "pj": "19",
+                    "pp": "63",
+                    "pf": 8618,
+                    "pc": 9365,
+                    "dg": -747
+                },
+                {
+                    "posicion": "15",
+                    "escudo": "https://statics-files.tycsports.com/escudos/357.png",
+                    "equipo": "WAS                            \n\r\n                                Washington Wizards",
+                    "porcentaje_pg": "0.22",
+                    "puntos": "82",
+                    "pj": "18",
+                    "pp": "64",
+                    "pf": 8856,
+                    "pc": 9876,
+                    "dg": -1020
+                }
+            ],
+            "Oeste": [
+                {
+                    "posicion": "1",
+                    "escudo": "https://statics-files.tycsports.com/escudos/1324.png",
+                    "equipo": "OKL                            \n\r\n                                Oklahoma City Thunder",
+                    "porcentaje_pg": "0.829",
+                    "puntos": "82",
+                    "pj": "68",
+                    "pp": "14",
+                    "pf": 9881,
+                    "pc": 8826,
+                    "dg": 1055
+                },
+                {
+                    "posicion": "2",
+                    "escudo": "https://statics-files.tycsports.com/escudos/337.png",
+                    "equipo": "HOU                            \n\r\n                                Houston Rockets",
+                    "porcentaje_pg": "0.634",
+                    "puntos": "82",
+                    "pj": "52",
+                    "pp": "30",
+                    "pf": 9372,
+                    "pc": 9002,
+                    "dg": 370
+                },
+                {
+                    "posicion": "3",
+                    "escudo": "https://statics-files.tycsports.com/escudos/340.png",
+                    "equipo": "LAL                            \n\r\n                                Los Angeles Lakers",
+                    "porcentaje_pg": "0.61",
+                    "puntos": "82",
+                    "pj": "50",
+                    "pp": "32",
+                    "pf": 9298,
+                    "pc": 9198,
+                    "dg": 100
+                },
+                {
+                    "posicion": "4",
+                    "escudo": "https://statics-files.tycsports.com/escudos/334.png",
+                    "equipo": "DEN                            \n\r\n                                Denver Nuggets",
+                    "porcentaje_pg": "0.61",
+                    "puntos": "82",
+                    "pj": "50",
+                    "pp": "32",
+                    "pf": 9902,
+                    "pc": 9583,
+                    "dg": 319
+                },
+                {
+                    "posicion": "5",
+                    "escudo": "https://statics-files.tycsports.com/escudos/339.png",
+                    "equipo": "LAC                            \n\r\n                                Los Angeles Clippers",
+                    "porcentaje_pg": "0.61",
+                    "puntos": "82",
+                    "pj": "50",
+                    "pp": "32",
+                    "pf": 9256,
+                    "pc": 8874,
+                    "dg": 382
+                },
+                {
+                    "posicion": "6",
+                    "escudo": "https://statics-files.tycsports.com/escudos/344.png",
+                    "equipo": "MIN                            \n\r\n                                Minnesota Timberwolves",
+                    "porcentaje_pg": "0.598",
+                    "puntos": "82",
+                    "pj": "49",
+                    "pp": "33",
+                    "pf": 9372,
+                    "pc": 8962,
+                    "dg": 410
+                },
+                {
+                    "posicion": "7",
+                    "escudo": "https://statics-files.tycsports.com/escudos/336.png",
+                    "equipo": "GSW                            \n\r\n                                Golden State Warriors",
+                    "porcentaje_pg": "0.585",
+                    "puntos": "82",
+                    "pj": "48",
+                    "pp": "34",
+                    "pf": 9331,
+                    "pc": 9060,
+                    "dg": 271
+                },
+                {
+                    "posicion": "8",
+                    "escudo": "https://statics-files.tycsports.com/escudos/341.png",
+                    "equipo": "ME                            \n\r\n                                Memphis Grizzlies",
+                    "porcentaje_pg": "0.585",
+                    "puntos": "82",
+                    "pj": "48",
+                    "pp": "34",
+                    "pf": 9980,
+                    "pc": 9582,
+                    "dg": 398
+                },
+                {
+                    "posicion": "9",
+                    "escudo": "https://statics-files.tycsports.com/escudos/352.png",
+                    "equipo": "SAC                            \n\r\n                                Sacramento Kings",
+                    "porcentaje_pg": "0.488",
+                    "puntos": "82",
+                    "pj": "40",
+                    "pp": "42",
+                    "pf": 9490,
+                    "pc": 9451,
+                    "dg": 39
+                },
+                {
+                    "posicion": "10",
+                    "escudo": "https://statics-files.tycsports.com/escudos/333.png",
+                    "equipo": "DAL                            \n\r\n                                Dallas Mavericks",
+                    "porcentaje_pg": "0.476",
+                    "puntos": "82",
+                    "pj": "39",
+                    "pp": "43",
+                    "pf": 9364,
+                    "pc": 9462,
+                    "dg": -98
+                },
+                {
+                    "posicion": "11",
+                    "escudo": "https://statics-files.tycsports.com/escudos/350.png",
+                    "equipo": "PHO                            \n\r\n                                Phoenix Suns",
+                    "porcentaje_pg": "0.439",
+                    "puntos": "82",
+                    "pj": "36",
+                    "pp": "46",
+                    "pf": 9317,
+                    "pc": 9563,
+                    "dg": -246
+                },
+                {
+                    "posicion": "12",
+                    "escudo": "https://statics-files.tycsports.com/escudos/351.png",
+                    "equipo": "POR                            \n\r\n                                Portland Trail Blazers",
+                    "porcentaje_pg": "0.439",
+                    "puntos": "82",
+                    "pj": "36",
+                    "pp": "46",
+                    "pf": 9093,
+                    "pc": 9337,
+                    "dg": -244
+                },
+                {
+                    "posicion": "13",
+                    "escudo": "https://statics-files.tycsports.com/escudos/353.png",
+                    "equipo": "SPS                            \n\r\n                                San Antonio Spurs",
+                    "porcentaje_pg": "0.415",
+                    "puntos": "82",
+                    "pj": "34",
+                    "pp": "48",
+                    "pf": 9342,
+                    "pc": 9568,
+                    "dg": -226
+                },
+                {
+                    "posicion": "14",
+                    "escudo": "https://statics-files.tycsports.com/escudos/346.png",
+                    "equipo": "NOR                            \n\r\n                                New Orleans Pelicans",
+                    "porcentaje_pg": "0.256",
+                    "puntos": "82",
+                    "pj": "21",
+                    "pp": "61",
+                    "pf": 9006,
+                    "pc": 9779,
+                    "dg": -773
+                },
+                {
+                    "posicion": "15",
+                    "escudo": "https://statics-files.tycsports.com/escudos/356.png",
+                    "equipo": "UTA                            \n\r\n                                Utah Jazz",
+                    "porcentaje_pg": "0.207",
+                    "puntos": "82",
+                    "pj": "17",
+                    "pp": "65",
+                    "pf": 9175,
+                    "pc": 9941,
+                    "dg": -766
+                }
+            ]
+        }
+    }
+}
