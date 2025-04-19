@@ -1,8 +1,10 @@
 document.addEventListener("DOMContentLoaded", async function () {
+    // Obtiene el nombre de la liga desde el encabezado
     let ligaElement = document.getElementById("titulo-liga");
     if (!ligaElement) return;
 
     let liga = ligaElement.innerText.trim();
+    // Carga los datos desde el archivo JSON
     let ligaData = await obtenerDatosLiga(liga);
     if (!ligaData) return;
 
@@ -10,6 +12,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     let tablaPosicionesData = ligaData.tabla_posiciones || [];
     let goleadoresData = ligaData.goleadores || [];
 
+    // Fechas de ligas
     let fechasTorneo = {
         "Fecha 1": ["2024-08-23", "2024-08-25"],
         "Fecha 2": ["2024-08-30", "2024-09-01"],
@@ -45,21 +48,23 @@ document.addEventListener("DOMContentLoaded", async function () {
         "Fecha 32": ["2025-05-02", "2025-05-04"],
         "Fecha 33": ["2025-05-09", "2025-05-11"],
     };
-
+    // Rellenar el <select> de fechas con opciones
     let fechaSelect = document.getElementById("fecha-select");
     fechaSelect.innerHTML = Object.keys(fechasTorneo)
         .map(fecha => `<option value="${fecha}">${fecha}: del ${fechasTorneo[fecha][0]} al ${fechasTorneo[fecha][1]}</option>`)
         .join("");
-
+    
+    // Mostrar datos iniciales (por defecto Fecha 1)
     mostrarPartidos(fixtureData, "Fecha 1", fechasTorneo);
     mostrarTablaPosiciones(tablaPosicionesData);
     mostrarGoleadores(goleadoresData);
 
+    // Mostrar partidos al cambiar la fecha seleccionada
     fechaSelect.addEventListener("change", function () {
         mostrarPartidos(fixtureData, this.value, fechasTorneo);
     });
 });
-
+    // Carga el archivo JSON local y devuelve los datos de la liga especificada
 async function obtenerDatosLiga(liga) {
     try {
         let response = await fetch("resultadosale.json");
@@ -71,13 +76,13 @@ async function obtenerDatosLiga(liga) {
         return null;
     }
 }
-
+    // Convierte fecha en formato dd/mm/yyyy a yyyy-mm-dd para poder compararlas
 function convertirFecha(fechaStr) {
     let match = fechaStr.match(/(\d{2})\/(\d{2})\/(\d{4})/);
     if (!match) return "";
     return `${match[3]}-${match[2]}-${match[1]}`;
 }
-
+    // Renderiza los partidos de la jornada seleccionada
 function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
     let fixtureTable = document.getElementById("fixture-table");
     fixtureTable.innerHTML = `
@@ -107,7 +112,7 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
         fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos para esta fecha</td></tr>`;
         return;
     }
-
+    // Insertar filas para cada partido
     partidos.forEach(p => {
         fixtureTable.innerHTML += `
             <tr>
@@ -146,6 +151,7 @@ function mostrarTablaPosiciones(tablaData) {
         </tr>
     `;
 
+    // Colores de la tabla de posiciones
     tablaData.forEach((equipo, index) => {
         let colorFondo = "";
         switch (index) {
@@ -188,6 +194,7 @@ function mostrarTablaPosiciones(tablaData) {
         `;
     });
 }
+    // Tabla de goleadores
 function mostrarGoleadores(data) {
     let tabla = document.getElementById("tabla-goleadores");
     if (!tabla || !data.length) {

@@ -3,12 +3,14 @@ from bs4 import BeautifulSoup
 import json
 import os
 
+    # Corrige posibles problemas de codificación en nombres
 def fix_encoding(text):
     try:
         return text.encode("latin1").decode("utf-8")
     except Exception:
         return text
 
+    # Función principal que obtiene fixture, tabla de posiciones y goleadores
 def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga):
     headers = {"User-Agent": "Mozilla/5.0"}
 
@@ -21,6 +23,7 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
     partidos = []
     jornada_actual = None
 
+    # Recorre los títulos de cada día de juego y luego cada encuentro deportivo.
     for elemento in soup.find_all(["h2", "div"], class_=["titulo", "partido"]):
         if elemento.name == "h2" and "Jornada" in elemento.text:
             jornada_actual = elemento.text.strip()
@@ -119,7 +122,7 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
         "tabla_posiciones": tabla_posiciones,
         "goleadores": goleadores
     }
-
+    # URLs (Depende de que liga sea)
 ligas = {
     "Bundesliga": {
         "fixture": "https://www.tycsports.com/estadisticas/bundesliga-alemania/fixture.html",
@@ -128,6 +131,7 @@ ligas = {
     },
 }
 
+    # Procesar y guardar los datos en archivo local JSON 
 datos = {}
 for liga, urls in ligas.items():
     print(f"📌 Obteniendo datos de {liga}...")

@@ -49,18 +49,27 @@
         <img src="BundesligaLogo.png" class="logo">
     </div>
     <main>
+        <!-- Sección: Fixture -->
+        <!-- Muestra la lista de partidos filtrados por jornada -->
         <section id="fixture">
             <h2>Fixture</h2>
+            <!-- Selector para elegir la fecha de la jornada -->
             <label for="fecha-select">Seleccionar Fecha:</label>
             <select id="fecha-select"></select>
+            <!-- Tabla donde se mostrarán los partidos de la fecha seleccionada -->
             <table id="fixture-table"></table>
         </section>
+        <!-- Sección: Tabla de posiciones -->
+        <!-- Muestra la clasificación actualizada de los equipos -->
         <section id="posiciones">
             <h2>Tabla de Posiciones</h2>
+            <!-- Contenedor con scroll horizontal para dispositivos móviles -->
             <div class="scrollable-table">
                 <table id="tabla-posiciones-table"></table>
             </div>
         </section>        
+        <!-- Sección: Goleadores -->
+        <!-- Muestra la tabla con los máximos goleadores del torneo -->
         <section id="goleadores">
             <h2>Tabla de Goleadores</h2>
             <table id="tabla-goleadores"></table>
