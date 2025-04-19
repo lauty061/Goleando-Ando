@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             const goleador = info.goleadores?.[0];
             contenedor.innerHTML += `
                 <div class="liga-mini">
-                    <h3>${liga}</h3>
+                    <h4>${liga}</h4>
                     <p>Líder: <strong>${top?.equipo || "N/A"}</strong> (${top?.puntos || 0} pts)</p>
                     <p>Goleador: ${goleador?.nombre || "N/A"} (${goleador?.goles || 0} goles)</p>
                 </div>
