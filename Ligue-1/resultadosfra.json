@@ -2323,7 +2323,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/03/2025 13:15 HS Suspendido",
+                "fecha": "16/03/2025 13:15 HS Finalizado",
                 "local": "MTP",
                 "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1728.png",
@@ -2613,12 +2613,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "18/04/2025 15:45 HS",
+                "fecha": "18/04/2025 15:45 HS Finalizado",
                 "local": "REN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1732.png",
                 "visitante": "NAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2173.png"
             },
             {
@@ -3202,6 +3202,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/1732.png",
+                "equipo": "Stade Rennes",
+                "puntos": "38",
+                "pj": "30",
+                "pg": "12",
+                "pe": "2",
+                "pp": "16",
+                "gf": 45,
+                "gc": 40,
+                "dg": 5
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1721.png",
                 "equipo": "Auxerre",
                 "puntos": "38",
@@ -3212,19 +3225,6 @@
                 "gf": 40,
                 "gc": 42,
                 "dg": -2
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/1732.png",
-                "equipo": "Stade Rennes",
-                "puntos": "35",
-                "pj": "29",
-                "pg": "11",
-                "pe": "2",
-                "pp": "16",
-                "gf": 43,
-                "gc": 39,
-                "dg": 4
             },
             {
                 "posicion": "12",
@@ -3244,13 +3244,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2173.png",
                 "equipo": "Nantes",
                 "puntos": "30",
-                "pj": "28",
+                "pj": "29",
                 "pg": "7",
                 "pe": "9",
-                "pp": "12",
-                "gf": 33,
-                "gc": 47,
-                "dg": -14
+                "pp": "13",
+                "gf": 34,
+                "gc": 49,
+                "dg": -15
             },
             {
                 "posicion": "14",
@@ -3295,27 +3295,27 @@
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/1372.png",
                 "equipo": "Saint Etienne",
-                "puntos": "21",
-                "pj": "28",
-                "pg": "5",
+                "puntos": "24",
+                "pj": "29",
+                "pg": "6",
                 "pe": "6",
                 "pp": "17",
-                "gf": 29,
+                "gf": 31,
                 "gc": 67,
-                "dg": -38
+                "dg": -36
             },
             {
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/1728.png",
                 "equipo": "Montpellier",
                 "puntos": "15",
-                "pj": "28",
+                "pj": "29",
                 "pg": "4",
                 "pe": "3",
-                "pp": "21",
+                "pp": "22",
                 "gf": 21,
-                "gc": 64,
-                "dg": -43
+                "gc": 66,
+                "dg": -45
             }
         ],
         "goleadores": [

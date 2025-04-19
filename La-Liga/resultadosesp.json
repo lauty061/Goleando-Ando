@@ -3103,12 +3103,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "18/04/2025 16:00 HS",
+                "fecha": "18/04/2025 16:00 HS Finalizado",
                 "local": "ESP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/34.png",
                 "visitante": "GET",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/24.png"
             },
             {
@@ -3938,16 +3938,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/24.png",
                 "equipo": "Getafe",
                 "puntos": "39",
-                "pj": "31",
+                "pj": "32",
                 "pg": "10",
                 "pe": "9",
-                "pp": "12",
+                "pp": "13",
                 "gf": 31,
-                "gc": 28,
-                "dg": 3
+                "gc": 29,
+                "dg": 2
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/34.png",
+                "equipo": "Espanyol",
+                "puntos": "38",
+                "pj": "31",
+                "pg": "10",
+                "pe": "8",
+                "pp": "13",
+                "gf": 34,
+                "gc": 40,
+                "dg": -6
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/37.png",
                 "equipo": "Osasuna",
                 "puntos": "38",
@@ -3960,7 +3973,7 @@
                 "dg": -8
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/42.png",
                 "equipo": "Valencia",
                 "puntos": "37",
@@ -3973,7 +3986,7 @@
                 "dg": -12
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/41.png",
                 "equipo": "Sevilla",
                 "puntos": "36",
@@ -3984,19 +3997,6 @@
                 "gf": 34,
                 "gc": 42,
                 "dg": -8
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/34.png",
-                "equipo": "Espanyol",
-                "puntos": "35",
-                "pj": "30",
-                "pg": "9",
-                "pe": "8",
-                "pp": "13",
-                "gf": 33,
-                "gc": 40,
-                "dg": -7
             },
             {
                 "posicion": "16",
