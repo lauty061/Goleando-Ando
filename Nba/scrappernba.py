@@ -114,14 +114,45 @@ ligas = {
     },
 }
 
-datos = {}
-for liga, urls in ligas.items():
-    print(f"📌 Obteniendo datos de {liga}...")
-    datos[liga] = obtener_fixture_y_tabla(urls["fixture"], urls["tabla"], liga)
-
 carpeta_destino = r"C:\\Users\\Usuario\\Desktop\\nueva carpeta(7)\\Pagina Futbol\\NBA"
 os.makedirs(carpeta_destino, exist_ok=True)
 ruta_archivo = os.path.join(carpeta_destino, "resultadosnba.json")
+
+# Cargar datos existentes si existen
+if os.path.exists(ruta_archivo):
+    with open(ruta_archivo, "r", encoding="utf-8") as f:
+        datos = json.load(f)
+else:
+    datos = {}
+
+# Scraping y merge
+for liga, urls in ligas.items():
+    print(f"📌 Obteniendo datos de {liga}...")
+    nuevos_datos = obtener_fixture_y_tabla(urls["fixture"], urls["tabla"], liga)
+    if not nuevos_datos:
+        continue
+
+    prev_fixture = datos.get(liga, {}).get("fixture", [])
+    nuevo_fixture = nuevos_datos.get("fixture", [])
+
+    fixture_dict = {f"{p['fecha']}|{p['local']}|{p['visitante']}": p for p in prev_fixture}
+
+    for partido in nuevo_fixture:
+        key = f"{partido['fecha']}|{partido['local']}|{partido['visitante']}"
+        if key in fixture_dict:
+            old = fixture_dict[key]
+            if (partido['goles_local'], partido['goles_visita']) != (old['goles_local'], old['goles_visita']):
+                fixture_dict[key] = partido  # actualizar goles
+        else:
+            fixture_dict[key] = partido  # nuevo partido
+
+    datos[liga] = {
+        "fixture": list(fixture_dict.values()),
+        "tabla_posiciones": nuevos_datos.get("tabla_posiciones", {})
+    }
+
+# Guardar actualizado
 with open(ruta_archivo, "w", encoding="utf-8") as f:
     json.dump(datos, f, ensure_ascii=False, indent=4)
+
 print(f"✅ Scraping completado. Datos guardados en '{ruta_archivo}'.")

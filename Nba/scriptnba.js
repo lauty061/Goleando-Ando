@@ -10,11 +10,19 @@ document.addEventListener("DOMContentLoaded", async function () {
     let conferencias = Object.keys(tablaData);
     conferenciaSelect.innerHTML = conferencias.map(c => `<option value="${c}">${c}</option>`).join("");
 
-    mostrarPartidos(fixtureData);
+    const rondas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
+    const rondaSelect = document.getElementById("ronda-select");
+    rondaSelect.innerHTML = rondas.map(r => `<option value="${r}">${r}</option>`).join("");
+
+    mostrarPartidos(fixtureData, rondas[0]);
     mostrarTablaPosiciones(tablaData[conferencias[0]]);
 
     conferenciaSelect.addEventListener("change", function () {
         mostrarTablaPosiciones(tablaData[this.value]);
+    });
+
+    rondaSelect.addEventListener("change", function () {
+        mostrarPartidos(fixtureData, this.value);
     });
 });
 
@@ -30,7 +38,7 @@ async function obtenerDatosLiga(liga) {
     }
 }
 
-function mostrarPartidos(fixtureData) {
+function mostrarPartidos(fixtureData, rondaSeleccionada) {
     let fixtureTable = document.getElementById("fixture-table");
     fixtureTable.innerHTML = `
         <tr>
@@ -43,12 +51,14 @@ function mostrarPartidos(fixtureData) {
         </tr>
     `;
 
-    if (!fixtureData.length) {
+    const partidos = fixtureData.filter(p => p.fecha_torneo === rondaSeleccionada);
+
+    if (!partidos.length) {
         fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos disponibles</td></tr>`;
         return;
     }
 
-    fixtureData.forEach(p => {
+    partidos.forEach(p => {
         fixtureTable.innerHTML += `
             <tr>
                 <td>${p.fecha}</td>
