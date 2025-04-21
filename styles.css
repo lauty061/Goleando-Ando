@@ -26,6 +26,8 @@ header{
     align-items: center;
     padding: 20px;
 }
+
+/*=========================NAV============================= */
 .nav-menu {
     display: flex;
     align-items: center;
@@ -79,6 +81,76 @@ header{
 .dropdown.open .dropdown-menu {
     display: block;
 }
+
+.hamburger {
+    display: none;
+    background: none;
+    color: var(--text-color);
+    font-size: 2rem;
+    border: none;
+    cursor: pointer;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 70%;
+    height: 100vh;
+    background: var(--background-color);
+    color: var(--text-color);
+    padding: 20px;
+    z-index: 1000;
+    transition: right 0.3s ease;
+    overflow-y: auto;
+}
+.sidebar.open {
+    right: 0;
+}
+.close-btn {
+    background: none;
+    color: var(--text-color);
+    font-size: 2rem;
+    border: none;
+    float: right;
+    cursor: pointer;
+}
+.sidebar-menu,
+.sidebar-submenu {
+    list-style: none;
+    padding: 0;
+}
+.sidebar-menu > li {
+    margin: 20px 0;
+}
+.sidebar-menu button {
+    background: none;
+    border: none;
+    color: var(--text-color);
+    font-size: 1.2rem;
+    cursor: pointer;
+    text-align: left;
+    width: 100%;
+}
+.sidebar-submenu {
+    display: none;
+    padding-left: 15px;
+}
+.sidebar-dropdown.open .sidebar-submenu {
+    display: block;
+}
+
+@media (max-width: 767px) {
+    .hamburger {
+        display: block;
+        align-self: flex-end;
+    }
+    nav {
+        display: none;
+    }
+}
+
+/*=========================MAIN============================= */
   
 h1 {
     text-align: center;
@@ -223,7 +295,7 @@ select {
     text-align: center;
     font-size: 1rem;
 }
-/*celulares*/
+/*===================MOBILE RESPONSIVE=================*/
 @media (max-width: 767px) {
     header{
         flex-direction: column;
@@ -273,7 +345,7 @@ select {
     }
 
 }
-/* tablets y laptop*/
+/*==================TABLET RESPONSIVE================== */
 @media (min-width: 768px) and (max-width: 1024px) {
     nav ul {
         gap: 20px;
@@ -287,3 +359,28 @@ select {
     }
 }
 
+/* Scrollbar para navegadores WebKit (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: var(--background-color); /* Fondo oscuro */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: var(--primary-accent-color);
+    border-radius: 10px;
+    border: 2px solid var(--background-color);
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #70d8f7;
+  }
+  
+  /* Scrollbar para Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary-accent-color) var(--background-color);
+  }
+  
