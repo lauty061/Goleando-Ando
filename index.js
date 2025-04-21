@@ -9,7 +9,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         "Champions League": "Champions/resultadoscha.json",
         "Uefa Europa League": "Europa-League/resultadoseu.json",
         "Eliminatorias Conmebol": "Eliminatorias/resultadoseli.json",
-        "Copa Libertadores": "Libertadores/resultadoslib.json"
+        "Copa Libertadores": "Libertadores/resultadoslib.json",
+        "Primera B Nacional": "Primera-Nacional/resultadosbna.json"
     };
     
     const contenedor = document.querySelector(".resumen-ligas");
