@@ -3223,7 +3223,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "19/04/2025 15:45 HS Primer Tiempo",
+                "fecha": "19/04/2025 15:45 HS Finalizado",
                 "local": "ROM",
                 "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/61.png",
@@ -3233,32 +3233,32 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2025 10:00 HS",
+                "fecha": "20/04/2025 10:00 HS Finalizado",
                 "local": "EMP",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/164.png",
                 "visitante": "VEN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7232.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2025 13:00 HS",
+                "fecha": "20/04/2025 13:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/46.png",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/51.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2025 15:45 HS",
+                "fecha": "20/04/2025 15:45 HS Finalizado",
                 "local": "MIL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/57.png",
                 "visitante": "ATA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/45.png"
             },
             {
@@ -3808,13 +3808,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
                 "equipo": "Inter",
                 "puntos": "71",
-                "pj": "32",
+                "pj": "33",
                 "pg": "21",
                 "pe": "8",
-                "pp": "3",
+                "pp": "4",
                 "gf": 72,
-                "gc": 31,
-                "dg": 41
+                "gc": 32,
+                "dg": 40
             },
             {
                 "posicion": "2",
@@ -3833,17 +3833,30 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png",
                 "equipo": "Atalanta",
-                "puntos": "61",
-                "pj": "32",
-                "pg": "18",
+                "puntos": "64",
+                "pj": "33",
+                "pg": "19",
                 "pe": "7",
                 "pp": "7",
-                "gf": 65,
+                "gf": 66,
                 "gc": 30,
-                "dg": 35
+                "dg": 36
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/46.png",
+                "equipo": "Bologna",
+                "puntos": "60",
+                "pj": "33",
+                "pg": "16",
+                "pe": "12",
+                "pp": "5",
+                "gf": 52,
+                "gc": 37,
+                "dg": 15
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/52.png",
                 "equipo": "Juventus",
                 "puntos": "59",
@@ -3856,20 +3869,20 @@
                 "dg": 19
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/46.png",
-                "equipo": "Bologna",
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
+                "equipo": "Roma",
                 "puntos": "57",
-                "pj": "32",
-                "pg": "15",
-                "pe": "12",
-                "pp": "5",
-                "gf": 51,
-                "gc": 37,
-                "dg": 14
+                "pj": "33",
+                "pg": "16",
+                "pe": "9",
+                "pp": "8",
+                "gf": 48,
+                "gc": 32,
+                "dg": 16
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/53.png",
                 "equipo": "Lazio",
                 "puntos": "56",
@@ -3880,19 +3893,6 @@
                 "gf": 53,
                 "gc": 43,
                 "dg": 10
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
-                "equipo": "Roma",
-                "puntos": "54",
-                "pj": "32",
-                "pg": "15",
-                "pe": "9",
-                "pp": "8",
-                "gf": 47,
-                "gc": 32,
-                "dg": 15
             },
             {
                 "posicion": "8",
@@ -3912,13 +3912,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/57.png",
                 "equipo": "Milan",
                 "puntos": "51",
-                "pj": "32",
+                "pj": "33",
                 "pg": "14",
                 "pe": "9",
-                "pp": "9",
+                "pp": "10",
                 "gf": 51,
-                "gc": 37,
-                "dg": 14
+                "gc": 38,
+                "dg": 13
             },
             {
                 "posicion": "10",
@@ -3977,13 +3977,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/4060.png",
                 "equipo": "Hellas Verona",
                 "puntos": "32",
-                "pj": "32",
+                "pj": "33",
                 "pg": "9",
                 "pe": "5",
-                "pp": "18",
+                "pp": "19",
                 "gf": 30,
-                "gc": 59,
-                "dg": -29
+                "gc": 60,
+                "dg": -30
             },
             {
                 "posicion": "15",
@@ -4028,26 +4028,26 @@
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/7232.png",
                 "equipo": "Venezia",
-                "puntos": "24",
-                "pj": "32",
+                "puntos": "25",
+                "pj": "33",
                 "pg": "4",
-                "pe": "12",
+                "pe": "13",
                 "pp": "16",
-                "gf": 25,
-                "gc": 44,
+                "gf": 27,
+                "gc": 46,
                 "dg": -19
             },
             {
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/164.png",
                 "equipo": "Empoli",
-                "puntos": "24",
-                "pj": "32",
+                "puntos": "25",
+                "pj": "33",
                 "pg": "4",
-                "pe": "12",
+                "pe": "13",
                 "pp": "16",
-                "gf": 24,
-                "gc": 50,
+                "gf": 26,
+                "gc": 52,
                 "dg": -26
             },
             {
@@ -4102,15 +4102,15 @@
                 "goles": 12
             },
             {
-                "nombre": "Artem Dovbyk",
-                "equipo": "Roma",
-                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
-                "goles": 11
-            },
-            {
                 "nombre": "Riccardo Orsolini",
                 "equipo": "Bologna",
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png",
+                "goles": 12
+            },
+            {
+                "nombre": "Artem Dovbyk",
+                "equipo": "Roma",
+                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
                 "goles": 11
             },
             {

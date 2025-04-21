@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const ligas = {
         "Bundesliga": "Bundesliga/resultadosale.json",
         "Premier League": "Premier/resultadosing.json",
-        "LaLiga": "La-Liga/resultadosesp.json",
+        "La Liga": "La-Liga/resultadosesp.json",
         "Serie A": "Liga-Italia/resultadosita.json",
         "Ligue 1": "Ligue-1/resultadosfra.json",
         "Liga Argentina": "Liga-Argentina/resultadosarg.json",

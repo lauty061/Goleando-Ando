@@ -2673,32 +2673,32 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2025 10:30 HS",
+                "fecha": "20/04/2025 10:30 HS Finalizado",
                 "local": "AUG",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3305.png",
                 "visitante": "FRA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/708.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2025 12:30 HS",
+                "fecha": "20/04/2025 12:30 HS Finalizado",
                 "local": "DOR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/707.png",
                 "visitante": "BMG",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1259.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2025 14:30 HS",
+                "fecha": "20/04/2025 14:30 HS Finalizado",
                 "local": "STP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3003.png",
                 "visitante": "B04",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/706.png"
             },
             {
@@ -3100,23 +3100,23 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png",
                 "equipo": "Bayer Leverkusen",
-                "puntos": "63",
-                "pj": "29",
+                "puntos": "64",
+                "pj": "30",
                 "pg": "18",
-                "pe": "9",
+                "pe": "10",
                 "pp": "2",
-                "gf": 63,
-                "gc": 34,
+                "gf": 64,
+                "gc": 35,
                 "dg": 29
             },
             {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png",
                 "equipo": "E. Frankfurt",
-                "puntos": "51",
-                "pj": "29",
+                "puntos": "52",
+                "pj": "30",
                 "pg": "15",
-                "pe": "6",
+                "pe": "7",
                 "pp": "8",
                 "gf": 58,
                 "gc": 42,
@@ -3163,6 +3163,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/707.png",
+                "equipo": "Borussia Dortmund",
+                "puntos": "45",
+                "pj": "30",
+                "pg": "13",
+                "pe": "6",
+                "pp": "11",
+                "gf": 57,
+                "gc": 47,
+                "dg": 10
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/721.png",
                 "equipo": "Werder Bremen",
                 "puntos": "45",
@@ -3175,39 +3188,26 @@
                 "dg": -6
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1259.png",
                 "equipo": "Borussia M.",
                 "puntos": "44",
-                "pj": "29",
+                "pj": "30",
                 "pg": "13",
                 "pe": "5",
-                "pp": "11",
-                "gf": 46,
-                "gc": 43,
-                "dg": 3
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/707.png",
-                "equipo": "Borussia Dortmund",
-                "puntos": "42",
-                "pj": "29",
-                "pg": "12",
-                "pe": "6",
-                "pp": "11",
-                "gf": 54,
-                "gc": 45,
-                "dg": 9
+                "pp": "12",
+                "gf": 48,
+                "gc": 46,
+                "dg": 2
             },
             {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/3305.png",
                 "equipo": "Augsburg",
-                "puntos": "42",
-                "pj": "29",
+                "puntos": "43",
+                "pj": "30",
                 "pg": "11",
-                "pe": "9",
+                "pe": "10",
                 "pp": "9",
                 "gf": 33,
                 "gc": 40,
@@ -3254,6 +3254,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/3003.png",
+                "equipo": "FC St. Pauli",
+                "puntos": "30",
+                "pj": "30",
+                "pg": "8",
+                "pe": "6",
+                "pp": "16",
+                "gf": 26,
+                "gc": 36,
+                "dg": -10
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1260.png",
                 "equipo": "Hoffenheim",
                 "puntos": "30",
@@ -3264,19 +3277,6 @@
                 "gf": 38,
                 "gc": 55,
                 "dg": -17
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/3003.png",
-                "equipo": "FC St. Pauli",
-                "puntos": "29",
-                "pj": "29",
-                "pg": "8",
-                "pe": "5",
-                "pp": "16",
-                "gf": 25,
-                "gc": 35,
-                "dg": -10
             },
             {
                 "posicion": "16",
@@ -3329,7 +3329,13 @@
                 "nombre": "Patrik Schick",
                 "equipo": "Bayer Leverkusen",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png",
-                "goles": 17
+                "goles": 18
+            },
+            {
+                "nombre": "Serhou Guirassy",
+                "equipo": "Borussia Dortmund",
+                "escudo": "https://statics-files.tycsports.com/escudos/707.png",
+                "goles": 16
             },
             {
                 "nombre": "Tim Kleindienst",
@@ -3347,12 +3353,6 @@
                 "nombre": "Omar Marmoush",
                 "equipo": "Eintracht Frankfurt",
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png",
-                "goles": 15
-            },
-            {
-                "nombre": "Serhou Guirassy",
-                "equipo": "Borussia Dortmund",
-                "escudo": "https://statics-files.tycsports.com/escudos/707.png",
                 "goles": 15
             },
             {
