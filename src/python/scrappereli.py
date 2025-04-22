@@ -24,7 +24,7 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
     for elemento in soup.find_all(["h2", "div"], class_=["titulo", "partido"]):
         if elemento.name == "h2" and "Jornada" in elemento.text:
             jornada_actual = elemento.text.strip()
-        elif elemento.name == "div" and "partido" in elemento["class"]:
+        elif elemento.name == "div" and "partido" in elemento.get("class", []):
             try:
                 equipo_local = fix_encoding(elemento.find_all("span", class_="partido-name")[0].text.strip())
                 equipo_visita = fix_encoding(elemento.find_all("span", class_="partido-name")[1].text.strip())
@@ -103,7 +103,7 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
                     nombre = fix_encoding(columnas[0].text.strip())
                     img_tag = columnas[1].find("img")
                     escudo = img_tag.get("data-src") or img_tag.get("src", "")
-                    equipo = fix_encoding(img_tag.get("alt", ""))
+                    equipo = fix_encoding(img_tag.get("alt", "")) if img_tag else ""
                     goles = int(columnas[2].text.strip())
                     goleadores.append({
                         "nombre": nombre,

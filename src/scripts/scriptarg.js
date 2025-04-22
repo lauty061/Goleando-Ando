@@ -29,14 +29,14 @@ document.addEventListener("DOMContentLoaded", async function () {
         "Fecha 16": ["2025-05-04", "2025-05-04"]
     };
 
-
     let fechaSelect = document.getElementById("fecha-select");
     fechaSelect.innerHTML = Object.keys(fechasTorneo)
         .map(fecha => `<option value="${fecha}">${fecha}: del ${fechasTorneo[fecha][0]} al ${fechasTorneo[fecha][1]}</option>`)
         .join("");
 
     mostrarPartidos(fixtureData, "Fecha 1", fechasTorneo);
-    mostrarTablaPosiciones(tablaPosicionesData);
+    let zonasUnicas = [...new Set(tablaPosicionesData.map(e => e.zona))];
+    crearSelectorGrupos(zonasUnicas, tablaPosicionesData);
     mostrarGoleadores(goleadoresData);
 
     fechaSelect.addEventListener("change", function () {
@@ -106,29 +106,40 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
     });
 }
 
-function mostrarTablaPosiciones(tablaData) {
+function crearSelectorGrupos(gruposDisponibles, tablaData) {
+    const selector = document.getElementById("grupo-select");
+    selector.innerHTML = `<option value="todos">Todos los grupos</option>` +
+        gruposDisponibles.map(z => `<option value="${z}">${z}</option>`).join("");
+
+    selector.addEventListener("change", function () {
+        mostrarTablaPorGrupo(tablaData, this.value);
+    });
+
+    mostrarTablaPorGrupo(tablaData, selector.value);
+}
+
+function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
     const container = document.getElementById("tabla-posiciones-table");
     if (!tablaData || tablaData.length === 0) {
         container.innerHTML = "<p>No hay datos disponibles</p>";
         return;
     }
 
-    const zonas = tablaData.reduce((acc, equipo) => {
-        const zona = equipo.zona || "Sin zona";
-        if (!acc[zona]) acc[zona] = [];
-        acc[zona].push(equipo);
+    let dataAgrupada = tablaData.reduce((acc, equipo) => {
+        const grupo = equipo.zona || "Sin grupo";
+        if (!acc[grupo]) acc[grupo] = [];
+        acc[grupo].push(equipo);
         return acc;
     }, {});
-    const zonasOrdenadas = Object.keys(zonas).sort((a, b) => {
-        if (a === "Zona A") return -1;
-        if (b === "Zona A") return 1;
-        return a.localeCompare(b);
-    });
+
+    const gruposOrdenados = Object.keys(dataAgrupada).sort((a, b) => a.localeCompare(b));
     container.innerHTML = "";
-    zonasOrdenadas.forEach(zona => {
-        const equipos = zonas[zona];
+
+    gruposOrdenados.forEach(grupo => {
+        if (grupoSeleccionado !== "todos" && grupo !== grupoSeleccionado) return;
+        const equipos = dataAgrupada[grupo];
         let html = `
-            <h3>${zona}</h3>
+            <h3>${grupo}</h3>
             <table class="stats-table">
                 <thead>
                     <tr>
@@ -145,8 +156,9 @@ function mostrarTablaPosiciones(tablaData) {
                         <th>DG</th>
                     </tr>
                 </thead>
-                <tbody>`;
-        
+                <tbody>
+        `;
+
         equipos.forEach(equipo => {
             html += `
                 <tr>
