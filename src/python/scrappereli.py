@@ -10,7 +10,7 @@ def fix_encoding(text):
         return text
 
 def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga):
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
 
     # Fixture
     response = requests.get(url_fixture, headers=headers)
@@ -133,7 +133,7 @@ for liga, urls in ligas.items():
     print(f"📌 Obteniendo datos de {liga}...")
     datos[liga] = obtener_fixture_y_tabla(urls["fixture"], urls["tabla"], urls["goleadores"], liga)
 
-carpeta_destino = r"C:\\Users\\Usuario\\Desktop\\nueva carpeta(7)\\Pagina Futbol\\Eliminatorias"
+carpeta_destino = r"C:\\Users\\Usuario\\Desktop\\nueva carpeta(7)\\Pagina Futbol\\src\\JSONs"
 os.makedirs(carpeta_destino, exist_ok=True)
 ruta_archivo = os.path.join(carpeta_destino, "resultadoseli.json")
 with open(ruta_archivo, "w", encoding="utf-8") as f:

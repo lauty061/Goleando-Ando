@@ -1,16 +1,16 @@
 document.addEventListener("DOMContentLoaded", async () => {
     const ligas = {
-        "Bundesliga": "Bundesliga/resultadosale.json",
-        "Premier League": "Premier/resultadosing.json",
-        "La Liga": "La-Liga/resultadosesp.json",
-        "Serie A": "Liga-Italia/resultadosita.json",
-        "Ligue 1": "Ligue-1/resultadosfra.json",
-        "Liga Argentina": "Liga-Argentina/resultadosarg.json",
-        "Champions League": "Champions/resultadoscha.json",
-        "Uefa Europa League": "Europa-League/resultadoseu.json",
-        "Eliminatorias Conmebol": "Eliminatorias/resultadoseli.json",
-        "Copa Libertadores": "Libertadores/resultadoslib.json",
-        "Primera B Nacional": "Primera-Nacional/resultadosbna.json"
+        "Bundesliga": "src/JSONs/resultadosale.json",
+        "Premier League": "src/JSONs/resultadosing.json",
+        "La Liga": "src/JSONs/resultadosesp.json",
+        "Serie A": "src/JSONs/resultadosita.json",
+        "Ligue 1": "src/JSONs/resultadosfra.json",
+        "Liga Argentina": "src/JSONs/resultadosarg.json",
+        "Champions League": "src/JSONs/resultadoscha.json",
+        "Uefa Europa League": "src/JSONs/resultadoseu.json",
+        "Eliminatorias Conmebol": "src/JSONs/resultadoseli.json",
+        "Copa Libertadores": "src/JSONs/resultadoslib.json",
+        "Primera B Nacional": "src/JSONs/resultadosbna.json"
     };
     
     const contenedor = document.querySelector(".resumen-ligas");

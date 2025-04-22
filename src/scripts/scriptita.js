@@ -68,7 +68,7 @@ let fechasTorneo = {
 
 async function obtenerDatosLiga(liga) {
     try {
-        let response = await fetch("resultadosita.json");
+        let response = await fetch("/src/JSONs/resultadosita.json");
         if (!response.ok) throw new Error("No se pudo cargar el archivo JSON");
         let data = await response.json();
         return data[liga] || null;
