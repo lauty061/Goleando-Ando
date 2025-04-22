@@ -1,7 +1,6 @@
 # Golenando Ando ⚽🔥
 
 **Golenando Ando** es una web que muestra resultados, tablas y fixtures actualizados de las principales ligas y competencias de fútbol, con datos extraídos automáticamente de TyC Sports mediante scraping.  
-Por ahora incluye las 5 grandes ligas europeas, la Liga Argentina, Champions League, Copa Libertadores y Europa League.
 
 Este proyecto fue desarrollado usando **HTML, CSS, JavaScript y Python**.
 
@@ -17,9 +16,11 @@ Este proyecto fue desarrollado usando **HTML, CSS, JavaScript y Python**.
 - 🇩🇪 Bundesliga (Alemania)
 - 🌍 UEFA Champions League
 - 🌎 Copa Libertadores
+- 🌎 Copa Sudamericana
 - 🌍 UEFA Europa League
+- 🇺🇸 NBA
 
-> En futuras versiones se agregarán más torneos internacionales, ligas de otros países y secciones de otros deportes como la **NBA** 🏀.
+> En futuras versiones se agregarán más torneos internacionales, ligas de otros países y secciones de otros deportes.
 
 ---
 
