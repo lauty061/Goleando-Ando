@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+:root{
+    --background-color: #00033F;
+    --primary-accent-color: #4BC6EF; 
+    --text-color: #FFFFFF;
+    --hover-color: #1A1C4D;
+}
+body {
+    font-family: 'Inter';
+    background-color: var(--background-color);
+    background-image: url('../../assets/imgs/background.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+/*=========================NAV============================= */
+.nav-menu {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    list-style: none;
+    display: flex;
+    gap: 12px;
+}
+  
+.nav-menu li {
+    position: relative;
+    font-family: Rubik;
+    font-weight: 400;
+    font-size: 20px;   
+}
+  
+.nav-menu a, .dropdown-toggle {
+    color: var(--text-color);
+    background: none;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+  
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--background-color);
+    padding: 0;
+    margin: 0;
+    min-width: 180px;
+    z-index: 100;
+    list-style: none;
+}
+  
+.dropdown-menu li a {
+    display: block;
+    padding: 10px;
+    color: var(--text-color);
+    border-bottom: 1px solid var(--primary-accent-color);
+}
+  
+.dropdown-menu li a:hover {
+    background: var(--hover-color);
+}
+  
+.dropdown.open .dropdown-menu {
+    display: block;
+}
+
+.hamburger {
+    display: none;
+    background: none;
+    color: var(--text-color);
+    font-size: 2rem;
+    border: none;
+    cursor: pointer;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 70%;
+    height: 100vh;
+    background: var(--background-color);
+    color: var(--text-color);
+    font-family: Rubik;
+    padding: 20px;
+    z-index: 1000;
+    transition: right 0.3s ease;
+    overflow-y: auto;
+}
+.sidebar.open {
+    right: 0;
+}
+.close-btn {
+    background: none;
+    color: var(--text-color);
+    font-family: Rubik;
+    font-size: 2rem;
+    border: none;
+    float: right;
+    cursor: pointer;
+}
+.sidebar-menu,
+.sidebar-submenu {
+    list-style: none;
+    padding: 0;
+}
+.sidebar-menu > li {
+    margin: 20px 0;
+}
+.sidebar-menu button {
+    background: none;
+    border: none;
+    color: var(--text-color);
+    font-family: Rubik;
+    font-size: 1.2rem;
+    cursor: pointer;
+    text-align: left;
+    width: 100%;
+}
+.sidebar-submenu {
+    display: none;
+    padding: 15px;
+}
+.sidebar-dropdown.open .sidebar-submenu {
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

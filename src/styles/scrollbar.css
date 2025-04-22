@@ -1,0 +1,24 @@
+/* Scrollbar para navegadores WebKit (Chrome, Edge, Safari) */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--background-color); /* Fondo oscuro */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--primary-accent-color);
+    border-radius: 10px;
+    border: 2px solid var(--background-color);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #70d8f7;
+}
+
+/* Scrollbar para Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary-accent-color) var(--background-color);
+}

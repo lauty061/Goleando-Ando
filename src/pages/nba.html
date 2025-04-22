@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoleandoAndo - NBA</title>
+    <link rel="shortcut icon" href="../../assets/imgs/logo-nba-256.png">
+    <link rel="stylesheet" href="../styles/styles.css">
+    <link rel="stylesheet" href="../styles/mainSection.css">
+    <link rel="stylesheet" href="../styles/responsive.css">
+    <link rel="stylesheet" href="../styles/scrollbar.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <meta property="og:title" content="Golenando Ando ⚽🔥">
+    <meta property="og:description" content="Resultados, tablas y fixtures actualizados de las principales ligas y competencias de fútbol.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/lauty061/Goleando-Ando/refs/heads/main/imgs/metaIcon.png">
+    <meta property="og:type" content="website">
+</head>
+<body class="fondo">
+    <header>
+        <img src="../../assets/imgs/headerLogo.png" alt="" height="50" style="cursor: pointer;" onclick="window.location.href = '../../index.html';">
+    
+        <!-- Botón hamburguesa para móviles -->
+        <button class="hamburger" id="hamburger-btn">☰</button>
+    
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="../../index.html"><strong>Inicio</strong></a></li>
+                <li class="dropdown">
+                    <button class="dropdown-toggle">Ligas</button>
+                    <ul class="dropdown-menu">
+                        <li><a href="liga-argentina.html">Liga Argentina</a></li>
+                        <li><a href="liga-italiana.html">Serie A</a></li>
+                        <li><a href="liga-espanola.html">LaLiga</a></li>
+                        <li><a href="liga-inglesa.html">Premier League</a></li>
+                        <li><a href="liga-alemana.html">Bundesliga</a></li>
+                        <li><a href="liga-francia.html">Ligue 1</a></li>
+                        <li><a href="b-nacional.html">Primera Nacional</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <button class="dropdown-toggle">Competiciones</button>
+                    <ul class="dropdown-menu">
+                        <li><a href="champions.html">Champions League</a></li>
+                        <li><a href="europa-league.html">Europa League</a></li>
+                        <li><a href="libertadores.html">Copa Libertadores</a></li>
+                        <li><a href="eliminatorias.html">Eliminatorias Conmebol</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <button class="dropdown-toggle">Otros Deportes</button>
+                    <ul class="dropdown-menu">
+                        <li><a href="nba.html">NBA</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    
+        <!-- Sidebar para móviles -->
+        <div class="sidebar" id="sidebar">
+            <button class="close-btn" id="close-sidebar">×</button>
+            <ul class="sidebar-menu">
+                <li><a href="../../index.html"><strong>Inicio</strong></a></li>
+                <li class="sidebar-dropdown">
+                    <button>Ligas</button>
+                    <ul class="sidebar-submenu">
+                        <li><a href="liga-argentina.html">Liga Argentina</a></li>
+                        <li><a href="liga-italiana.html">Serie A</a></li>
+                        <li><a href="liga-espanola.html">LaLiga</a></li>
+                        <li><a href="liga-inglesa.html">Premier League</a></li>
+                        <li><a href="liga-alemana.html">Bundesliga</a></li>
+                        <li><a href="liga-francia.html">Ligue 1</a></li>
+                        <li><a href="b-nacional.html">Primera Nacional</a></li>
+                    </ul>
+                </li>
+                <li class="sidebar-dropdown">
+                    <button>Competiciones</button>
+                    <ul class="sidebar-submenu">
+                        <li><a href="champions.html">Champions League</a></li>
+                        <li><a href="europa-league.html">Europa League</a></li>
+                        <li><a href="libertadores.html">Copa Libertadores</a></li>
+                        <li><a href="eliminatorias.html">Eliminatorias Conmebol</a></li>
+                    </ul>
+                </li>
+                <li class="sidebar-dropdown">
+                    <button>Otros Deportes</button>
+                    <ul class="sidebar-submenu">
+                        <li><a href="nba.html">NBA</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </header>
+    <a id="ancla"></a>
+    <div class="liga-banner">
+        <h1 id="titulo-liga">NBA</h1>
+        <img class="logo" src="../../assets/imgs/logo-nba-256.png">
+    </div>
+    <main>
+        <section id="fixture">
+            <h2>Fixture</h2>
+            <label for="ronda-select">Seleccionar Ronda:</label>
+            <select id="ronda-select"></select>
+            <table id="fixture-table"></table>
+        </section>
+        <section id="posiciones">
+            <h2>Tabla de Posiciones</h2>
+            <label for="conferencia-select">Seleccionar Conferencia:</label>
+            <select id="conferencia-select"></select>
+            <div class="scrollable-table">
+                <table id="tabla-posiciones-table"></table>
+            </div>
+        </section>
+        <a href="#ancla" class="boton-inicio">⇧</a>
+    </main>
+    <script src="../scripts/scriptnba.js"></script>
+    <script src="../scripts/navScript.js"></script>
+</body>
+</html>
