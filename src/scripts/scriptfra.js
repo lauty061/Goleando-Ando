@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 async function obtenerDatosLiga(liga) {
     try {
-        let response = await fetch("/src/JSONs/resultadosfra.json");
+        let response = await fetch("../JSONs/resultadosfra.json");
         if (!response.ok) throw new Error("No se pudo cargar el archivo JSON");
         let data = await response.json();
         return data[liga] || null;
