@@ -3223,22 +3223,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/04/2025 14:00 HS",
+                "fecha": "23/04/2025 14:00 HS Finalizado",
                 "local": "ATH",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/30.png",
                 "visitante": "LPA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4058.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/04/2025 14:00 HS",
+                "fecha": "23/04/2025 14:00 HS Finalizado",
                 "local": "CEL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/162.png",
                 "visitante": "VIL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/43.png"
             },
             {
@@ -3846,27 +3846,27 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/30.png",
                 "equipo": "Athletic Bilbao",
-                "puntos": "57",
-                "pj": "32",
-                "pg": "15",
+                "puntos": "60",
+                "pj": "33",
+                "pg": "16",
                 "pe": "12",
                 "pp": "5",
-                "gf": 49,
+                "gf": 50,
                 "gc": 26,
-                "dg": 23
+                "dg": 24
             },
             {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/43.png",
                 "equipo": "Villarreal",
                 "puntos": "52",
-                "pj": "31",
+                "pj": "32",
                 "pg": "14",
                 "pe": "10",
-                "pp": "7",
+                "pp": "8",
                 "gf": 55,
-                "gc": 42,
-                "dg": 13
+                "gc": 45,
+                "dg": 10
             },
             {
                 "posicion": "6",
@@ -3883,6 +3883,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/162.png",
+                "equipo": "Celta",
+                "puntos": "46",
+                "pj": "33",
+                "pg": "13",
+                "pe": "7",
+                "pp": "13",
+                "gf": 50,
+                "gc": 49,
+                "dg": 1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/36.png",
                 "equipo": "Mallorca",
                 "puntos": "44",
@@ -3893,19 +3906,6 @@
                 "gf": 31,
                 "gc": 38,
                 "dg": -7
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/162.png",
-                "equipo": "Celta",
-                "puntos": "43",
-                "pj": "32",
-                "pg": "12",
-                "pe": "7",
-                "pp": "13",
-                "gf": 47,
-                "gc": 49,
-                "dg": -2
             },
             {
                 "posicion": "9",
@@ -4016,13 +4016,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/4058.png",
                 "equipo": "UD Las Palmas",
                 "puntos": "32",
-                "pj": "32",
+                "pj": "33",
                 "pg": "8",
                 "pe": "8",
-                "pp": "16",
+                "pp": "17",
                 "gf": 38,
-                "gc": 52,
-                "dg": -14
+                "gc": 53,
+                "dg": -15
             },
             {
                 "posicion": "18",

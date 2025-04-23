@@ -145,9 +145,9 @@ function mostrarTablaPosiciones(tablaData, grupoSeleccionado = null) {
 
         equipos.forEach((e, index) => {
             let style = "";
-            if (index === 0 || index === 1) {
+            if (index === 0) {
                 style = ' style="background-color: #c8f7c5;"';
-            } else if (index === 2) {
+            } else if (index === 1) {
                 style = ' style="background-color: #b2ebf2;"';
             }
 
