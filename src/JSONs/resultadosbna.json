@@ -983,17 +983,17 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/04/2025 21:10 HS",
+                "fecha": "22/04/2025 21:10 HS Finalizado",
                 "local": "FCO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/131.png",
                 "visitante": "ATL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 13:30 HS",
+                "fecha": "26/04/2025 13:40 HS",
                 "local": "ATL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/670.png",
@@ -1020,6 +1020,16 @@
                 "visitante": "GUE",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1489.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "26/04/2025 18:00 HS",
+                "local": "MAD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/874.png",
+                "visitante": "MAI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/862.png"
             },
             {
                 "fecha_torneo": null,
@@ -1060,16 +1070,6 @@
                 "visitante": "FCO",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/131.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "27/04/2025 16:00 HS",
-                "local": "MAD",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/874.png",
-                "visitante": "MAI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/862.png"
             },
             {
                 "fecha_torneo": null,
@@ -4043,12 +4043,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/04/2025 17:10 HS",
+                "fecha": "22/04/2025 17:10 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/138.png",
                 "visitante": "TEM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/682.png"
             },
             {
@@ -4114,22 +4114,22 @@
             {
                 "fecha_torneo": null,
                 "fecha": "27/04/2025 17:00 HS",
-                "local": "CNO",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png",
-                "visitante": "GEJ",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/102.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "27/04/2025 17:00 HS",
                 "local": "MIT",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1890.png",
                 "visitante": "CHA",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/127.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "27/04/2025 18:30 HS",
+                "local": "CNO",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png",
+                "visitante": "GEJ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/102.png"
             },
             {
                 "fecha_torneo": null,
@@ -6366,26 +6366,26 @@
             {
                 "zona": "Zona A",
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/670.png",
+                "equipo": "Atlanta",
+                "puntos": "23",
+                "pj": "11",
+                "pg": "6",
+                "pe": "5",
+                "pp": "0",
+                "gf": 10,
+                "gc": 3,
+                "dg": 7
+            },
+            {
+                "zona": "Zona A",
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png",
                 "equipo": "San Martín (T)",
                 "puntos": "21",
                 "pj": "11",
                 "pg": "5",
                 "pe": "6",
-                "pp": "0",
-                "gf": 9,
-                "gc": 3,
-                "dg": 6
-            },
-            {
-                "zona": "Zona A",
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/670.png",
-                "equipo": "Atlanta",
-                "puntos": "20",
-                "pj": "10",
-                "pg": "5",
-                "pe": "5",
                 "pp": "0",
                 "gf": 9,
                 "gc": 3,
@@ -6453,13 +6453,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/131.png",
                 "equipo": "Ferro",
                 "puntos": "15",
-                "pj": "10",
+                "pj": "11",
                 "pg": "4",
                 "pe": "3",
-                "pp": "3",
+                "pp": "4",
                 "gf": 7,
-                "gc": 4,
-                "dg": 3
+                "gc": 5,
+                "dg": 2
             },
             {
                 "zona": "Zona A",
@@ -6690,10 +6690,10 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/138.png",
                 "equipo": "Def. de Belgrano",
-                "puntos": "17",
-                "pj": "10",
+                "puntos": "18",
+                "pj": "11",
                 "pg": "4",
-                "pe": "5",
+                "pe": "6",
                 "pp": "1",
                 "gf": 10,
                 "gc": 5,
@@ -6788,10 +6788,10 @@
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
-                "puntos": "13",
-                "pj": "10",
+                "puntos": "14",
+                "pj": "11",
                 "pg": "4",
-                "pe": "1",
+                "pe": "2",
                 "pp": "5",
                 "gf": 8,
                 "gc": 11,

@@ -3303,12 +3303,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/04/2025 16:00 HS",
+                "fecha": "22/04/2025 16:00 HS Finalizado",
                 "local": "MCI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/567.png",
                 "visitante": "ASV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/559.png"
             },
             {
@@ -3443,16 +3443,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "03/05/2025 11:00 HS",
-                "local": "WES",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/576.png",
-                "visitante": "TOT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/574.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "03/05/2025 13:30 HS",
                 "local": "ASL",
                 "goles_local": "-",
@@ -3483,6 +3473,16 @@
             },
             {
                 "fecha_torneo": null,
+                "fecha": "04/05/2025 10:00 HS",
+                "local": "WES",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/576.png",
+                "visitante": "TOT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/574.png"
+            },
+            {
+                "fecha_torneo": null,
                 "fecha": "04/05/2025 12:30 HS",
                 "local": "CHE",
                 "goles_local": "-",
@@ -3500,16 +3500,6 @@
                 "visitante": "NTF",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3295.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "10/05/2025 08:30 HS",
-                "local": "NEW",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/570.png",
-                "visitante": "CHE",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/563.png"
             },
             {
                 "fecha_torneo": null,
@@ -3534,32 +3524,12 @@
             {
                 "fecha_torneo": null,
                 "fecha": "10/05/2025 11:00 HS",
-                "local": "MAN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/568.png",
-                "visitante": "WES",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/576.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "10/05/2025 11:00 HS",
                 "local": "SOU",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3883.png",
                 "visitante": "MCI",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/567.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "10/05/2025 11:00 HS",
-                "local": "TOT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/574.png",
-                "visitante": "CRY",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/2183.png"
             },
             {
                 "fecha_torneo": null,
@@ -3583,6 +3553,26 @@
             },
             {
                 "fecha_torneo": null,
+                "fecha": "11/05/2025 08:00 HS",
+                "local": "NEW",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/570.png",
+                "visitante": "CHE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/563.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "11/05/2025 10:15 HS",
+                "local": "MAN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/568.png",
+                "visitante": "WES",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/576.png"
+            },
+            {
+                "fecha_torneo": null,
                 "fecha": "11/05/2025 10:15 HS",
                 "local": "NTF",
                 "goles_local": "-",
@@ -3590,6 +3580,16 @@
                 "visitante": "LEI",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3786.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "11/05/2025 10:15 HS",
+                "local": "TOT",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/574.png",
+                "visitante": "CRY",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/2183.png"
             },
             {
                 "fecha_torneo": null,
@@ -3831,6 +3831,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/567.png",
+                "equipo": "Manchester City",
+                "puntos": "61",
+                "pj": "34",
+                "pg": "18",
+                "pe": "7",
+                "pp": "9",
+                "gf": 66,
+                "gc": 43,
+                "dg": 23
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/3295.png",
                 "equipo": "Nottingham Forest",
                 "puntos": "60",
@@ -3843,7 +3856,7 @@
                 "dg": 14
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png",
                 "equipo": "Newcastle United",
                 "puntos": "59",
@@ -3854,19 +3867,6 @@
                 "gf": 62,
                 "gc": 44,
                 "dg": 18
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/567.png",
-                "equipo": "Manchester City",
-                "puntos": "58",
-                "pj": "33",
-                "pg": "17",
-                "pe": "7",
-                "pp": "9",
-                "gf": 64,
-                "gc": 42,
-                "dg": 22
             },
             {
                 "posicion": "6",
@@ -3886,13 +3886,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/559.png",
                 "equipo": "Aston Villa",
                 "puntos": "57",
-                "pj": "33",
+                "pj": "34",
                 "pg": "16",
                 "pe": "9",
-                "pp": "8",
-                "gf": 53,
-                "gc": 47,
-                "dg": 6
+                "pp": "9",
+                "gf": 54,
+                "gc": 49,
+                "dg": 5
             },
             {
                 "posicion": "8",

@@ -203,22 +203,22 @@
             },
             {
                 "grupo": "A",
-                "fecha": "22/04/2025 19:00 HS",
+                "fecha": "22/04/2025 19:00 HS Finalizado",
                 "local": "GUA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/115.png",
                 "visitante": "IND",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10.png"
             },
             {
                 "grupo": "A",
-                "fecha": "22/04/2025 19:00 HS",
+                "fecha": "22/04/2025 19:00 HS Finalizado",
                 "local": "BOR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/957.png",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png"
             },
             {
@@ -803,12 +803,12 @@
             },
             {
                 "grupo": "F",
-                "fecha": "22/04/2025 21:30 HS",
+                "fecha": "22/04/2025 21:30 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png",
                 "visitante": "ONC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/88.png"
             },
             {
@@ -923,12 +923,12 @@
             },
             {
                 "grupo": "G",
-                "fecha": "22/04/2025 21:30 HS",
+                "fecha": "22/04/2025 21:30 HS Finalizado",
                 "local": "VAS",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/261.png",
                 "visitante": "LAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12.png"
             },
             {
@@ -1124,9 +1124,21 @@
         ],
         "goleadores": [
             {
+                "nombre": "Dayro Moreno",
+                "equipo": "Once Caldas",
+                "escudo": "https://statics-files.tycsports.com/escudos/88.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Germán Cano",
                 "equipo": "Fluminense",
                 "escudo": "https://statics-files.tycsports.com/escudos/113.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Gustavo Vargas",
+                "equipo": "Guaraní",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
                 "goles": 3
             },
             {
@@ -1166,6 +1178,12 @@
                 "goles": 2
             },
             {
+                "nombre": "Agustín Albarracin",
+                "equipo": "Boston River",
+                "escudo": "https://statics-files.tycsports.com/escudos/957.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Ismael Díaz",
                 "equipo": "U. Católica (E)",
                 "escudo": "https://statics-files.tycsports.com/escudos/894.png",
@@ -1187,24 +1205,6 @@
                 "nombre": "Junior Marabel",
                 "equipo": "Palestino",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Stum, E.",
-                "equipo": "Fluminense",
-                "escudo": "https://statics-files.tycsports.com/escudos/113.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Bryan Carrasco",
-                "equipo": "Palestino",
-                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Matías Arezo",
-                "equipo": "Grêmio",
-                "escudo": "https://statics-files.tycsports.com/escudos/309.png",
                 "goles": 2
             }
         ]
