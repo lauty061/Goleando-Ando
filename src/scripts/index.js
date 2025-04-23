@@ -11,7 +11,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         "Eliminatorias Conmebol": "src/JSONs/resultadoseli.json",
         "Copa Libertadores": "src/JSONs/resultadoslib.json",
         "Primera B Nacional": "src/JSONs/resultadosbna.json",
-        "Copa Sudamericana": "src/JSONs/resultadossuda.json"
+        "Copa Sudamericana": "src/JSONs/resultadossuda.json",
+        "NBA": "src/JSONs/resultadosnba.json"
     };
     
     const contenedor = document.querySelector(".resumen-ligas");
