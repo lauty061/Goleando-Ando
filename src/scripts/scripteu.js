@@ -138,7 +138,7 @@ function mostrarTablaPosiciones(tablaData) {
             case 5:
             case 6:
             case 7:
-                colorFondo = "background-color: lightblue";
+                colorFondo = "background-color: #649cd9";
                 break;
             case 8:
             case 9:
@@ -156,7 +156,7 @@ function mostrarTablaPosiciones(tablaData) {
             case 21:
             case 22:
             case 23:
-                colorFondo = "background-color: orange";
+                colorFondo = "background-color: #FF751C";
                 break;
         }
         tabla.innerHTML += `

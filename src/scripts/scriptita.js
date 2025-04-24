@@ -156,23 +156,23 @@ function mostrarTablaPosiciones(tablaData) {
         let colorFondo = "";
         switch (index) {
             case 0:
-                colorFondo = "background-color: gold;";
+                colorFondo = "background-color: #ebd442;";
                 break;
             case 1:
             case 2:
             case 3:
-                colorFondo = "background-color: lightblue;";
+                colorFondo = "background-color: #649cd9;";
                 break;
             case 4:
-                colorFondo = "background-color: orange;";
+                colorFondo = "background-color: #FF751C;";
                 break;
             case 5:
-                colorFondo = "background-color: lightgreen;";
+                colorFondo = "background-color: #82d15a;";
                 break;
             case 17:
             case 18:
             case 19:
-                colorFondo = "background-color: #FF483D;";
+                colorFondo = "background-color: #f23d3a;";
                 break;
         }
         tabla.innerHTML += `

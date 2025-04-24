@@ -99,8 +99,25 @@ function mostrarTablaPosiciones(tablaData) {
     `;
 
     tablaData.forEach((equipo, index) => {
+        let colorFondo = "";
+        switch (index) {
+            case 0:
+            case 1:
+            case 2:
+            case 3:
+            case 4:
+            case 5:
+                colorFondo = "background-color: #649cd9";
+                break;
+            case 6:
+            case 7:
+            case 8:
+            case 9:
+                colorFondo = "background-color: #FF751C";
+                break;
+        }
         tabla.innerHTML += `
-            <tr>
+            <tr style="${colorFondo}">
                 <td>${equipo.posicion}</td>
                 <td><img src="${equipo.escudo}" width="30" height="30" alt="${equipo.equipo}"></td>
                 <td>${equipo.equipo}</td>

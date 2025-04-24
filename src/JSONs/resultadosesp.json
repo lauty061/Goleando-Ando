@@ -3243,22 +3243,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/04/2025 16:30 HS",
+                "fecha": "23/04/2025 16:30 HS Finalizado",
                 "local": "GET",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/24.png",
                 "visitante": "RMA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/39.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/04/2025 16:30 HS",
+                "fecha": "23/04/2025 16:30 HS Finalizado",
                 "local": "ALV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/160.png",
                 "visitante": "RSO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/40.png"
             },
             {
@@ -3820,14 +3820,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/39.png",
                 "equipo": "Real Madrid",
-                "puntos": "69",
-                "pj": "32",
-                "pg": "21",
+                "puntos": "72",
+                "pj": "33",
+                "pg": "22",
                 "pe": "6",
                 "pp": "5",
-                "gf": 65,
+                "gf": 66,
                 "gc": 31,
-                "dg": 34
+                "dg": 35
             },
             {
                 "posicion": "3",
@@ -3912,13 +3912,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/40.png",
                 "equipo": "Real Sociedad",
                 "puntos": "42",
-                "pj": "32",
+                "pj": "33",
                 "pg": "12",
                 "pe": "6",
-                "pp": "14",
+                "pp": "15",
                 "gf": 32,
-                "gc": 36,
-                "dg": -4
+                "gc": 37,
+                "dg": -5
             },
             {
                 "posicion": "10",
@@ -3951,13 +3951,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/24.png",
                 "equipo": "Getafe",
                 "puntos": "39",
-                "pj": "32",
+                "pj": "33",
                 "pg": "10",
                 "pe": "9",
-                "pp": "13",
+                "pp": "14",
                 "gf": 31,
-                "gc": 29,
-                "dg": 2
+                "gc": 30,
+                "dg": 1
             },
             {
                 "posicion": "13",
@@ -4000,6 +4000,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/160.png",
+                "equipo": "Alavés",
+                "puntos": "34",
+                "pj": "33",
+                "pg": "8",
+                "pe": "10",
+                "pp": "15",
+                "gf": 35,
+                "gc": 46,
+                "dg": -11
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/4608.png",
                 "equipo": "Girona",
                 "puntos": "34",
@@ -4012,7 +4025,7 @@
                 "dg": -12
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/4058.png",
                 "equipo": "UD Las Palmas",
                 "puntos": "32",
@@ -4023,19 +4036,6 @@
                 "gf": 38,
                 "gc": 53,
                 "dg": -15
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/160.png",
-                "equipo": "Alavés",
-                "puntos": "31",
-                "pj": "32",
-                "pg": "7",
-                "pe": "10",
-                "pp": "15",
-                "gf": 34,
-                "gc": 46,
-                "dg": -12
             },
             {
                 "posicion": "19",

@@ -134,7 +134,8 @@ function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
 
     gruposOrdenados.forEach(grupo => {
         if (grupoSeleccionado !== "todos" && grupo !== grupoSeleccionado) return;
-        const equipos = dataAgrupada[grupo];
+
+        const equipos = dataAgrupada[grupo].sort((a, b) => a.posicion - b.posicion);
         let html = `
             <h3>${grupo}</h3>
             <table class="stats-table">
@@ -156,9 +157,28 @@ function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
                 <tbody>
         `;
 
-        equipos.forEach(equipo => {
+        equipos.forEach((equipo, index) => {
+            let colorFondo = "";
+            switch (index) {
+                case 0:
+                    colorFondo = "background-color: #82d15a;";
+                    break;
+                case 1:
+                case 2:
+                case 3:
+                case 4:
+                case 5:
+                case 6:
+                case 7:
+                    colorFondo = "background-color: #649cd9;";
+                    break;
+                case 16:
+                case 17:
+                    colorFondo = "background-color: #f23d3a;";
+                    break;
+            }
             html += `
-                <tr>
+                <tr style="${colorFondo}">
                     <td>${equipo.posicion}</td>
                     <td><img src="${equipo.escudo}" width="30" height="30" alt="${equipo.equipo}"></td>
                     <td>${equipo.equipo}</td>
@@ -170,7 +190,8 @@ function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
                     <td>${equipo.gf}</td>
                     <td>${equipo.gc}</td>
                     <td>${equipo.dg}</td>
-                </tr>`;
+                </tr>
+            `;
         });
 
         html += `</tbody></table>`;
