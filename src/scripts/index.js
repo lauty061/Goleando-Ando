@@ -6,12 +6,13 @@ document.addEventListener("DOMContentLoaded", async () => {
         "Serie A": "src/JSONs/resultadosita.json",
         "Ligue 1": "src/JSONs/resultadosfra.json",
         "Liga Argentina": "src/JSONs/resultadosarg.json",
+        "Primera B Nacional": "src/JSONs/resultadosbna.json",
+        "Primera B Metropolitana": "src/JSONs/resultadosbmetro.json",
         "Champions League": "src/JSONs/resultadoscha.json",
         "Uefa Europa League": "src/JSONs/resultadoseu.json",
-        "Eliminatorias Conmebol": "src/JSONs/resultadoseli.json",
         "Copa Libertadores": "src/JSONs/resultadoslib.json",
-        "Primera B Nacional": "src/JSONs/resultadosbna.json",
         "Copa Sudamericana": "src/JSONs/resultadossuda.json",
+        "Eliminatorias Conmebol": "src/JSONs/resultadoseli.json",
         "NBA": "src/JSONs/resultadosnba.json"
     };
     
