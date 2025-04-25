@@ -195,7 +195,101 @@ function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
         container.innerHTML += html;
     });
 }
+function mostrarTablaAnual(tablaData) {
+    const container = document.getElementById("tabla-posiciones-table");
+    if (!tablaData || tablaData.length === 0) {
+        container.innerHTML = "<p>No hay datos disponibles</p>";
+        return;
+    }
 
+    let equiposMap = new Map();
+
+    tablaData.forEach(e => {
+        if (!equiposMap.has(e.equipo)) {
+            equiposMap.set(e.equipo, {
+                ...e,
+                zona: "Tabla Anual"
+            });
+        }
+    });
+
+    let equipos = Array.from(equiposMap.values());
+
+    equipos.sort((a, b) => {
+        if (b.puntos !== a.puntos) return b.puntos - a.puntos;
+        if (b.dg !== a.dg) return b.dg - a.dg;
+        return b.gf - a.gf;
+    });
+
+    equipos.forEach((e, i) => e.posicion = i + 1);
+
+    let html = `
+        <h3>Tabla Anual</h3>
+        <table class="stats-table">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Escudo</th>
+                    <th>Equipo</th>
+                    <th>Pts</th>
+                    <th>PJ</th>
+                    <th>PG</th>
+                    <th>PE</th>
+                    <th>PP</th>
+                    <th>GF</th>
+                    <th>GC</th>
+                    <th>DG</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${equipos.map(e => {
+                    let colorFondo = "";
+                    if (e.posicion >= 1 && e.posicion <= 3) colorFondo = "background-color: #ebd442;";
+                    else if (e.posicion >= 4 && e.posicion <= 9) colorFondo = "background-color: #649cd9;";
+                    else if (e.posicion == 30) colorFondo = "background-color: #f23d3a;";
+                    return `
+                    <tr style="${colorFondo}">
+                        <td>${e.posicion}</td>
+                        <td><img src="${e.escudo}" width="30" height="30" alt="${e.equipo}"></td>
+                        <td>${e.equipo}</td>
+                        <td>${e.puntos}</td>
+                        <td>${e.pj}</td>
+                        <td>${e.pg}</td>
+                        <td>${e.pe}</td>
+                        <td>${e.pp}</td>
+                        <td>${e.gf}</td>
+                        <td>${e.gc}</td>
+                        <td>${e.dg}</td>
+                    </tr>
+                    `;
+                }).join("")}
+            </tbody>
+        </table>
+    `;
+
+    container.innerHTML = html;
+}
+
+function crearSelectorGrupos(gruposDisponibles, tablaData) {
+    const selector = document.getElementById("grupo-select");
+    const opciones = [
+        `<option value="todos">Todos los grupos</option>`,
+        ...gruposDisponibles.map(z => `<option value="${z}">${z}</option>`),
+        `<option value="anual">Tabla Anual</option>`
+    ];
+
+    selector.innerHTML = opciones.join("");
+
+    selector.addEventListener("change", function () {
+        if (this.value === "anual") {
+            mostrarTablaAnual(tablaData);
+        } else {
+            mostrarTablaPorGrupo(tablaData, this.value);
+        }
+    });
+
+    mostrarTablaPorGrupo(tablaData, selector.value);
+}
 
 function mostrarGoleadores(data) {
     let tabla = document.getElementById("tabla-goleadores");
