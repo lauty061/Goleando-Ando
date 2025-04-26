@@ -244,7 +244,7 @@ function mostrarTablaAnual(tablaData) {
             <tbody>
                 ${equipos.map(e => {
                     let colorFondo = "";
-                    if (e.posicion >= 1 && e.posicion <= 3) colorFondo = "background-color: #ebd442;";
+                    if (e.posicion >= 1 && e.posicion <= 3) colorFondo = "background-color: #bfb662;";
                     else if (e.posicion >= 4 && e.posicion <= 9) colorFondo = "background-color: #649cd9;";
                     else if (e.posicion == 30) colorFondo = "background-color: #f23d3a;";
                     return `
