@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GoleandoAndo - Champions League</title>
-    <link rel="shortcut icon" href="../../assets/imgs/LogoChampions.png">
+    <title>GoleandoAndo - LPF</title>
+    <link rel="shortcut icon" href="../../assets/imgs/MLS.png">
     <link rel="stylesheet" href="../styles/styles.css">
     <link rel="stylesheet" href="../styles/mainSection.css">
     <link rel="stylesheet" href="../styles/responsive.css">
@@ -98,11 +98,10 @@
             </ul>
         </div>
     </header>
-    <a id="ancla"></a>
-    <div class="liga-banner">
-        <h1 id="titulo-liga">Champions League</h1>
-        <img src="../../assets/imgs/LogoChampions.png" class="logo">
-    </div>
+    <a id="ancla"></a><div class="liga-banner"></a>
+        <h1 id="titulo-liga">MLS</h1>
+        <img src="../../assets/imgs/MLS.png"class="logo">
+</div>
     <main>
         <section id="fixture">
             <h2>Fixture</h2>
@@ -112,17 +111,19 @@
         </section>
         <section id="posiciones">
             <h2>Tabla de Posiciones</h2>
+            <label for="grupo-select">Seleccionar Grupo:</label>
+            <select id="grupo-select"></select>
             <div class="scrollable-table">
                 <table id="tabla-posiciones-table"></table>
             </div>
-        </section>
+        </section>      
         <section id="goleadores">
             <h2>Tabla de Goleadores</h2>
             <table id="tabla-goleadores"></table>
         </section>
         <a href="#ancla" class="boton-inicio">⇧</a>
     </main>
-    <script src="../scripts/scriptcha.js"></script>
+    <script src="../scripts/scriptmls.js"></script>
     <script src="../scripts/navScript.js"></script>
 </body>
 </html>
