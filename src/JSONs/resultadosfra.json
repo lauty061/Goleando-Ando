@@ -2703,22 +2703,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "25/04/2025 15:45 HS",
+                "fecha": "25/04/2025 15:45 HS Finalizado",
                 "local": "PSG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png",
                 "visitante": "NIC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1729.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 12:00 HS",
+                "fecha": "26/04/2025 12:00 HS Segundo Tiempo",
                 "local": "RCS",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7100.png",
                 "visitante": "SET",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1372.png"
             },
             {
@@ -3088,13 +3088,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
                 "equipo": "PSG",
                 "puntos": "78",
-                "pj": "30",
+                "pj": "31",
                 "pg": "24",
                 "pe": "6",
-                "pp": "0",
-                "gf": 83,
-                "gc": 28,
-                "dg": 55
+                "pp": "1",
+                "gf": 84,
+                "gc": 31,
+                "dg": 53
             },
             {
                 "posicion": "2",
@@ -3124,6 +3124,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/1729.png",
+                "equipo": "Nice",
+                "puntos": "54",
+                "pj": "31",
+                "pg": "15",
+                "pe": "9",
+                "pp": "7",
+                "gf": 59,
+                "gc": 39,
+                "dg": 20
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png",
                 "equipo": "Lille",
                 "puntos": "53",
@@ -3134,19 +3147,6 @@
                 "gf": 47,
                 "gc": 32,
                 "dg": 15
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/1729.png",
-                "equipo": "Nice",
-                "puntos": "51",
-                "pj": "30",
-                "pg": "14",
-                "pe": "9",
-                "pp": "7",
-                "gf": 56,
-                "gc": 38,
-                "dg": 18
             },
             {
                 "posicion": "6",
@@ -3338,16 +3338,16 @@
                 "goles": 16
             },
             {
+                "nombre": "Emanuel Emegha",
+                "equipo": "RC Strasbourg",
+                "escudo": "https://statics-files.tycsports.com/escudos/7100.png",
+                "goles": 14
+            },
+            {
                 "nombre": "Arnaud Kalimuendo",
                 "equipo": "Stade Rennes",
                 "escudo": "https://statics-files.tycsports.com/escudos/1732.png",
                 "goles": 14
-            },
-            {
-                "nombre": "Emanuel Emegha",
-                "equipo": "RC Strasbourg",
-                "escudo": "https://statics-files.tycsports.com/escudos/7100.png",
-                "goles": 13
             },
             {
                 "nombre": "Bradley Barcola",

@@ -1203,22 +1203,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "25/04/2025 20:00 HS",
+                "fecha": "25/04/2025 20:00 HS Finalizado",
                 "local": "EXC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/689.png",
                 "visitante": "SAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/696.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "25/04/2025 20:00 HS",
+                "fecha": "25/04/2025 20:00 HS Finalizado",
                 "local": "ME",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/683.png",
                 "visitante": "COM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/673.png"
             },
             {
@@ -2211,13 +2211,13 @@
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/683.png",
                 "equipo": "Argentino de M.",
-                "puntos": "16",
-                "pj": "12",
+                "puntos": "17",
+                "pj": "13",
                 "pg": "4",
-                "pe": "4",
+                "pe": "5",
                 "pp": "4",
-                "gf": 10,
-                "gc": 10,
+                "gf": 11,
+                "gc": 11,
                 "dg": 0
             },
             {
@@ -2248,6 +2248,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
+                "equipo": "Comunicaciones",
+                "puntos": "15",
+                "pj": "12",
+                "pg": "4",
+                "pe": "3",
+                "pp": "5",
+                "gf": 14,
+                "gc": 12,
+                "dg": 2
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/700.png",
                 "equipo": "Villa Dálmine",
                 "puntos": "15",
@@ -2260,20 +2273,20 @@
                 "dg": -2
             },
             {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
-                "equipo": "Comunicaciones",
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/689.png",
+                "equipo": "Excursionistas",
                 "puntos": "14",
-                "pj": "11",
-                "pg": "4",
-                "pe": "2",
-                "pp": "5",
+                "pj": "12",
+                "pg": "3",
+                "pe": "5",
+                "pp": "4",
                 "gf": 13,
-                "gc": 11,
-                "dg": 2
+                "gc": 13,
+                "dg": 0
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png",
                 "equipo": "Dep. Armenio",
                 "puntos": "14",
@@ -2286,7 +2299,7 @@
                 "dg": -1
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png",
                 "equipo": "Laferrere",
                 "puntos": "12",
@@ -2299,7 +2312,7 @@
                 "dg": 1
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png",
                 "equipo": "Flandria",
                 "puntos": "12",
@@ -2310,19 +2323,6 @@
                 "gf": 7,
                 "gc": 11,
                 "dg": -4
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/689.png",
-                "equipo": "Excursionistas",
-                "puntos": "11",
-                "pj": "11",
-                "pg": "2",
-                "pe": "5",
-                "pp": "4",
-                "gf": 10,
-                "gc": 12,
-                "dg": -2
             },
             {
                 "posicion": "18",
@@ -2342,13 +2342,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/696.png",
                 "equipo": "Sacachispas",
                 "puntos": "10",
-                "pj": "12",
+                "pj": "13",
                 "pg": "1",
                 "pe": "7",
-                "pp": "4",
-                "gf": 9,
-                "gc": 13,
-                "dg": -4
+                "pp": "5",
+                "gf": 10,
+                "gc": 16,
+                "dg": -6
             },
             {
                 "posicion": "20",
@@ -2385,6 +2385,12 @@
                 "goles": 7
             },
             {
+                "nombre": "Juan Pablo Zárate",
+                "equipo": "Excursionistas",
+                "escudo": "https://statics-files.tycsports.com/escudos/689.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Marcos Riquelme",
                 "equipo": "Real Pilar",
                 "escudo": "https://statics-files.tycsports.com/escudos/7234.png",
@@ -2394,12 +2400,6 @@
                 "nombre": "Mauro Molina",
                 "equipo": "Dock Sud",
                 "escudo": "https://statics-files.tycsports.com/escudos/688.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Juan Pablo Zárate",
-                "equipo": "Excursionistas",
-                "escudo": "https://statics-files.tycsports.com/escudos/689.png",
                 "goles": 6
             },
             {

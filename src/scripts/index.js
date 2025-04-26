@@ -48,6 +48,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     let html = `
     <tr>
+        <th>Fecha</th>
         <th>Liga</th>
         <th>Local</th>
         <th>Resultado</th>
@@ -61,6 +62,7 @@ if (partidosHoy.length === 0) {
     partidosHoy.forEach(p => {
         html += `
             <tr>
+                <td>${p.fecha}</td>
                 <td>${p.liga}</td>
                 <td><img src="${p.escudo_local}" width="30"> ${p.local}</td>
                 <td>${p.goles_local} - ${p.goles_visita}</td>

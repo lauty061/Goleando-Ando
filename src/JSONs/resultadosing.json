@@ -3323,52 +3323,52 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 08:30 HS",
+                "fecha": "26/04/2025 08:30 HS Finalizado",
                 "local": "CHE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/563.png",
                 "visitante": "EVE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/564.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 11:00 HS",
+                "fecha": "26/04/2025 11:00 HS Finalizado",
                 "local": "BHA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4713.png",
                 "visitante": "WES",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/576.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 11:00 HS",
+                "fecha": "26/04/2025 11:00 HS Finalizado",
                 "local": "NEW",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/570.png",
                 "visitante": "IPS",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2252.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 11:00 HS",
+                "fecha": "26/04/2025 11:00 HS Finalizado",
                 "local": "SOU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3883.png",
                 "visitante": "FUL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/565.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 11:00 HS",
+                "fecha": "26/04/2025 11:00 HS Finalizado",
                 "local": "WOL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1692.png",
                 "visitante": "LEI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3786.png"
             },
             {
@@ -3831,6 +3831,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/570.png",
+                "equipo": "Newcastle United",
+                "puntos": "62",
+                "pj": "34",
+                "pg": "19",
+                "pe": "5",
+                "pp": "10",
+                "gf": 65,
+                "gc": 44,
+                "dg": 21
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
                 "equipo": "Manchester City",
                 "puntos": "61",
@@ -3843,7 +3856,20 @@
                 "dg": 23
             },
             {
-                "posicion": "4",
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
+                "equipo": "Chelsea",
+                "puntos": "60",
+                "pj": "34",
+                "pg": "17",
+                "pe": "9",
+                "pp": "8",
+                "gf": 59,
+                "gc": 40,
+                "dg": 19
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/3295.png",
                 "equipo": "Nottingham Forest",
                 "puntos": "60",
@@ -3854,32 +3880,6 @@
                 "gf": 53,
                 "gc": 39,
                 "dg": 14
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/570.png",
-                "equipo": "Newcastle United",
-                "puntos": "59",
-                "pj": "33",
-                "pg": "18",
-                "pe": "5",
-                "pp": "10",
-                "gf": 62,
-                "gc": 44,
-                "dg": 18
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
-                "equipo": "Chelsea",
-                "puntos": "57",
-                "pj": "33",
-                "pg": "16",
-                "pe": "9",
-                "pp": "8",
-                "gf": 58,
-                "gc": 40,
-                "dg": 18
             },
             {
                 "posicion": "7",
@@ -3896,6 +3896,32 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/565.png",
+                "equipo": "Fulham",
+                "puntos": "51",
+                "pj": "34",
+                "pg": "14",
+                "pe": "9",
+                "pp": "11",
+                "gf": 50,
+                "gc": 46,
+                "dg": 4
+            },
+            {
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
+                "equipo": "Brighton and Hove",
+                "puntos": "51",
+                "pj": "34",
+                "pg": "13",
+                "pe": "12",
+                "pp": "9",
+                "gf": 56,
+                "gc": 55,
+                "dg": 1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
                 "equipo": "Bournemouth",
                 "puntos": "49",
@@ -3906,32 +3932,6 @@
                 "gf": 52,
                 "gc": 40,
                 "dg": 12
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/565.png",
-                "equipo": "Fulham",
-                "puntos": "48",
-                "pj": "33",
-                "pg": "13",
-                "pe": "9",
-                "pp": "11",
-                "gf": 48,
-                "gc": 45,
-                "dg": 3
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
-                "equipo": "Brighton and Hove",
-                "puntos": "48",
-                "pj": "33",
-                "pg": "12",
-                "pe": "12",
-                "pp": "9",
-                "gf": 53,
-                "gc": 53,
-                "dg": 0
             },
             {
                 "posicion": "11",
@@ -3961,19 +3961,32 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
-                "equipo": "Everton",
-                "puntos": "38",
-                "pj": "33",
-                "pg": "8",
-                "pe": "14",
-                "pp": "11",
-                "gf": 34,
-                "gc": 40,
-                "dg": -6
+                "escudo": "https://statics-files.tycsports.com/escudos/1692.png",
+                "equipo": "Wolverhampton",
+                "puntos": "41",
+                "pj": "34",
+                "pg": "12",
+                "pe": "5",
+                "pp": "17",
+                "gf": 51,
+                "gc": 61,
+                "dg": -10
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
+                "equipo": "Everton",
+                "puntos": "38",
+                "pj": "34",
+                "pg": "8",
+                "pe": "14",
+                "pp": "12",
+                "gf": 34,
+                "gc": 41,
+                "dg": -7
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/568.png",
                 "equipo": "Manchester United",
                 "puntos": "38",
@@ -3984,19 +3997,6 @@
                 "gf": 38,
                 "gc": 46,
                 "dg": -8
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/1692.png",
-                "equipo": "Wolverhampton",
-                "puntos": "38",
-                "pj": "33",
-                "pg": "11",
-                "pe": "5",
-                "pp": "17",
-                "gf": 48,
-                "gc": 61,
-                "dg": -13
             },
             {
                 "posicion": "16",
@@ -4016,52 +4016,52 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/576.png",
                 "equipo": "West Ham United",
                 "puntos": "36",
-                "pj": "33",
+                "pj": "34",
                 "pg": "9",
                 "pe": "9",
-                "pp": "15",
-                "gf": 37,
-                "gc": 55,
-                "dg": -18
+                "pp": "16",
+                "gf": 39,
+                "gc": 58,
+                "dg": -19
             },
             {
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/2252.png",
                 "equipo": "Ipswich Town",
                 "puntos": "21",
-                "pj": "33",
+                "pj": "34",
                 "pg": "4",
                 "pe": "9",
-                "pp": "20",
+                "pp": "21",
                 "gf": 33,
-                "gc": 71,
-                "dg": -38
+                "gc": 74,
+                "dg": -41
             },
             {
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/3786.png",
                 "equipo": "Leicester City",
                 "puntos": "18",
-                "pj": "33",
+                "pj": "34",
                 "pg": "4",
                 "pe": "6",
-                "pp": "23",
+                "pp": "24",
                 "gf": 27,
-                "gc": 73,
-                "dg": -46
+                "gc": 76,
+                "dg": -49
             },
             {
                 "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/3883.png",
                 "equipo": "Southampton",
                 "puntos": "11",
-                "pj": "33",
+                "pj": "34",
                 "pg": "2",
                 "pe": "5",
-                "pp": "26",
-                "gf": 24,
-                "gc": 78,
-                "dg": -54
+                "pp": "27",
+                "gf": 25,
+                "gc": 80,
+                "dg": -55
             }
         ],
         "goleadores": [
@@ -4072,15 +4072,15 @@
                 "goles": 27
             },
             {
-                "nombre": "Erling Haaland",
-                "equipo": "Manchester City",
-                "escudo": "https://statics-files.tycsports.com/escudos/567.png",
-                "goles": 21
-            },
-            {
                 "nombre": "Alexander Isak",
                 "equipo": "Newcastle United",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png",
+                "goles": 22
+            },
+            {
+                "nombre": "Erling Haaland",
+                "equipo": "Manchester City",
+                "escudo": "https://statics-files.tycsports.com/escudos/567.png",
                 "goles": 21
             },
             {
@@ -4102,16 +4102,16 @@
                 "goles": 16
             },
             {
+                "nombre": "Carneiro Da Cunha, M.",
+                "equipo": "Wolverhampton",
+                "escudo": "https://statics-files.tycsports.com/escudos/1692.png",
+                "goles": 15
+            },
+            {
                 "nombre": "Ollie Watkins",
                 "equipo": "Aston Villa",
                 "escudo": "https://statics-files.tycsports.com/escudos/559.png",
                 "goles": 15
-            },
-            {
-                "nombre": "Carneiro Da Cunha, M.",
-                "equipo": "Wolverhampton",
-                "escudo": "https://statics-files.tycsports.com/escudos/1692.png",
-                "goles": 14
             },
             {
                 "nombre": "Jean-Philippe Mateta",
@@ -4129,7 +4129,7 @@
                 "nombre": "Jörgen Larsen",
                 "equipo": "Wolverhampton",
                 "escudo": "https://statics-files.tycsports.com/escudos/1692.png",
-                "goles": 12
+                "goles": 13
             }
         ]
     }

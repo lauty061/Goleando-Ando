@@ -89,8 +89,8 @@ function mostrarTablaPosiciones(tablaData) {
             <th>Escudo</th>
             <th>Equipo</th>
             <th>%PG</th>
-            <th>Pts</th>
-            <th>PJ</th>
+            <th>Pj</th>
+            <th>Pg</th>
             <th>PP</th>
             <th>PF</th>
             <th>PC</th>
