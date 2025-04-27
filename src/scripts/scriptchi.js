@@ -11,21 +11,21 @@ document.addEventListener("DOMContentLoaded", async function () {
     let goleadoresData = ligaData.goleadores || [];
 
     let fechasTorneo = {
-        "Fecha 1": ["2025-03-29", "2025-03-31"],
-        "Fecha 2": ["2025-04-05", "2025-04-06"],
-        "Fecha 3": ["2025-04-12", "2025-04-13"],
-        "Fecha 4": ["2025-04-15", "2025-04-16"],
-        "Fecha 5": ["2025-04-19", "2025-04-21"],
-        "Fecha 6": ["2025-04-26", "2025-04-27"],
-        "Fecha 7": ["2025-05-02", "2025-05-05"],
-        "Fecha 8": ["2025-05-10", "2025-05-12"],
-        "Fecha 9": ["2025-05-17", "2025-05-18"],
-        "Fecha 10": ["2025-05-24", "2025-05-26"],
-        "Fecha 11": ["2025-05-31", "2025-06-01"],
-        "Fecha 12": ["2025-06-12", "2025-06-13"],
-        "Fecha 13": ["2025-07-12", "2025-07-12"],
-        "Fecha 14": ["2025-07-16", "2025-07-16"],
-        "Fecha 15": ["2025-07-19", "2025-07-19"],
+        "Fecha 1": ["2025-02-14", "2025-02-17"],
+        "Fecha 2": ["2025-02-21", "2025-02-24"],
+        "Fecha 3": ["2025-02-28", "2025-03-02"],
+        "Fecha 4": ["2025-03-07", "2025-03-10"],
+        "Fecha 5": ["2025-03-14", "2025-03-16"],
+        "Fecha 6": ["2025-03-27", "2025-03-30"],
+        "Fecha 7": ["2025-04-12", "2025-04-14"],
+        "Fecha 8": ["2025-04-17", "2025-04-20"],
+        "Fecha 9": ["2025-04-25", "2025-04-27"],
+        "Fecha 10": ["2025-05-02", "2025-05-04"],
+        "Fecha 11": ["2025-05-16", "2025-05-19"],
+        "Fecha 12": ["2025-05-23", "2025-05-26"],
+        "Fecha 13": ["Sin Designar", "Sin Designar"],
+        "Fecha 14": ["Sin Designar", "Sin Designar"],
+        "Fecha 15": ["Sin Designar", "Sin Designar"],
         "Fecha 16": ["Sin Designar", "Sin Designar"],
         "Fecha 17": ["Sin Designar", "Sin Designar"],
         "Fecha 18": ["Sin Designar", "Sin Designar"],
@@ -50,7 +50,6 @@ document.addEventListener("DOMContentLoaded", async function () {
         "Fecha 37": ["Sin Designar", "Sin Designar"],
         "Fecha 38": ["Sin Designar", "Sin Designar"]
     };
-    
 
 
     let fechaSelect = document.getElementById("fecha-select");
@@ -69,7 +68,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 async function obtenerDatosLiga(liga) {
     try {
-        let response = await fetch("../JSONs/resultadosbra.json");
+        let response = await fetch("../JSONs/resultadoschi.json");
         if (!response.ok) throw new Error("No se pudo cargar el archivo JSON");
         let data = await response.json();
         return data[liga] || null;
@@ -161,22 +160,16 @@ function mostrarTablaPosiciones(tablaData) {
                 break;
             case 1:
             case 2:
+                colorFondo = "background-color: #bfb662;";
+                break;
             case 3:
             case 4:
             case 5:
-                colorFondo = "background-color: #bfb662;";
-                break;
             case 6:
-            case 7:
-            case 8:
-            case 9:
-            case 10:
-            case 11:
                 colorFondo = "background-color: #649cd9;";
-                break;   
-            case 17:
-            case 18:
-            case 19:
+                break;
+            case 14:
+            case 15:
                 colorFondo = "background-color: #f23d3a;";
                 break;
         }

@@ -2103,32 +2103,32 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 15:00 HS",
+                "fecha": "26/04/2025 15:00 HS Finalizado",
                 "local": "ALD",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/122.png",
                 "visitante": "BAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 17:00 HS",
+                "fecha": "26/04/2025 17:00 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/19.png",
                 "visitante": "ROS",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/18.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 19:00 HS",
+                "fecha": "26/04/2025 19:00 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/124.png",
                 "visitante": "ARG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2.png"
             },
             {
@@ -2572,13 +2572,13 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/2.png",
                 "equipo": "Argentinos",
-                "puntos": "29",
-                "pj": "14",
+                "puntos": "30",
+                "pj": "15",
                 "pg": "8",
-                "pe": "5",
+                "pe": "6",
                 "pp": "1",
-                "gf": 19,
-                "gc": 8,
+                "gf": 20,
+                "gc": 9,
                 "dg": 11
             },
             {
@@ -2712,13 +2712,13 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/124.png",
                 "equipo": "Belgrano",
-                "puntos": "15",
-                "pj": "14",
+                "puntos": "16",
+                "pj": "15",
                 "pg": "3",
-                "pe": "6",
+                "pe": "7",
                 "pp": "5",
-                "gf": 11,
-                "gc": 21,
+                "gf": 12,
+                "gc": 22,
                 "dg": -10
             },
             {
@@ -2738,44 +2738,44 @@
             {
                 "zona": "Zona A",
                 "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/4.png",
-                "equipo": "Banfield",
-                "puntos": "11",
-                "pj": "14",
-                "pg": "2",
-                "pe": "5",
-                "pp": "7",
-                "gf": 10,
-                "gc": 16,
-                "dg": -6
+                "escudo": "https://statics-files.tycsports.com/escudos/122.png",
+                "equipo": "Aldosivi",
+                "puntos": "12",
+                "pj": "15",
+                "pg": "3",
+                "pe": "3",
+                "pp": "9",
+                "gf": 15,
+                "gc": 28,
+                "dg": -13
             },
             {
                 "zona": "Zona A",
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/122.png",
-                "equipo": "Aldosivi",
-                "puntos": "9",
-                "pj": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/4.png",
+                "equipo": "Banfield",
+                "puntos": "11",
+                "pj": "15",
                 "pg": "2",
-                "pe": "3",
-                "pp": "9",
-                "gf": 13,
-                "gc": 27,
-                "dg": -14
+                "pe": "5",
+                "pp": "8",
+                "gf": 11,
+                "gc": 18,
+                "dg": -7
             },
             {
                 "zona": "Zona B",
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/18.png",
                 "equipo": "Rosario Central",
-                "puntos": "29",
-                "pj": "14",
-                "pg": "8",
+                "puntos": "32",
+                "pj": "15",
+                "pg": "9",
                 "pe": "5",
                 "pp": "1",
-                "gf": 20,
+                "gf": 21,
                 "gc": 8,
-                "dg": 12
+                "dg": 13
             },
             {
                 "zona": "Zona B",
@@ -2797,13 +2797,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/19.png",
                 "equipo": "San Lorenzo",
                 "puntos": "26",
-                "pj": "14",
+                "pj": "15",
                 "pg": "7",
                 "pe": "5",
-                "pp": "2",
+                "pp": "3",
                 "gf": 13,
-                "gc": 8,
-                "dg": 5
+                "gc": 9,
+                "dg": 4
             },
             {
                 "zona": "Zona B",
@@ -2988,16 +2988,16 @@
                 "goles": 8
             },
             {
+                "nombre": "Nicolás Fernández",
+                "equipo": "Belgrano",
+                "escudo": "https://statics-files.tycsports.com/escudos/124.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Andrés Vombergar",
                 "equipo": "San Lorenzo",
                 "escudo": "https://statics-files.tycsports.com/escudos/19.png",
                 "goles": 7
-            },
-            {
-                "nombre": "Nicolás Fernández",
-                "equipo": "Belgrano",
-                "escudo": "https://statics-files.tycsports.com/escudos/124.png",
-                "goles": 6
             },
             {
                 "nombre": "Tomás Molina",

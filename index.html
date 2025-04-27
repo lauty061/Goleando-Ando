@@ -28,7 +28,16 @@
 
         <nav>
             <ul class="nav-menu">
-                <li><a href="index.html"><strong>Inicio</strong></a></li>
+                <li><a href="index.html">Inicio</a></li>
+                <li class="dropdown">
+                    <button class="dropdown-toggle">Futbol Argentino</button>
+                    <ul class="dropdown-menu">
+                        <li><a href="src/pages/liga-argentina.html">Liga Argentina</a></li>
+                        <li><a href="src/pages/b-nacional.html">Primera B Nacional</a></li>
+                        <li><a href="src/pages/b-metropolitana.html">Primera B Metropolitana</a></li>
+                        <li><a href="src/pages/liga-arg-fem.html">Campeonato Femenino</a></li>
+                    </ul>
+                </li>
                 <li class="dropdown">
                     <button class="dropdown-toggle">Ligas Europeas</button>
                     <ul class="dropdown-menu">
@@ -42,12 +51,16 @@
                 <li class="dropdown">
                     <button class="dropdown-toggle">Ligas Sudamericanas</button>
                     <ul class="dropdown-menu">
-                    <li><a href="src/pages/liga-argentina.html">Liga Argentina</a></li>
-                    <li><a href="src/pages/b-nacional.html">Primera B Nacional</a></li>
-                    <li><a href="src/pages/b-metropolitana.html">Primera B Metropolitana</a></li>
-                    <li><a href="src/pages/brasileirao.html">brasileirao</a></li>
-                    <li><a href="src/pages/liga-uruguay.html">Liga AUF Uruguay</a></li>
-                    <li><a href="src/pages/mls.html">MLS</a></li>
+                        <li><a href="src/pages/brasileirao.html">Brasileirao (Br)</a></li>
+                        <li><a href="src/pages/liga-uruguay.html">Liga AUF (Uy)</a></li>
+                        <li><a href="src/pages/mls.html">MLS (EeUu)</a></li>
+                        <li><a href="src/pages/liga-bolivia.html">División Bolivia (Bol)</a></li>
+                        <li><a href="src/pages/liga-paraguay.html">Copa de Primera (Py)</a></li>
+                        <li><a href="src/pages/liga-peru.html">Liga 1 (Pe)</a></li>
+                        <li><a href="src/pages/liga-colombia.html">Liga BetPlay Dimayor (Col)</a></li>
+                        <li><a href="src/pages/liga-chile.html">Liga de Primera (Chi)</a></li>
+                        <li><a href="src/pages/liga-venezuela.html">Liga FUTVE (Ven)</a></li>
+                        <li><a href="src/pages/liga-ecuador.html">Liga Pro (prox)</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
@@ -55,8 +68,8 @@
                     <ul class="dropdown-menu">
                         <li><a href="src/pages/champions.html">Champions League</a></li>
                         <li><a href="src/pages/europa-league.html">Europa League</a></li>
-                        <li><a href="src/pages/libertadores.html">Copa Libertadores</a></li>
-                        <li><a href="src/pages/sudamericana.html">Copa sudamericana</a></li>
+                        <li><a href="src/pages/src/pages/libertadores.html">Copa Libertadores</a></li>
+                        <li><a href="src/pages/sudamericana.html">Copa Sudamericana</a></li>
                         <li><a href="src/pages/eliminatorias.html">Eliminatorias Conmebol</a></li>
                     </ul>
                 </li>
@@ -68,12 +81,21 @@
                 </li>
             </ul>
         </nav>
-
+    
         <!-- Sidebar para móviles -->
         <div class="sidebar" id="sidebar">
             <button class="close-btn" id="close-sidebar">×</button>
             <ul class="sidebar-menu">
-                <li><a href="index.html"><strong>Inicio</strong></a></li>
+                <li><a href="index.html">Inicio</a></li>
+                <li class="sidebar-dropdown">
+                    <button>Fútbol Argentino</button>
+                    <ul class="sidebar-submenu">
+                        <li><a href="src/pages/liga-argentina.html">Liga Argentina</a></li>
+                        <li><a href="src/pages/b-nacional.html">Primera B Nacional</a></li>
+                        <li><a href="src/pages/b-metropolitana.html">Primera B Metropolitana</a></li>
+                        <li><a href="src/pages/liga-arg-fem.html">Campeonato Femenino</a></li>
+                    </ul>
+                </li>
                 <li class="sidebar-dropdown">
                     <button>Ligas Europeas</button>
                     <ul class="sidebar-submenu">
@@ -85,23 +107,27 @@
                     </ul>
                 </li>
                 <li class="sidebar-dropdown">
-                <button>Ligas Sudamericanas</button>
-                <ul class="sidebar-submenu">
-                    <li><a href="src/pages/liga-argentina.html">Liga Argentina</a></li>
-                    <li><a href="src/pages/b-nacional.html">Primera B Nacional</a></li>
-                    <li><a href="src/pages/b-metropolitana.html">Primera B Metropolitana</a></li>
-                    <li><a href="src/pages/brasileirao.html">brasileirao</a></li>
-                    <li><a href="src/pages/liga-uruguay.html">Liga AUF Uruguay</a></li>
-                    <li><a href="src/pages/mls.html">MLS</a></li>
-                </ul>
-            </li>
+                    <button>Ligas Sudamericanas</button>
+                    <ul class="sidebar-submenu">
+                        <li><a href="src/pages/brasileirao.html">Brasileirao (Br)</a></li>
+                        <li><a href="src/pages/liga-uruguay.html">Liga AUF (Uy)</a></li>
+                        <li><a href="src/pages/mls.html">MLS (EeUu)</a></li>
+                        <li><a href="src/pages/liga-bolivia.html">División Bolivia (Bol)</a></li>
+                        <li><a href="src/pages/liga-paraguay.html">Copa de Primera (Py)</a></li>
+                        <li><a href="src/pages/liga-peru.html">Liga 1 (Pe)</a></li>
+                        <li><a href="src/pages/liga-colombia.html">Liga BetPlay Dimayor (Col)</a></li>
+                        <li><a href="src/pages/liga-chile.html">Liga de Primera (Chi)</a></li>
+                        <li><a href="src/pages/liga-venezuela.html">Liga FUTVE (Ven)</a></li>
+                        <li><a href="src/pages/liga-ecuador.html">Liga Pro (prox)</a></li>
+                    </ul>
+                </li>
                 <li class="sidebar-dropdown">
                     <button>Competiciones</button>
                     <ul class="sidebar-submenu">
                         <li><a href="src/pages/champions.html">Champions League</a></li>
                         <li><a href="src/pages/europa-league.html">Europa League</a></li>
                         <li><a href="src/pages/libertadores.html">Copa Libertadores</a></li>
-                        <li><a href="src/pages/sudamericana.html">Copa sudamericana</a></li>
+                        <li><a href="src/pages/sudamericana.html">Copa Sudamericana</a></li>
                         <li><a href="src/pages/eliminatorias.html">Eliminatorias Conmebol</a></li>
                     </ul>
                 </li>

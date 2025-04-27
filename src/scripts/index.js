@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", async () => {
     const ligas = {
+        "NBA": "src/JSONs/resultadosnba.json",
         "Bundesliga": "src/JSONs/resultadosale.json",
         "Premier League": "src/JSONs/resultadosing.json",
         "La Liga": "src/JSONs/resultadosesp.json",
@@ -16,7 +17,13 @@ document.addEventListener("DOMContentLoaded", async () => {
         "MLS": "src/JSONs/resultadosmls.json",
         "Brasileirao": "src/JSONs/resultadosbra.json",
         "Liga AUF Uruguay": "src/JSONs/resultadosuru.json",
-        "NBA": "src/JSONs/resultadosnba.json"
+        "División Profesional Bolivia": "src/JSONs/resultadosboli.json",
+        "Copa de Primera": "src/JSONs/resultadospy.json",
+        "Liga 1": "src/JSONs/resultadosepru.json",
+        "Liga BetPlay Dimayor": "src/JSONs/resultadoscol.json",
+        "Liga de Primera": "src/JSONs/resultadoschi.json",
+        "Liga FUTVE": "src/JSONs/resultadosvnz.json",
+        "Campeonato Femenino": "src/JSONs/resultadosargfem.json",
     };
     
     const contenedor = document.querySelector(".resumen-ligas");

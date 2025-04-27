@@ -963,32 +963,32 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 15:00 HS",
+                "fecha": "26/04/2025 15:00 HS Finalizado",
                 "local": "RIV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/197.png",
                 "visitante": "DAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/72.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 17:15 HS",
+                "fecha": "26/04/2025 17:15 HS Finalizado",
                 "local": "PLC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/194.png",
                 "visitante": "JUV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/771.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025 20:15 HS",
+                "fecha": "26/04/2025 20:15 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/83.png",
                 "visitante": "WAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/200.png"
             },
             {
@@ -1218,29 +1218,29 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
+                "equipo": "Nacional",
+                "puntos": "25",
+                "pj": "13",
+                "pg": "7",
+                "pe": "4",
+                "pp": "2",
+                "gf": 29,
+                "gc": 15,
+                "dg": 14
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
                 "equipo": "Juventud",
-                "puntos": "23",
-                "pj": "12",
+                "puntos": "24",
+                "pj": "13",
                 "pg": "7",
-                "pe": "2",
+                "pe": "3",
                 "pp": "3",
                 "gf": 20,
                 "gc": 14,
                 "dg": 6
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "equipo": "Nacional",
-                "puntos": "22",
-                "pj": "12",
-                "pg": "6",
-                "pe": "4",
-                "pp": "2",
-                "gf": 26,
-                "gc": 14,
-                "dg": 12
             },
             {
                 "posicion": "4",
@@ -1272,10 +1272,10 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/194.png",
                 "equipo": "Plaza Colonia",
-                "puntos": "18",
-                "pj": "12",
+                "puntos": "19",
+                "pj": "13",
                 "pg": "5",
-                "pe": "3",
+                "pe": "4",
                 "pp": "4",
                 "gf": 11,
                 "gc": 9,
@@ -1361,32 +1361,45 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
-                "equipo": "Wanderers",
-                "puntos": "9",
-                "pj": "12",
-                "pg": "1",
-                "pe": "6",
-                "pp": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/197.png",
+                "equipo": "River Plate",
+                "puntos": "10",
+                "pj": "13",
+                "pg": "2",
+                "pe": "4",
+                "pp": "7",
                 "gf": 10,
-                "gc": 13,
-                "dg": -3
+                "gc": 16,
+                "dg": -6
             },
             {
                 "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
-                "equipo": "Danubio",
-                "puntos": "8",
-                "pj": "12",
-                "pg": "0",
-                "pe": "8",
-                "pp": "4",
-                "gf": 10,
-                "gc": 15,
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
+                "equipo": "Wanderers",
+                "puntos": "9",
+                "pj": "13",
+                "pg": "1",
+                "pe": "6",
+                "pp": "6",
+                "gf": 11,
+                "gc": 16,
                 "dg": -5
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
+                "equipo": "Danubio",
+                "puntos": "8",
+                "pj": "13",
+                "pg": "0",
+                "pe": "8",
+                "pp": "5",
+                "gf": 10,
+                "gc": 16,
+                "dg": -6
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/192.png",
                 "equipo": "Miramar Misiones",
                 "puntos": "8",
@@ -1397,19 +1410,6 @@
                 "gf": 12,
                 "gc": 21,
                 "dg": -9
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/197.png",
-                "equipo": "River Plate",
-                "puntos": "7",
-                "pj": "12",
-                "pg": "1",
-                "pe": "4",
-                "pp": "7",
-                "gf": 9,
-                "gc": 16,
-                "dg": -7
             }
         ],
         "goleadores": [
@@ -1429,7 +1429,7 @@
                 "nombre": "Nicolás López",
                 "equipo": "Nacional",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "goles": 6
+                "goles": 8
             },
             {
                 "nombre": "José Neris",
@@ -1441,6 +1441,12 @@
                 "nombre": "Nicolás Bertocchi",
                 "equipo": "Cerro Largo",
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Rodrigo Rivero",
+                "equipo": "Wanderers",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "goles": 5
             },
             {
@@ -1471,12 +1477,6 @@
                 "nombre": "Diogo de Oliveira",
                 "equipo": "Plaza Colonia",
                 "escudo": "https://statics-files.tycsports.com/escudos/194.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Mathías Abero",
-                "equipo": "Cerro",
-                "escudo": "https://statics-files.tycsports.com/escudos/188.png",
                 "goles": 4
             }
         ]
