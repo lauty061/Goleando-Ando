@@ -993,52 +993,52 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 10:45 HS",
+                "fecha": "27/04/2025 10:45 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png",
                 "visitante": "DEF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/110.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 13:00 HS",
+                "fecha": "27/04/2025 13:00 HS Finalizado",
                 "local": "BOR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/957.png",
                 "visitante": "MMI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/192.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 15:15 HS",
+                "fecha": "27/04/2025 15:15 HS Finalizado",
                 "local": "PRO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/510.png",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/191.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 18:15 HS",
+                "fecha": "27/04/2025 18:15 HS Suspendido",
                 "local": "PEÑ",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/98.png",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/188.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "28/04/2025 15:00 HS",
+                "fecha": "28/04/2025 15:00 HS Finalizado",
                 "local": "RCM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/964.png",
                 "visitante": "CLA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/958.png"
             },
             {
@@ -1207,14 +1207,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
-                "puntos": "26",
-                "pj": "12",
-                "pg": "7",
+                "puntos": "29",
+                "pj": "13",
+                "pg": "8",
                 "pe": "5",
                 "pp": "0",
-                "gf": 19,
+                "gf": 21,
                 "gc": 8,
-                "dg": 11
+                "dg": 13
             },
             {
                 "posicion": "2",
@@ -1231,6 +1231,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
+                "equipo": "Defensor Sporting",
+                "puntos": "24",
+                "pj": "13",
+                "pg": "7",
+                "pe": "3",
+                "pp": "3",
+                "gf": 16,
+                "gc": 9,
+                "dg": 7
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
                 "equipo": "Juventud",
                 "puntos": "24",
@@ -1243,29 +1256,16 @@
                 "dg": 6
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "equipo": "Defensor Sporting",
-                "puntos": "21",
-                "pj": "12",
-                "pg": "6",
-                "pe": "3",
-                "pp": "3",
-                "gf": 15,
-                "gc": 9,
-                "dg": 6
-            },
-            {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/964.png",
                 "equipo": "Racing (U)",
-                "puntos": "20",
-                "pj": "12",
+                "puntos": "21",
+                "pj": "13",
                 "pg": "6",
-                "pe": "2",
+                "pe": "3",
                 "pp": "4",
-                "gf": 12,
-                "gc": 8,
+                "gf": 13,
+                "gc": 9,
                 "dg": 4
             },
             {
@@ -1298,37 +1298,37 @@
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png",
                 "equipo": "Cerro Largo",
-                "puntos": "17",
-                "pj": "12",
+                "puntos": "18",
+                "pj": "13",
                 "pg": "4",
-                "pe": "5",
+                "pe": "6",
                 "pp": "3",
-                "gf": 12,
-                "gc": 13,
+                "gf": 13,
+                "gc": 14,
                 "dg": -1
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
-                "equipo": "MC Torque",
-                "puntos": "17",
-                "pj": "12",
-                "pg": "4",
-                "pe": "5",
-                "pp": "3",
-                "gf": 13,
-                "gc": 16,
-                "dg": -3
+                "escudo": "https://statics-files.tycsports.com/escudos/957.png",
+                "equipo": "Boston River",
+                "puntos": "18",
+                "pj": "13",
+                "pg": "5",
+                "pe": "3",
+                "pp": "5",
+                "gf": 15,
+                "gc": 17,
+                "dg": -2
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/957.png",
-                "equipo": "Boston River",
-                "puntos": "15",
-                "pj": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
+                "equipo": "MC Torque",
+                "puntos": "17",
+                "pj": "13",
                 "pg": "4",
-                "pe": "3",
-                "pp": "5",
+                "pe": "5",
+                "pp": "4",
                 "gf": 13,
                 "gc": 17,
                 "dg": -4
@@ -1351,13 +1351,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png",
                 "equipo": "Progreso",
                 "puntos": "12",
-                "pj": "12",
+                "pj": "13",
                 "pg": "2",
                 "pe": "6",
-                "pp": "4",
+                "pp": "5",
                 "gf": 13,
-                "gc": 21,
-                "dg": -8
+                "gc": 23,
+                "dg": -10
             },
             {
                 "posicion": "13",
@@ -1403,13 +1403,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/192.png",
                 "equipo": "Miramar Misiones",
                 "puntos": "8",
-                "pj": "12",
+                "pj": "13",
                 "pg": "2",
                 "pe": "2",
-                "pp": "8",
+                "pp": "9",
                 "gf": 12,
-                "gc": 21,
-                "dg": -9
+                "gc": 23,
+                "dg": -11
             }
         ],
         "goleadores": [
@@ -1417,7 +1417,7 @@
                 "nombre": "Abel Hernández",
                 "equipo": "Liverpool (U)",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
-                "goles": 9
+                "goles": 10
             },
             {
                 "nombre": "Agustín Rodríguez",
@@ -1430,6 +1430,12 @@
                 "equipo": "Nacional",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
                 "goles": 8
+            },
+            {
+                "nombre": "Walter Montoya",
+                "equipo": "Defensor Sporting",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
+                "goles": 5
             },
             {
                 "nombre": "José Neris",
@@ -1456,12 +1462,6 @@
                 "goles": 4
             },
             {
-                "nombre": "Walter Montoya",
-                "equipo": "Defensor Sporting",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Hugo Quintana",
                 "equipo": "Liverpool (U)",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
@@ -1474,9 +1474,9 @@
                 "goles": 4
             },
             {
-                "nombre": "Diogo de Oliveira",
-                "equipo": "Plaza Colonia",
-                "escudo": "https://statics-files.tycsports.com/escudos/194.png",
+                "nombre": "Maximiliano Silvera",
+                "equipo": "Peñarol",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "goles": 4
             }
         ]

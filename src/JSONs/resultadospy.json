@@ -923,32 +923,32 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 18:00 HS",
+                "fecha": "27/04/2025 18:00 HS Finalizado",
                 "local": "LUQ",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/213.png",
                 "visitante": "CAB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7788.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 20:15 HS",
+                "fecha": "27/04/2025 20:15 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png",
                 "visitante": "LIB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "28/04/2025 18:00 HS",
+                "fecha": "28/04/2025 18:00 HS Entretiempo",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png",
                 "visitante": "OLI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/215.png"
             },
             {
@@ -1327,10 +1327,10 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png",
                 "equipo": "Libertad",
-                "puntos": "34",
-                "pj": "15",
+                "puntos": "35",
+                "pj": "16",
                 "pg": "10",
-                "pe": "4",
+                "pe": "5",
                 "pp": "1",
                 "gf": 31,
                 "gc": 12,
@@ -1405,10 +1405,10 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "equipo": "Sp. Ameliano",
-                "puntos": "17",
-                "pj": "15",
+                "puntos": "18",
+                "pj": "16",
                 "pg": "4",
-                "pe": "5",
+                "pe": "6",
                 "pp": "6",
                 "gf": 16,
                 "gc": 17,
@@ -1416,6 +1416,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/7788.png",
+                "equipo": "G. Caballero JLM",
+                "puntos": "17",
+                "pj": "16",
+                "pg": "4",
+                "pe": "5",
+                "pp": "7",
+                "gf": 11,
+                "gc": 17,
+                "dg": -6
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/7935.png",
                 "equipo": "A. Tembetary",
                 "puntos": "16",
@@ -1428,26 +1441,13 @@
                 "dg": -5
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/7788.png",
-                "equipo": "G. Caballero JLM",
-                "puntos": "16",
-                "pj": "15",
-                "pg": "4",
-                "pe": "4",
-                "pp": "7",
-                "gf": 11,
-                "gc": 17,
-                "dg": -6
-            },
-            {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png",
                 "equipo": "Sportivo Luqueño",
-                "puntos": "15",
-                "pj": "15",
+                "puntos": "16",
+                "pj": "16",
                 "pg": "3",
-                "pe": "6",
+                "pe": "7",
                 "pp": "6",
                 "gf": 10,
                 "gc": 18,
@@ -1530,6 +1530,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Iván Leguizamón",
+                "equipo": "Olimpia",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Jonathan  Torres",
                 "equipo": "Cerro Porteño",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
@@ -1539,12 +1545,6 @@
                 "nombre": "Gustavo Caballero",
                 "equipo": "Nacional (P)",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Derlis González",
-                "equipo": "Olimpia",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
                 "goles": 4
             }
         ]

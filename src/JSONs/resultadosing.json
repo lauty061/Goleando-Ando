@@ -3373,22 +3373,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 10:00 HS",
+                "fecha": "27/04/2025 10:00 HS Finalizado",
                 "local": "BOU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5376.png",
                 "visitante": "MAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/568.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 12:30 HS",
+                "fecha": "27/04/2025 12:30 HS Finalizado",
                 "local": "LIV",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/566.png",
                 "visitante": "TOT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/574.png"
             },
             {
@@ -3807,14 +3807,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png",
                 "equipo": "Liverpool",
-                "puntos": "79",
-                "pj": "33",
-                "pg": "24",
+                "puntos": "82",
+                "pj": "34",
+                "pg": "25",
                 "pe": "7",
                 "pp": "2",
-                "gf": 75,
-                "gc": 31,
-                "dg": 44
+                "gf": 80,
+                "gc": 32,
+                "dg": 48
             },
             {
                 "posicion": "2",
@@ -3924,13 +3924,13 @@
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
                 "equipo": "Bournemouth",
-                "puntos": "49",
-                "pj": "33",
+                "puntos": "50",
+                "pj": "34",
                 "pg": "13",
-                "pe": "10",
+                "pe": "11",
                 "pp": "10",
-                "gf": 52,
-                "gc": 40,
+                "gf": 53,
+                "gc": 41,
                 "dg": 12
             },
             {
@@ -3974,6 +3974,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/568.png",
+                "equipo": "Manchester United",
+                "puntos": "39",
+                "pj": "34",
+                "pg": "10",
+                "pe": "9",
+                "pp": "15",
+                "gf": 39,
+                "gc": 47,
+                "dg": -8
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/564.png",
                 "equipo": "Everton",
                 "puntos": "38",
@@ -3986,30 +3999,17 @@
                 "dg": -7
             },
             {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/568.png",
-                "equipo": "Manchester United",
-                "puntos": "38",
-                "pj": "33",
-                "pg": "10",
-                "pe": "8",
-                "pp": "15",
-                "gf": 38,
-                "gc": 46,
-                "dg": -8
-            },
-            {
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/574.png",
                 "equipo": "Tottenham",
                 "puntos": "37",
-                "pj": "33",
+                "pj": "34",
                 "pg": "11",
                 "pe": "4",
-                "pp": "18",
-                "gf": 61,
-                "gc": 51,
-                "dg": 10
+                "pp": "19",
+                "gf": 62,
+                "gc": 56,
+                "dg": 6
             },
             {
                 "posicion": "17",
@@ -4069,7 +4069,7 @@
                 "nombre": "Mohamed Salah",
                 "equipo": "Liverpool",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png",
-                "goles": 27
+                "goles": 28
             },
             {
                 "nombre": "Alexander Isak",

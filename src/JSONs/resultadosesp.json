@@ -2593,12 +2593,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 11:15 HS",
+                "fecha": "27/04/2025 11:15 HS Finalizado",
                 "local": "VIL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/43.png",
                 "visitante": "ESP",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/34.png"
             },
             {
@@ -3403,7 +3403,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "09/05/2025  HS",
+                "fecha": "09/05/2025 16:00 HS",
                 "local": "LPA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4058.png",
@@ -3857,6 +3857,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/43.png",
+                "equipo": "Villarreal",
+                "puntos": "55",
+                "pj": "33",
+                "pg": "15",
+                "pe": "10",
+                "pp": "8",
+                "gf": 56,
+                "gc": 45,
+                "dg": 11
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/32.png",
                 "equipo": "Betis",
                 "puntos": "54",
@@ -3867,19 +3880,6 @@
                 "gf": 50,
                 "gc": 41,
                 "dg": 9
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/43.png",
-                "equipo": "Villarreal",
-                "puntos": "52",
-                "pj": "32",
-                "pg": "14",
-                "pe": "10",
-                "pp": "8",
-                "gf": 55,
-                "gc": 45,
-                "dg": 10
             },
             {
                 "posicion": "7",
@@ -3964,13 +3964,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/34.png",
                 "equipo": "Espanyol",
                 "puntos": "39",
-                "pj": "32",
+                "pj": "33",
                 "pg": "10",
                 "pe": "9",
-                "pp": "13",
+                "pp": "14",
                 "gf": 35,
-                "gc": 41,
-                "dg": -6
+                "gc": 42,
+                "dg": -7
             },
             {
                 "posicion": "14",

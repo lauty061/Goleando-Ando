@@ -943,12 +943,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 12:00 HS",
+                "fecha": "27/04/2025 12:00 HS Finalizado",
                 "local": "SAT",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png",
                 "visitante": "TAL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11974.png"
             },
             {
@@ -1404,6 +1404,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "equipo": "SATSAID",
+                "puntos": "21",
+                "pj": "12",
+                "pg": "6",
+                "pe": "3",
+                "pp": "3",
+                "gf": 16,
+                "gc": 6,
+                "dg": 10
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
                 "equipo": "Boca Juniors",
                 "puntos": "20",
@@ -1416,7 +1429,7 @@
                 "dg": 8
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "equipo": "Banfield",
                 "puntos": "19",
@@ -1429,7 +1442,7 @@
                 "dg": 5
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
                 "equipo": "Racing",
                 "puntos": "18",
@@ -1442,30 +1455,17 @@
                 "dg": 8
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
-                "equipo": "SATSAID",
-                "puntos": "18",
-                "pj": "11",
-                "pg": "5",
-                "pe": "3",
-                "pp": "3",
-                "gf": 13,
-                "gc": 5,
-                "dg": 8
-            },
-            {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "15",
-                "pj": "11",
+                "pj": "12",
                 "pg": "4",
                 "pe": "3",
-                "pp": "4",
+                "pp": "5",
                 "gf": 15,
-                "gc": 13,
-                "dg": 2
+                "gc": 14,
+                "dg": 1
             },
             {
                 "posicion": "9",
@@ -1510,27 +1510,27 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "equipo": "River Plate",
-                "puntos": "10",
-                "pj": "10",
-                "pg": "2",
+                "puntos": "13",
+                "pj": "11",
+                "pg": "3",
                 "pe": "4",
                 "pp": "4",
-                "gf": 10,
+                "gf": 11,
                 "gc": 12,
-                "dg": -2
+                "dg": -1
             },
             {
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
                 "equipo": "Talleres",
                 "puntos": "9",
-                "pj": "10",
+                "pj": "11",
                 "pg": "2",
                 "pe": "3",
-                "pp": "5",
-                "gf": 13,
-                "gc": 19,
-                "dg": -6
+                "pp": "6",
+                "gf": 14,
+                "gc": 22,
+                "dg": -8
             },
             {
                 "posicion": "14",
@@ -1587,6 +1587,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Zoraida Leguizamón",
+                "equipo": "SATSAID",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Marleidy Cossio",
                 "equipo": "Banfield",
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
@@ -1599,9 +1605,9 @@
                 "goles": 7
             },
             {
-                "nombre": "Zoraida Leguizamón",
-                "equipo": "SATSAID",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "nombre": "Kimberlyn  Campos",
+                "equipo": "River Plate",
+                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "goles": 6
             },
             {
@@ -1620,12 +1626,6 @@
                 "nombre": "Lali Esquivel",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Kimberlyn  Campos",
-                "equipo": "River Plate",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "goles": 5
             },
             {

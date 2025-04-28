@@ -693,32 +693,32 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 13:30 HS",
+                "fecha": "27/04/2025 13:30 HS Finalizado",
                 "local": "OHI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
                 "visitante": "DIQ",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/943.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 16:00 HS",
+                "fecha": "27/04/2025 16:00 HS Finalizado",
                 "local": "PAL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
                 "visitante": "UCH",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "27/04/2025 18:30 HS",
+                "fecha": "27/04/2025 18:30 HS Finalizado",
                 "local": "HUA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
                 "visitante": "UES",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/157.png"
             },
             {
@@ -2418,16 +2418,16 @@
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
-                "equipo": "Palestino",
-                "puntos": "16",
-                "pj": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
+                "equipo": "Huachipato",
+                "puntos": "17",
+                "pj": "9",
                 "pg": "5",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 12,
-                "gc": 6,
-                "dg": 6
+                "gf": 14,
+                "gc": 7,
+                "dg": 7
             },
             {
                 "posicion": "3",
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
+                "equipo": "Palestino",
+                "puntos": "16",
+                "pj": "9",
+                "pg": "5",
+                "pe": "1",
+                "pp": "3",
+                "gf": 14,
+                "gc": 9,
+                "dg": 5
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "16",
@@ -2456,7 +2469,7 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
                 "equipo": "Cobresal",
                 "puntos": "15",
@@ -2467,19 +2480,6 @@
                 "gf": 13,
                 "gc": 9,
                 "dg": 4
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
-                "equipo": "Huachipato",
-                "puntos": "14",
-                "pj": "8",
-                "pg": "4",
-                "pe": "2",
-                "pp": "2",
-                "gf": 12,
-                "gc": 6,
-                "dg": 6
             },
             {
                 "posicion": "7",
@@ -2498,27 +2498,27 @@
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "equipo": "O'Higgins",
-                "puntos": "13",
-                "pj": "8",
+                "puntos": "14",
+                "pj": "9",
                 "pg": "3",
-                "pe": "4",
+                "pe": "5",
                 "pp": "1",
-                "gf": 8,
-                "gc": 5,
+                "gf": 10,
+                "gc": 7,
                 "dg": 3
             },
             {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "equipo": "U. de Chile",
-                "puntos": "10",
-                "pj": "6",
-                "pg": "3",
+                "puntos": "13",
+                "pj": "7",
+                "pg": "4",
                 "pe": "1",
                 "pp": "2",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
+                "gf": 14,
+                "gc": 8,
+                "dg": 6
             },
             {
                 "posicion": "10",
@@ -2564,13 +2564,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/157.png",
                 "equipo": "Unión Española",
                 "puntos": "6",
-                "pj": "7",
+                "pj": "8",
                 "pg": "2",
                 "pe": "0",
-                "pp": "5",
-                "gf": 8,
-                "gc": 12,
-                "dg": -4
+                "pp": "6",
+                "gf": 9,
+                "gc": 14,
+                "dg": -5
             },
             {
                 "posicion": "14",
@@ -2602,13 +2602,13 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/943.png",
                 "equipo": "Deportes Iquique",
-                "puntos": "1",
-                "pj": "7",
+                "puntos": "2",
+                "pj": "8",
                 "pg": "0",
-                "pe": "1",
+                "pe": "2",
                 "pp": "6",
-                "gf": 4,
-                "gc": 18,
+                "gf": 6,
+                "gc": 20,
                 "dg": -14
             }
         ],
@@ -2644,6 +2644,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Mario Briceño",
+                "equipo": "Huachipato",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Joe Abrigo",
                 "equipo": "Palestino",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
@@ -2656,28 +2662,22 @@
                 "goles": 4
             },
             {
+                "nombre": "Junior Marabel",
+                "equipo": "Palestino",
+                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Fernando Zampedri",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "goles": 4
             },
             {
-                "nombre": "Junior Marabel",
-                "equipo": "Palestino",
-                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Mario Briceño",
-                "equipo": "Huachipato",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Sebastián Gallegos",
-                "equipo": "D. La Serena",
-                "escudo": "https://statics-files.tycsports.com/escudos/150.png",
-                "goles": 3
+                "nombre": "Pablo Aránguiz",
+                "equipo": "Unión Española",
+                "escudo": "https://statics-files.tycsports.com/escudos/157.png",
+                "goles": 4
             }
         ]
     }
