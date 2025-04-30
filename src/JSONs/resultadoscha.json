@@ -1863,12 +1863,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "29/04/2025 16:00 HS",
+                "fecha": "29/04/2025 16:00 HS Finalizado",
                 "local": "ASL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/558.png",
                 "visitante": "PSG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1370.png"
             },
             {
@@ -2388,6 +2388,12 @@
                 "goles": 11
             },
             {
+                "nombre": "Ousmane Dembélé",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Lautaro Martínez",
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
@@ -2409,12 +2415,6 @@
                 "nombre": "Julián Álvarez",
                 "equipo": "Atlético de Madrid",
                 "escudo": "https://statics-files.tycsports.com/escudos/29.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Ousmane Dembélé",
-                "equipo": "PSG",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
                 "goles": 7
             },
             {

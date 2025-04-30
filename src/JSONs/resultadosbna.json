@@ -1073,12 +1073,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "28/04/2025 21:10 HS",
+                "fecha": "28/04/2025 21:10 HS Finalizado",
                 "local": "ALB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/668.png",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/630.png"
             },
             {
@@ -6394,6 +6394,20 @@
             {
                 "zona": "Zona A",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/630.png",
+                "equipo": "Tristán Suárez",
+                "puntos": "20",
+                "pj": "12",
+                "pg": "5",
+                "pe": "5",
+                "pp": "2",
+                "gf": 12,
+                "gc": 8,
+                "dg": 4
+            },
+            {
+                "zona": "Zona A",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png",
                 "equipo": "Quilmes",
                 "puntos": "19",
@@ -6407,7 +6421,7 @@
             },
             {
                 "zona": "Zona A",
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/141.png",
                 "equipo": "Racing (Cba)",
                 "puntos": "19",
@@ -6421,7 +6435,7 @@
             },
             {
                 "zona": "Zona A",
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png",
                 "equipo": "San Miguel",
                 "puntos": "17",
@@ -6432,20 +6446,6 @@
                 "gf": 13,
                 "gc": 10,
                 "dg": 3
-            },
-            {
-                "zona": "Zona A",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/630.png",
-                "equipo": "Tristán Suárez",
-                "puntos": "17",
-                "pj": "11",
-                "pg": "4",
-                "pe": "5",
-                "pp": "2",
-                "gf": 10,
-                "gc": 8,
-                "dg": 2
             },
             {
                 "zona": "Zona A",
@@ -6565,13 +6565,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/668.png",
                 "equipo": "All Boys",
                 "puntos": "13",
-                "pj": "11",
+                "pj": "12",
                 "pg": "3",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 12,
-                "gc": 11,
-                "dg": 1
+                "gc": 13,
+                "dg": -1
             },
             {
                 "zona": "Zona A",

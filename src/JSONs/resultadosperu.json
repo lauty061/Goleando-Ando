@@ -883,9 +883,9 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "28/04/2025 17:30 HS Segundo Tiempo",
+                "fecha": "28/04/2025 17:30 HS Finalizado",
                 "local": "ADT",
-                "goles_local": "0",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10029.png",
                 "visitante": "CUS",
                 "goles_visita": "1",
@@ -893,12 +893,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "28/04/2025 21:00 HS",
+                "fecha": "28/04/2025 21:00 HS Finalizado",
                 "local": "CIE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
                 "visitante": "DSH",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1659.png"
             },
             {
@@ -3537,6 +3537,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
+                "equipo": "ADT de Tarma",
+                "puntos": "18",
+                "pj": "10",
+                "pg": "5",
+                "pe": "3",
+                "pp": "2",
+                "gf": 19,
+                "gc": 17,
+                "dg": 2
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/92.png",
                 "equipo": "Sporting Cristal",
                 "puntos": "16",
@@ -3549,46 +3562,20 @@
                 "dg": 3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "16",
-                "pj": "9",
+                "pj": "10",
                 "pg": "5",
                 "pe": "1",
-                "pp": "3",
-                "gf": 14,
-                "gc": 13,
-                "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
-                "equipo": "ADT de Tarma",
-                "puntos": "15",
-                "pj": "9",
-                "pg": "4",
-                "pe": "3",
-                "pp": "2",
-                "gf": 17,
-                "gc": 16,
-                "dg": 1
+                "pp": "4",
+                "gf": 15,
+                "gc": 15,
+                "dg": 0
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
-                "equipo": "Cusco FC",
-                "puntos": "13",
-                "pj": "8",
-                "pg": "4",
-                "pe": "1",
-                "pp": "3",
-                "gf": 14,
-                "gc": 11,
-                "dg": 3
-            },
-            {
-                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/103.png",
                 "equipo": "Alianza Atlético",
                 "puntos": "13",
@@ -3599,6 +3586,19 @@
                 "gf": 14,
                 "gc": 11,
                 "dg": 3
+            },
+            {
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
+                "equipo": "Cusco FC",
+                "puntos": "13",
+                "pj": "9",
+                "pg": "4",
+                "pe": "1",
+                "pp": "4",
+                "gf": 15,
+                "gc": 13,
+                "dg": 2
             },
             {
                 "posicion": "10",
@@ -3628,6 +3628,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
+                "equipo": "Cienciano",
+                "puntos": "10",
+                "pj": "9",
+                "pg": "2",
+                "pe": "4",
+                "pp": "3",
+                "gf": 14,
+                "gc": 15,
+                "dg": -1
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
                 "equipo": "Grau",
                 "puntos": "10",
@@ -3640,7 +3653,7 @@
                 "dg": -1
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
                 "equipo": "Los Chankas",
                 "puntos": "8",
@@ -3653,7 +3666,7 @@
                 "dg": -2
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
                 "equipo": "UTC",
                 "puntos": "8",
@@ -3664,19 +3677,6 @@
                 "gf": 8,
                 "gc": 20,
                 "dg": -12
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "equipo": "Cienciano",
-                "puntos": "7",
-                "pj": "8",
-                "pg": "1",
-                "pe": "4",
-                "pp": "3",
-                "gf": 12,
-                "gc": 14,
-                "dg": -2
             },
             {
                 "posicion": "16",
@@ -3736,7 +3736,7 @@
                 "nombre": "Jhonny Vidales",
                 "equipo": "ADT de Tarma",
                 "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
-                "goles": 9
+                "goles": 10
             },
             {
                 "nombre": "Pablo Erustes",

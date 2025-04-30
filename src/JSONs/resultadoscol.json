@@ -1593,12 +1593,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "29/04/2025 21:30 HS",
+                "fecha": "29/04/2025 21:30 HS Finalizado",
                 "local": "ATN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/105.png",
                 "visitante": "PAS",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png"
             },
             {
@@ -2265,6 +2265,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/105.png",
+                "equipo": "At. Nacional",
+                "puntos": "31",
+                "pj": "16",
+                "pg": "9",
+                "pe": "4",
+                "pp": "3",
+                "gf": 31,
+                "gc": 14,
+                "dg": 17
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png",
                 "equipo": "Millonarios",
                 "puntos": "30",
@@ -2277,7 +2290,7 @@
                 "dg": 10
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png",
                 "equipo": "Junior",
                 "puntos": "30",
@@ -2290,7 +2303,7 @@
                 "dg": 9
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/66.png",
                 "equipo": "América de Cali",
                 "puntos": "29",
@@ -2301,19 +2314,6 @@
                 "gf": 24,
                 "gc": 12,
                 "dg": 12
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/105.png",
-                "equipo": "At. Nacional",
-                "puntos": "28",
-                "pj": "15",
-                "pg": "8",
-                "pe": "4",
-                "pp": "3",
-                "gf": 28,
-                "gc": 14,
-                "dg": 14
             },
             {
                 "posicion": "5",
@@ -2356,19 +2356,6 @@
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/180.png",
-                "equipo": "Pasto",
-                "puntos": "23",
-                "pj": "15",
-                "pg": "6",
-                "pe": "5",
-                "pp": "4",
-                "gf": 16,
-                "gc": 13,
-                "dg": 3
-            },
-            {
-                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png",
                 "equipo": "Deportivo Cali",
                 "puntos": "23",
@@ -2381,7 +2368,7 @@
                 "dg": 2
             },
             {
-                "posicion": "10",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/88.png",
                 "equipo": "Once Caldas",
                 "puntos": "23",
@@ -2391,6 +2378,19 @@
                 "pp": "6",
                 "gf": 17,
                 "gc": 17,
+                "dg": 0
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/180.png",
+                "equipo": "Pasto",
+                "puntos": "23",
+                "pj": "16",
+                "pg": "6",
+                "pe": "5",
+                "pp": "5",
+                "gf": 16,
+                "gc": 16,
                 "dg": 0
             },
             {
