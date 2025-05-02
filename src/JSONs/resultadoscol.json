@@ -393,12 +393,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/04/2025 20:00 HS",
+                "fecha": "30/04/2025 20:00 HS Finalizado",
                 "local": "AGU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/922.png",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/66.png"
             },
             {
@@ -1093,12 +1093,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/05/2025 16:00 HS",
+                "fecha": "01/05/2025 16:00 HS Finalizado",
                 "local": "ENV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/182.png",
                 "visitante": "ONC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/88.png"
             },
             {
@@ -1273,16 +1273,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "12/04/2025  HS Postergado",
-                "local": "DIM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png",
-                "visitante": "TOL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "13/04/2025 20:00 HS Finalizado",
                 "local": "MIL",
                 "goles_local": "0",
@@ -1300,6 +1290,16 @@
                 "visitante": "FOR",
                 "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3209.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "15/05/2025 21:30 HS",
+                "local": "DIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png",
+                "visitante": "TOL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png"
             },
             {
                 "fecha_torneo": null,
@@ -1433,16 +1433,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "19/04/2025  HS Postergado",
-                "local": "MIL",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/184.png",
-                "visitante": "PER",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "20/04/2025 16:00 HS Finalizado",
                 "local": "ENV",
                 "goles_local": "3",
@@ -1493,13 +1483,23 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/04/2025 22:10 HS",
+                "fecha": "30/04/2025 22:10 HS Finalizado",
                 "local": "LLA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/880.png",
                 "visitante": "SFE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/183.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "08/05/2025 21:30 HS",
+                "local": "MIL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/184.png",
+                "visitante": "PER",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png"
             },
             {
                 "fecha_torneo": null,
@@ -2265,6 +2265,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
+                "equipo": "América de Cali",
+                "puntos": "32",
+                "pj": "17",
+                "pg": "9",
+                "pe": "5",
+                "pp": "3",
+                "gf": 25,
+                "gc": 12,
+                "dg": 13
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png",
                 "equipo": "At. Nacional",
                 "puntos": "31",
@@ -2277,7 +2290,7 @@
                 "dg": 17
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png",
                 "equipo": "Millonarios",
                 "puntos": "30",
@@ -2290,7 +2303,7 @@
                 "dg": 10
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png",
                 "equipo": "Junior",
                 "puntos": "30",
@@ -2301,19 +2314,6 @@
                 "gf": 20,
                 "gc": 11,
                 "dg": 9
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
-                "equipo": "América de Cali",
-                "puntos": "29",
-                "pj": "16",
-                "pg": "8",
-                "pe": "5",
-                "pp": "3",
-                "gf": 24,
-                "gc": 12,
-                "dg": 12
             },
             {
                 "posicion": "5",
@@ -2330,6 +2330,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/183.png",
+                "equipo": "Santa Fe",
+                "puntos": "27",
+                "pj": "17",
+                "pg": "7",
+                "pe": "6",
+                "pp": "4",
+                "gf": 23,
+                "gc": 16,
+                "dg": 7
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/179.png",
                 "equipo": "Tolima",
                 "puntos": "26",
@@ -2342,20 +2355,20 @@
                 "dg": 7
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/183.png",
-                "equipo": "Santa Fe",
-                "puntos": "24",
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/88.png",
+                "equipo": "Once Caldas",
+                "puntos": "26",
                 "pj": "16",
-                "pg": "6",
-                "pe": "6",
-                "pp": "4",
-                "gf": 22,
-                "gc": 16,
-                "dg": 6
+                "pg": "8",
+                "pe": "2",
+                "pp": "6",
+                "gf": 19,
+                "gc": 18,
+                "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png",
                 "equipo": "Deportivo Cali",
                 "puntos": "23",
@@ -2366,19 +2379,6 @@
                 "gf": 13,
                 "gc": 11,
                 "dg": 2
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/88.png",
-                "equipo": "Once Caldas",
-                "puntos": "23",
-                "pj": "15",
-                "pg": "7",
-                "pe": "2",
-                "pp": "6",
-                "gf": 17,
-                "gc": 17,
-                "dg": 0
             },
             {
                 "posicion": "10",
@@ -2437,13 +2437,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/182.png",
                 "equipo": "Envigado",
                 "puntos": "18",
-                "pj": "15",
+                "pj": "16",
                 "pg": "5",
                 "pe": "3",
-                "pp": "7",
-                "gf": 14,
-                "gc": 21,
-                "dg": -7
+                "pp": "8",
+                "gf": 15,
+                "gc": 23,
+                "dg": -8
             },
             {
                 "posicion": "15",
@@ -2463,13 +2463,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png",
                 "equipo": "Llaneros FC",
                 "puntos": "14",
-                "pj": "15",
+                "pj": "16",
                 "pg": "4",
                 "pe": "2",
-                "pp": "9",
+                "pp": "10",
                 "gf": 14,
-                "gc": 20,
-                "dg": -6
+                "gc": 21,
+                "dg": -7
             },
             {
                 "posicion": "17",
@@ -2489,13 +2489,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png",
                 "equipo": "Águilas Doradas",
                 "puntos": "11",
-                "pj": "15",
+                "pj": "16",
                 "pg": "1",
                 "pe": "8",
-                "pp": "6",
+                "pp": "7",
                 "gf": 8,
-                "gc": 13,
-                "dg": -5
+                "gc": 14,
+                "dg": -6
             },
             {
                 "posicion": "19",

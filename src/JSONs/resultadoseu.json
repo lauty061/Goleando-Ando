@@ -1843,12 +1843,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/05/2025 16:00 HS",
+                "fecha": "01/05/2025 16:00 HS Finalizado",
                 "local": "TOT",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/574.png",
                 "visitante": "BOD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7137.png"
             },
             {
@@ -1863,12 +1863,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/05/2025 16:00 HS",
+                "fecha": "01/05/2025 16:00 HS Finalizado",
                 "local": "ATH",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/30.png",
                 "visitante": "MAN",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/568.png"
             },
             {
@@ -2376,6 +2376,12 @@
                 "goles": 7
             },
             {
+                "nombre": "Bruno Fernandes",
+                "equipo": "Manchester United",
+                "escudo": "https://statics-files.tycsports.com/escudos/568.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Youssef En Nesyri",
                 "equipo": "Fenerbahçe",
                 "escudo": "https://statics-files.tycsports.com/escudos/804.png",
@@ -2412,21 +2418,15 @@
                 "goles": 6
             },
             {
-                "nombre": "Iñaki Williams",
-                "equipo": "Athletic Bilbao",
-                "escudo": "https://statics-files.tycsports.com/escudos/30.png",
-                "goles": 5
-            },
-            {
                 "nombre": "Nico Williams",
                 "equipo": "Athletic Bilbao",
                 "escudo": "https://statics-files.tycsports.com/escudos/30.png",
                 "goles": 5
             },
             {
-                "nombre": "Yunus Akgün",
-                "equipo": "Galatasaray",
-                "escudo": "https://statics-files.tycsports.com/escudos/1362.png",
+                "nombre": "Iñaki Williams",
+                "equipo": "Athletic Bilbao",
+                "escudo": "https://statics-files.tycsports.com/escudos/30.png",
                 "goles": 5
             }
         ]

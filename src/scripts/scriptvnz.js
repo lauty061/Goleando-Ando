@@ -32,6 +32,12 @@ document.addEventListener("DOMContentLoaded", async function () {
         "Fecha 11": ["2025-04-10", "2025-04-13"],
         "Fecha 12": ["2025-04-17", "2025-04-20"],
         "Fecha 13": ["2025-04-25", "2025-04-27"],
+        "Grupo A Fecha 1": ["2025-05-03", "2025-05-03"],
+        "Grupo A Fecha 2": ["2025-05-11", "2025-05-11"],
+        "Grupo A Fecha 3": ["2025-05-16", "2025-05-16"],
+        "Grupo B Fecha 1": ["2025-05-02", "2025-05-02"],
+        "Grupo B Fecha 2": ["2025-05-10", "2025-05-10"],
+        "Grupo B Fecha 3": ["2025-05-17", "2025-05-17"]
     };
 
     let fechaSelect = document.getElementById("fecha-select");

@@ -903,12 +903,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/05/2025 21:30 HS",
+                "fecha": "01/05/2025 21:30 HS Finalizado",
                 "local": "MEL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/203.png",
                 "visitante": "CUN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4950.png"
             },
             {
@@ -3513,13 +3513,13 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "equipo": "Melgar",
-                "puntos": "19",
-                "pj": "9",
+                "puntos": "20",
+                "pj": "10",
                 "pg": "6",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 17,
-                "gc": 10,
+                "gf": 18,
+                "gc": 11,
                 "dg": 7
             },
             {
@@ -3680,6 +3680,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/4950.png",
+                "equipo": "Com. Unidos",
+                "puntos": "7",
+                "pj": "9",
+                "pg": "1",
+                "pe": "4",
+                "pp": "4",
+                "gf": 12,
+                "gc": 18,
+                "dg": -6
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
                 "equipo": "Juan Pablo II",
                 "puntos": "6",
@@ -3690,19 +3703,6 @@
                 "gf": 9,
                 "gc": 14,
                 "dg": -5
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/4950.png",
-                "equipo": "Com. Unidos",
-                "puntos": "6",
-                "pj": "8",
-                "pg": "1",
-                "pe": "3",
-                "pp": "4",
-                "gf": 11,
-                "gc": 17,
-                "dg": -6
             },
             {
                 "posicion": "18",

@@ -1843,12 +1843,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/04/2025 16:00 HS",
+                "fecha": "30/04/2025 16:00 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/31.png",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/51.png"
             },
             {
@@ -2364,16 +2364,16 @@
         ],
         "goleadores": [
             {
+                "nombre": "Raphinha",
+                "equipo": "Barcelona",
+                "escudo": "https://statics-files.tycsports.com/escudos/31.png",
+                "goles": 13
+            },
+            {
                 "nombre": "Serhou Guirassy",
                 "equipo": "Borussia Dortmund",
                 "escudo": "https://statics-files.tycsports.com/escudos/707.png",
                 "goles": 13
-            },
-            {
-                "nombre": "Raphinha",
-                "equipo": "Barcelona",
-                "escudo": "https://statics-files.tycsports.com/escudos/31.png",
-                "goles": 12
             },
             {
                 "nombre": "Robert Lewandowski",

@@ -3393,12 +3393,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/05/2025 15:30 HS",
+                "fecha": "01/05/2025 15:30 HS Finalizado",
                 "local": "NTF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3295.png",
                 "visitante": "BRE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5377.png"
             },
             {
@@ -3654,16 +3654,6 @@
             {
                 "fecha_torneo": null,
                 "fecha": "18/05/2025 11:00 HS",
-                "local": "CRY",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/2183.png",
-                "visitante": "WOL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1692.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "18/05/2025 11:00 HS",
                 "local": "LEI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3786.png",
@@ -3683,16 +3673,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "18/05/2025 15:00 HS",
-                "local": "MCI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/567.png",
-                "visitante": "BOU",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/5376.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "19/05/2025 16:00 HS",
                 "local": "BHA",
                 "goles_local": "-",
@@ -3700,6 +3680,26 @@
                 "visitante": "LIV",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/566.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "20/05/2025 16:00 HS",
+                "local": "CRY",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/2183.png",
+                "visitante": "WOL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1692.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "20/05/2025 16:00 HS",
+                "local": "MCI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/567.png",
+                "visitante": "BOU",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/5376.png"
             },
             {
                 "fecha_torneo": null,
@@ -3873,13 +3873,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3295.png",
                 "equipo": "Nottingham Forest",
                 "puntos": "60",
-                "pj": "33",
+                "pj": "34",
                 "pg": "18",
                 "pe": "6",
-                "pp": "9",
+                "pp": "10",
                 "gf": 53,
-                "gc": 39,
-                "dg": 14
+                "gc": 41,
+                "dg": 12
             },
             {
                 "posicion": "7",
@@ -3937,14 +3937,14 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
                 "equipo": "Brentford",
-                "puntos": "46",
-                "pj": "33",
-                "pg": "13",
+                "puntos": "49",
+                "pj": "34",
+                "pg": "14",
                 "pe": "7",
                 "pp": "13",
-                "gf": 56,
+                "gf": 58,
                 "gc": 50,
-                "dg": 6
+                "dg": 8
             },
             {
                 "posicion": "12",
@@ -4099,7 +4099,7 @@
                 "nombre": "Yoane Wissa",
                 "equipo": "Brentford",
                 "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
-                "goles": 16
+                "goles": 17
             },
             {
                 "nombre": "Carneiro Da Cunha, M.",

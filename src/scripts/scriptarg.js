@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         "Fecha 13": ["2025-04-11", "2025-04-15"],
         "Fecha 14": ["2025-04-18", "2025-04-22"],
         "Fecha 15": ["2025-04-26", "2025-04-29"],
-        "Fecha 16": ["2025-05-04", "2025-05-04"]
+        "Fecha 16": ["2025-05-02", "2025-05-04"]
     };
 
     let fechaSelect = document.getElementById("fecha-select");
