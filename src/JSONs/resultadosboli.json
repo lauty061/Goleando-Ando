@@ -403,17 +403,37 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "02/05/2025 16:00 HS",
+                "fecha": "02/05/2025 16:00 HS Finalizado",
                 "local": "SAB",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11267.png",
                 "visitante": "IPE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3319.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "03/05/2025 16:00 HS",
+                "fecha": "03/05/2025 18:30 HS Finalizado",
+                "local": "STR",
+                "goles_local": "5",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/74.png",
+                "visitante": "CDG",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "03/05/2025 21:30 HS Finalizado",
+                "local": "TOM",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png",
+                "visitante": "AUR",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/228.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "03/05/2025  HS Postergado",
                 "local": "NAP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png",
@@ -423,42 +443,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "03/05/2025 18:30 HS",
-                "local": "STR",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/74.png",
-                "visitante": "CDG",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "03/05/2025 21:00 HS",
-                "local": "TOM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png",
-                "visitante": "AUR",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/228.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "04/05/2025 16:00 HS",
+                "fecha": "04/05/2025 16:00 HS Finalizado",
                 "local": "ABB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png",
                 "visitante": "BOL",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/70.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "04/05/2025 18:15 HS",
+                "fecha": "04/05/2025 18:15 HS Segundo Tiempo",
                 "local": "WIL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/236.png",
                 "visitante": "ALW",
-                "goles_visita": "-",
+                "goles_visita": "5",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3254.png"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "equipo": "Bolívar",
+                "puntos": "15",
+                "pj": "6",
+                "pg": "5",
+                "pe": "0",
+                "pp": "1",
+                "gf": 21,
+                "gc": 7,
+                "dg": 14
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "equipo": "Always Ready",
                 "puntos": "15",
@@ -2417,43 +2430,30 @@
                 "dg": 12
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "equipo": "Bolívar",
-                "puntos": "12",
-                "pj": "5",
-                "pg": "4",
-                "pe": "0",
-                "pp": "1",
-                "gf": 18,
-                "gc": 7,
-                "dg": 11
-            },
-            {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
-                "equipo": "ABB",
-                "puntos": "11",
-                "pj": "5",
-                "pg": "3",
-                "pe": "2",
-                "pp": "0",
-                "gf": 5,
-                "gc": 1,
-                "dg": 4
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "equipo": "The Strongest",
+                "puntos": "13",
+                "pj": "6",
+                "pg": "4",
+                "pe": "1",
+                "pp": "1",
+                "gf": 16,
+                "gc": 7,
+                "dg": 9
             },
             {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
-                "equipo": "The Strongest",
-                "puntos": "10",
-                "pj": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
+                "equipo": "ABB",
+                "puntos": "11",
+                "pj": "6",
                 "pg": "3",
-                "pe": "1",
+                "pe": "2",
                 "pp": "1",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
+                "gf": 5,
+                "gc": 4,
+                "dg": 1
             },
             {
                 "posicion": "5",
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
+                "equipo": "San Antonio",
+                "puntos": "8",
+                "pj": "6",
+                "pg": "2",
+                "pe": "2",
+                "pp": "2",
+                "gf": 9,
+                "gc": 9,
+                "dg": 0
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "equipo": "GV San José",
                 "puntos": "7",
@@ -2482,56 +2495,43 @@
                 "dg": -2
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
-                "equipo": "Guabirá",
-                "puntos": "6",
-                "pj": "5",
-                "pg": "2",
-                "pe": "0",
-                "pp": "3",
-                "gf": 10,
-                "gc": 13,
-                "dg": -3
-            },
-            {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
-                "equipo": "San Antonio",
-                "puntos": "5",
-                "pj": "5",
-                "pg": "1",
-                "pe": "2",
-                "pp": "2",
-                "gf": 5,
-                "gc": 7,
-                "dg": -2
-            },
-            {
-                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
                 "equipo": "Real Tomayapo",
-                "puntos": "5",
-                "pj": "5",
+                "puntos": "6",
+                "pj": "6",
                 "pg": "1",
-                "pe": "2",
+                "pe": "3",
                 "pp": "2",
                 "gf": 4,
                 "gc": 6,
                 "dg": -2
             },
             {
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
+                "equipo": "Guabirá",
+                "puntos": "6",
+                "pj": "6",
+                "pg": "2",
+                "pe": "0",
+                "pp": "4",
+                "gf": 11,
+                "gc": 18,
+                "dg": -7
+            },
+            {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
                 "equipo": "Independiente",
                 "puntos": "5",
-                "pj": "5",
+                "pj": "6",
                 "pg": "1",
                 "pe": "2",
-                "pp": "2",
-                "gf": 3,
-                "gc": 6,
-                "dg": -3
+                "pp": "3",
+                "gf": 5,
+                "gc": 10,
+                "dg": -5
             },
             {
                 "posicion": "11",
@@ -2602,10 +2602,10 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png",
                 "equipo": "Aurora",
-                "puntos": "-26",
-                "pj": "5",
+                "puntos": "-25",
+                "pj": "6",
                 "pg": "2",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
                 "gf": 13,
                 "gc": 11,
@@ -2617,6 +2617,18 @@
                 "nombre": "Gomes Netto, F.",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "goles": 6
+            },
+            {
+                "nombre": "Carlos Áñez",
+                "equipo": "Guabirá",
+                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Efmamjjasond González",
+                "equipo": "Always Ready",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "goles": 4
             },
             {
@@ -2632,51 +2644,39 @@
                 "goles": 4
             },
             {
+                "nombre": "Mario Otazú",
+                "equipo": "San Antonio Bulo Bulo",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Patricio Rodríguez",
+                "equipo": "Bolívar",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Darío Torrico",
+                "equipo": "Always Ready",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Héctor Bobadilla",
+                "equipo": "Wilstermann",
+                "escudo": "https://statics-files.tycsports.com/escudos/236.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Enrique Triverio",
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "goles": 4
             },
             {
-                "nombre": "Carlos Áñez",
-                "equipo": "Guabirá",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
-                "goles": 3
-            },
-            {
                 "nombre": "Leonel Justiniano",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Efmamjjasond González",
-                "equipo": "Always Ready",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Jeyson Chura",
-                "equipo": "The Strongest",
-                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Mollercke, R.",
-                "equipo": "Guabirá",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Patricio Rodríguez",
-                "equipo": "Bolívar",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Darío Torrico",
-                "equipo": "Always Ready",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "goles": 3
             }
         ]
