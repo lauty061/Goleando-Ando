@@ -1843,26 +1843,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/04/2025 16:00 HS Finalizado",
-                "local": "BAR",
-                "goles_local": "3",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/31.png",
-                "visitante": "INT",
-                "goles_visita": "3",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/51.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "06/05/2025 16:00 HS",
-                "local": "INT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/51.png",
-                "visitante": "BAR",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/31.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "29/04/2025 16:00 HS Finalizado",
                 "local": "ASL",
                 "goles_local": "0",
@@ -1873,23 +1853,43 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "07/05/2025 16:00 HS",
+                "fecha": "07/05/2025 16:00 HS Finalizado",
                 "local": "PSG",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png",
                 "visitante": "ASL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/558.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "31/05/2025  HS",
-                "local": "",
+                "fecha": "30/04/2025 16:00 HS Finalizado",
+                "local": "BAR",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/31.png",
+                "visitante": "INT",
+                "goles_visita": "3",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/51.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "06/05/2025 16:00 HS Finalizado",
+                "local": "INT",
+                "goles_local": "4",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/51.png",
+                "visitante": "BAR",
+                "goles_visita": "3",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/31.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "31/05/2025 16:00 HS",
+                "local": "PSG",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/0.png",
-                "visitante": "",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png",
+                "visitante": "INT",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/0.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/51.png"
             }
         ],
         "tabla_posiciones": [
@@ -2388,15 +2388,15 @@
                 "goles": 11
             },
             {
-                "nombre": "Ousmane Dembélé",
-                "equipo": "PSG",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
-                "goles": 8
-            },
-            {
                 "nombre": "Lautaro Martínez",
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
+                "goles": 9
+            },
+            {
+                "nombre": "Ousmane Dembélé",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
                 "goles": 8
             },
             {

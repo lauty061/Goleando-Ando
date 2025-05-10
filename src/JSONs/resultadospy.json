@@ -993,7 +993,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "04/05/2025 18:00 HS Segundo Tiempo",
+                "fecha": "04/05/2025 18:00 HS Finalizado",
                 "local": "NAC",
                 "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/214.png",
@@ -1003,42 +1003,42 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "04/05/2025 20:15 HS",
+                "fecha": "04/05/2025 20:15 HS Finalizado",
                 "local": "LIB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/69.png",
                 "visitante": "TEM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7935.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "05/05/2025 19:00 HS",
+                "fecha": "05/05/2025 19:00 HS Finalizado",
                 "local": "CAB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7788.png",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "09/05/2025 17:00 HS",
+                "fecha": "09/05/2025 17:00 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png",
                 "visitante": "2MA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "09/05/2025 19:30 HS",
+                "fecha": "09/05/2025 19:30 HS Finalizado",
                 "local": "TEM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7935.png",
                 "visitante": "NAC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png"
             },
             {
@@ -1327,10 +1327,10 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png",
                 "equipo": "Libertad",
-                "puntos": "35",
-                "pj": "16",
+                "puntos": "36",
+                "pj": "17",
                 "pg": "10",
-                "pe": "5",
+                "pe": "6",
                 "pp": "1",
                 "gf": 31,
                 "gc": 12,
@@ -1377,6 +1377,32 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "equipo": "Trinidense",
+                "puntos": "24",
+                "pj": "18",
+                "pg": "5",
+                "pe": "9",
+                "pp": "4",
+                "gf": 20,
+                "gc": 19,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "equipo": "Sp. Ameliano",
+                "puntos": "21",
+                "pj": "17",
+                "pg": "5",
+                "pe": "6",
+                "pp": "6",
+                "gf": 17,
+                "gc": 17,
+                "dg": 0
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "equipo": "D. Recoleta",
                 "puntos": "21",
@@ -1389,46 +1415,46 @@
                 "dg": -2
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
-                "equipo": "Trinidense",
-                "puntos": "20",
-                "pj": "16",
-                "pg": "4",
-                "pe": "8",
-                "pp": "4",
-                "gf": 17,
-                "gc": 17,
-                "dg": 0
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "equipo": "Sp. Ameliano",
-                "puntos": "18",
-                "pj": "16",
-                "pg": "4",
-                "pe": "6",
-                "pp": "6",
-                "gf": 16,
-                "gc": 17,
-                "dg": -1
-            },
-            {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/7788.png",
-                "equipo": "G. Caballero JLM",
-                "puntos": "17",
-                "pj": "16",
-                "pg": "4",
-                "pe": "5",
-                "pp": "7",
-                "gf": 11,
-                "gc": 17,
-                "dg": -6
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "equipo": "Nacional (P)",
+                "puntos": "18",
+                "pj": "18",
+                "pg": "5",
+                "pe": "3",
+                "pp": "10",
+                "gf": 14,
+                "gc": 23,
+                "dg": -9
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/7788.png",
+                "equipo": "G. Caballero JLM",
+                "puntos": "18",
+                "pj": "17",
+                "pg": "4",
+                "pe": "6",
+                "pp": "7",
+                "gf": 12,
+                "gc": 18,
+                "dg": -6
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/7935.png",
+                "equipo": "A. Tembetary",
+                "puntos": "17",
+                "pj": "18",
+                "pg": "3",
+                "pe": "8",
+                "pp": "7",
+                "gf": 14,
+                "gc": 20,
+                "dg": -6
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png",
                 "equipo": "Sportivo Luqueño",
                 "puntos": "17",
@@ -1441,43 +1467,17 @@
                 "dg": -8
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/7935.png",
-                "equipo": "A. Tembetary",
-                "puntos": "16",
-                "pj": "16",
-                "pg": "3",
-                "pe": "7",
-                "pp": "6",
-                "gf": 13,
-                "gc": 18,
-                "dg": -5
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
-                "equipo": "Nacional (P)",
-                "puntos": "15",
-                "pj": "16",
-                "pg": "4",
-                "pe": "3",
-                "pp": "9",
-                "gf": 12,
-                "gc": 21,
-                "dg": -9
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png",
                 "equipo": "2 de Mayo",
                 "puntos": "15",
-                "pj": "17",
+                "pj": "18",
                 "pg": "2",
                 "pe": "9",
-                "pp": "6",
-                "gf": 12,
-                "gc": 21,
-                "dg": -9
+                "pp": "7",
+                "gf": 13,
+                "gc": 23,
+                "dg": -10
             }
         ],
         "goleadores": [
@@ -1500,6 +1500,12 @@
                 "goles": 7
             },
             {
+                "nombre": "Juan Manuel Romero",
+                "equipo": "Trinidense",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Alejandro Silva",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
@@ -1512,7 +1518,13 @@
                 "goles": 5
             },
             {
-                "nombre": "Juan Manuel Romero",
+                "nombre": "Gustavo Caballero",
+                "equipo": "Nacional (P)",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Néstor Camacho",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "goles": 5
@@ -1533,18 +1545,6 @@
                 "nombre": "Iván Leguizamón",
                 "equipo": "Olimpia",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Jonathan  Torres",
-                "equipo": "Cerro Porteño",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Gustavo Caballero",
-                "equipo": "Nacional (P)",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "goles": 4
             }
         ]

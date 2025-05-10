@@ -1633,22 +1633,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "04/05/2025 20:00 HS",
+                "fecha": "04/05/2025 20:00 HS Finalizado",
                 "local": "SKC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3203.png",
                 "visitante": "LAG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2112.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "10/05/2025 15:30 HS",
+                "fecha": "10/05/2025 15:30 HS Primer Tiempo",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1688.png",
                 "visitante": "ATL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6751.png"
             },
             {
@@ -5720,6 +5720,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/3203.png",
+                "equipo": "Sporting KC",
+                "puntos": "10",
+                "pj": "11",
+                "pg": "3",
+                "pe": "1",
+                "pp": "7",
+                "gf": 17,
+                "gc": 21,
+                "dg": -4
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/10774.png",
                 "equipo": "St. Louis City",
                 "puntos": "10",
@@ -5733,7 +5747,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/1297.png",
                 "equipo": "Houston",
                 "puntos": "10",
@@ -5747,44 +5761,30 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/3203.png",
-                "equipo": "Sporting KC",
-                "puntos": "7",
-                "pj": "10",
-                "pg": "2",
-                "pe": "1",
-                "pp": "7",
-                "gf": 16,
-                "gc": 21,
-                "dg": -5
-            },
-            {
-                "zona": "Grupo Oeste",
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/2112.png",
                 "equipo": "LA Galaxy",
                 "puntos": "3",
-                "pj": "10",
+                "pj": "11",
                 "pg": "0",
                 "pe": "3",
-                "pp": "7",
+                "pp": "8",
                 "gf": 8,
-                "gc": 20,
-                "dg": -12
+                "gc": 21,
+                "dg": -13
             }
         ],
         "goleadores": [
             {
-                "nombre": "Tai Baribo",
-                "equipo": "Philadelphia Union",
-                "escudo": "https://statics-files.tycsports.com/escudos/2109.png",
-                "goles": 7
-            },
-            {
                 "nombre": "Hugo Cuypers",
                 "equipo": "Chicago Fire",
                 "escudo": "https://statics-files.tycsports.com/escudos/1688.png",
+                "goles": 8
+            },
+            {
+                "nombre": "Tai Baribo",
+                "equipo": "Philadelphia Union",
+                "escudo": "https://statics-files.tycsports.com/escudos/2109.png",
                 "goles": 7
             },
             {

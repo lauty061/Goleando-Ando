@@ -783,9 +783,9 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "04/05/2025 18:30 HS Segundo Tiempo",
+                "fecha": "04/05/2025 18:30 HS Finalizado",
                 "local": "AUD",
-                "goles_local": "1",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
                 "visitante": "LSE",
                 "goles_visita": "1",
@@ -793,12 +793,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "04/05/2025 21:00 HS",
+                "fecha": "04/05/2025 21:00 HS Finalizado",
                 "local": "ÑUB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
                 "visitante": "ULC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/143.png",
+                "equipo": "Audax Italiano",
+                "puntos": "19",
+                "pj": "10",
+                "pg": "6",
+                "pe": "1",
+                "pp": "3",
+                "gf": 17,
+                "gc": 11,
+                "dg": 6
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "equipo": "Palestino",
                 "puntos": "19",
@@ -2417,7 +2430,7 @@
                 "dg": 6
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "19",
@@ -2430,7 +2443,7 @@
                 "dg": 6
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
                 "equipo": "Cobresal",
                 "puntos": "18",
@@ -2443,7 +2456,7 @@
                 "dg": 5
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "equipo": "U. Católica",
                 "puntos": "17",
@@ -2456,7 +2469,7 @@
                 "dg": 9
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "equipo": "Huachipato",
                 "puntos": "17",
@@ -2469,7 +2482,7 @@
                 "dg": 4
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "equipo": "U. de Chile",
                 "puntos": "16",
@@ -2482,29 +2495,16 @@
                 "dg": 7
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/143.png",
-                "equipo": "Audax Italiano",
-                "puntos": "16",
-                "pj": "9",
-                "pg": "5",
-                "pe": "1",
-                "pp": "3",
-                "gf": 15,
-                "gc": 10,
-                "dg": 5
-            },
-            {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "equipo": "U. La Calera",
-                "puntos": "14",
-                "pj": "9",
+                "puntos": "15",
+                "pj": "10",
                 "pg": "4",
-                "pe": "2",
+                "pe": "3",
                 "pp": "3",
-                "gf": 11,
-                "gc": 7,
+                "gf": 12,
+                "gc": 8,
                 "dg": 4
             },
             {
@@ -2522,6 +2522,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
+                "equipo": "Ñublense",
+                "puntos": "11",
+                "pj": "10",
+                "pg": "2",
+                "pe": "5",
+                "pp": "3",
+                "gf": 8,
+                "gc": 15,
+                "dg": -7
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
                 "equipo": "Colo Colo",
                 "puntos": "10",
@@ -2534,30 +2547,17 @@
                 "dg": 3
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png",
                 "equipo": "D. La Serena",
                 "puntos": "10",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "1",
-                "pp": "5",
-                "gf": 9,
-                "gc": 16,
-                "dg": -7
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
-                "equipo": "Ñublense",
-                "puntos": "10",
-                "pj": "9",
-                "pg": "2",
-                "pe": "4",
-                "pp": "3",
-                "gf": 7,
-                "gc": 14,
-                "dg": -7
+                "pp": "6",
+                "gf": 10,
+                "gc": 18,
+                "dg": -8
             },
             {
                 "posicion": "13",
@@ -2623,7 +2623,7 @@
                 "nombre": "Sebastián Sáez",
                 "equipo": "U. La Calera",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "goles": 5
+                "goles": 6
             },
             {
                 "nombre": "Joe Abrigo",
