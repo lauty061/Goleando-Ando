@@ -933,42 +933,42 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "11/05/2025 17:00 HS",
+                "fecha": "11/05/2025 17:00 HS Finalizado",
                 "local": "UCV",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1283.png",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/494.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "11/05/2025 21:00 HS",
+                "fecha": "11/05/2025 21:00 HS Finalizado",
                 "local": "DLG",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1282.png",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11977.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/05/2025 19:00 HS",
+                "fecha": "16/05/2025 19:00 HS Finalizado",
                 "local": "UCV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1283.png",
                 "visitante": "DLG",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/05/2025 21:30 HS",
+                "fecha": "16/05/2025 21:30 HS Finalizado",
                 "local": "POR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/494.png",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11977.png"
             },
             {
@@ -1053,42 +1053,42 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "10/05/2025 18:00 HS",
+                "fecha": "10/05/2025 18:00 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/223.png",
                 "visitante": "APC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5732.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "10/05/2025 20:30 HS",
+                "fecha": "10/05/2025 20:30 HS Finalizado",
                 "local": "TAC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "MET",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3898.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "17/05/2025 18:00 HS",
+                "fecha": "17/05/2025 18:00 HS Finalizado",
                 "local": "TAC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/223.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "17/05/2025 21:30 HS",
+                "fecha": "17/05/2025 20:30 HS Finalizado",
                 "local": "MET",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3898.png",
                 "visitante": "APC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5732.png"
             },
             {
@@ -1354,6 +1354,12 @@
                 "goles": 7
             },
             {
+                "nombre": "José Meza",
+                "equipo": "Dep. La Guaira",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Jesús Hernández",
                 "equipo": "Estudiantes Mérida",
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png",
@@ -1378,9 +1384,21 @@
                 "goles": 5
             },
             {
-                "nombre": "José Meza",
-                "equipo": "Dep. La Guaira",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "nombre": "Charlis Ortiz",
+                "equipo": "UCV",
+                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Junior Paredes",
+                "equipo": "Puerto Cabello",
+                "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Aitor López",
+                "equipo": "Portuguesa",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
                 "goles": 5
             },
             {
@@ -1390,27 +1408,9 @@
                 "goles": 4
             },
             {
-                "nombre": "Ender Echenique",
-                "equipo": "Caracas",
-                "escudo": "https://statics-files.tycsports.com/escudos/85.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Antonio Romero",
-                "equipo": "Estudiantes Mérida",
-                "escudo": "https://statics-files.tycsports.com/escudos/224.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Junior Paredes",
-                "equipo": "Puerto Cabello",
-                "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Aitor López",
-                "equipo": "Portuguesa",
-                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
+                "nombre": "Sebastián Castillo",
+                "equipo": "Dep. La Guaira",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "goles": 4
             }
         ]

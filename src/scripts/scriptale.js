@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         "Fecha 31": ["2025-04-25", "2025-04-27"],
         "Fecha 32": ["2025-05-02", "2025-05-04"],
         "Fecha 33": ["2025-05-09", "2025-05-11"],
-        "Fecha 34": ["2025-05-17", "2025-05-1"]
+        "Fecha 34": ["2025-05-17", "2025-05-17"]
     };
     // Rellenar el <select> de fechas con opciones
     let fechaSelect = document.getElementById("fecha-select");

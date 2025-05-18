@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", async function () {
         "Fecha 11": ["2025-05-01", "2025-05-04"],
         "Fecha 12": ["2025-05-09", "2025-05-12"],
         "Fecha 13": ["2025-05-16", "2025-05-19"],
-        "Fecha 14": ["2025-05-20", "2025-05-20"],
+        "Fecha 14": ["2025-05-22", "2025-05-25"],
         "Fecha 15": ["Sin Designar", "Sin Designar"],
         "Fecha 16": ["Sin Designar", "Sin Designar"],
         "Fecha 17": ["Sin Designar", "Sin Designar"],
