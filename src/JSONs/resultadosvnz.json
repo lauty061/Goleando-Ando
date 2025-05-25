@@ -973,22 +973,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/05/2025 19:00 HS",
+                "fecha": "21/05/2025 19:00 HS Finalizado",
                 "local": "DLG",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1282.png",
                 "visitante": "UCV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1283.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/05/2025 21:30 HS",
+                "fecha": "21/05/2025 21:30 HS Finalizado",
                 "local": "AFC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11977.png",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/494.png"
             },
             {
@@ -1093,22 +1093,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/05/2025 19:00 HS",
+                "fecha": "22/05/2025 19:00 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/223.png",
                 "visitante": "TAC",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/79.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/05/2025 21:30 HS",
+                "fecha": "22/05/2025 21:30 HS Finalizado",
                 "local": "APC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5732.png",
                 "visitante": "MET",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3898.png"
             },
             {
@@ -1153,7 +1153,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "25/05/2025  HS",
+                "fecha": "07/06/2025  HS",
                 "local": "",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/.png",
@@ -1354,9 +1354,21 @@
                 "goles": 7
             },
             {
+                "nombre": "Juan Camilo Zapata",
+                "equipo": "UCV",
+                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
+                "goles": 6
+            },
+            {
                 "nombre": "José Meza",
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "goles": 6
+            },
+            {
+                "nombre": "Aitor López",
+                "equipo": "Portuguesa",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
                 "goles": 6
             },
             {
@@ -1378,12 +1390,6 @@
                 "goles": 5
             },
             {
-                "nombre": "Juan Camilo Zapata",
-                "equipo": "UCV",
-                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
-                "goles": 5
-            },
-            {
                 "nombre": "Charlis Ortiz",
                 "equipo": "UCV",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
@@ -1396,21 +1402,15 @@
                 "goles": 5
             },
             {
-                "nombre": "Aitor López",
-                "equipo": "Portuguesa",
-                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
-                "goles": 5
+                "nombre": "Bryan Castillo",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 4
             },
             {
                 "nombre": "Flabián Londoño",
                 "equipo": "Carabobo",
                 "escudo": "https://statics-files.tycsports.com/escudos/223.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Sebastián Castillo",
-                "equipo": "Dep. La Guaira",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "goles": 4
             }
         ]
