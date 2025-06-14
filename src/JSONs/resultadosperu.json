@@ -253,16 +253,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/02/2025  HS Postergado",
-                "local": "GRA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png",
-                "visitante": "UNI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/121.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "24/02/2025 20:00 HS Finalizado",
                 "local": "BIN",
                 "goles_local": "1",
@@ -270,6 +260,16 @@
                 "visitante": "CUS",
                 "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3685.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "25/06/2025 21:00 HS",
+                "local": "GRA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png",
+                "visitante": "UNI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/121.png"
             },
             {
                 "fecha_torneo": null,
@@ -353,7 +353,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025 17:00 HS",
+                "fecha": "02/07/2025 17:00 HS",
                 "local": "JUP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11321.png",
@@ -833,16 +833,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/04/2025  HS Postergado",
-                "local": "CUN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/4950.png",
-                "visitante": "ALI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/84.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "27/04/2025 15:15 HS Finalizado",
                 "local": "CHN",
                 "goles_local": "1",
@@ -900,6 +890,16 @@
                 "visitante": "DSH",
                 "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1659.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "18/06/2025 21:00 HS",
+                "local": "CUN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/4950.png",
+                "visitante": "ALI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/84.png"
             },
             {
                 "fecha_torneo": null,
@@ -1233,47 +1233,67 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "25/05/2025 15:00 HS",
+                "fecha": "25/05/2025 15:00 HS Finalizado",
                 "local": "ADT",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10029.png",
                 "visitante": "AYA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1002.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "25/05/2025 20:00 HS",
+                "fecha": "25/05/2025 20:00 HS Finalizado",
                 "local": "DEG",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10929.png",
                 "visitante": "JUP",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11321.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/06/2025 17:00 HS",
+                "fecha": "01/06/2025 17:00 HS Finalizado",
                 "local": "CHN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
                 "visitante": "AAT",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
-                "local": "JUP",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/11321.png",
-                "visitante": "CHN",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/6198.png"
+                "fecha": "12/06/2025 17:00 HS Finalizado",
+                "local": "AAT",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/103.png",
+                "visitante": "CUN",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/4950.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
+                "fecha": "13/06/2025 17:00 HS Finalizado",
+                "local": "UTC",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
+                "visitante": "GRA",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7569.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "13/06/2025 21:00 HS Finalizado",
+                "local": "CUS",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3685.png",
+                "visitante": "CIE",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/94.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "14/06/2025 15:15 HS",
                 "local": "MEL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/203.png",
@@ -1283,27 +1303,17 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
-                "local": "CUS",
+                "fecha": "14/06/2025 17:30 HS",
+                "local": "JUP",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3685.png",
-                "visitante": "CIE",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/11321.png",
+                "visitante": "CHN",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/94.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/6198.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
-                "local": "UTC",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
-                "visitante": "GRA",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/7569.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
+                "fecha": "14/06/2025 22:00 HS",
                 "local": "ALI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/84.png",
@@ -1313,27 +1323,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
-                "local": "AAT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/103.png",
-                "visitante": "CUN",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/4950.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
-                "local": "BIN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7405.png",
-                "visitante": "ALU",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3757.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
+                "fecha": "15/06/2025 13:00 HS",
                 "local": "SPC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
@@ -1343,7 +1333,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/05/2025  HS",
+                "fecha": "15/06/2025 17:00 HS",
                 "local": "AYA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1002.png",
@@ -1353,77 +1343,17 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
-                "local": "DEG",
+                "fecha": "15/06/2025 19:30 HS",
+                "local": "BIN",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/10929.png",
-                "visitante": "AYA",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7405.png",
+                "visitante": "ALU",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1002.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3757.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
-                "local": "CUN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/4950.png",
-                "visitante": "JUP",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11321.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
-                "local": "UNI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/121.png",
-                "visitante": "ADT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/10029.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
-                "local": "CIE",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
-                "visitante": "AAT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
-                "local": "SPB",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/205.png",
-                "visitante": "BIN",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/7405.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
-                "local": "ALU",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3757.png",
-                "visitante": "UTC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1007.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
-                "local": "CHN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
-                "visitante": "SPC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/92.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
+                "fecha": "19/06/2025 17:00 HS",
                 "local": "GRA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png",
@@ -1433,7 +1363,27 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "01/06/2025  HS",
+                "fecha": "20/06/2025 20:00 HS",
+                "local": "ALU",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3757.png",
+                "visitante": "UTC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1007.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "20/06/2025 23:00 HS",
+                "local": "UNI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/121.png",
+                "visitante": "ADT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/10029.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "21/06/2025 15:00 HS",
                 "local": "DSH",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1659.png",
@@ -1443,57 +1393,57 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
-                "local": "UTC",
+                "fecha": "21/06/2025 17:15 HS",
+                "local": "CHN",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
-                "visitante": "SPB",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
+                "visitante": "SPC",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/205.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/92.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
-                "local": "SPC",
+                "fecha": "21/06/2025 21:00 HS",
+                "local": "DEG",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
-                "visitante": "CUN",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/10929.png",
+                "visitante": "AYA",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/4950.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1002.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
-                "local": "CUS",
+                "fecha": "22/06/2025 15:00 HS",
+                "local": "SPB",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3685.png",
-                "visitante": "ALU",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/205.png",
+                "visitante": "BIN",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3757.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7405.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
-                "local": "JUP",
+                "fecha": "22/06/2025 17:15 HS",
+                "local": "CUN",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/11321.png",
-                "visitante": "CIE",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/4950.png",
+                "visitante": "JUP",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/94.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11321.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
-                "local": "AAT",
+                "fecha": "22/06/2025 19:30 HS",
+                "local": "CIE",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/103.png",
-                "visitante": "GRA",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
+                "visitante": "AAT",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/7569.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
+                "fecha": "27/06/2025 15:00 HS",
                 "local": "AYA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1002.png",
@@ -1503,7 +1453,27 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
+                "fecha": "27/06/2025 17:15 HS",
+                "local": "JUP",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/11321.png",
+                "visitante": "CIE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/94.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "27/06/2025 19:30 HS",
+                "local": "BIN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7405.png",
+                "visitante": "DSH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1659.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "28/06/2025 15:00 HS",
                 "local": "ADT",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10029.png",
@@ -1513,7 +1483,17 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
+                "fecha": "28/06/2025 17:15 HS",
+                "local": "UTC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
+                "visitante": "SPB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/205.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "28/06/2025 20:15 HS",
                 "local": "MEL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/203.png",
@@ -1523,97 +1503,37 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/06/2025  HS",
-                "local": "BIN",
+                "fecha": "29/06/2025 13:00 HS",
+                "local": "SPC",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7405.png",
-                "visitante": "DSH",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
+                "visitante": "CUN",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1659.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/4950.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "ALI",
+                "fecha": "29/06/2025 17:00 HS",
+                "local": "AAT",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/84.png",
-                "visitante": "BIN",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/103.png",
+                "visitante": "GRA",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/7405.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7569.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "DEG",
+                "fecha": "29/06/2025 20:00 HS",
+                "local": "CUS",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/10929.png",
-                "visitante": "UNI",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3685.png",
+                "visitante": "ALU",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/121.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3757.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "SPB",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/205.png",
-                "visitante": "CUS",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3685.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "ALU",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3757.png",
-                "visitante": "AAT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "CUN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/4950.png",
-                "visitante": "AYA",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1002.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "GRA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png",
-                "visitante": "JUP",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11321.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "CIE",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
-                "visitante": "SPC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/92.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
-                "local": "CHN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
-                "visitante": "ADT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/10029.png"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "15/06/2025  HS",
+                "fecha": "04/07/2025 15:00 HS",
                 "local": "DSH",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1659.png",
@@ -1623,7 +1543,87 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "04/07/2025 17:15 HS",
+                "local": "CHN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
+                "visitante": "ADT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/10029.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "05/07/2025 15:00 HS",
+                "local": "CUN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/4950.png",
+                "visitante": "AYA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1002.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "05/07/2025 17:15 HS",
+                "local": "CIE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
+                "visitante": "SPC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/92.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "05/07/2025 19:30 HS",
+                "local": "ALU",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3757.png",
+                "visitante": "AAT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "05/07/2025 22:00 HS",
+                "local": "ALI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/84.png",
+                "visitante": "BIN",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7405.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "06/07/2025 15:00 HS",
+                "local": "SPB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/205.png",
+                "visitante": "CUS",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3685.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "06/07/2025 17:15 HS",
+                "local": "GRA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png",
+                "visitante": "JUP",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11321.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "06/07/2025 19:30 HS",
+                "local": "DEG",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/10929.png",
+                "visitante": "UNI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/121.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "13/07/2025  HS",
                 "local": "AAT",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/103.png",
@@ -1633,7 +1633,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "SPC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
@@ -1643,7 +1643,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "JUP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11321.png",
@@ -1653,7 +1653,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "ADT",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10029.png",
@@ -1663,7 +1663,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "CUS",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3685.png",
@@ -1673,7 +1673,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "UNI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/121.png",
@@ -1683,7 +1683,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "AYA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1002.png",
@@ -1693,7 +1693,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "BIN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7405.png",
@@ -1703,7 +1703,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/06/2025  HS",
+                "fecha": "13/07/2025  HS",
                 "local": "UTC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
@@ -3485,6 +3485,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/103.png",
+                "equipo": "Alianza Atlético",
+                "puntos": "28",
+                "pj": "14",
+                "pg": "9",
+                "pe": "1",
+                "pp": "4",
+                "gf": 23,
+                "gc": 12,
+                "dg": 11
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/121.png",
                 "equipo": "Universitario",
                 "puntos": "26",
@@ -3497,7 +3510,7 @@
                 "dg": 17
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/84.png",
                 "equipo": "Alianza Lima",
                 "puntos": "26",
@@ -3510,7 +3523,7 @@
                 "dg": 6
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "equipo": "Melgar",
                 "puntos": "25",
@@ -3523,7 +3536,7 @@
                 "dg": 8
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "25",
@@ -3536,33 +3549,33 @@
                 "dg": 5
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
                 "equipo": "Cusco FC",
-                "puntos": "23",
-                "pj": "13",
+                "puntos": "24",
+                "pj": "14",
                 "pg": "7",
-                "pe": "2",
+                "pe": "3",
                 "pp": "4",
                 "gf": 25,
                 "gc": 18,
                 "dg": 7
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/103.png",
-                "equipo": "Alianza Atlético",
-                "puntos": "22",
-                "pj": "12",
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
+                "equipo": "Deportivo Garcilaso",
+                "puntos": "23",
+                "pj": "14",
                 "pg": "7",
-                "pe": "1",
-                "pp": "4",
-                "gf": 18,
-                "gc": 11,
-                "dg": 7
+                "pe": "2",
+                "pp": "5",
+                "gf": 24,
+                "gc": 14,
+                "dg": 10
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/92.png",
                 "equipo": "Sporting Cristal",
                 "puntos": "22",
@@ -3575,39 +3588,26 @@
                 "dg": 5
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
-                "equipo": "Deportivo Garcilaso",
-                "puntos": "20",
-                "pj": "13",
-                "pg": "6",
-                "pe": "2",
-                "pp": "5",
-                "gf": 20,
-                "gc": 14,
-                "dg": 6
-            },
-            {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
                 "equipo": "ADT de Tarma",
                 "puntos": "19",
-                "pj": "13",
+                "pj": "14",
                 "pg": "5",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 22,
-                "gc": 23,
-                "dg": -1
+                "gc": 24,
+                "dg": -2
             },
             {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "equipo": "Cienciano",
-                "puntos": "17",
-                "pj": "13",
+                "puntos": "18",
+                "pj": "14",
                 "pg": "4",
-                "pe": "5",
+                "pe": "6",
                 "pp": "4",
                 "gf": 23,
                 "gc": 19,
@@ -3615,6 +3615,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
+                "equipo": "Grau",
+                "puntos": "18",
+                "pj": "13",
+                "pg": "4",
+                "pe": "6",
+                "pp": "3",
+                "gf": 19,
+                "gc": 18,
+                "dg": 1
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/205.png",
                 "equipo": "Sport Boys",
                 "puntos": "16",
@@ -3627,29 +3640,16 @@
                 "dg": -1
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
                 "equipo": "Los Chankas",
                 "puntos": "15",
-                "pj": "12",
+                "pj": "13",
                 "pg": "3",
                 "pe": "6",
-                "pp": "3",
-                "gf": 17,
-                "gc": 17,
-                "dg": 0
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
-                "equipo": "Grau",
-                "puntos": "15",
-                "pj": "12",
-                "pg": "3",
-                "pe": "6",
-                "pp": "3",
-                "gf": 17,
-                "gc": 18,
+                "pp": "4",
+                "gf": 18,
+                "gc": 19,
                 "dg": -1
             },
             {
@@ -3657,13 +3657,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
                 "equipo": "UTC",
                 "puntos": "14",
-                "pj": "13",
+                "pj": "14",
                 "pg": "4",
                 "pe": "2",
-                "pp": "7",
+                "pp": "8",
                 "gf": 14,
-                "gc": 29,
-                "dg": -15
+                "gc": 31,
+                "dg": -17
             },
             {
                 "posicion": "15",
@@ -3683,29 +3683,42 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
                 "equipo": "Juan Pablo II",
                 "puntos": "11",
-                "pj": "11",
+                "pj": "12",
                 "pg": "3",
                 "pe": "2",
-                "pp": "6",
+                "pp": "7",
                 "gf": 13,
-                "gc": 16,
-                "dg": -3
+                "gc": 20,
+                "dg": -7
             },
             {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/4950.png",
-                "equipo": "Com. Unidos",
-                "puntos": "8",
-                "pj": "12",
-                "pg": "1",
-                "pe": "5",
-                "pp": "6",
-                "gf": 14,
-                "gc": 23,
-                "dg": -9
+                "escudo": "https://statics-files.tycsports.com/escudos/1002.png",
+                "equipo": "Ayacucho FC",
+                "puntos": "9",
+                "pj": "13",
+                "pg": "2",
+                "pe": "3",
+                "pp": "8",
+                "gf": 10,
+                "gc": 22,
+                "dg": -12
             },
             {
                 "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/4950.png",
+                "equipo": "Com. Unidos",
+                "puntos": "8",
+                "pj": "13",
+                "pg": "1",
+                "pe": "5",
+                "pp": "7",
+                "gf": 14,
+                "gc": 26,
+                "dg": -12
+            },
+            {
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/3757.png",
                 "equipo": "A. Universidad",
                 "puntos": "7",
@@ -3716,19 +3729,6 @@
                 "gf": 11,
                 "gc": 25,
                 "dg": -14
-            },
-            {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/1002.png",
-                "equipo": "Ayacucho FC",
-                "puntos": "6",
-                "pj": "12",
-                "pg": "1",
-                "pe": "3",
-                "pp": "8",
-                "gf": 9,
-                "gc": 22,
-                "dg": -13
             }
         ],
         "goleadores": [
@@ -3745,22 +3745,22 @@
                 "goles": 11
             },
             {
+                "nombre": "Pablo Erustes",
+                "equipo": "Deportivo Garcilaso",
+                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Alejandro Hohberg",
                 "equipo": "Sport Boys",
                 "escudo": "https://statics-files.tycsports.com/escudos/205.png",
                 "goles": 8
             },
             {
-                "nombre": "Pablo Erustes",
-                "equipo": "Deportivo Garcilaso",
-                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
-                "goles": 7
-            },
-            {
                 "nombre": "Agustín Graneros",
                 "equipo": "Alianza Atlético",
                 "escudo": "https://statics-files.tycsports.com/escudos/103.png",
-                "goles": 6
+                "goles": 8
             },
             {
                 "nombre": "Jarlin Quintero",
@@ -3781,9 +3781,9 @@
                 "goles": 5
             },
             {
-                "nombre": "José Rivera",
-                "equipo": "Universitario",
-                "escudo": "https://statics-files.tycsports.com/escudos/121.png",
+                "nombre": "Isaac Camargo",
+                "equipo": "Los Chankas",
+                "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
                 "goles": 5
             }
         ]
