@@ -1,0 +1,84 @@
+{
+    "ligas": [
+        {
+            "nombre": "Liga Argentina",
+            "identificador_json": "resultadosarg",
+            "url_fixture": "https://www.tycsports.com/estadisticas/liga-profesional-de-futbol/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/liga-profesional-de-futbol/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/liga-profesional-de-futbol/tabla-de-goleadores.html",
+            "tiene_zonas": true
+        },
+        {
+            "nombre": "La Liga (España)",
+            "identificador_json": "resultadosesp",
+            "url_fixture": "https://www.tycsports.com/estadisticas/la-liga-espana/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/la-liga-espana/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/la-liga-espana/tabla-de-goleadores.html",
+            "tiene_zonas": false
+        },
+        {
+            "nombre": "Premier League (Inglaterra)",
+            "identificador_json": "resultadosing",
+            "url_fixture": "https://www.tycsports.com/estadisticas/premier-league-de-inglaterra/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/premier-league-de-inglaterra/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/premier-league-de-inglaterra/tabla-de-goleadores.html",
+            "tiene_zonas": false
+        },
+        {
+            "nombre": "Serie A (Italia)",
+            "identificador_json": "resultadosita",
+            "url_fixture": "https://www.tycsports.com/estadisticas/serie-a-de-italia/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/serie-a-de-italia/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/serie-a-de-italia/tabla-de-goleadores.html",
+            "tiene_zonas": false
+        },
+        {
+            "nombre": "Bundesliga (Alemania)",
+            "identificador_json": "resultadosale",
+            "url_fixture": "https://www.tycsports.com/estadisticas/bundesliga-de-alemania/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/bundesliga-de-alemania/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/bundesliga-de-alemania/tabla-de-goleadores.html",
+            "tiene_zonas": false
+        },
+        {
+            "nombre": "Ligue 1 (Francia)",
+            "identificador_json": "resultadosfra",
+            "url_fixture": "https://www.tycsports.com/estadisticas/ligue-1-de-francia/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/ligue-1-de-francia/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/ligue-1-de-francia/tabla-de-goleadores.html",
+            "tiene_zonas": false
+        },
+        {
+            "nombre": "Copa Libertadores",
+            "identificador_json": "resultadoslib",
+            "url_fixture": "https://www.tycsports.com/estadisticas/copa-libertadores/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/copa-libertadores/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/copa-libertadores/tabla-de-goleadores.html",
+            "tiene_zonas": true
+        },
+        {
+            "nombre": "Copa Sudamericana",
+            "identificador_json": "resultadossuda",
+            "url_fixture": "https://www.tycsports.com/estadisticas/copa-sudamericana/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/copa-sudamericana/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/copa-sudamericana/tabla-de-goleadores.html",
+            "tiene_zonas": true
+        },
+        {
+            "nombre": "Champions League",
+            "identificador_json": "resultadoscha",
+            "url_fixture": "https://www.tycsports.com/estadisticas/champions-league/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/champions-league/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/champions-league/tabla-de-goleadores.html",
+            "tiene_zonas": true
+        },
+        {
+            "nombre": "Europa League",
+            "identificador_json": "resultadoseu",
+            "url_fixture": "https://www.tycsports.com/estadisticas/europa-league/fixture.html",
+            "url_tabla": "https://www.tycsports.com/estadisticas/europa-league/tabla-de-posiciones.html",
+            "url_goleadores": "https://www.tycsports.com/estadisticas/europa-league/tabla-de-goleadores.html",
+            "tiene_zonas": true
+        }
+    ]
+}
