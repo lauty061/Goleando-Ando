@@ -11,26 +11,22 @@ document.addEventListener("DOMContentLoaded", async function () {
     let goleadoresData = ligaData.goleadores || [];
 
     let fechasTorneo = {
-        "Fecha 1": ["2025-01-23", "2025-01-26"],
-        "Fecha 2": ["2025-01-27", "2025-01-30"],
-        "Fecha 3": ["2025-02-01", "2025-02-04"],
-        "Fecha 4": ["2025-02-06", "2025-02-09"],
-        "Fecha 5": ["2025-02-11", "2025-02-13"],
-        "Fecha 6": ["2025-02-14", "2025-02-17"],
-        "Fecha 7": ["2025-02-21", "2025-02-24"],
-        "Fecha 8": ["2025-02-28", "2025-03-04"],
-        "Fecha 9": ["2025-03-07", "2025-03-10"],
-        "Fecha 10": ["2025-03-14", "2025-03-17"],
-        "Fecha 11": ["2025-03-27", "2025-03-30"],
-        "Fecha 12": ["2025-04-04", "2025-04-07"],
-        "Fecha 13": ["2025-04-11", "2025-04-15"],
-        "Fecha 14": ["2025-04-18", "2025-04-22"],
-        "Fecha 15": ["2025-04-26", "2025-04-29"],
-        "Fecha 16": ["2025-05-02", "2025-05-04"],
-        "Octavos de Final": ["2025-05-10", "2025-05-11"],
-        "Cuartos de Final": ["2025-05-18", "2025-05-20"],
-        "SemiFinales": ["2025-05-24", "2025-05-25"],
-        "Final": ["2025-06-01", "2025-06-01"]
+        "Fecha 1": ["2025-07-11", "2025-07-14"],
+        "Fecha 2": ["2025-07-18", "2025-07-21"],
+        "Fecha 3": ["2025-07-25", "2025-07-28"],
+        "Fecha 4": ["Sin Designar", "Sin Designar"],
+        "Fecha 5": ["Sin Designar", "Sin Designar"],
+        "Fecha 6": ["Sin Designar", "Sin Designar"],
+        "Fecha 7": ["Sin Designar", "Sin Designar"],
+        "Fecha 8": ["Sin Designar", "Sin Designar"],
+        "Fecha 9": ["Sin Designar", "Sin Designar"],
+        "Fecha 10": ["Sin Designar", "Sin Designar"],
+        "Fecha 11": ["Sin Designar", "Sin Designar"],
+        "Fecha 12": ["Sin Designar", "Sin Designar"],
+        "Fecha 13": ["Sin Designar", "Sin Designar"],
+        "Fecha 14": ["Sin Designar", "Sin Designar"],
+        "Fecha 15": ["Sin Designar", "Sin Designar"],
+        "Fecha 16": ["Sin Designar", "Sin Designar"],
     };
 
     let fechaSelect = document.getElementById("fecha-select");
