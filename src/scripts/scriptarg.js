@@ -10,38 +10,31 @@ document.addEventListener("DOMContentLoaded", async function () {
     let tablaPosicionesData = ligaData.tabla_posiciones || [];
     let goleadoresData = ligaData.goleadores || [];
 
-    let fechasTorneo = {
-        "Fecha 1": ["2025-07-11", "2025-07-14"],
-        "Fecha 2": ["2025-07-18", "2025-07-21"],
-        "Fecha 3": ["2025-07-25", "2025-07-28"],
-        "Fecha 4": ["Sin Designar", "Sin Designar"],
-        "Fecha 5": ["Sin Designar", "Sin Designar"],
-        "Fecha 6": ["Sin Designar", "Sin Designar"],
-        "Fecha 7": ["Sin Designar", "Sin Designar"],
-        "Fecha 8": ["Sin Designar", "Sin Designar"],
-        "Fecha 9": ["Sin Designar", "Sin Designar"],
-        "Fecha 10": ["Sin Designar", "Sin Designar"],
-        "Fecha 11": ["Sin Designar", "Sin Designar"],
-        "Fecha 12": ["Sin Designar", "Sin Designar"],
-        "Fecha 13": ["Sin Designar", "Sin Designar"],
-        "Fecha 14": ["Sin Designar", "Sin Designar"],
-        "Fecha 15": ["Sin Designar", "Sin Designar"],
-        "Fecha 16": ["Sin Designar", "Sin Designar"],
-    };
+    // 🔹 Obtener todas las fechas únicas del JSON
+    let fechasUnicas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
 
+    // 🔹 Armar el select dinámicamente
     let fechaSelect = document.getElementById("fecha-select");
-    fechaSelect.innerHTML = Object.keys(fechasTorneo)
-        .map(fecha => `<option value="${fecha}">${fecha}: del ${fechasTorneo[fecha][0]} al ${fechasTorneo[fecha][1]}</option>`)
+    fechaSelect.innerHTML = fechasUnicas
+        .map(fecha => `<option value="${fecha}">${fecha}</option>`)
         .join("");
 
-    mostrarPartidos(fixtureData, "Fecha 1", fechasTorneo);
+    // 🔹 Mostrar partidos de la primera fecha del JSON
+    if (fechasUnicas.length > 0) {
+        mostrarPartidos(fixtureData, fechasUnicas[0]);
+    }
+
+    // 🔹 Manejar cambio de selección
+    fechaSelect.addEventListener("change", function () {
+        mostrarPartidos(fixtureData, this.value);
+    });
+
+    // 🔹 Crear selector de grupos para posiciones
     let zonasUnicas = [...new Set(tablaPosicionesData.map(e => e.zona))];
     crearSelectorGrupos(zonasUnicas, tablaPosicionesData);
-    mostrarGoleadores(goleadoresData);
 
-    fechaSelect.addEventListener("change", function () {
-        mostrarPartidos(fixtureData, this.value, fechasTorneo);
-    });
+    // 🔹 Mostrar goleadores
+    mostrarGoleadores(goleadoresData);
 });
 
 async function obtenerDatosLiga(liga) {
@@ -56,13 +49,7 @@ async function obtenerDatosLiga(liga) {
     }
 }
 
-function convertirFecha(fechaStr) {
-    let match = fechaStr.match(/(\d{2})\/(\d{2})\/(\d{4})/);
-    if (!match) return "";
-    return `${match[3]}-${match[2]}-${match[1]}`;
-}
-
-function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
+function mostrarPartidos(fixtureData, jornadaSeleccionada) {
     let fixtureTable = document.getElementById("fixture-table");
     fixtureTable.innerHTML = `
         <tr>
@@ -75,17 +62,7 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
         </tr>
     `;
 
-    let [fechaInicio, fechaFin] = fechasTorneo[jornadaSeleccionada];
-    let fechaInicioObj = new Date(fechaInicio + "T00:00:00");
-    let fechaFinObj = new Date(fechaFin + "T23:59:59");
-
-    let partidos = fixtureData.filter(p => {
-        let fechaPartido = convertirFecha(p.fecha);
-        if (!fechaPartido) return false;
-
-        let fechaPartidoObj = new Date(fechaPartido + "T00:00:00");
-        return fechaPartidoObj >= fechaInicioObj && fechaPartidoObj <= fechaFinObj;
-    });
+    let partidos = fixtureData.filter(p => p.fecha_torneo === jornadaSeleccionada);
 
     if (partidos.length === 0) {
         fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos para esta fecha</td></tr>`;

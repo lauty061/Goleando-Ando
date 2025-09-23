@@ -10,31 +10,38 @@ def fix_encoding(text):
         return text
 
 def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga):
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
+    headers = {"User-Agent": "Mozilla/5.0 ..."}
 
-    # 📅 FIXTURE
     response = requests.get(url_fixture, headers=headers)
     if response.status_code != 200:
         print(f"❌ Error al obtener la página {url_fixture}")
         return None
     soup = BeautifulSoup(response.text, 'html.parser')
     partidos = []
-    jornada_actual = None
+    
+    for bloque in soup.find_all("div", class_="grupo-container"):
+        jornada_div = bloque.find_previous("div", class_="topnav-fixture alternate")
+        jornada_texto = jornada_div.get_text(strip=True) if jornada_div else None
 
-    for elemento in soup.find_all(["h2", "div"], class_=["titulo", "partido"]):
-        if elemento.name == "h2" and "Jornada" in elemento.text:
-            jornada_actual = elemento.text.strip()
-        elif elemento.name == "div" and "partido" in elemento["class"]:
+        for partido in bloque.find_all("div", class_="partido"):
             try:
-                equipo_local = fix_encoding(elemento.find_all("span", class_="partido-name")[0].text.strip())
-                equipo_visita = fix_encoding(elemento.find_all("span", class_="partido-name")[1].text.strip())
-                goles_local = elemento.find_all("span", class_="partido-goles")[0].text.strip()
-                goles_visita = elemento.find_all("span", class_="partido-goles")[1].text.strip()
-                escudo_local = elemento.find_all("div", class_="partido-escudo")[0].find("img")["data-src"]
-                escudo_visita = elemento.find_all("div", class_="partido-escudo")[1].find("img")["data-src"]
-                fecha_partido = elemento.find("span", class_="date").text.strip()
+                nombres = partido.find_all("span", class_="partido-name")
+                goles = partido.find_all("span", class_="partido-goles")
+                escudos = partido.find_all("div", class_="partido-escudo")
+
+                if len(nombres) < 2 or len(goles) < 2 or len(escudos) < 2:
+                    continue
+
+                equipo_local = fix_encoding(nombres[0].text.strip())
+                equipo_visita = fix_encoding(nombres[1].text.strip())
+                goles_local = goles[0].text.strip()
+                goles_visita = goles[1].text.strip()
+                escudo_local = escudos[0].find("img")["data-src"]
+                escudo_visita = escudos[1].find("img")["data-src"]
+                fecha_partido = partido.find("span", class_="date").text.strip()
+
                 partidos.append({
-                    "fecha_torneo": jornada_actual,
+                    "fecha_torneo": jornada_texto,
                     "fecha": fecha_partido,
                     "local": equipo_local,
                     "goles_local": goles_local,
@@ -43,10 +50,9 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
                     "goles_visita": goles_visita,
                     "escudo_visita": escudo_visita
                 })
-            except AttributeError:
-                print("⚠️ Error procesando un partido, se omitirá.")
+            except Exception as e:
+                print("⚠️ Error procesando un partido:", e)
 
-    # 🏆 TABLA DE POSICIONES
     response = requests.get(url_tabla, headers=headers)
     if response.status_code != 200:
         print(f"❌ Error al obtener la página {url_tabla}")
@@ -98,7 +104,6 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
             "dg": dg
         })
 
-    # 🎯 GOLEADORES
     response = requests.get(url_goleadores, headers=headers)
     goleadores = []
     if response.status_code == 200:
@@ -131,7 +136,6 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
         "goleadores": goleadores
     }
 
-# 📌 LIGAS CONFIGURADAS
 ligas = {
     "Liga Argentina": {
         "fixture": "https://www.tycsports.com/estadisticas/liga-profesional-de-futbol/fixture.html",
@@ -140,7 +144,6 @@ ligas = {
     },
 }
 
-# 💾 GUARDADO DE DATOS
 datos = {}
 for liga, urls in ligas.items():
     print(f"📌 Obteniendo datos de {liga}...")
