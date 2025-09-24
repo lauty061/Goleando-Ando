@@ -10,35 +10,23 @@ document.addEventListener("DOMContentLoaded", async function () {
     let tablaPosicionesData = ligaData.tabla_posiciones || [];
     let goleadoresData = ligaData.goleadores || [];
 
-    let fechasTorneo = {
-        "Fecha 1": ["2024-09-25", "2024-09-26"],
-        "Fecha 2": ["2024-10-03", "2024-10-03"],
-        "Fecha 3": ["2024-10-23", "2024-10-24"],
-        "Fecha 4": ["2024-11-06", "2024-11-07"],
-        "Fecha 5": ["2024-11-28", "2024-11-28"],
-        "Fecha 6": ["2024-12-11", "2024-12-12"],
-        "Fecha 7": ["2025-01-21", "2025-01-23"],
-        "Fecha 8": ["2025-01-30", "2025-01-30"],
-        "PlayOff": ["2025-02-13", "2025-02-20"],
-        "Octavos": ["2025-03-06", "2025-03-13"],
-        "Cuartos": ["2025-04-10", "2025-04-17"],
-        "Semis":   ["2025-05-01", "2025-05-08"],
-        "Final":   ["2025-05-21", "2025-05-21"],
-    };
-
+    let fechasUnicas = [...new Set(fixtureData.map(p => p.jornada))];
 
     let fechaSelect = document.getElementById("fecha-select");
-    fechaSelect.innerHTML = Object.keys(fechasTorneo)
-        .map(fecha => `<option value="${fecha}">${fecha}: del ${fechasTorneo[fecha][0]} al ${fechasTorneo[fecha][1]}</option>`)
+    fechaSelect.innerHTML = fechasUnicas
+        .map(fecha => `<option value="${fecha}">${fecha}</option>`)
         .join("");
 
-    mostrarPartidos(fixtureData, "Fecha 1", fechasTorneo);
-    mostrarTablaPosiciones(tablaPosicionesData);
-    mostrarGoleadores(goleadoresData);
+    if (fechasUnicas.length > 0) {
+        mostrarPartidos(fixtureData, fechasUnicas[0]);
+    }
 
     fechaSelect.addEventListener("change", function () {
-        mostrarPartidos(fixtureData, this.value, fechasTorneo);
+        mostrarPartidos(fixtureData, this.value);
     });
+
+    mostrarTablaPosiciones(tablaPosicionesData);
+    mostrarGoleadores(goleadoresData);
 });
 
 async function obtenerDatosLiga(liga) {
@@ -53,13 +41,7 @@ async function obtenerDatosLiga(liga) {
     }
 }
 
-function convertirFecha(fechaStr) {
-    let match = fechaStr.match(/(\d{2})\/(\d{2})\/(\d{4})/);
-    if (!match) return "";
-    return `${match[3]}-${match[2]}-${match[1]}`;
-}
-
-function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
+function mostrarPartidos(fixtureData, jornadaSeleccionada) {
     let fixtureTable = document.getElementById("fixture-table");
     fixtureTable.innerHTML = `
         <tr>
@@ -72,17 +54,7 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
         </tr>
     `;
 
-    let [fechaInicio, fechaFin] = fechasTorneo[jornadaSeleccionada];
-    let fechaInicioObj = new Date(fechaInicio + "T00:00:00");
-    let fechaFinObj = new Date(fechaFin + "T23:59:59");
-
-    let partidos = fixtureData.filter(p => {
-        let fechaPartido = convertirFecha(p.fecha);
-        if (!fechaPartido) return false;
-
-        let fechaPartidoObj = new Date(fechaPartido + "T00:00:00");
-        return fechaPartidoObj >= fechaInicioObj && fechaPartidoObj <= fechaFinObj;
-    });
+    let partidos = fixtureData.filter(p => p.jornada === jornadaSeleccionada);
 
     if (partidos.length === 0) {
         fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos para esta fecha</td></tr>`;
@@ -92,7 +64,7 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
     partidos.forEach(p => {
         fixtureTable.innerHTML += `
             <tr>
-                <td>${p.fecha}</td>
+                <td>${p.fecha_partido}</td>
                 <td><img src="${p.escudo_local}" width="30"> ${p.local}</td>
                 <td>${p.goles_local}</td>
                 <td>VS</td>

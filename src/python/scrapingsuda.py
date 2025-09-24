@@ -12,27 +12,36 @@ def fix_encoding(text):
 def obtener_fixture_y_tabla(url_fixture, url_goleadores, nombre_liga):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
 
-    # 📅 Fixture
     response = requests.get(url_fixture, headers=headers)
     if response.status_code != 200:
         print(f"❌ Error al obtener la página {url_fixture}")
         return None
+    
     soup = BeautifulSoup(response.text, 'html.parser')
     partidos = []
     jornada_actual = None
 
-    for elemento in soup.find_all(["h2", "div"], class_=["titulo", "partido"]):
-        if elemento.name == "h2" and "Jornada" in elemento.text:
-            jornada_actual = elemento.text.strip()
-        elif elemento.name == "div" and "partido" in elemento.get("class", []):
+    for elemento in soup.find_all(["div", "div"], class_=["topnav-fixture", "partido"]):
+        if "topnav-fixture" in elemento.get("class", []):
+            jornada_actual = elemento.get_text(strip=True).replace('>', '').replace('<', '')
+        elif "partido" in elemento.get("class", []):
             try:
-                equipo_local = fix_encoding(elemento.find_all("span", class_="partido-name")[0].text.strip())
-                equipo_visita = fix_encoding(elemento.find_all("span", class_="partido-name")[1].text.strip())
-                goles_local = elemento.find_all("span", class_="partido-goles")[0].text.strip()
-                goles_visita = elemento.find_all("span", class_="partido-goles")[1].text.strip()
-                escudo_local = elemento.find_all("div", class_="partido-escudo")[0].find("img")["data-src"]
-                escudo_visita = elemento.find_all("div", class_="partido-escudo")[1].find("img")["data-src"]
-                fecha_partido = elemento.find("span", class_="date").text.strip()
+                nombres = elemento.find_all("span", class_="partido-name")
+                goles = elemento.find_all("span", class_="partido-goles")
+                escudos = elemento.find_all("div", class_="partido-escudo")
+                
+                fecha_partido = elemento.find("span", class_="date").get_text(separator=' ', strip=True)
+
+                if len(nombres) < 2 or len(goles) < 2 or len(escudos) < 2:
+                    continue
+
+                equipo_local = fix_encoding(nombres[0].text.strip())
+                equipo_visita = fix_encoding(nombres[1].text.strip())
+                goles_local = goles[0].text.strip()
+                goles_visita = goles[1].text.strip()
+                escudo_local = escudos[0].find("img")["data-src"]
+                escudo_visita = escudos[1].find("img")["data-src"]
+
                 partidos.append({
                     "fecha_torneo": jornada_actual,
                     "fecha": fecha_partido,
@@ -43,7 +52,8 @@ def obtener_fixture_y_tabla(url_fixture, url_goleadores, nombre_liga):
                     "goles_visita": goles_visita,
                     "escudo_visita": escudo_visita
                 })
-            except Exception:
+            except Exception as e:
+                print("⚠️ Error procesando un partido:", e)
                 continue
 
     # ⚽ Goleadores

@@ -10,60 +10,23 @@ document.addEventListener("DOMContentLoaded", async function () {
     let tablaPosicionesData = ligaData.tabla_posiciones || [];
     let goleadoresData = ligaData.goleadores || [];
 
-let fechasTorneo = {
-        "Fecha 1": ["2024-08-17", "2024-08-19"],
-        "Fecha 2": ["2024-08-23", "2024-08-25"],
-        "Fecha 3": ["2024-08-30", "2024-09-01"],
-        "Fecha 4": ["2024-09-14", "2024-09-16"],
-        "Fecha 5": ["2024-09-20", "2024-09-24"],
-        "Fecha 6": ["2024-09-27", "2024-09-30"],
-        "Fecha 7": ["2024-10-04", "2024-10-06"],
-        "Fecha 8": ["2024-10-19", "2024-10-21"],
-        "Fecha 9": ["2024-10-25", "2024-10-27"],
-        "Fecha 10": ["2024-10-29", "2024-11-31"],
-        "Fecha 11": ["2024-11-02", "2024-11-04"],
-        "Fecha 12": ["2024-11-07", "2024-11-10"],
-        "Fecha 13": ["2024-11-23", "2024-11-25"],
-        "Fecha 14": ["2024-11-29", "2024-12-02"],
-        "Fecha 15": ["2024-12-06", "2024-12-09"],
-        "Fecha 16": ["2024-12-13", "2024-12-16"],
-        "Fecha 17": ["2024-12-20", "2024-12-23"],
-        "Fecha 18": ["2024-12-28", "2024-12-30"],
-        "Fecha 19": ["2025-01-04", "2025-01-05"],
-        "Fecha 20": ["2025-01-10", "2025-01-13"],
-        "Fecha 21": ["2025-01-17", "2025-01-20"],
-        "Fecha 22": ["2025-01-24", "2025-02-27"],
-        "Fecha 23": ["2025-01-31", "2025-02-03"],
-        "Fecha 24": ["2025-02-07", "2025-02-10"],
-        "Fecha 25": ["2025-02-14", "2025-02-17"],
-        "Fecha 26": ["2025-02-21", "2025-03-14"],
-        "Fecha 27": ["2025-02-28", "2025-03-03"],
-        "Fecha 28": ["2025-03-07", "2025-03-10"],
-        "Fecha 29": ["2025-03-14", "2025-03-16"],
-        "Fecha 30": ["2025-03-29", "2025-03-31"],
-        "Fecha 31": ["2025-04-04", "2025-04-07"],
-        "Fecha 32": ["2025-04-11", "2025-04-14"],
-        "Fecha 33": ["2025-04-19", "2025-04-21"],
-        "Fecha 34": ["2025-04-25", "2025-04-28"],
-        "Fecha 35": ["2025-05-02", "2025-05-05"],
-        "Fecha 36": ["2025-05-09", "2025-05-12"],
-        "Fecha 37": ["2025-05-18", "2025-05-18"],
-        "Fecha 38": ["2025-05-25", "2025-05-25"]
-    };
-
+    let fechasUnicas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
 
     let fechaSelect = document.getElementById("fecha-select");
-    fechaSelect.innerHTML = Object.keys(fechasTorneo)
-        .map(fecha => `<option value="${fecha}">${fecha}: del ${fechasTorneo[fecha][0]} al ${fechasTorneo[fecha][1]}</option>`)
+    fechaSelect.innerHTML = fechasUnicas
+        .map(fecha => `<option value="${fecha}">${fecha}</option>`)
         .join("");
 
-    mostrarPartidos(fixtureData, "Fecha 1", fechasTorneo);
-    mostrarTablaPosiciones(tablaPosicionesData);
-    mostrarGoleadores(goleadoresData);
+    if (fechasUnicas.length > 0) {
+        mostrarPartidos(fixtureData, fechasUnicas[0]);
+    }
 
     fechaSelect.addEventListener("change", function () {
-        mostrarPartidos(fixtureData, this.value, fechasTorneo);
+        mostrarPartidos(fixtureData, this.value);
     });
+
+    mostrarTablaPosiciones(tablaPosicionesData);
+    mostrarGoleadores(goleadoresData);
 });
 
 async function obtenerDatosLiga(liga) {
@@ -78,13 +41,7 @@ async function obtenerDatosLiga(liga) {
     }
 }
 
-function convertirFecha(fechaStr) {
-    let match = fechaStr.match(/(\d{2})\/(\d{2})\/(\d{4})/);
-    if (!match) return "";
-    return `${match[3]}-${match[2]}-${match[1]}`;
-}
-
-function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
+function mostrarPartidos(fixtureData, jornadaSeleccionada) {
     let fixtureTable = document.getElementById("fixture-table");
     fixtureTable.innerHTML = `
         <tr>
@@ -97,17 +54,7 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
         </tr>
     `;
 
-    let [fechaInicio, fechaFin] = fechasTorneo[jornadaSeleccionada];
-    let fechaInicioObj = new Date(fechaInicio + "T00:00:00");
-    let fechaFinObj = new Date(fechaFin + "T23:59:59");
-
-    let partidos = fixtureData.filter(p => {
-        let fechaPartido = convertirFecha(p.fecha);
-        if (!fechaPartido) return false;
-
-        let fechaPartidoObj = new Date(fechaPartido + "T00:00:00");
-        return fechaPartidoObj >= fechaInicioObj && fechaPartidoObj <= fechaFinObj;
-    });
+    let partidos = fixtureData.filter(p => p.fecha_torneo === jornadaSeleccionada);
 
     if (partidos.length === 0) {
         fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos para esta fecha</td></tr>`;
