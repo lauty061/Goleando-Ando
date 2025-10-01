@@ -1,5 +1,4 @@
 /*=========================MAIN============================= */
-  
 h1 {
     text-align: center;
     color: var(--primary-accent-color);
@@ -31,13 +30,12 @@ h4{
 main {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 30px;
-    width: 90%;
+    width: 96%;
     margin: 10px auto;
     grid-template-columns: repeat(2, 1fr);
-        grid-template-areas:
-            "posiciones posiciones"
-            "goleadores fixture";
+    grid-template-areas:
+        "posiciones posiciones"
+        "goleadores fixture";
 }
 #fixture {
     grid-area: fixture;
@@ -60,7 +58,7 @@ table {
     color: var(--text-color);
 }
 th, td {
-    padding: 10px 8px;
+    padding: 10px 6px;
     text-align: center;
 }
 th {
@@ -132,7 +130,6 @@ select {
     color: var(--text-color);
     text-align: center;
     background-color: var(--background-color);
-
 }
 #tabla-hoy {
     margin-top: 20px;
@@ -143,4 +140,52 @@ select {
     text-align: center;
     font-size: 1rem;
 }
-
+.piloto-img {
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50px;
+    padding: 0;
+}
+.team-logo {
+    height: 32px;
+    width: auto;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+.monoposto-img {
+    height: 42px;
+    width: 100px;
+    margin-left: 20px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+.piloto-info {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    justify-content: center; 
+}
+.team-info {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    justify-content: center;
+}
+.gp-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.CountryFlag-module_flag__Y-X37 {
+    flex-shrink: 0;
+    height: 20px;
+    width: 20px;
+}
+#race-details tr td:nth-child(1) {
+    vertical-align: middle;
+}
+#race-details tr td {
+    vertical-align: middle;
+}

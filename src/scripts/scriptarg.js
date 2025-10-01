@@ -10,26 +10,21 @@ document.addEventListener("DOMContentLoaded", async function () {
     let tablaPosicionesData = ligaData.tabla_posiciones || [];
     let goleadoresData = ligaData.goleadores || [];
 
-    // 🔹 Obtener todas las fechas únicas del JSON
     let fechasUnicas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
 
-    // 🔹 Armar el select dinámicamente
     let fechaSelect = document.getElementById("fecha-select");
     fechaSelect.innerHTML = fechasUnicas
         .map(fecha => `<option value="${fecha}">${fecha}</option>`)
         .join("");
 
-    // 🔹 Mostrar partidos de la primera fecha del JSON
     if (fechasUnicas.length > 0) {
         mostrarPartidos(fixtureData, fechasUnicas[0]);
     }
 
-    // 🔹 Manejar cambio de selección
     fechaSelect.addEventListener("change", function () {
         mostrarPartidos(fixtureData, this.value);
     });
 
-    // 🔹 Crear selector de grupos para posiciones
     let zonasUnicas = [...new Set(tablaPosicionesData.map(e => e.zona))];
     crearSelectorGrupos(zonasUnicas, tablaPosicionesData);
 

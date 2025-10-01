@@ -1,31 +1,36 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GoleandoAndo - Primera Nacional</title>
-    <link rel="shortcut icon" href="../../assets/imgs/PrimeraNacionalogo.png">
+    <title>GoleandoAndo - F1</title>
+    <link rel="shortcut icon" href="../../assets/imgs/f1.png">
     <link rel="stylesheet" href="../styles/styles.css">
     <link rel="stylesheet" href="../styles/mainSection.css">
     <link rel="stylesheet" href="../styles/responsive.css">
     <link rel="stylesheet" href="../styles/scrollbar.css">
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
     <meta property="og:title" content="Golenando Ando ⚽🔥">
-    <meta property="og:description" content="Resultados, tablas y fixtures actualizados de las principales ligas y competencias de fútbol.">
-    <meta property="og:image" content="https://raw.githubusercontent.com/lauty061/Goleando-Ando/refs/heads/main/imgs/metaIcon.png">
+    <meta property="og:description"
+        content="Resultados, tablas y fixtures actualizados de las principales ligas y competencias de fútbol.">
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/lauty061/Goleando-Ando/refs/heads/main/imgs/metaIcon.png">
     <meta property="og:type" content="website">
-
 </head>
+
 <body class="fondo">
     <header>
-        <img src="../../assets/imgs/headerLogo.png" alt="" height="50" style="cursor: pointer;" onclick="window.location.href = '../../index.html';">
-    
+        <img src="../../assets/imgs/headerLogo.png" alt="" height="50" style="cursor: pointer;"
+            onclick="window.location.href = '../../index.html';">
+
         <!-- Botón hamburguesa para móviles -->
         <button class="hamburger" id="hamburger-btn">☰</button>
-    
+
         <nav>
             <ul class="nav-menu">
                 <li><a href="../../index.html">Inicio</a></li>
@@ -82,7 +87,7 @@
                 </li>
             </ul>
         </nav>
-    
+
         <!-- Sidebar para móviles -->
         <div class="sidebar" id="sidebar">
             <button class="close-btn" id="close-sidebar">×</button>
@@ -142,32 +147,51 @@
             </ul>
         </div>
     </header>
-    <a id="ancla"></a><div class="liga-banner"></a>
-        <h1 id="titulo-liga">Primera B Nacional</h1>
-        <img src="../../assets/imgs/PrimeraNacionalogo.png" class="logo">
+    <a id="ancla"></a>
+    <div class="liga-banner"></a>
+        <h1 id="titulo-liga">Formula 1</h1>
+        <img src="../../assets/imgs/f1.png  " class="logo">
     </div>
-    <main>
-        <section id="fixture">
-            <h2>Fixture</h2>
-            <label for="fecha-select">Seleccionar Fecha:</label>
-            <select id="fecha-select"></select>
-            <table id="fixture-table"></table>
-        </section>
-        <section id="posiciones">
-            <h2>Tabla de Posiciones</h2>
-            <label for="grupo-select">Seleccionar Grupo:</label>
-            <select id="grupo-select"></select>
+    <main class="contenedor">
+        <section class="seccion">
+            <h2 class="titulo-seccion">Calendario</h2>
             <div class="scrollable-table">
-                <table id="tabla-posiciones-table"></table>
+            <label for="fecha-select">Seleccionar Carrera:</label>
+            <select id="fecha-select"></select>
+            <div id="race-details"></div>
             </div>
-        </section>   
-        <section id="goleadores">
-            <h2>Tabla de Goleadores</h2>
-            <table id="tabla-goleadores"></table>
         </section>
-        <a href="#ancla" class="boton-inicio">⇧</a>
+        <section class="seccion">
+            <h2 class="titulo-seccion">Última Carrera</h2>
+            <div class="scrollable-table">
+                <table class="tabla" id="tabla-ultima-carrera">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+        <section class="seccion">
+            <h2 class="titulo-seccion">Clasificación de Pilotos</h2>
+            <div class="scrollable-table">
+                <table class="tabla" id="tabla-posiciones-table">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+        <section class="seccion">
+            <h2 class="titulo-seccion">Clasificación de Constructores</h2>
+            <div class="scrollable-table">
+                <table class="tabla" id="tabla-goleadores">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
     </main>
-    <script src="../scripts/scriptbna.js"></script>
+
+    <script src="../scripts/scriptf1.js"></script>
     <script src="../scripts/navScript.js"></script>
 </body>
+
 </html>
