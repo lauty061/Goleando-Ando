@@ -1,158 +1,244 @@
 import requests
-from bs4 import BeautifulSoup
 import json
 import os
+from datetime import datetime, timedelta
 
-def fix_encoding(text):
-    try:
-        return text.encode("latin1").decode("utf-8")
-    except Exception:
-        return text
-
-def obtener_fixture_y_tabla(url_fixture, url_tabla, nombre_liga):
-    headers = {"User-Agent": "Mozilla/5.0"}
-
-    # Fixture
-    response = requests.get(url_fixture, headers=headers)
-    if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_fixture}")
-        return None
-    soup = BeautifulSoup(response.text, 'html.parser')
+def obtener_datos_nba():
+    """Obtiene datos de ESPN API (endpoint interno JSON)"""
+    
+    equipos_logos = {
+        "ATL": "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg",
+        "BOS": "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg",
+        "BKN": "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg",
+        "CHA": "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg",
+        "CHI": "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+        "CLE": "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg",
+        "DAL": "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg",
+        "DEN": "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg",
+        "DET": "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg",
+        "GSW": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+        "GS": "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+        "HOU": "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg",
+        "IND": "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg",
+        "LAC": "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg",
+        "LAL": "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg",
+        "MEM": "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg",
+        "MIA": "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg",
+        "MIL": "https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.svg",
+        "MIN": "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg",
+        "NO": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg",
+        "NOP": "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg",
+        "NYK": "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg",
+        "NY": "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg",
+        "OKC": "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg",
+        "ORL": "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg",
+        "PHI": "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg",
+        "PHX": "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg",
+        "POR": "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg",
+        "SAC": "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg",
+        "SA": "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg",
+        "SAS": "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg",
+        "TOR": "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg",
+        "UTAH": "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg",
+        "UTA": "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg",
+        "WSH": "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg",
+        "WAS": "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg"
+    }
+    
     partidos = []
-    jornada_actual = None
-
-    for elemento in soup.find_all(["h2", "div"], class_=["titulo", "partido"]):
-        if elemento.name == "h2" and "Jornada" in elemento.text:
-            jornada_actual = elemento.text.strip()
-        elif elemento.name == "div" and "partido" in elemento.get("class", []):
-            try:
-                nombres = elemento.find_all("span", class_="partido-name")
-                goles = elemento.find_all("span", class_="partido-goles")
-                escudos = elemento.find_all("div", class_="partido-escudo")
-
-                equipo_local = fix_encoding(nombres[0].text.strip())
-                equipo_visita = fix_encoding(nombres[1].text.strip())
-                goles_local = goles[0].text.strip() if goles else ""
-                goles_visita = goles[1].text.strip() if goles else ""
-                escudo_local = escudos[0].find("img")["data-src"]
-                escudo_visita = escudos[1].find("img")["data-src"]
-                fecha_partido = elemento.find("span", class_="date").text.strip()
-
-                partidos.append({
-                    "fecha_torneo": jornada_actual,
-                    "fecha": fecha_partido,
-                    "local": equipo_local,
-                    "goles_local": goles_local,
-                    "escudo_local": escudo_local,
-                    "visitante": equipo_visita,
-                    "goles_visita": goles_visita,
-                    "escudo_visita": escudo_visita
-                })
-            except Exception:
-                print("⚠️ Error procesando un partido, se omitirá.")
-
-    # Tabla de posiciones: Este y Oeste
-    response = requests.get(url_tabla, headers=headers)
-    if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_tabla}")
-        return None
-    soup = BeautifulSoup(response.text, 'html.parser')
-
-    tabla_posiciones = {}
-    secciones = soup.find_all("div", class_="statsWrapPositions")
-    for seccion in secciones:
-        titulo = seccion.find("h2")
-        conferencia = "General"
-        if titulo and "Conferencia" in titulo.text:
-            conferencia = titulo.text.strip().split()[-1]  # Este / Oeste
-
-        tabla = seccion.find("table", id="posiciones")
-        if not tabla:
-            continue
-
-        posiciones = []
-        filas = tabla.find("tbody").find_all("tr")
-        for fila in filas:
-            columnas = fila.find_all("td")
-            if len(columnas) < 9:
-                continue
-            img_tag = columnas[1].find("img")
-            equipo_escudo = img_tag.get("data-src") if img_tag and img_tag.get("data-src") else img_tag.get("src", "")
-            if not equipo_escudo:
-                equipo_escudo = "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
-            try:
-                pf = int(columnas[7].text.strip())
-                pc = int(columnas[8].text.strip())
-                dg = pf - pc
-            except ValueError:
-                pf, pc, dg = 0, 0, 0
-            equipo_nombre = fix_encoding(columnas[2].text.strip())
-            posiciones.append({
-                "posicion": columnas[0].text.strip(),
-                "escudo": equipo_escudo,
-                "equipo": equipo_nombre,
-                "porcentaje_pg": columnas[3].text.strip(),
-                "puntos": columnas[4].text.strip(),
-                "pj": columnas[5].text.strip(),
-                "pp": columnas[6].text.strip(),
-                "pf": pf,
-                "pc": pc,
-                "dg": dg
-            })
-
-        tabla_posiciones[conferencia] = posiciones
-
+    
+    print("📊 Obteniendo partidos desde ESPN...")
+    
+    try:
+        url = "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard"
+        
+        for offset in range(-10, 3):
+            fecha = datetime.now() + timedelta(days=offset)
+            fecha_str = fecha.strftime("%Y%m%d")
+            
+            params = {"dates": fecha_str}
+            
+            response = requests.get(url, params=params, timeout=10)
+            
+            if response.status_code == 200:
+                data = response.json()
+                
+                if "events" in data:
+                    for event in data["events"]:
+                        try:
+                            name = event.get("name", "")
+                            shortName = event.get("shortName", "")
+                            date = event.get("date", "")
+                            status_type = event.get("status", {}).get("type", {}).get("name", "STATUS_SCHEDULED")
+                            status_detail = event.get("status", {}).get("type", {}).get("detail", "")
+                            
+                            competitions = event.get("competitions", [])
+                            if not competitions:
+                                continue
+                            
+                            competition = competitions[0]
+                            competitors = competition.get("competitors", [])
+                            
+                            if len(competitors) < 2:
+                                continue
+                            
+                            home_team = None
+                            away_team = None
+                            
+                            for comp in competitors:
+                                if comp.get("homeAway") == "home":
+                                    home_team = comp
+                                elif comp.get("homeAway") == "away":
+                                    away_team = comp
+                            
+                            if not home_team or not away_team:
+                                continue
+                            
+                            home_abbr = home_team.get("team", {}).get("abbreviation", "???")
+                            home_score = home_team.get("score", "-")
+                            
+                            away_abbr = away_team.get("team", {}).get("abbreviation", "???")
+                            away_score = away_team.get("score", "-")
+                            
+                            if status_type == "STATUS_FINAL":
+                                estado = "Finalizado"
+                            elif status_type == "STATUS_IN_PROGRESS":
+                                estado = "En vivo"
+                            else:
+                                estado = "Por jugar"
+                            
+                            try:
+                                dt = datetime.fromisoformat(date.replace("Z", "+00:00"))
+                                fecha_torneo = dt.strftime("%d/%m/%Y")
+                                fecha_completa = f"{dt.strftime('%d/%m/%Y %H:%M')} {estado}"
+                            except:
+                                fecha_torneo = fecha.strftime("%d/%m/%Y")
+                                fecha_completa = f"{fecha.strftime('%d/%m/%Y')} {estado}"
+                            
+                            home_logo = equipos_logos.get(home_abbr, "")
+                            away_logo = equipos_logos.get(away_abbr, "")
+                            
+                            partidos.append({
+                                "fecha_torneo": fecha_torneo,
+                                "fecha": fecha_completa,
+                                "local": home_abbr,
+                                "goles_local": str(home_score) if home_score != "-" else "-",
+                                "escudo_local": home_logo,
+                                "visitante": away_abbr,
+                                "goles_visita": str(away_score) if away_score != "-" else "-",
+                                "escudo_visita": away_logo
+                            })
+                            
+                        except Exception as e:
+                            print(f"⚠️ Error procesando partido: {e}")
+                            continue
+    except Exception as e:
+        print(f"⚠️ Error obteniendo partidos: {e}")
+    
+    print("📊 Obteniendo tabla de posiciones...")
+    
+    tabla_posiciones = {"Este": [], "Oeste": []}
+    
+    try:
+        url = "https://site.api.espn.com/apis/v2/sports/basketball/nba/standings"
+        response = requests.get(url, timeout=10)
+        
+        if response.status_code == 200:
+            data = response.json()
+            
+            if "children" in data:
+                for conference in data["children"]:
+                    conf_name = conference.get("name", "")
+                    
+                    if "East" in conf_name or "Este" in conf_name:
+                        conf_key = "Este"
+                    elif "West" in conf_name or "Oeste" in conf_name:
+                        conf_key = "Oeste"
+                    else:
+                        continue
+                    
+                    if "standings" in conference and "entries" in conference["standings"]:
+                        for entry in conference["standings"]["entries"]:
+                            try:
+                                team = entry.get("team", {})
+                                team_abbr = team.get("abbreviation", "???")
+                                team_name = team.get("displayName", team_abbr)
+                                
+                                stats = entry.get("stats", [])
+                                
+                                wins = 0
+                                losses = 0
+                                win_pct = 0.0
+                                pf = 0
+                                pa = 0
+                                
+                                for stat in stats:
+                                    name = stat.get("name", "")
+                                    value = stat.get("value", 0)
+                                    
+                                    if name == "wins":
+                                        wins = int(value)
+                                    elif name == "losses":
+                                        losses = int(value)
+                                    elif name == "winPercent":
+                                        win_pct = float(value)
+                                    elif name == "pointsFor":
+                                        pf = int(value)
+                                    elif name == "pointsAgainst":
+                                        pa = int(value)
+                                
+                                logo = equipos_logos.get(team_abbr, "")
+                                
+                                tabla_posiciones[conf_key].append({
+                                    "escudo": logo,
+                                    "equipo": f"{team_abbr} {team_name}",
+                                    "porcentaje_pg": f"{win_pct:.3f}",
+                                    "puntos": str(wins + losses),
+                                    "pj": str(wins),
+                                    "pp": str(losses),
+                                    "pf": pf,
+                                    "pc": pa,
+                                    "dg": pf - pa,
+                                    "win_pct_num": win_pct  # Para ordenar
+                                })
+                            except Exception as e:
+                                print(f"⚠️ Error procesando equipo: {e}")
+                                continue
+        
+        # Ordenar por porcentaje de victorias (de mayor a menor) y asignar posiciones
+        for conf_key in ["Este", "Oeste"]:
+            tabla_posiciones[conf_key].sort(key=lambda x: x["win_pct_num"], reverse=True)
+            for idx, equipo in enumerate(tabla_posiciones[conf_key], 1):
+                equipo["posicion"] = str(idx)
+                del equipo["win_pct_num"]  # Eliminar campo auxiliar
+                
+    except Exception as e:
+        print(f"⚠️ Error obteniendo tabla: {e}")
+    
     return {
         "fixture": partidos,
         "tabla_posiciones": tabla_posiciones
     }
 
-ligas = {
-    "NBA": {
-        "fixture": "https://www.tycsports.com/estadisticas/estados-unidos/nba/fixture.html",
-        "tabla": "https://www.tycsports.com/estadisticas/estados-unidos/nba/tabla-de-posiciones.html",
-    },
-}
-
-carpeta_destino = r"C:\\Users\\Usuario\\Desktop\\nueva carpeta(7)\\Pagina Futbol\\NBA"
+carpeta_destino = r"C:\Users\Usuario\Desktop\nueva carpeta(7)\Pagina Futbol\src\JSONs"
 os.makedirs(carpeta_destino, exist_ok=True)
 ruta_archivo = os.path.join(carpeta_destino, "resultadosnba.json")
 
-# Cargar datos existentes si existen
-if os.path.exists(ruta_archivo):
-    with open(ruta_archivo, "r", encoding="utf-8") as f:
-        datos = json.load(f)
-else:
-    datos = {}
+print("🏀 Iniciando scrapper de NBA desde ESPN...")
 
-# Scraping y merge
-for liga, urls in ligas.items():
-    print(f"📌 Obteniendo datos de {liga}...")
-    nuevos_datos = obtener_fixture_y_tabla(urls["fixture"], urls["tabla"], liga)
-    if not nuevos_datos:
-        continue
-
-    prev_fixture = datos.get(liga, {}).get("fixture", [])
-    nuevo_fixture = nuevos_datos.get("fixture", [])
-
-    fixture_dict = {f"{p['fecha']}|{p['local']}|{p['visitante']}": p for p in prev_fixture}
-
-    for partido in nuevo_fixture:
-        key = f"{partido['fecha']}|{partido['local']}|{partido['visitante']}"
-        if key in fixture_dict:
-            old = fixture_dict[key]
-            if (partido['goles_local'], partido['goles_visita']) != (old['goles_local'], old['goles_visita']):
-                fixture_dict[key] = partido  # actualizar goles
-        else:
-            fixture_dict[key] = partido  # nuevo partido
-
-    datos[liga] = {
-        "fixture": list(fixture_dict.values()),
-        "tabla_posiciones": nuevos_datos.get("tabla_posiciones", {})
-    }
-
-# Guardar actualizado
-with open(ruta_archivo, "w", encoding="utf-8") as f:
-    json.dump(datos, f, ensure_ascii=False, indent=4)
-
-print(f"✅ Scraping completado. Datos guardados en '{ruta_archivo}'.")
+try:
+    datos_nba = obtener_datos_nba()
+    
+    datos_finales = {"NBA": datos_nba}
+    
+    with open(ruta_archivo, "w", encoding="utf-8") as f:
+        json.dump(datos_finales, f, ensure_ascii=False, indent=4)
+    
+    print(f"\n✅ NBA: {len(datos_nba['fixture'])} partidos obtenidos")
+    print(f"✅ Tabla: Este ({len(datos_nba['tabla_posiciones']['Este'])} equipos) y Oeste ({len(datos_nba['tabla_posiciones']['Oeste'])} equipos)")
+    print(f"✅ Datos guardados en '{ruta_archivo}'.")
+    
+except Exception as e:
+    print(f"❌ Error general: {e}")
+    import traceback
+    traceback.print_exc()
