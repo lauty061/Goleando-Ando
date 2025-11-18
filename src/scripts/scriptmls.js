@@ -26,6 +26,9 @@ document.addEventListener("DOMContentLoaded", async function () {
     });
     let zonasUnicas = [...new Set(tablaPosicionesData.map(e => e.zona))];
     crearSelectorGrupos(zonasUnicas, tablaPosicionesData);
+    
+    loadBracket("../JSONs/resultadosmls.json", "tournament-bracket");
+    
     mostrarGoleadores(goleadoresData);
 });
 
@@ -174,11 +177,19 @@ function crearSelectorGrupos(gruposDisponibles, tablaData) {
     const opciones = [
         `<option value="todos">Todos los grupos</option>`,
         ...gruposDisponibles.map(z => `<option value="${z}">${z}</option>`),
+        `<option value="bracket">Llave de Eliminación</option>`
     ];
     selector.innerHTML = opciones.join("");
 
-    selector.addEventListener("change", function () {{
-            mostrarTablaPorGrupo(tablaData, this.value);
+    selector.addEventListener("change", function () {
+        const valor = this.value;
+        if (valor === "bracket") {
+            document.getElementById("bracket-container").style.display = "block";
+            document.getElementById("tabla-container").style.display = "none";
+        } else {
+            document.getElementById("bracket-container").style.display = "none";
+            document.getElementById("tabla-container").style.display = "block";
+            mostrarTablaPorGrupo(tablaData, valor);
         }
     });
 

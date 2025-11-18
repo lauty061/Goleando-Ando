@@ -14,7 +14,7 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
 
     response = requests.get(url_fixture, headers=headers)
     if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_fixture}")
+        print(f"Error al obtener la página {url_fixture}")
         return None
     
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -53,17 +53,17 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
                     "escudo_visita": escudo_visita
                 })
             except Exception as e:
-                print("⚠️ Error procesando un partido:", e)
+                print("Error procesando un partido:", e)
 
     response = requests.get(url_tabla, headers=headers)
     if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_tabla}")
+        print(f"Error al obtener la página {url_tabla}")
         return None
     soup = BeautifulSoup(response.text, 'html.parser')
     tabla_posiciones = []
     tabla = soup.find("table", id="posiciones")
     if not tabla:
-        print("❌ No se encontró la tabla de posiciones")
+        print("No se encontró la tabla de posiciones")
         return None
     filas = tabla.find("tbody").find_all("tr")
     for fila in filas:
@@ -137,7 +137,7 @@ ligas = {
 
 datos = {}
 for liga, urls in ligas.items():
-    print(f"📌 Obteniendo datos de {liga}...")
+    print(f"Obteniendo datos de {liga}...")
     datos[liga] = obtener_fixture_y_tabla(urls["fixture"], urls["tabla"], urls["goleadores"], liga)
 
 carpeta_destino = r"C:\\Users\\Usuario\\Desktop\\nueva carpeta(7)\\Pagina Futbol\\src\\JSONs"
@@ -145,4 +145,4 @@ os.makedirs(carpeta_destino, exist_ok=True)
 ruta_archivo = os.path.join(carpeta_destino, "resultadosperu.json")
 with open(ruta_archivo, "w", encoding="utf-8") as f:
     json.dump(datos, f, ensure_ascii=False, indent=4)
-print(f"✅ Scraping completado. Datos guardados en '{ruta_archivo}'.")
+print(f"Scraping completado. Datos guardados en '{ruta_archivo}'.")

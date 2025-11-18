@@ -27,6 +27,19 @@ document.addEventListener("DOMContentLoaded", async function () {
 
     mostrarTablaPosiciones(tablaPosicionesData);
     mostrarGoleadores(goleadoresData);
+    
+    loadBracket("../JSONs/resultadoseu.json", "tournament-bracket");
+    
+    document.getElementById("grupo-select").addEventListener("change", function () {
+        const valor = this.value;
+        if (valor === "bracket") {
+            document.getElementById("bracket-container").style.display = "block";
+            document.getElementById("tabla-container").style.display = "none";
+        } else {
+            document.getElementById("bracket-container").style.display = "none";
+            document.getElementById("tabla-container").style.display = "block";
+        }
+    });
 });
 
 async function obtenerDatosLiga(liga) {
@@ -148,6 +161,7 @@ function mostrarTablaPosiciones(tablaData) {
         `;
     });
 }
+
 function mostrarGoleadores(data) {
     let tabla = document.getElementById("tabla-goleadores");
     if (!tabla || !data.length) {

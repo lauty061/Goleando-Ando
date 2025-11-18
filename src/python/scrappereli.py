@@ -130,7 +130,7 @@ ligas = {
 
 datos = {}
 for liga, urls in ligas.items():
-    print(f"📌 Obteniendo datos de {liga}...")
+    print(f"Obteniendo datos de {liga}...")
     datos[liga] = obtener_fixture_y_tabla(urls["fixture"], urls["tabla"], urls["goleadores"], liga)
 
 carpeta_destino = r"C:\\Users\\Usuario\\Desktop\\nueva carpeta(7)\\Pagina Futbol\\src\\JSONs"
@@ -138,4 +138,4 @@ os.makedirs(carpeta_destino, exist_ok=True)
 ruta_archivo = os.path.join(carpeta_destino, "resultadoseli.json")
 with open(ruta_archivo, "w", encoding="utf-8") as f:
     json.dump(datos, f, ensure_ascii=False, indent=4)
-print(f"✅ Scraping completado. Datos guardados en '{ruta_archivo}'.")
+print(f"Scraping completado. Datos guardados en '{ruta_archivo}'.")

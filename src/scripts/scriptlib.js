@@ -28,13 +28,23 @@ document.addEventListener("DOMContentLoaded", async function () {
     mostrarTablaPosiciones(tablaPosicionesData);
     mostrarGoleadores(goleadoresData);
     llenarSelectorGrupos(tablaPosicionesData);
+    
+    loadBracket("../JSONs/resultadoslib.json", "tournament-bracket");
 
     fechaSelect.addEventListener("change", function () {
         mostrarPartidos(fixtureData, this.value, fechasTorneo);
     });
 
     document.getElementById("grupo-select").addEventListener("change", function () {
-        mostrarTablaPosiciones(tablaPosicionesData, this.value);
+        const valor = this.value;
+        if (valor === "bracket") {
+            document.getElementById("bracket-container").style.display = "block";
+            document.getElementById("tabla-container").style.display = "none";
+        } else {
+            document.getElementById("bracket-container").style.display = "none";
+            document.getElementById("tabla-container").style.display = "block";
+            mostrarTablaPosiciones(tablaPosicionesData, valor);
+        }
     });
 });
 
@@ -156,7 +166,8 @@ function llenarSelectorGrupos(tablaData) {
     const select = document.getElementById("grupo-select");
     const grupos = [...new Set(tablaData.map(e => e.grupo || "Sin grupo"))];
     select.innerHTML = `<option value="">Todos los grupos</option>` +
-        grupos.map(g => `<option value="${g}">${g}</option>`).join("");
+        grupos.map(g => `<option value="${g}">${g}</option>`).join("") +
+        `<option value="bracket">Llave de Eliminación</option>`;
 }
 
 function mostrarGoleadores(data) {
@@ -185,3 +196,4 @@ function mostrarGoleadores(data) {
         </tbody>
     `;
 }
+

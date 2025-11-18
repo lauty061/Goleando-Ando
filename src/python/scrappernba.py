@@ -224,7 +224,7 @@ carpeta_destino = r"C:\Users\Usuario\Desktop\nueva carpeta(7)\Pagina Futbol\src\
 os.makedirs(carpeta_destino, exist_ok=True)
 ruta_archivo = os.path.join(carpeta_destino, "resultadosnba.json")
 
-print("🏀 Iniciando scrapper de NBA desde ESPN...")
+print("Iniciando scrapper de NBA desde ESPN...")
 
 try:
     datos_nba = obtener_datos_nba()
@@ -234,11 +234,11 @@ try:
     with open(ruta_archivo, "w", encoding="utf-8") as f:
         json.dump(datos_finales, f, ensure_ascii=False, indent=4)
     
-    print(f"\n✅ NBA: {len(datos_nba['fixture'])} partidos obtenidos")
-    print(f"✅ Tabla: Este ({len(datos_nba['tabla_posiciones']['Este'])} equipos) y Oeste ({len(datos_nba['tabla_posiciones']['Oeste'])} equipos)")
-    print(f"✅ Datos guardados en '{ruta_archivo}'.")
+    print(f"\nNBA: {len(datos_nba['fixture'])} partidos obtenidos")
+    print(f"Tabla: Este ({len(datos_nba['tabla_posiciones']['Este'])} equipos) y Oeste ({len(datos_nba['tabla_posiciones']['Oeste'])} equipos)")
+    print(f"Datos guardados en '{ruta_archivo}'.")
     
 except Exception as e:
-    print(f"❌ Error general: {e}")
+    print(f"Error general: {e}")
     import traceback
     traceback.print_exc()

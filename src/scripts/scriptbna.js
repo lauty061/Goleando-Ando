@@ -127,13 +127,131 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada, fechasTorneo) {
 function crearSelectorGrupos(gruposDisponibles, tablaData) {
     const selector = document.getElementById("grupo-select");
     selector.innerHTML = `<option value="todos">Todos los grupos</option>` +
-        gruposDisponibles.map(z => `<option value="${z}">${z}</option>`).join("");
+        gruposDisponibles.map(z => `<option value="${z}">${z}</option>`).join("") +
+        `<option value="bracket">Llave de Eliminación</option>`;
 
-    selector.addEventListener("change", function () {
-        mostrarTablaPorGrupo(tablaData, this.value);
+    selector.addEventListener("change", async function () {
+        if (this.value === "bracket") {
+            document.getElementById("tabla-container").style.display = "none";
+            document.getElementById("bracket-container").style.display = "block";
+            await cargarBracket();
+        } else {
+            document.getElementById("tabla-container").style.display = "block";
+            document.getElementById("bracket-container").style.display = "none";
+            mostrarTablaPorGrupo(tablaData, this.value);
+        }
     });
 
     mostrarTablaPorGrupo(tablaData, selector.value);
+}
+
+async function cargarBracket() {
+    try {
+        const response = await fetch("../JSONs/resultadosbna.json");
+        if (!response.ok) throw new Error("No se pudo cargar el archivo JSON");
+        const data = await response.json();
+        const ligaData = data["Primera B Nacional"];
+        
+        if (!ligaData || !ligaData.fixture) {
+            console.error("No hay datos de fixture disponibles");
+            return;
+        }
+
+        const playoffMatches = ligaData.fixture.filter(match => {
+            return match.fecha_torneo && (
+                match.fecha_torneo.includes("Octavos") || 
+                match.fecha_torneo.includes("Cuartos") || 
+                match.fecha_torneo.includes("Semifinal") || 
+                match.fecha_torneo.includes("Final")
+            );
+        });
+        
+        if (playoffMatches.length === 0) {
+            document.getElementById('tournament-bracket').innerHTML = '<div class="bracket-empty"><div class="bracket-empty-text">No hay datos de llave disponibles todavía</div></div>';
+            return;
+        }
+
+        const rounds = procesarRondasBNA(playoffMatches);
+        const bracket = new TournamentBracket('tournament-bracket', ligaData);
+        bracket.generateBracket(rounds);
+    } catch (error) {
+        console.error("Error al cargar el bracket:", error);
+        document.getElementById('tournament-bracket').innerHTML = '<div class="bracket-empty"><div class="bracket-empty-text">Error al cargar los datos</div></div>';
+    }
+}
+
+function procesarRondasBNA(matches) {
+    const rondas = {};
+    
+    matches.forEach(match => {
+        let ronda = match.fecha_torneo;
+        
+        if (!rondas[ronda]) {
+            rondas[ronda] = [];
+        }
+        
+        rondas[ronda].push({
+            team1: match.local,
+            team1_logo: match.escudo_local,
+            team1_score: match.goles_local !== '-' ? parseInt(match.goles_local) || 0 : null,
+            team2: match.visitante,
+            team2_logo: match.escudo_visita,
+            team2_score: match.goles_visita !== '-' ? parseInt(match.goles_visita) || 0 : null
+        });
+    });
+    
+    const rondasCombinadas = {};
+    for (const ronda in rondas) {
+        rondasCombinadas[ronda] = combinarPartidosIdaVuelta(rondas[ronda]);
+    }
+    
+    return rondasCombinadas;
+}
+
+function combinarPartidosIdaVuelta(partidos) {
+    const agrupados = {};
+    const resultado = [];
+    
+    partidos.forEach(partido => {
+        const equipos = [partido.team1, partido.team2].sort().join('_vs_');
+        
+        if (!agrupados[equipos]) {
+            agrupados[equipos] = [];
+        }
+        agrupados[equipos].push(partido);
+    });
+    
+    for (const key in agrupados) {
+        const pareja = agrupados[key];
+        
+        if (pareja.length === 1) {
+            resultado.push(pareja[0]);
+        } else if (pareja.length >= 2) {
+            const [p1, p2] = pareja;
+            const equipos = key.split('_vs_');
+            
+            let score1 = 0;
+            let score2 = 0;
+            
+            if (p1.team1_score !== null && p2.team2_score !== null) {
+                score1 = (p1.team1 === equipos[0] ? p1.team1_score : p1.team2_score) + 
+                         (p2.team1 === equipos[0] ? p2.team1_score : p2.team2_score);
+                score2 = (p1.team1 === equipos[1] ? p1.team1_score : p1.team2_score) + 
+                         (p2.team1 === equipos[1] ? p2.team1_score : p2.team2_score);
+            }
+            
+            resultado.push({
+                team1: equipos[0],
+                team1_logo: p1.team1 === equipos[0] ? p1.team1_logo : p1.team2_logo,
+                team1_score: score1,
+                team2: equipos[1],
+                team2_logo: p1.team1 === equipos[1] ? p1.team1_logo : p1.team2_logo,
+                team2_score: score2
+            });
+        }
+    }
+    
+    return resultado;
 }
 
 function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {

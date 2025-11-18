@@ -28,7 +28,8 @@ document.addEventListener("DOMContentLoaded", async function () {
     let zonasUnicas = [...new Set(tablaPosicionesData.map(e => e.zona))];
     crearSelectorGrupos(zonasUnicas, tablaPosicionesData);
 
-    // 🔹 Mostrar goleadores
+    loadBracket("../JSONs/resultadosarg.json", "tournament-bracket");
+
     mostrarGoleadores(goleadoresData);
 });
 
@@ -247,16 +248,26 @@ function crearSelectorGrupos(gruposDisponibles, tablaData) {
     const opciones = [
         `<option value="todos">Todos los grupos</option>`,
         ...gruposDisponibles.map(z => `<option value="${z}">${z}</option>`),
-        `<option value="anual">Tabla Anual</option>`
+        `<option value="anual">Tabla Anual</option>`,
+        `<option value="bracket">Llave de Eliminación</option>`
     ];
 
     selector.innerHTML = opciones.join("");
 
     selector.addEventListener("change", function () {
-        if (this.value === "anual") {
-            mostrarTablaAnual(tablaData);
+        const valor = this.value;
+        if (valor === "bracket") {
+            document.getElementById("bracket-container").style.display = "block";
+            document.getElementById("tabla-container").style.display = "none";
         } else {
-            mostrarTablaPorGrupo(tablaData, this.value);
+            document.getElementById("bracket-container").style.display = "none";
+            document.getElementById("tabla-container").style.display = "block";
+            
+            if (valor === "anual") {
+                mostrarTablaAnual(tablaData);
+            } else {
+                mostrarTablaPorGrupo(tablaData, valor);
+            }
         }
     });
 

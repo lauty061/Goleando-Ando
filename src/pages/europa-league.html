@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../styles/mainSection.css">
     <link rel="stylesheet" href="../styles/responsive.css">
     <link rel="stylesheet" href="../styles/scrollbar.css">
+    <link rel="stylesheet" href="../styles/bracket.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
@@ -67,7 +68,6 @@
                         <li><a href="champions.html">Champions League</a></li>
                         <li><a href="europa-league.html">Europa League</a></li>
                         <li><a href="libertadores.html">Copa Libertadores</a></li>
-                        <li><a href="sudamericana.html">Copa Sudamericana</a></li>
                         <li><a href="eliminatorias.html">Eliminatorias Conmebol</a></li>
                     </ul>
                 </li>
@@ -126,7 +126,6 @@
                         <li><a href="champions.html">Champions League</a></li>
                         <li><a href="europa-league.html">Europa League</a></li>
                         <li><a href="libertadores.html">Copa Libertadores</a></li>
-                        <li><a href="sudamericana.html">Copa Sudamericana</a></li>
                         <li><a href="eliminatorias.html">Eliminatorias Conmebol</a></li>
                     </ul>
                 </li>
@@ -152,9 +151,18 @@
             <select id="fecha-select"></select>
             <table id="fixture-table"></table>
         </section>
+        
         <section id="posiciones">
             <h2>Tabla de Posiciones</h2>
-            <div class="scrollable-table">
+            <label for="grupo-select">Seleccionar:</label>
+            <select id="grupo-select">
+                <option value="all">Todos</option>
+                <option value="bracket">🏆 Llave de Eliminación</option>
+            </select>
+            <div id="bracket-container" style="display: none;" class="scrollable-table">
+                <div id="tournament-bracket"></div>
+            </div>
+            <div id="tabla-container" class="scrollable-table">
                 <table id="tabla-posiciones-table"></table>
             </div>
         </section>
@@ -164,6 +172,7 @@
         </section>
         <a href="#ancla" class="boton-inicio">⇧</a>
     </main>
+    <script src="../scripts/bracket.js"></script>
     <script src="../scripts/scripteu.js"></script>
     <script src="../scripts/navScript.js"></script>
 </body>

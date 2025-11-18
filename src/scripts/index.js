@@ -12,7 +12,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         "Champions League": "src/JSONs/resultadoscha.json",
         "Uefa Europa League": "src/JSONs/resultadoseu.json",
         "Copa Libertadores": "src/JSONs/resultadoslib.json",
-        "Copa Sudamericana": "src/JSONs/resultadossuda.json",
         "Eliminatorias Conmebol": "src/JSONs/resultadoseli.json",
         "MLS": "src/JSONs/resultadosmls.json",
         "Brasileirao": "src/JSONs/resultadosbra.json",
