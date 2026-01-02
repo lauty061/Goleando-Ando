@@ -1,3 +1,5 @@
+let datosGlobalesStats = {}; 
+
 document.addEventListener("DOMContentLoaded", async function () {
     const liga = "NBA";
     let ligaData = await obtenerDatosLiga(liga);
@@ -5,38 +7,61 @@ document.addEventListener("DOMContentLoaded", async function () {
 
     let fixtureData = ligaData.fixture || [];
     let tablaData = ligaData.tabla_posiciones || {};
-    let estadisticasData = ligaData.estadisticas_jugadores || [];
+    let estadisticasData = ligaData.estadisticas_jugadores || {};
+    
+    datosGlobalesStats = estadisticasData;
 
-    mostrarEstadisticas(estadisticasData);
+    mostrarEstadisticas('puntos');
 
     let conferenciaSelect = document.getElementById("conferencia-select");
     let conferencias = Object.keys(tablaData);
-    conferenciaSelect.innerHTML = conferencias.map(c => `<option value="${c}">${c}</option>`).join("");
-
-    const rondas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
-    const rondaSelect = document.getElementById("ronda-select");
-    rondaSelect.innerHTML = rondas.map(r => `<option value="${r}">${r}</option>`).join("");
-
-    mostrarPartidos(fixtureData, rondas[0]);
-    mostrarTablaPosiciones(tablaData[conferencias[0]]);
+    if (conferencias.length > 0) {
+        conferenciaSelect.innerHTML = conferencias.map(c => `<option value="${c}">${c}</option>`).join("");
+        mostrarTablaPosiciones(tablaData[conferencias[0]]);
+    }
 
     conferenciaSelect.addEventListener("change", function () {
         mostrarTablaPosiciones(tablaData[this.value]);
     });
+
+    const rondas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
+    const rondaSelect = document.getElementById("ronda-select");
+    
+    if (rondas.length > 0) {
+        rondaSelect.innerHTML = rondas.map(r => `<option value="${r}">${r}</option>`).join("");
+        
+        let hoy = new Date();
+        let dia = String(hoy.getDate()).padStart(2, '0');
+        let mes = String(hoy.getMonth() + 1).padStart(2, '0');
+        let fechaHoyStr = `${dia}/${mes}`;
+        
+        if (rondas.includes(fechaHoyStr)) {
+            rondaSelect.value = fechaHoyStr;
+            mostrarPartidos(fixtureData, fechaHoyStr);
+        } else {
+            mostrarPartidos(fixtureData, rondas[0]);
+        }
+    }
 
     rondaSelect.addEventListener("change", function () {
         mostrarPartidos(fixtureData, this.value);
     });
 });
 
+window.cambiarStat = function(categoria) {
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    event.target.classList.add('active');
+    mostrarEstadisticas(categoria);
+}
+
 async function obtenerDatosLiga(liga) {
     try {
-        let response = await fetch("../JSONs/resultadosnba.json");
-        if (!response.ok) throw new Error("No se pudo cargar el archivo JSON");
+        let response = await fetch(`../JSONs/resultadosnba.json?v=${new Date().getTime()}`);
+        if (!response.ok) throw new Error("Error JSON");
         let data = await response.json();
         return data[liga] || null;
     } catch (error) {
-        console.error("❌ Error al cargar los datos:", error);
+        console.error("Error:", error);
         return null;
     }
 }
@@ -44,135 +69,140 @@ async function obtenerDatosLiga(liga) {
 function mostrarPartidos(fixtureData, rondaSeleccionada) {
     let fixtureTable = document.getElementById("fixture-table");
     fixtureTable.innerHTML = `
-        <tr>
-            <th>Fecha</th>
-            <th>Local</th>
-            <th></th>
-            <th>Resultado</th>
-            <th></th>
-            <th>Visitante</th>
-        </tr>
+        <thead>
+            <tr>
+                <th class="text-center">Estado/Hora</th>
+                <th class="text-right">Local</th>
+                <th class="text-center">Res</th>
+                <th class="text-left">Visitante</th>
+            </tr>
+        </thead>
+        <tbody>
     `;
 
     const partidos = fixtureData.filter(p => p.fecha_torneo === rondaSeleccionada);
 
     if (!partidos.length) {
-        fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos disponibles</td></tr>`;
+        fixtureTable.innerHTML += `<tr><td colspan="4" class="text-center">No hay partidos</td></tr>`;
+        fixtureTable.innerHTML += `</tbody>`;
         return;
     }
 
     partidos.forEach(p => {
+        let hora = p.fecha.replace(" ET", "");
+        let resultado = p.goles_local === "-" ? "vs" : `${p.goles_local} - ${p.goles_visita}`;
+        
+        let claseEstado = "";
+        if (!hora.includes("Final") && (hora.includes("Q") || hora.includes("Half") || hora.includes(":"))) {
+            if(hora.includes("Q") || hora.includes("Half")) claseEstado = "live-text";
+        }
+
         fixtureTable.innerHTML += `
             <tr>
-                <td>${p.fecha}</td>
-                <td><img src="${p.escudo_local}" width="30"> ${p.local}</td>
-                <td>${p.goles_local}</td>
-                <td>VS</td>
-                <td>${p.goles_visita}</td>
-                <td><img src="${p.escudo_visita}" width="30"> ${p.visitante}</td>
+                <td class="text-center ${claseEstado}">${hora}</td>
+                <td class="text-right">
+                    <div class="flex-align-center justify-end">
+                        ${p.nombre_local} <img src="${p.escudo_local}" class="team-logo-mini" loading="lazy">
+                    </div>
+                </td>
+                <td class="text-center font-bold result-cell">${resultado}</td>
+                <td class="text-left">
+                    <div class="flex-align-center justify-start">
+                        <img src="${p.escudo_visita}" class="team-logo-mini" loading="lazy"> ${p.nombre_visita}
+                    </div>
+                </td>
             </tr>
         `;
     });
+    fixtureTable.innerHTML += `</tbody>`;
 }
 
 function mostrarTablaPosiciones(tablaData) {
     let tabla = document.getElementById("tabla-posiciones-table");
 
     if (!tablaData || !tablaData.length) {
-        tabla.innerHTML = "<tr><td colspan='10'>No hay datos disponibles</td></tr>";
+        tabla.innerHTML = "<tr><td colspan='6' class='text-center'>No hay datos</td></tr>";
         return;
     }
 
     tabla.innerHTML = `
-        <tr>
-            <th>#</th>
-            <th>Escudo</th>
-            <th>Equipo</th>
-            <th>%PG</th>
-            <th>Pj</th>
-            <th>Pg</th>
-            <th>PP</th>
-            <th>PF</th>
-            <th>PC</th>
-            <th>DG</th>
-        </tr>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th class="text-left">Equipo</th>
+                <th>V-D</th>
+                <th>%PG</th>
+                <th>Racha</th>
+                <th>L10</th>
+            </tr>
+        </thead>
+        <tbody>
     `;
 
-    tablaData.forEach((equipo, index) => {
-        let colorFondo = "";
-        switch (index) {
-            case 0:
-            case 1:
-            case 2:
-            case 3:
-            case 4:
-            case 5:
-                colorFondo = "background-color: #649cd9";
-                break;
-            case 6:
-            case 7:
-            case 8:
-            case 9:
-                colorFondo = "background-color: #FF751C";
-                break;
-        }
+    tablaData.forEach((equipo) => {
+        let pos = parseInt(equipo.posicion);
+        let claseFila = "";
+        
+        if (pos <= 6) claseFila = "playoff-zone";
+        else if (pos <= 10) claseFila = "playin-zone";
+
         tabla.innerHTML += `
-            <tr style="${colorFondo}">
-                <td>${equipo.posicion}</td>
-                <td><img src="${equipo.escudo}" width="30" height="30" alt="${equipo.equipo}"></td>
-                <td>${equipo.equipo}</td>
-                <td>${equipo.porcentaje_pg}</td>
-                <td>${equipo.puntos}</td>
-                <td>${equipo.pj}</td>
-                <td>${equipo.pp}</td>
-                <td>${equipo.pf}</td>
-                <td>${equipo.pc}</td>
-                <td>${equipo.dg}</td>
+            <tr>
+                <td class="${claseFila}">${equipo.posicion}</td>
+                <td class="text-left">
+                    <div class="flex-align-center justify-start">
+                        <img src="${equipo.escudo}" class="team-logo-mini" loading="lazy">
+                        ${equipo.equipo}
+                    </div>
+                </td>
+                <td>${equipo.record}</td>
+                <td class="font-bold">${equipo.porcentaje_pg}</td>
+                <td>${equipo.racha}</td>
+                <td>${equipo.l10}</td>
             </tr>
         `;
     });
+    tabla.innerHTML += `</tbody>`;
 }
 
-function mostrarEstadisticas(estadisticas) {
+function mostrarEstadisticas(categoria) {
     const tabla = document.getElementById("tabla-estadisticas-jugadores");
-    if (!estadisticas || !estadisticas.length) {
-        tabla.innerHTML = "<tr><td colspan='12'>No hay datos disponibles</td></tr>";
+    const datosCategoria = datosGlobalesStats[categoria];
+
+    if (!datosCategoria || !datosCategoria.length) {
+        tabla.innerHTML = "<tr><td colspan='4' class='text-center'>No hay datos</td></tr>";
         return;
     }
 
+    let tituloColumna = categoria.charAt(0).toUpperCase() + categoria.slice(1);
+    if(categoria === 'fg_pct') tituloColumna = "TC%";
+
     tabla.innerHTML = `
-    <tr>
-        <th>Jugador</th>
-        <th>Logo</th>
-        <th>Equipo</th>
-        <th>PJ</th>
-        <th>PP</th>
-        <th>PTS</th>
-        <th>REB</th>
-        <th>AST</th>
-        <th>ROB</th>
-        <th>FG%</th>
-        <th>FT%</th>
-        <th>3P%</th>
-    </tr>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th class="text-left">Jugador</th>
+            <th>Equipo</th>
+            <th>${tituloColumna}</th>
+        </tr>
+    </thead>
+    <tbody>
     `;
 
-    estadisticas.forEach(j => {
+    datosCategoria.forEach((j, index) => {
         tabla.innerHTML += `
         <tr>
-            <td>${j.jugador}</td>
-            <td><img src="${j.logo}" alt="${j.equipo}" width="30" height="30"></td>
+            <td>${index + 1}</td>
+            <td class="text-left">
+                <div class="flex-align-center justify-start">
+                    <img src="${j.foto}" class="player-img" alt="${j.jugador}">
+                    <span class="font-bold">${j.jugador}</span>
+                </div>
+            </td>
             <td>${j.equipo}</td>
-            <td>${j.pj}</td>
-            <td>${j.pp}</td>
-            <td>${j.pts}</td>
-            <td>${j.reb}</td>
-            <td>${j.ast}</td>
-            <td>${j.rob}</td>
-            <td>${j["fg%"]}</td>
-            <td>${j["ft%"]}</td>
-            <td>${j["3p%"]}</td>
+            <td class="stat-highlight">${j.valor}</td>
         </tr>
         `;
     });
+    tabla.innerHTML += `</tbody>`;
 }

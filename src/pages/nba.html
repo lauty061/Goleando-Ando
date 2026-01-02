@@ -143,27 +143,48 @@
         <h1 id="titulo-liga">NBA</h1>
         <img class="logo" src="../../assets/imgs/logo-nba-256.png">
     </div>
-    <main>
+<main>
         <section id="fixture">
             <h2>Fixture</h2>
-            <label for="ronda-select">Seleccionar Ronda:</label>
-            <select id="ronda-select"></select>
-            <table id="fixture-table"></table>
+            <div class="filter-container">
+                <label for="ronda-select">Fecha:</label>
+                <select id="ronda-select"></select>
+            </div>
+            <div class="scrollable-table">
+                <table id="fixture-table">
+                    </table>
+            </div>
         </section>
+
         <section id="posiciones">
             <h2>Tabla de Posiciones</h2>
-            <label for="conferencia-select">Seleccionar Conferencia:</label>
-            <select id="conferencia-select"></select>
+            <div class="filter-container">
+                <label for="conferencia-select">Conferencia:</label>
+                <select id="conferencia-select"></select>
+            </div>
             <div class="scrollable-table">
-                <table id="tabla-posiciones-table"></table>
+                <table id="tabla-posiciones-table">
+                    </table>
             </div>
         </section>
+
         <section id="estadisticas">
-            <h2>Estadísticas Jugadores</h2>
+            <h2>Líderes de Temporada</h2>
+            
+            <div class="stats-tabs">
+                <button class="tab-btn active" onclick="cambiarStat('puntos')">Puntos</button>
+                <button class="tab-btn" onclick="cambiarStat('rebotes')">Rebotes</button>
+                <button class="tab-btn" onclick="cambiarStat('asistencias')">Asistencias</button>
+                <button class="tab-btn" onclick="cambiarStat('robos')">Robos</button>
+                <button class="tab-btn" onclick="cambiarStat('tapones')">Tapones</button>
+            </div>
+
             <div class="scrollable-table">
-                <table id="tabla-estadisticas-jugadores"></table>
+                <table id="tabla-estadisticas-jugadores">
+                    </table>
             </div>
         </section>
+
         <a href="#ancla" class="boton-inicio">⇧</a>
     </main>
     <script src="../scripts/scriptnba.js"></script>
