@@ -12,10 +12,10 @@ def fix_encoding(text):
 def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
 
-    # 📅 FIXTURE
+
     response = requests.get(url_fixture, headers=headers)
     if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_fixture}")
+        print(f" Error al obtener la página {url_fixture}")
         return None
     soup = BeautifulSoup(response.text, 'html.parser')
     partidos = []
@@ -44,12 +44,11 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
                     "escudo_visita": escudo_visita
                 })
             except Exception:
-                print("⚠️ Error procesando un partido, se omitirá.")
+                print("Error procesando un partido, se omitirá.")
 
-    # 🏆 TABLA DE POSICIONES
     response = requests.get(url_tabla, headers=headers)
     if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_tabla}")
+        print(f" Error al obtener la página {url_tabla}")
         return None
     soup = BeautifulSoup(response.text, 'html.parser')
     tabla_posiciones = []
@@ -94,7 +93,6 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
                 "dg": dg
             })
 
-    # GOLEADORES
     response = requests.get(url_goleadores, headers=headers)
     goleadores = []
     if response.status_code == 200:
@@ -127,16 +125,14 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
         "goleadores": goleadores
     }
 
-# LIGAS CONFIGURADAS
 ligas = {
     "Primera B Nacional": {
         "fixture": "https://www.tycsports.com/estadisticas/primera-nacional/fixture.html",
-        "tabla": "https://www.tycsports.com/primera-nacional.html",
+        "tabla": "https://www.tycsports.com/estadisticas/primera-nacional/tabla-de-posiciones.html",
         "goleadores": "https://www.tycsports.com/estadisticas/primera-nacional/tabla-de-goleadores.html"
     },
 }
 
-# GUARDADO DE DATOS
 datos = {}
 for liga, urls in ligas.items():
     print(f"Obteniendo datos de {liga}...")

@@ -93,7 +93,6 @@ def get_car_image_url(team_name, year=2025):
     """Construye la URL de la imagen del monoposto basándose en el nombre del equipo"""
     if not team_name:
         return None
-    # Mapeo de nombres de equipos a sus slugs en las URLs de F1
     team_slugs = {
         "McLaren": "mclaren",
         "Mc Laren": "mclaren",
@@ -110,10 +109,8 @@ def get_car_image_url(team_name, year=2025):
     
     team_slug = team_slugs.get(team_name)
     if not team_slug:
-        # Intentar crear slug automáticamente
         team_slug = team_name.lower().replace(" ", "").replace("-", "")
     
-    # URL base para las imágenes de los coches
     return f"https://media.formula1.com/image/upload/c_lfill,w_320/q_auto/v1740000000/common/f1/{year}/{team_slug}/{year}{team_slug}car.webp"
 
 def get_slug_from_result_url(url):
@@ -132,7 +129,6 @@ def parse_races_page(year):
     soup = fetch_soup(url)
     if not soup:
         return []
-    # Intentar con ambas clases (vieja y nueva)
     table = soup.find("table", class_="f1-table") or soup.find("table", class_=lambda x: x and 'Table-module_table' in x)
     if not table:
         return []
@@ -204,7 +200,6 @@ def parse_drivers_page(year):
     soup = fetch_soup(url)
     if not soup:
         return []
-    # Intentar con ambas clases (vieja y nueva)
     table = soup.find("table", class_="f1-table") or soup.find("table", class_=lambda x: x and 'Table-module_table' in x)
     if not table:
         return []
@@ -247,7 +242,6 @@ def parse_teams_page(year):
     for u in url_candidates:
         soup = fetch_soup(u)
         if soup:
-            # Intentar con ambas clases (vieja y nueva)
             table = soup.find("table", class_="f1-table") or soup.find("table", class_=lambda x: x and 'Table-module_table' in x)
             if table:
                 break
@@ -265,7 +259,6 @@ def parse_teams_page(year):
             team_cell = tds[1] if len(tds) > 1 else None
             team_anchor = team_cell.find("a") if team_cell else None
             team_name = normalize_name(team_anchor.get_text(" ", strip=True)) if team_anchor else text_or_none(team_cell)
-            # Buscar imagen del monoposto en la celda del equipo
             car_img = None
             if team_cell:
                 all_imgs = team_cell.find_all("img")
@@ -323,7 +316,6 @@ def parse_race_result_page(result_url):
             driver_name = normalize_name(raw_driver)
             team = text_or_none(tds[3]) if len(tds) > 3 else None
             team_cell = tds[3] if len(tds) > 3 else None
-            # Buscar imagen del monoposto y logo del equipo
             car_img = None
             team_logo = None
             if team_cell:
@@ -335,10 +327,8 @@ def parse_race_result_page(result_url):
                             car_img = src
                         elif 'logo' in src.lower():
                             team_logo = src
-                # Si no encontramos logo, usar la primera imagen
                 if not team_logo and len(all_imgs) >= 1:
                     team_logo = safe_img_src(all_imgs[0])
-            # Si no se encontró la imagen del coche en el HTML, construir la URL
             if not car_img and team:
                 car_img = get_car_image_url(team, YEAR)
             laps = text_or_none(tds[4]) if len(tds) > 4 else None

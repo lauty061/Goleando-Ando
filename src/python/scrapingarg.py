@@ -14,7 +14,7 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
 
     response = requests.get(url_fixture, headers=headers)
     if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_fixture}")
+        print(f" Error al obtener la página {url_fixture}")
         return None
     soup = BeautifulSoup(response.text, 'html.parser')
     partidos = []
@@ -51,17 +51,17 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
                     "escudo_visita": escudo_visita
                 })
             except Exception as e:
-                print("⚠️ Error procesando un partido:", e)
+                print(" Error procesando un partido:", e)
 
     response = requests.get(url_tabla, headers=headers)
     if response.status_code != 200:
-        print(f"❌ Error al obtener la página {url_tabla}")
+        print(f" Error al obtener la página {url_tabla}")
         return None
     soup = BeautifulSoup(response.text, 'html.parser')
     tabla_posiciones = []
     tabla = soup.find("table", id="posiciones")
     if not tabla:
-        print("❌ No se encontró la tabla de posiciones")
+        print(" No se encontró la tabla de posiciones")
         return None
 
     filas = tabla.find_all("tr")
