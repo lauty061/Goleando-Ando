@@ -294,18 +294,31 @@ select {
     height: 10px;
     border-radius: 2px;
 }
-.playoff-zone {
-    border-left: 4px solid #28a745 !important;
-}
-
-.playin-zone {
-    border-left: 4px solid #ffc107 !important;
-}
 
 .live-text {
     color: #ff4d4d;
     font-weight: 800;
     animation: pulse 1.5s infinite;
+}
+
+.zona-oro {
+    border-left: 4px solid #FFD700 !important;
+}
+
+.zona-azul {
+    border-left: 4px solid var(--primary-accent-color) !important;
+}
+
+.zona-naranja {
+    border-left: 4px solid #FF751C !important;
+}
+
+.zona-verde {
+    border-left: 4px solid #28a745 !important;
+}
+
+.zona-roja {
+    border-left: 4px solid #ff4d4d !important;
 }
 
 @keyframes pulse {

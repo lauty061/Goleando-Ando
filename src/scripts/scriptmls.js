@@ -24,10 +24,13 @@ document.addEventListener("DOMContentLoaded", async function () {
     fechaSelect.addEventListener("change", function () {
         mostrarPartidos(fixtureData, this.value);
     });
+
     let zonasUnicas = [...new Set(tablaPosicionesData.map(e => e.zona))];
     crearSelectorGrupos(zonasUnicas, tablaPosicionesData);
     
-    loadBracket("../JSONs/resultadosmls.json", "tournament-bracket");
+    if (typeof loadBracket === "function") {
+        loadBracket("../JSONs/resultadosmls.json", "tournament-bracket");
+    }
     
     mostrarGoleadores(goleadoresData);
 });
@@ -47,20 +50,21 @@ async function obtenerDatosLiga(liga) {
 function mostrarPartidos(fixtureData, jornadaSeleccionada) {
     let fixtureTable = document.getElementById("fixture-table");
     fixtureTable.innerHTML = `
-        <tr>
-            <th>Fecha</th>
-            <th>Local</th>
-            <th></th>
-            <th>Resultado</th>
-            <th></th>
-            <th>Visitante</th>
-        </tr>
+        <thead>
+            <tr>
+                <th>Fecha</th>
+                <th class="text-right">Local</th>
+                <th>Res</th>
+                <th class="text-left">Visita</th>
+            </tr>
+        </thead>
+        <tbody>
     `;
 
     let partidos = fixtureData.filter(p => p.fecha_torneo === jornadaSeleccionada);
 
     if (partidos.length === 0) {
-        fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos para esta fecha</td></tr>`;
+        fixtureTable.innerHTML += `<tr><td colspan="4" class="text-center">No hay partidos para esta fecha</td></tr></tbody>`;
         return;
     }
 
@@ -68,93 +72,114 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada) {
         fixtureTable.innerHTML += `
             <tr>
                 <td>${p.fecha}</td>
-                <td><img src="${p.escudo_local}" width="30"> ${p.local}</td>
-                <td>${p.goles_local}</td>
-                <td>VS</td>
-                <td>${p.goles_visita}</td>
-                <td><img src="${p.escudo_visita}" width="30"> ${p.visitante}</td>
+                <td class="text-right">
+                    <div class="flex-align-center justify-end">
+                        ${p.local} <img src="${p.escudo_local}" class="team-logo-mini">
+                    </div>
+                </td>
+                <td class="font-bold result-cell">${p.goles_local} - ${p.goles_visita}</td>
+                <td class="text-left">
+                    <div class="flex-align-center justify-start">
+                        <img src="${p.escudo_visita}" class="team-logo-mini"> ${p.visitante}
+                    </div>
+                </td>
             </tr>
         `;
     });
+    fixtureTable.innerHTML += `</tbody>`;
 }
 
 function crearSelectorGrupos(gruposDisponibles, tablaData) {
     const selector = document.getElementById("grupo-select");
-    selector.innerHTML = `<option value="todos">Todos los grupos</option>` +
-        gruposDisponibles.map(z => `<option value="${z}">${z}</option>`).join("");
+    const opciones = [
+        `<option value="todos">Todas las Conferencias</option>`,
+        ...gruposDisponibles.map(z => `<option value="${z}">${z}</option>`),
+        `<option value="bracket">Llave de Eliminación</option>`
+    ];
+    selector.innerHTML = opciones.join("");
 
     selector.addEventListener("change", function () {
-        mostrarTablaPorGrupo(tablaData, this.value);
+        const valor = this.value;
+        const bracketContainer = document.getElementById("bracket-container");
+        const tablaContainer = document.getElementById("tabla-container") || document.getElementById("posiciones");
+
+        if (valor === "bracket" && bracketContainer) {
+            bracketContainer.style.display = "block";
+            if(tablaContainer) tablaContainer.style.display = "none";
+        } else {
+            if(bracketContainer) bracketContainer.style.display = "none";
+            if(tablaContainer) tablaContainer.style.display = "block";
+            mostrarTablaPorConferencia(tablaData, valor);
+        }
     });
 
-    mostrarTablaPorGrupo(tablaData, selector.value);
+    mostrarTablaPorConferencia(tablaData, selector.value);
 }
 
-function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
+function mostrarTablaPorConferencia(tablaData, grupoSeleccionado) {
     const container = document.getElementById("tabla-posiciones-table");
     if (!tablaData || tablaData.length === 0) {
-        container.innerHTML = "<p>No hay datos disponibles</p>";
+        container.innerHTML = "<div class='text-center p-4'>No hay datos disponibles</div>";
         return;
     }
 
     let dataAgrupada = tablaData.reduce((acc, equipo) => {
-        const grupo = equipo.zona || "Sin grupo";
+        const grupo = equipo.zona || "General";
         if (!acc[grupo]) acc[grupo] = [];
         acc[grupo].push(equipo);
         return acc;
     }, {});
 
-    const gruposOrdenados = Object.keys(dataAgrupada).sort((a, b) => a.localeCompare(b));
+    const gruposOrdenados = Object.keys(dataAgrupada).sort();
     container.innerHTML = "";
 
     gruposOrdenados.forEach(grupo => {
         if (grupoSeleccionado !== "todos" && grupo !== grupoSeleccionado) return;
 
         const equipos = dataAgrupada[grupo].sort((a, b) => a.posicion - b.posicion);
+        
         let html = `
-            <h3>${grupo}</h3>
-            <table class="stats-table">
-                <thead>
-                    <tr>
-                        <th>#</th>
-                        <th>Escudo</th>
-                        <th>Equipo</th>
-                        <th>Pts</th>
-                        <th>PJ</th>
-                        <th>PG</th>
-                        <th>PE</th>
-                        <th>PP</th>
-                        <th>GF</th>
-                        <th>GC</th>
-                        <th>DG</th>
-                    </tr>
-                </thead>
-                <tbody>
+            <div class="grupo-block">
+                <h3 class="grupo-titulo">${grupo}</h3>
+                <div class="scrollable-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th class="text-left">Equipo</th>
+                                <th>Pts</th>
+                                <th>PJ</th>
+                                <th>PG</th>
+                                <th>PE</th>
+                                <th>PP</th>
+                                <th>GF</th>
+                                <th>GC</th>
+                                <th>DG</th>
+                            </tr>
+                        </thead>
+                        <tbody>
         `;
 
         equipos.forEach((equipo, index) => {
-            let colorFondo = "";
-            switch (index) {
-                case 0:
-                case 1:
-                case 2:
-                case 3:
-                case 4:
-                case 5:
-                case 6:
-                    colorFondo = "background-color: #649cd9;";
-                    break;
-                case 7:
-                case 8:
-                    colorFondo = "background-color: #FF751C;";
-                    break;
+            let claseFila = "";
+            let pos = parseInt(equipo.posicion);
+
+            if (pos <= 7) { 
+                claseFila = "zona-oro"; 
+            } else if (pos <= 9) {
+                claseFila = "zona-azul";
             }
+
             html += `
-                <tr style="${colorFondo}">
-                    <td>${equipo.posicion}</td>
-                    <td><img src="${equipo.escudo}" width="30" height="30" alt="${equipo.equipo}"></td>
-                    <td>${equipo.equipo}</td>
-                    <td>${equipo.puntos}</td>
+                <tr>
+                    <td class="${claseFila} font-bold">${equipo.posicion}</td>
+                    <td class="text-left">
+                        <div class="flex-align-center justify-start">
+                            <img src="${equipo.escudo}" class="team-logo-mini" loading="lazy" alt="${equipo.equipo}">
+                            ${equipo.equipo}
+                        </div>
+                    </td>
+                    <td class="font-bold">${equipo.puntos}</td>
                     <td>${equipo.pj}</td>
                     <td>${equipo.pg}</td>
                     <td>${equipo.pe}</td>
@@ -166,40 +191,15 @@ function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
             `;
         });
 
-        html += `</tbody></table>`;
+        html += `</tbody></table></div></div>`;
         container.innerHTML += html;
     });
-}
-
-
-function crearSelectorGrupos(gruposDisponibles, tablaData) {
-    const selector = document.getElementById("grupo-select");
-    const opciones = [
-        `<option value="todos">Todos los grupos</option>`,
-        ...gruposDisponibles.map(z => `<option value="${z}">${z}</option>`),
-        `<option value="bracket">Llave de Eliminación</option>`
-    ];
-    selector.innerHTML = opciones.join("");
-
-    selector.addEventListener("change", function () {
-        const valor = this.value;
-        if (valor === "bracket") {
-            document.getElementById("bracket-container").style.display = "block";
-            document.getElementById("tabla-container").style.display = "none";
-        } else {
-            document.getElementById("bracket-container").style.display = "none";
-            document.getElementById("tabla-container").style.display = "block";
-            mostrarTablaPorGrupo(tablaData, valor);
-        }
-    });
-
-    mostrarTablaPorGrupo(tablaData, selector.value);
 }
 
 function mostrarGoleadores(data) {
     let tabla = document.getElementById("tabla-goleadores");
     if (!tabla || !data.length) {
-        tabla.innerHTML = '<tr><td colspan="3">No hay datos de goleadores disponibles</td></tr>';
+        if(tabla) tabla.innerHTML = '<tr><td colspan="3" class="text-center">No hay datos de goleadores disponibles</td></tr>';
         return;
     }
 
@@ -215,8 +215,8 @@ function mostrarGoleadores(data) {
             ${data.map(g => `
                 <tr>
                     <td>${g.nombre}</td>
-                    <td><img src="${g.escudo}" alt="${g.equipo}" width="30"></td>
-                    <td>${g.goles}</td>
+                    <td><img src="${g.escudo}" alt="${g.equipo}" class="team-logo-mini"></td>
+                    <td class="font-bold">${g.goles}</td>
                 </tr>
             `).join("")}
         </tbody>

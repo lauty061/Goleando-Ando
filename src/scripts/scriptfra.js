@@ -75,71 +75,88 @@ function mostrarPartidos(fixtureData, jornadaSeleccionada) {
     });
 }
 
-function mostrarTablaPosiciones(tablaData) {
-    let tabla = document.getElementById("tabla-posiciones-table");
-
-    if (!tablaData || tablaData.length === 0) {
-        tabla.innerHTML = "<tr><td colspan='10'>No hay datos disponibles</td></tr>";
-        return;
-    }
-
-    tabla.innerHTML = `
+function mostrarPartidos(fixtureData, jornadaSeleccionada) {
+    let fixtureTable = document.getElementById("fixture-table");
+    fixtureTable.innerHTML = `
         <tr>
-            <th>#</th>
-            <th>Escudo</th>
-            <th>Equipo</th>
-            <th>Pts</th>
-            <th>PJ</th>
-            <th>PG</th>
-            <th>PE</th>
-            <th>PP</th>
-            <th>GF</th>
-            <th>GC</th>
-            <th>DG</th>
+            <th>Fecha</th>
+            <th>Local</th>
+            <th></th>
+            <th>Resultado</th>
+            <th></th>
+            <th>Visitante</th>
         </tr>
     `;
 
-    tablaData.forEach((equipo, index) => {
-        let colorFondo = "";
-        switch (index) {
-            case 0:
-                colorFondo = "background-color: #ebd442;";
-                break;
-            case 1:
-            case 2:
-            case 3:
-                colorFondo = "background-color: #649cd9;";
-                break;
-            case 4:
-                colorFondo = "background-color: #FF751C;";
-                break;
-            case 5:
-                colorFondo = "background-color: #82d15a;";
-                break;
-            case 15:
-                colorFondo = "background-color: #f77239;";
-                break;
-            case 16:
-            case 17:
-                colorFondo = "background-color: #f23d3a;";
-                break;
-        }
-        tabla.innerHTML += `
-            <tr style="${colorFondo}">
-                <td>${equipo.posicion}</td>
-                <td><img src="${equipo.escudo}" width="30" height="30" alt="${equipo.equipo}"></td>
-                <td>${equipo.equipo}</td>
-                <td>${equipo.puntos}</td>
+    let partidos = fixtureData.filter(p => p.fecha_torneo === jornadaSeleccionada);
+
+    if (partidos.length === 0) {
+        fixtureTable.innerHTML += `<tr><td colspan="6">No hay partidos para esta fecha</td></tr>`;
+        return;
+    }
+
+    partidos.forEach(p => {
+        fixtureTable.innerHTML += `
+            <tr>
+                <td>${p.fecha}</td>
+                <td><img src="${p.escudo_local}" width="30"> ${p.local}</td>
+                <td>${p.goles_local}</td>
+                <td>VS</td>
+                <td>${p.goles_visita}</td>
+                <td><img src="${p.escudo_visita}" width="30"> ${p.visitante}</td>
+            </tr>
+        `;
+    });
+}
+
+function mostrarTablaPosiciones(tablaData) {
+    let tabla = document.getElementById("tabla-posiciones-table");
+    if (!tablaData || !tablaData.length) return;
+
+    let html = `
+        <thead>
+            <tr>
+                <th>#</th>
+                <th class="text-left">Equipo</th>
+                <th>Pts</th>
+                <th>PJ</th>
+                <th>PG</th>
+                <th>PE</th>
+                <th>PP</th>
+                <th>DG</th>
+            </tr>
+        </thead>
+        <tbody>`;
+
+    tablaData.forEach((equipo) => {
+        let pos = parseInt(equipo.posicion);
+        let claseFila = "";
+
+        if (pos == 1) claseFila = "zona-oro";
+        else if (pos <= 3) claseFila = "zona-azul";
+        else if (pos <= 5) claseFila = "zona-naranja";
+        else if (pos <= 6) claseFila = "zona-verde";
+        else if (pos == 16) claseFila = "zona-naranja";
+        else if (pos >= 17) claseFila = "zona-roja";
+
+        html += `
+            <tr>
+                <td class="${claseFila} font-bold">${equipo.posicion}</td>
+                <td class="text-left">
+                    <div class="flex-align-center justify-start">
+                        <img src="${equipo.escudo}" class="team-logo-mini" loading="lazy">
+                        ${equipo.equipo}
+                    </div>
+                </td>
+                <td class="font-bold">${equipo.puntos}</td>
                 <td>${equipo.pj}</td>
                 <td>${equipo.pg}</td>
                 <td>${equipo.pe}</td>
                 <td>${equipo.pp}</td>
-                <td>${equipo.gf}</td>
-                <td>${equipo.gc}</td>
                 <td>${equipo.dg}</td>
-            </tr>
-        `;
+            </tr>`;
     });
+    tabla.innerHTML = html + `</tbody>`;
 }
 function mostrarGoleadores(data) {
     let tabla = document.getElementById("tabla-goleadores");

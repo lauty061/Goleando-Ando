@@ -1,4 +1,3 @@
-// archivo: actualizar_tabla_posiciones.js
 document.addEventListener("DOMContentLoaded", async function () {
     let ligaElement = document.getElementById("titulo-liga");
     if (!ligaElement) return;
@@ -11,7 +10,6 @@ document.addEventListener("DOMContentLoaded", async function () {
     let tablaPosicionesData = ligaData.tabla_posiciones || [];
     let goleadoresData = ligaData.goleadores || [];
 
-    // Asignar zona 'Apertura' si no existe
     tablaPosicionesData.forEach(equipo => {
         if (!equipo.zona) {
             equipo.zona = "Apertura";

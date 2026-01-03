@@ -79,47 +79,46 @@ function mostrarTablaPosiciones(tablaData) {
     let tabla = document.getElementById("tabla-posiciones-table");
 
     if (!tablaData || tablaData.length === 0) {
-        tabla.innerHTML = "<tr><td colspan='10'>No hay datos disponibles</td></tr>";
+        tabla.innerHTML = "<tr><td colspan='10' class='text-center'>No hay datos disponibles</td></tr>";
         return;
     }
 
     tabla.innerHTML = `
-        <tr>
-            <th>#</th>
-            <th>Escudo</th>
-            <th>Equipo</th>
-            <th>Pts</th>
-            <th>PJ</th>
-            <th>PG</th>
-            <th>PE</th>
-            <th>PP</th>
-            <th>GF</th>
-            <th>GC</th>
-            <th>DG</th>
-        </tr>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th class="text-left">Equipo</th>
+                <th>Pts</th>
+                <th>PJ</th>
+                <th>PG</th>
+                <th>PE</th>
+                <th>PP</th>
+                <th>GF</th>
+                <th>GC</th>
+                <th>DG</th>
+            </tr>
+        </thead>
+        <tbody>
     `;
 
-    tablaData.forEach((equipo, index) => {
-        let colorFondo = "";
-        switch (index) {
-            case 0:
-            case 1:
-            case 2:
-            case 3:
-            case 4:
-            case 5:
-            case 6:
-            case 7:        
-                colorFondo = "background-color: #649cd9;";
-                break;
+    tablaData.forEach((equipo) => {
+        let pos = parseInt(equipo.posicion);
+        let claseFila = "";
 
+        if (pos <= 8) {
+            claseFila = "zona-azul";
         }
+
         tabla.innerHTML += `
-            <tr style="${colorFondo}">
-                <td>${equipo.posicion}</td>
-                <td><img src="${equipo.escudo}" width="30" height="30" alt="${equipo.equipo}"></td>
-                <td>${equipo.equipo}</td>
-                <td>${equipo.puntos}</td>
+            <tr>
+                <td class="${claseFila} font-bold">${equipo.posicion}</td>
+                <td class="text-left">
+                    <div class="flex-align-center justify-start">
+                        <img src="${equipo.escudo}" class="team-logo-mini" loading="lazy" alt="${equipo.equipo}">
+                        ${equipo.equipo}
+                    </div>
+                </td>
+                <td class="font-bold">${equipo.puntos}</td>
                 <td>${equipo.pj}</td>
                 <td>${equipo.pg}</td>
                 <td>${equipo.pe}</td>
@@ -130,6 +129,7 @@ function mostrarTablaPosiciones(tablaData) {
             </tr>
         `;
     });
+    tabla.innerHTML += `</tbody>`;
 }
 function mostrarGoleadores(data) {
     let tabla = document.getElementById("tabla-goleadores");

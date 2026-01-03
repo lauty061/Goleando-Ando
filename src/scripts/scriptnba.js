@@ -143,8 +143,8 @@ function mostrarTablaPosiciones(tablaData) {
         let pos = parseInt(equipo.posicion);
         let claseFila = "";
         
-        if (pos <= 6) claseFila = "playoff-zone";
-        else if (pos <= 10) claseFila = "playin-zone";
+        if (pos <= 6) claseFila = "zona-verde";
+        else if (pos <= 10) claseFila = "zona-oro";
 
         tabla.innerHTML += `
             <tr>

@@ -94,7 +94,7 @@ function crearSelectorGrupos(gruposDisponibles, tablaData) {
 function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
     const container = document.getElementById("tabla-posiciones-table");
     if (!tablaData || tablaData.length === 0) {
-        container.innerHTML = "<p>No hay datos disponibles</p>";
+        container.innerHTML = "<div class='text-center p-4'>No hay datos disponibles</div>";
         return;
     }
 
@@ -112,47 +112,45 @@ function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
         if (grupoSeleccionado !== "todos" && grupo !== grupoSeleccionado) return;
 
         const equipos = dataAgrupada[grupo].sort((a, b) => a.posicion - b.posicion);
+        
         let html = `
-            <h3>${grupo}</h3>
-            <table class="stats-table">
-                <thead>
-                    <tr>
-                        <th>#</th>
-                        <th>Escudo</th>
-                        <th>Equipo</th>
-                        <th>Pts</th>
-                        <th>PJ</th>
-                        <th>PG</th>
-                        <th>PE</th>
-                        <th>PP</th>
-                        <th>GF</th>
-                        <th>GC</th>
-                        <th>DG</th>
-                    </tr>
-                </thead>
-                <tbody>
+            <div class="grupo-block">
+                <h3 class="grupo-titulo">${grupo}</h3>
+                <div class="scrollable-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th class="text-left">Equipo</th>
+                                <th>Pts</th>
+                                <th>PJ</th>
+                                <th>PG</th>
+                                <th>PE</th>
+                                <th>PP</th>
+                                <th>GF</th>
+                                <th>GC</th>
+                                <th>DG</th>
+                            </tr>
+                        </thead>
+                        <tbody>
         `;
 
         equipos.forEach((equipo, index) => {
-            let colorFondo = "";
-            switch (index) {
-                case 0:
-                case 1:
-                case 2:
-                case 3:
-                case 4:
-                case 5:
-                case 6:
-                case 7:
-                    colorFondo = "background-color: #649cd9;";
-                    break;
+            let claseFila = "";
+            if (index <= 7) { 
+                claseFila = "zona-azul";
             }
+
             html += `
-                <tr style="${colorFondo}">
-                    <td>${equipo.posicion}</td>
-                    <td><img src="${equipo.escudo}" width="30" height="30" alt="${equipo.equipo}"></td>
-                    <td>${equipo.equipo}</td>
-                    <td>${equipo.puntos}</td>
+                <tr>
+                    <td class="${claseFila} font-bold">${equipo.posicion}</td>
+                    <td class="text-left">
+                        <div class="flex-align-center justify-start">
+                            <img src="${equipo.escudo}" class="team-logo-mini" loading="lazy" alt="${equipo.equipo}">
+                            ${equipo.equipo}
+                        </div>
+                    </td>
+                    <td class="font-bold">${equipo.puntos}</td>
                     <td>${equipo.pj}</td>
                     <td>${equipo.pg}</td>
                     <td>${equipo.pe}</td>
@@ -164,14 +162,15 @@ function mostrarTablaPorGrupo(tablaData, grupoSeleccionado) {
             `;
         });
 
-        html += `</tbody></table>`;
+        html += `</tbody></table></div></div>`;
         container.innerHTML += html;
     });
 }
+
 function mostrarTablaAnual(tablaData) {
     const container = document.getElementById("tabla-posiciones-table");
     if (!tablaData || tablaData.length === 0) {
-        container.innerHTML = "<p>No hay datos disponibles</p>";
+        container.innerHTML = "<div class='text-center'>No hay datos disponibles</div>";
         return;
     }
 
@@ -197,49 +196,55 @@ function mostrarTablaAnual(tablaData) {
     equipos.forEach((e, i) => e.posicion = i + 1);
 
     let html = `
-        <h3>Tabla Anual</h3>
-        <table class="stats-table">
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Escudo</th>
-                    <th>Equipo</th>
-                    <th>Pts</th>
-                    <th>PJ</th>
-                    <th>PG</th>
-                    <th>PE</th>
-                    <th>PP</th>
-                    <th>GF</th>
-                    <th>GC</th>
-                    <th>DG</th>
-                </tr>
-            </thead>
-            <tbody>
-                ${equipos.map(e => {
-                    let colorFondo = "";
-                    if (e.posicion >= 1 && e.posicion <= 3) colorFondo = "background-color: #bfb662;";
-                    else if (e.posicion >= 4 && e.posicion <= 9) colorFondo = "background-color: #649cd9;";
-                    else if (e.posicion == 30) colorFondo = "background-color: #f23d3a;";
-                    return `
-                    <tr style="${colorFondo}">
-                        <td>${e.posicion}</td>
-                        <td><img src="${e.escudo}" width="30" height="30" alt="${e.equipo}"></td>
-                        <td>${e.equipo}</td>
-                        <td>${e.puntos}</td>
-                        <td>${e.pj}</td>
-                        <td>${e.pg}</td>
-                        <td>${e.pe}</td>
-                        <td>${e.pp}</td>
-                        <td>${e.gf}</td>
-                        <td>${e.gc}</td>
-                        <td>${e.dg}</td>
+        <h3 class="grupo-titulo">Tabla Anual</h3>
+        <div class="scrollable-table">
+            <table>
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th class="text-left">Equipo</th>
+                        <th>Pts</th>
+                        <th>PJ</th>
+                        <th>PG</th>
+                        <th>PE</th>
+                        <th>PP</th>
+                        <th>GF</th>
+                        <th>GC</th>
+                        <th>DG</th>
                     </tr>
-                    `;
-                }).join("")}
-            </tbody>
-        </table>
+                </thead>
+                <tbody>
     `;
 
+    equipos.forEach(e => {
+        let claseFila = "";
+        // Definición de zonas por colores
+        if (e.posicion >= 1 && e.posicion <= 3) claseFila = "zona-oro";       // Libertadores
+        else if (e.posicion >= 4 && e.posicion <= 9) claseFila = "zona-azul"; // Sudamericana
+        else if (e.posicion === 30) claseFila = "zona-roja";                  // Descenso (Último)
+
+        html += `
+            <tr>
+                <td class="${claseFila} font-bold">${e.posicion}</td>
+                <td class="text-left">
+                    <div class="flex-align-center justify-start">
+                        <img src="${e.escudo}" class="team-logo-mini" loading="lazy" alt="${e.equipo}">
+                        ${e.equipo}
+                    </div>
+                </td>
+                <td class="font-bold">${e.puntos}</td>
+                <td>${e.pj}</td>
+                <td>${e.pg}</td>
+                <td>${e.pe}</td>
+                <td>${e.pp}</td>
+                <td>${e.gf}</td>
+                <td>${e.gc}</td>
+                <td>${e.dg}</td>
+            </tr>
+        `;
+    });
+
+    html += `</tbody></table></div>`;
     container.innerHTML = html;
 }
 
