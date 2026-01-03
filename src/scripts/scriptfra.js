@@ -1,3 +1,7 @@
+let currentFechaIndex = 0;
+let fechasUnicas = [];
+let fixtureDataGlobal = [];
+
 document.addEventListener("DOMContentLoaded", async function () {
     let ligaElement = document.getElementById("titulo-liga");
     if (!ligaElement) return;
@@ -6,23 +10,31 @@ document.addEventListener("DOMContentLoaded", async function () {
     let ligaData = await obtenerDatosLiga(liga);
     if (!ligaData) return;
 
-    let fixtureData = ligaData.fixture || [];
+    fixtureDataGlobal = ligaData.fixture || [];
     let tablaPosicionesData = ligaData.tabla_posiciones || [];
     let goleadoresData = ligaData.goleadores || [];
 
-    let fechasUnicas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
+    fechasUnicas = [...new Set(fixtureDataGlobal.map(p => p.fecha_torneo))];
 
-    let fechaSelect = document.getElementById("fecha-select");
+    const fechaSelect = document.getElementById("fecha-select");
     fechaSelect.innerHTML = fechasUnicas
         .map(fecha => `<option value="${fecha}">${fecha}</option>`)
         .join("");
 
     if (fechasUnicas.length > 0) {
-        mostrarPartidos(fixtureData, fechasUnicas[0]);
+        currentFechaIndex = detectCurrentFecha(fixtureDataGlobal, fechasUnicas);
+        updateFechaDisplay();
+        mostrarPartidos(fixtureDataGlobal, fechasUnicas[currentFechaIndex]);
     }
 
-    fechaSelect.addEventListener("change", function () {
-        mostrarPartidos(fixtureData, this.value);
+    document.getElementById("fecha-prev").addEventListener("click", () => navigateFecha(-1));
+    document.getElementById("fecha-next").addEventListener("click", () => navigateFecha(1));
+    
+    fechaSelect.addEventListener("change", function() {
+        const selectedFecha = this.value;
+        currentFechaIndex = fechasUnicas.indexOf(selectedFecha);
+        updateFechaDisplay();
+        mostrarPartidos(fixtureDataGlobal, selectedFecha);
     });
 
     mostrarTablaPosiciones(tablaPosicionesData);
@@ -183,4 +195,73 @@ function mostrarGoleadores(data) {
             `).join("")}
         </tbody>
     `;
+}
+function detectCurrentFecha(fixtureData, fechasUnicas) {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    let bestIndex = 0;
+    let closestDiff = Infinity;
+
+    for (let i = 0; i < fechasUnicas.length; i++) {
+        const fechaName = fechasUnicas[i];
+        const partidos = fixtureData.filter(p => p.fecha_torneo === fechaName);
+        
+        if (partidos.length === 0) continue;
+
+        for (let partido of partidos) {
+            const fechaStr = partido.fecha;
+            const dateParts = fechaStr.match(/(\d{2})\/(\d{2})\/(\d{4})/);
+            
+            if (dateParts) {
+                const matchDate = new Date(dateParts[3], dateParts[2] - 1, dateParts[1]);
+                matchDate.setHours(0, 0, 0, 0);
+                
+                const diff = matchDate - today;
+
+                if (diff >= 0 && diff < closestDiff) {
+                    closestDiff = diff;
+                    bestIndex = i;
+                } else if (diff < 0 && Math.abs(diff) < Math.abs(closestDiff)) {
+                    closestDiff = diff;
+                    bestIndex = i;
+                }
+            }
+        }
+    }
+
+    return bestIndex;
+}
+
+function updateFechaDisplay() {
+    const display = document.getElementById("fecha-display");
+    const prevBtn = document.getElementById("fecha-prev");
+    const nextBtn = document.getElementById("fecha-next");
+    const selectElem = document.getElementById("fecha-select");
+
+    if (display) {
+        display.textContent = fechasUnicas[currentFechaIndex];
+    }
+
+    if (selectElem) {
+        selectElem.value = fechasUnicas[currentFechaIndex];
+    }
+
+    if (prevBtn) {
+        prevBtn.disabled = currentFechaIndex === 0;
+    }
+
+    if (nextBtn) {
+        nextBtn.disabled = currentFechaIndex === fechasUnicas.length - 1;
+    }
+}
+
+function navigateFecha(direction) {
+    const newIndex = currentFechaIndex + direction;
+    
+    if (newIndex >= 0 && newIndex < fechasUnicas.length) {
+        currentFechaIndex = newIndex;
+        updateFechaDisplay();
+        mostrarPartidos(fixtureDataGlobal, fechasUnicas[currentFechaIndex]);
+    }
 }

@@ -154,8 +154,14 @@
         <section class="seccion">
             <h2 class="titulo-seccion">Calendario</h2>
             <div class="scrollable-table">
-            <label for="fecha-select">Seleccionar Carrera:</label>
-            <select id="fecha-select"></select>
+            <div class="fecha-selector-container">
+                <button class="fecha-arrow" id="fecha-prev">◀</button>
+                <div class="fecha-display-wrapper">
+                    <div class="fecha-display" id="fecha-display">Carrera</div>
+                    <select class="fecha-select" id="fecha-select"></select>
+                </div>
+                <button class="fecha-arrow" id="fecha-next">▶</button>
+            </div>
             <div id="race-details"></div>
             </div>
         </section>

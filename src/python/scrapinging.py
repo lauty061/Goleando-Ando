@@ -55,7 +55,6 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
             except Exception as e:
                 print("Error procesando un partido:", e)
 
-    # Tabla de posiciones
     response = requests.get(url_tabla, headers=headers)
     if response.status_code != 200:
         print(f"Error al obtener la página {url_tabla}")
@@ -96,7 +95,6 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
             "dg": dg
         })
 
-    # Goleadores
     response = requests.get(url_goleadores, headers=headers)
     goleadores = []
     if response.status_code == 200:

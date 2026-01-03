@@ -146,9 +146,13 @@
 <main>
         <section id="fixture">
             <h2>Fixture</h2>
-            <div class="filter-container">
-                <label for="ronda-select">Fecha:</label>
-                <select id="ronda-select"></select>
+            <div class="fecha-selector-container">
+                <button class="fecha-arrow" id="fecha-prev">◀</button>
+                <div class="fecha-display-wrapper">
+                    <div class="fecha-display" id="fecha-display">Fecha</div>
+                    <select class="fecha-select" id="ronda-select"></select>
+                </div>
+                <button class="fecha-arrow" id="fecha-next">▶</button>
             </div>
             <div class="scrollable-table">
                 <table id="fixture-table">

@@ -1,3 +1,6 @@
+let currentFechaIndex = 0;
+let fechasUnicas = [];
+let fixtureDataGlobal = [];
 let datosGlobalesStats = {}; 
 
 document.addEventListener("DOMContentLoaded", async function () {
@@ -5,7 +8,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     let ligaData = await obtenerDatosLiga(liga);
     if (!ligaData) return;
 
-    let fixtureData = ligaData.fixture || [];
+    fixtureDataGlobal = ligaData.fixture || [];
     let tablaData = ligaData.tabla_posiciones || {};
     let estadisticasData = ligaData.estadisticas_jugadores || {};
     
@@ -24,27 +27,35 @@ document.addEventListener("DOMContentLoaded", async function () {
         mostrarTablaPosiciones(tablaData[this.value]);
     });
 
-    const rondas = [...new Set(fixtureData.map(p => p.fecha_torneo))];
+    fechasUnicas = [...new Set(fixtureDataGlobal.map(p => p.fecha_torneo))];
     const rondaSelect = document.getElementById("ronda-select");
     
-    if (rondas.length > 0) {
-        rondaSelect.innerHTML = rondas.map(r => `<option value="${r}">${r}</option>`).join("");
+    if (fechasUnicas.length > 0) {
+        rondaSelect.innerHTML = fechasUnicas.map(r => `<option value="${r}">${r}</option>`).join("");
         
         let hoy = new Date();
         let dia = String(hoy.getDate()).padStart(2, '0');
         let mes = String(hoy.getMonth() + 1).padStart(2, '0');
         let fechaHoyStr = `${dia}/${mes}`;
         
-        if (rondas.includes(fechaHoyStr)) {
-            rondaSelect.value = fechaHoyStr;
-            mostrarPartidos(fixtureData, fechaHoyStr);
+        if (fechasUnicas.includes(fechaHoyStr)) {
+            currentFechaIndex = fechasUnicas.indexOf(fechaHoyStr);
         } else {
-            mostrarPartidos(fixtureData, rondas[0]);
+            currentFechaIndex = 0;
         }
+        
+        updateFechaDisplay();
+        mostrarPartidos(fixtureDataGlobal, fechasUnicas[currentFechaIndex]);
     }
 
-    rondaSelect.addEventListener("change", function () {
-        mostrarPartidos(fixtureData, this.value);
+    document.getElementById("fecha-prev").addEventListener("click", () => navigateFecha(-1));
+    document.getElementById("fecha-next").addEventListener("click", () => navigateFecha(1));
+    
+    rondaSelect.addEventListener("change", function() {
+        const selectedFecha = this.value;
+        currentFechaIndex = fechasUnicas.indexOf(selectedFecha);
+        updateFechaDisplay();
+        mostrarPartidos(fixtureDataGlobal, selectedFecha);
     });
 });
 
@@ -205,4 +216,37 @@ function mostrarEstadisticas(categoria) {
         `;
     });
     tabla.innerHTML += `</tbody>`;
+}
+
+function updateFechaDisplay() {
+    const display = document.getElementById("fecha-display");
+    const prevBtn = document.getElementById("fecha-prev");
+    const nextBtn = document.getElementById("fecha-next");
+    const selectElem = document.getElementById("ronda-select");
+
+    if (display) {
+        display.textContent = fechasUnicas[currentFechaIndex];
+    }
+
+    if (selectElem) {
+        selectElem.value = fechasUnicas[currentFechaIndex];
+    }
+
+    if (prevBtn) {
+        prevBtn.disabled = currentFechaIndex === 0;
+    }
+
+    if (nextBtn) {
+        nextBtn.disabled = currentFechaIndex === fechasUnicas.length - 1;
+    }
+}
+
+function navigateFecha(direction) {
+    const newIndex = currentFechaIndex + direction;
+    
+    if (newIndex >= 0 && newIndex < fechasUnicas.length) {
+        currentFechaIndex = newIndex;
+        updateFechaDisplay();
+        mostrarPartidos(fixtureDataGlobal, fechasUnicas[currentFechaIndex]);
+    }
 }

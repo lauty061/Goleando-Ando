@@ -1,17 +1,23 @@
+let currentFechaIndex = 0;
+let fechasUnicas = [];
+let racesGlobal = [];
+
 document.addEventListener("DOMContentLoaded", async () => {
   const JSON_PATH = "../JSONs/f1_2025.json";
   const data = await fetchJson(JSON_PATH);
   if (!data) return;
 
   window.__F1_DATA = data;
-  const { races = [], drivers = [], teams = [] } = data;
+  racesGlobal = data.races || [];
 
-  renderFixtureAll(races);
-  populateCountrySelect(races);
+  const { drivers = [], teams = [] } = data;
+
+  renderFixtureAll(racesGlobal);
+  populateCountrySelect(racesGlobal);
   mostrarTablaPilotos(drivers);
   mostrarConstructores(teams);
-  renderProximaCarrera(races);
-  renderUltimaCarrera(races);
+  renderProximaCarrera(racesGlobal);
+  renderUltimaCarrera(racesGlobal);
 });
 
 async function fetchJson(path) {
@@ -146,14 +152,23 @@ function populateCountrySelect(races) {
     }
   });
 
+  fechasUnicas = ["all", ...uniqueCountries.map(c => c.name)];
+  
   sel.innerHTML = `<option value="all" selected>Todas las carreras</option>` +
     uniqueCountries.map(c => {
       return `<option value="${escapeAttr(c.name)}">${escapeHtml(c.name)}</option>`;
     }).join("");
 
+  currentFechaIndex = 0;
   renderAllRacesSummary(races);
+  updateFechaDisplay();
+
+  document.getElementById("fecha-prev").addEventListener("click", () => navigateFecha(-1, races));
+  document.getElementById("fecha-next").addEventListener("click", () => navigateFecha(1, races));
 
   sel.addEventListener("change", () => {
+    currentFechaIndex = fechasUnicas.indexOf(sel.value);
+    updateFechaDisplay();
     if (sel.value === "all") renderAllRacesSummary(races);
     else showRaceDetailsByCountry(sel.value);
   });
@@ -285,4 +300,46 @@ function renderRaceRow(r, index) {
     <td>${escapeHtml(r.date || "")}</td>
     <td>${countryFlag} ${escapeHtml(normalizeGP(r))}</td>
   </tr>`;
+}
+
+function updateFechaDisplay() {
+  const display = document.getElementById("fecha-display");
+  const prevBtn = document.getElementById("fecha-prev");
+  const nextBtn = document.getElementById("fecha-next");
+  const selectElem = document.getElementById("fecha-select");
+
+  if (display) {
+    const displayText = fechasUnicas[currentFechaIndex] === "all" 
+      ? "Todas las carreras" 
+      : fechasUnicas[currentFechaIndex];
+    display.textContent = displayText;
+  }
+
+  if (selectElem) {
+    selectElem.value = fechasUnicas[currentFechaIndex];
+  }
+
+  if (prevBtn) {
+    prevBtn.disabled = currentFechaIndex === 0;
+  }
+
+  if (nextBtn) {
+    nextBtn.disabled = currentFechaIndex === fechasUnicas.length - 1;
+  }
+}
+
+function navigateFecha(direction, races) {
+  const newIndex = currentFechaIndex + direction;
+  
+  if (newIndex >= 0 && newIndex < fechasUnicas.length) {
+    currentFechaIndex = newIndex;
+    updateFechaDisplay();
+    
+    const selectedValue = fechasUnicas[currentFechaIndex];
+    if (selectedValue === "all") {
+      renderAllRacesSummary(races);
+    } else {
+      showRaceDetailsByCountry(selectedValue);
+    }
+  }
 }

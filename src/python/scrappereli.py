@@ -12,7 +12,6 @@ def fix_encoding(text):
 def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga):
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
 
-    # Fixture
     response = requests.get(url_fixture, headers=headers)
     if response.status_code != 200:
         print(f"❌ Error al obtener la página {url_fixture}")
@@ -46,7 +45,6 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
             except AttributeError:
                 print("⚠️ Error procesando un partido, se omitirá.")
 
-    # Tabla de posiciones
     response = requests.get(url_tabla, headers=headers)
     if response.status_code != 200:
         print(f"❌ Error al obtener la página {url_tabla}")
@@ -87,7 +85,6 @@ def obtener_fixture_y_tabla(url_fixture, url_tabla, url_goleadores, nombre_liga)
             "dg": dg
         })
 
-    # Goleadores
     response = requests.get(url_goleadores, headers=headers)
     goleadores = []
     if response.status_code == 200:

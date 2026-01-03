@@ -147,8 +147,21 @@
     <main>
         <section id="fixture">
             <h2>Fixture</h2>
-            <label for="fecha-select">Seleccionar Fecha:</label>
-            <select id="fecha-select"></select>
+            <div class="fecha-selector-container">
+
+                <button class="fecha-arrow" id="fecha-prev">◀</button>
+
+                <div class="fecha-display-wrapper">
+
+                    <div class="fecha-display" id="fecha-display">FECHA 1</div>
+
+                    <select class="fecha-select" id="fecha-select"></select>
+
+                </div>
+
+                <button class="fecha-arrow" id="fecha-next">▶</button>
+
+            </div>
             <table id="fixture-table"></table>
         </section>
         

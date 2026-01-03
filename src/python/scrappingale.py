@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-    # Corrige posibles problemas de codificación en nombres
 def fix_encoding(text):
     try:
         return text.encode("latin1").decode("utf-8")
