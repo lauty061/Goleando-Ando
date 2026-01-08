@@ -7,10 +7,10 @@ from urllib.parse import urljoin, urlparse, urlunparse
 import posixpath
 import re
 
-YEAR = 2025
+YEAR = 2023
 BASE = "https://www.formula1.com"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-OUT_DIR = os.path.join(os.path.expanduser("~"), "Desktop", "nueva carpeta(7)", "Pagina Futbol", "src", "JSONs")
+OUT_DIR = os.path.join(os.path.expanduser("~"), "Desktop", "nueva carpeta(7)", "Pagina Futbol", "src", "JSONs", "F1")
 os.makedirs(OUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUT_DIR, f"f1_{YEAR}.json")
 REQUEST_TIMEOUT = 15
@@ -267,7 +267,6 @@ def parse_teams_page(year):
                     if src and 'car' in src.lower():
                         car_img = src
                         break
-            # Si no se encontró la imagen del coche en el HTML, construir la URL
             if not car_img and team_name:
                 car_img = get_car_image_url(team_name, YEAR)
             team_logo_cell = tds[3] if len(tds) > 3 else None
@@ -299,7 +298,6 @@ def parse_race_result_page(result_url):
         og = soup.find("meta", property="og:title")
         if og and og.get("content"):
             gp_title = clean_text(og.get("content"))
-    # Intentar con ambas clases (vieja y nueva)
     table = soup.find("table", class_="f1-table") or soup.find("table", class_=lambda x: x and 'Table-module_table' in x)
     if not table:
         return [], gp_title

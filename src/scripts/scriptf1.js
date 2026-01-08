@@ -1,23 +1,12 @@
 let currentFechaIndex = 0;
 let fechasUnicas = [];
 let racesGlobal = [];
+let currentSeason = 2025;
+let availableSeasons = [];
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const JSON_PATH = "../JSONs/f1_2025.json";
-  const data = await fetchJson(JSON_PATH);
-  if (!data) return;
-
-  window.__F1_DATA = data;
-  racesGlobal = data.races || [];
-
-  const { drivers = [], teams = [] } = data;
-
-  renderFixtureAll(racesGlobal);
-  populateCountrySelect(racesGlobal);
-  mostrarTablaPilotos(drivers);
-  mostrarConstructores(teams);
-  renderProximaCarrera(racesGlobal);
-  renderUltimaCarrera(racesGlobal);
+  populateSeasonSelector();
+  await loadSeason(2025);
 });
 
 async function fetchJson(path) {
@@ -343,3 +332,66 @@ function navigateFecha(direction, races) {
     }
   }
 }
+
+function populateSeasonSelector() {
+  const select = document.getElementById("season-select");
+  if (!select) return;
+  
+  for (let year = 2025; year >= 1950; year--) {
+    availableSeasons.push(year);
+    const option = document.createElement("option");
+    option.value = year;
+    option.textContent = year;
+    if (year === 2025) option.selected = true;
+    select.appendChild(option);
+  }
+  
+  select.addEventListener("change", async (e) => {
+    await loadSeason(parseInt(e.target.value));
+  });
+}
+
+async function loadSeason(year) {
+  currentSeason = year;
+  
+  showLoading();
+  
+  const JSON_PATH = `../JSONs/F1/f1_${year}.json`;
+  const data = await fetchJson(JSON_PATH);
+  
+  if (!data) {
+    alert(`No hay datos disponibles para la temporada ${year}`);
+    hideLoading();
+    return;
+  }
+  
+  window.__F1_DATA = data;
+  racesGlobal = data.races || [];
+  const { drivers = [], teams = [] } = data;
+  
+  renderFixtureAll(racesGlobal);
+  populateCountrySelect(racesGlobal);
+  mostrarTablaPilotos(drivers);
+  mostrarConstructores(teams);
+  renderProximaCarrera(racesGlobal);
+  renderUltimaCarrera(racesGlobal);
+  
+  hideLoading();
+}
+
+function showLoading() {
+  const main = document.querySelector("main");
+  if (main) {
+    main.style.opacity = "0.5";
+    main.style.pointerEvents = "none";
+  }
+}
+
+function hideLoading() {
+  const main = document.querySelector("main");
+  if (main) {
+    main.style.opacity = "1";
+    main.style.pointerEvents = "auto";
+  }
+}
+

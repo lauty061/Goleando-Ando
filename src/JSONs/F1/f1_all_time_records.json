@@ -1,0 +1,585 @@
+{
+  "driver_championships": [
+    {
+      "name": "Lewis Hamilton",
+      "championships": 7,
+      "nationality": "GBR",
+      "team": "Ferrari",
+      "headshot": null,
+      "rank": 1
+    },
+    {
+      "name": "Michael Schumacher",
+      "championships": 7,
+      "nationality": "GER",
+      "team": "Mercedes",
+      "headshot": null,
+      "rank": 2
+    },
+    {
+      "name": "Juan Manuel Fangio",
+      "championships": 5,
+      "nationality": "ARG",
+      "team": "Maserati",
+      "headshot": null,
+      "rank": 3
+    },
+    {
+      "name": "Max Verstappen",
+      "championships": 4,
+      "nationality": "NED",
+      "team": "Red Bull Racing",
+      "headshot": null,
+      "rank": 4
+    },
+    {
+      "name": "Sebastian Vettel",
+      "championships": 4,
+      "nationality": "GER",
+      "team": "Aston Martin Aramco Mercedes",
+      "headshot": null,
+      "rank": 5
+    },
+    {
+      "name": "Alain Prost",
+      "championships": 4,
+      "nationality": "FRA",
+      "team": "Williams Renault",
+      "headshot": null,
+      "rank": 6
+    },
+    {
+      "name": "Ayrton Senna",
+      "championships": 3,
+      "nationality": "BRA",
+      "team": "Mc Laren Ford",
+      "headshot": null,
+      "rank": 7
+    },
+    {
+      "name": "Nelson Piquet",
+      "championships": 3,
+      "nationality": "BRA",
+      "team": "Renault",
+      "headshot": null,
+      "rank": 8
+    },
+    {
+      "name": "Niki Lauda",
+      "championships": 3,
+      "nationality": "AUT",
+      "team": "Mc Laren",
+      "headshot": null,
+      "rank": 9
+    },
+    {
+      "name": "Jackie Stewart",
+      "championships": 3,
+      "nationality": "GBR",
+      "team": "Tyrrell Ford",
+      "headshot": null,
+      "rank": 10
+    },
+    {
+      "name": "Jack Brabham",
+      "championships": 3,
+      "nationality": "AUS",
+      "team": "Brabham Ford",
+      "headshot": null,
+      "rank": 11
+    },
+    {
+      "name": "Fernando Alonso",
+      "championships": 2,
+      "nationality": "ESP",
+      "team": "Aston Martin",
+      "headshot": null,
+      "rank": 12
+    },
+    {
+      "name": "Mika Hakkinen",
+      "championships": 2,
+      "nationality": "FIN",
+      "team": "Mc Laren Mercedes",
+      "headshot": null,
+      "rank": 13
+    },
+    {
+      "name": "Emerson Fittipaldi",
+      "championships": 2,
+      "nationality": "BRA",
+      "team": "Fittipaldi Ford",
+      "headshot": null,
+      "rank": 14
+    },
+    {
+      "name": "Graham Hill",
+      "championships": 2,
+      "nationality": "GBR",
+      "team": "Lola Ford",
+      "headshot": null,
+      "rank": 15
+    },
+    {
+      "name": "Jim Clark",
+      "championships": 2,
+      "nationality": "GBR",
+      "team": "Lotus Ford",
+      "headshot": null,
+      "rank": 16
+    },
+    {
+      "name": "Alberto Ascari",
+      "championships": 2,
+      "nationality": "ITA",
+      "team": "Lancia",
+      "headshot": null,
+      "rank": 17
+    },
+    {
+      "name": "Lando Norris",
+      "championships": 1,
+      "nationality": "GBR",
+      "team": "Mc Laren",
+      "headshot": null,
+      "rank": 18
+    },
+    {
+      "name": "Nico Rosberg",
+      "championships": 1,
+      "nationality": "GER",
+      "team": "Mercedes",
+      "headshot": null,
+      "rank": 19
+    },
+    {
+      "name": "Jenson Button",
+      "championships": 1,
+      "nationality": "GBR",
+      "team": "Mc Laren Honda",
+      "headshot": null,
+      "rank": 20
+    }
+  ],
+  "driver_wins": [
+    {
+      "name": "Lewis Hamilton",
+      "wins": 105,
+      "nationality": "GBR",
+      "team": "Ferrari",
+      "headshot": null,
+      "rank": 1
+    },
+    {
+      "name": "Michael Schumacher",
+      "wins": 91,
+      "nationality": "GER",
+      "team": "Mercedes",
+      "headshot": null,
+      "rank": 2
+    },
+    {
+      "name": "Max Verstappen",
+      "wins": 71,
+      "nationality": "NED",
+      "team": "Red Bull Racing",
+      "headshot": null,
+      "rank": 3
+    },
+    {
+      "name": "Sebastian Vettel",
+      "wins": 53,
+      "nationality": "GER",
+      "team": "Aston Martin Aramco Mercedes",
+      "headshot": null,
+      "rank": 4
+    },
+    {
+      "name": "Alain Prost",
+      "wins": 51,
+      "nationality": "FRA",
+      "team": "Williams Renault",
+      "headshot": null,
+      "rank": 5
+    },
+    {
+      "name": "Ayrton Senna",
+      "wins": 41,
+      "nationality": "BRA",
+      "team": "Mc Laren Ford",
+      "headshot": null,
+      "rank": 6
+    },
+    {
+      "name": "Fernando Alonso",
+      "wins": 32,
+      "nationality": "ESP",
+      "team": "Aston Martin",
+      "headshot": null,
+      "rank": 7
+    },
+    {
+      "name": "Nigel Mansell",
+      "wins": 31,
+      "nationality": "GBR",
+      "team": "Williams Renault",
+      "headshot": null,
+      "rank": 8
+    },
+    {
+      "name": "Jackie Stewart",
+      "wins": 27,
+      "nationality": "GBR",
+      "team": "Tyrrell Ford",
+      "headshot": null,
+      "rank": 9
+    },
+    {
+      "name": "Niki Lauda",
+      "wins": 25,
+      "nationality": "AUT",
+      "team": "Mc Laren",
+      "headshot": null,
+      "rank": 10
+    },
+    {
+      "name": "Jim Clark",
+      "wins": 25,
+      "nationality": "GBR",
+      "team": "Lotus Ford",
+      "headshot": null,
+      "rank": 11
+    },
+    {
+      "name": "Juan Manuel Fangio",
+      "wins": 24,
+      "nationality": "ARG",
+      "team": "Maserati",
+      "headshot": null,
+      "rank": 12
+    },
+    {
+      "name": "Nico Rosberg",
+      "wins": 23,
+      "nationality": "GER",
+      "team": "Mercedes",
+      "headshot": null,
+      "rank": 13
+    },
+    {
+      "name": "Nelson Piquet",
+      "wins": 23,
+      "nationality": "BRA",
+      "team": "Renault",
+      "headshot": null,
+      "rank": 14
+    },
+    {
+      "name": "Damon Hill",
+      "wins": 22,
+      "nationality": "GBR",
+      "team": "Jordan Mugen Honda",
+      "headshot": null,
+      "rank": 15
+    },
+    {
+      "name": "Kimi Räikkönen",
+      "wins": 21,
+      "nationality": "FIN",
+      "team": "Alfa Romeo Racing Ferrari",
+      "headshot": null,
+      "rank": 16
+    },
+    {
+      "name": "Mika Hakkinen",
+      "wins": 20,
+      "nationality": "FIN",
+      "team": "Mc Laren Mercedes",
+      "headshot": null,
+      "rank": 17
+    },
+    {
+      "name": "Stirling Moss",
+      "wins": 16,
+      "nationality": "GBR",
+      "team": "Lotus Climax",
+      "headshot": null,
+      "rank": 18
+    },
+    {
+      "name": "Jenson Button",
+      "wins": 15,
+      "nationality": "GBR",
+      "team": "Mc Laren Honda",
+      "headshot": null,
+      "rank": 19
+    },
+    {
+      "name": "Emerson Fittipaldi",
+      "wins": 14,
+      "nationality": "BRA",
+      "team": "Fittipaldi Ford",
+      "headshot": null,
+      "rank": 20
+    }
+  ],
+  "team_championships": [
+    {
+      "team": "Ferrari",
+      "championships": 16,
+      "logo": null,
+      "rank": 1
+    },
+    {
+      "team": "Mercedes",
+      "championships": 8,
+      "logo": null,
+      "rank": 2
+    },
+    {
+      "team": "Williams Renault",
+      "championships": 5,
+      "logo": null,
+      "rank": 3
+    },
+    {
+      "team": "Lotus Ford",
+      "championships": 5,
+      "logo": null,
+      "rank": 4
+    },
+    {
+      "team": "Mc Laren Honda",
+      "championships": 4,
+      "logo": null,
+      "rank": 5
+    },
+    {
+      "team": "Mc Laren",
+      "championships": 3,
+      "logo": null,
+      "rank": 6
+    },
+    {
+      "team": "Red Bull Racing Renault",
+      "championships": 3,
+      "logo": null,
+      "rank": 7
+    },
+    {
+      "team": "Renault",
+      "championships": 3,
+      "logo": null,
+      "rank": 8
+    },
+    {
+      "team": "Mc Laren Mercedes",
+      "championships": 2,
+      "logo": null,
+      "rank": 9
+    },
+    {
+      "team": "Williams Honda",
+      "championships": 2,
+      "logo": null,
+      "rank": 10
+    },
+    {
+      "team": "Williams Ford",
+      "championships": 2,
+      "logo": null,
+      "rank": 11
+    },
+    {
+      "team": "Brabham Repco",
+      "championships": 2,
+      "logo": null,
+      "rank": 12
+    },
+    {
+      "team": "Lotus Climax",
+      "championships": 2,
+      "logo": null,
+      "rank": 13
+    },
+    {
+      "team": "Cooper Climax",
+      "championships": 2,
+      "logo": null,
+      "rank": 14
+    },
+    {
+      "team": "Red Bull Racing Honda RBPT",
+      "championships": 1,
+      "logo": null,
+      "rank": 15
+    },
+    {
+      "team": "Red Bull Racing RBPT",
+      "championships": 1,
+      "logo": null,
+      "rank": 16
+    },
+    {
+      "team": "Brawn Mercedes",
+      "championships": 1,
+      "logo": null,
+      "rank": 17
+    },
+    {
+      "team": "Benetton Renault",
+      "championships": 1,
+      "logo": null,
+      "rank": 18
+    },
+    {
+      "team": "Mc Laren Ford",
+      "championships": 1,
+      "logo": null,
+      "rank": 19
+    },
+    {
+      "team": "Tyrrell Ford",
+      "championships": 1,
+      "logo": null,
+      "rank": 20
+    }
+  ],
+  "team_wins": [
+    {
+      "team": "Ferrari",
+      "wins": 250,
+      "logo": null,
+      "rank": 1
+    },
+    {
+      "team": "Mercedes",
+      "wins": 122,
+      "logo": null,
+      "rank": 2
+    },
+    {
+      "team": "McLaren Mercedes",
+      "wins": 85,
+      "logo": null,
+      "rank": 3
+    },
+    {
+      "team": "Williams Renault",
+      "wins": 64,
+      "logo": null,
+      "rank": 4
+    },
+    {
+      "team": "Renault",
+      "wins": 50,
+      "logo": null,
+      "rank": 5
+    },
+    {
+      "team": "Lotus Ford",
+      "wins": 47,
+      "logo": null,
+      "rank": 6
+    },
+    {
+      "team": "McLaren Honda",
+      "wins": 44,
+      "logo": null,
+      "rank": 7
+    },
+    {
+      "team": "McLaren",
+      "wins": 39,
+      "logo": null,
+      "rank": 8
+    },
+    {
+      "team": "Red Bull Racing Renault",
+      "wins": 35,
+      "logo": null,
+      "rank": 9
+    },
+    {
+      "team": "McLaren Ford",
+      "wins": 35,
+      "logo": null,
+      "rank": 10
+    },
+    {
+      "team": "Red Bull Racing Honda RBPT",
+      "wins": 30,
+      "logo": null,
+      "rank": 11
+    },
+    {
+      "team": "Lotus Climax",
+      "wins": 24,
+      "logo": null,
+      "rank": 12
+    },
+    {
+      "team": "Williams Honda",
+      "wins": 23,
+      "logo": null,
+      "rank": 13
+    },
+    {
+      "team": "Tyrrell Ford",
+      "wins": 23,
+      "logo": null,
+      "rank": 14
+    },
+    {
+      "team": "Red Bull Racing RBPT",
+      "wins": 17,
+      "logo": null,
+      "rank": 15
+    },
+    {
+      "team": "Williams Ford",
+      "wins": 17,
+      "logo": null,
+      "rank": 16
+    },
+    {
+      "team": "BRM",
+      "wins": 17,
+      "logo": null,
+      "rank": 17
+    },
+    {
+      "team": "Red Bull Racing Honda",
+      "wins": 16,
+      "logo": null,
+      "rank": 18
+    },
+    {
+      "team": "Brabham Ford",
+      "wins": 15,
+      "logo": null,
+      "rank": 19
+    },
+    {
+      "team": "Benetton Ford",
+      "wins": 14,
+      "logo": null,
+      "rank": 20
+    }
+  ],
+  "country_flag_svgs": {
+    "Australia": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 56 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Australia</title><g clip-path=\"url(#clip0_936_10552:S3:)\"><path d=\"M55.6129 28.1049C55.6129 43.404 43.2104 55.8065 27.9113 55.8065C12.6122 55.8065 0.209686 43.404 0.209686 28.1049C0.209686 28.1114 27.9113 0.406458 27.9113 0.40332C43.2104 0.40332 55.6129 12.8059 55.6129 28.1049Z\" fill=\"#0052B4\"></path><path d=\"M27.8371 28.1053H27.9117C27.9117 28.0801 27.9117 28.0559 27.9117 28.0308C27.8869 28.0557 27.862 28.0805 27.8371 28.1053Z\" fill=\"#F0F0F0\"></path><path d=\"M27.9114 14.8566C27.9114 9.98226 27.9114 6.78824 27.9114 0.403564H27.9067C12.6097 0.406053 0.209747 12.8074 0.209747 28.1051H14.6627V19.9664L22.8014 28.1051H27.8373C27.8621 28.0804 27.8868 28.0557 27.9115 28.0309C27.9115 26.1647 27.9115 24.4994 27.9115 22.9953L19.7727 14.8566H27.9114Z\" fill=\"#F0F0F0\"></path><path d=\"M14.2243 4.0166C9.89175 6.48367 6.28989 10.0855 3.82282 14.4181V28.105H11.0494V11.2433V11.2432H27.9112C27.9112 8.96394 27.9112 6.79261 27.9112 4.0166H14.2243Z\" fill=\"#D80027\"></path><path d=\"M27.9114 24.6984L18.0694 14.8565H14.6628C14.6628 14.8564 14.6628 14.8565 14.6628 14.8565L27.9113 28.1049H27.9114C27.9114 28.1049 27.9114 25.7562 27.9114 24.6984Z\" fill=\"#D80027\"></path><path d=\"M16.9166 32.9226L18.437 36.1016L21.8701 35.3081L20.3327 38.4788L23.0935 40.6682L19.656 41.443L19.6657 44.9667L16.9166 42.7622L14.1677 44.9667L14.1773 41.443L10.7397 40.6682L13.5007 38.4788L11.963 35.3081L15.3964 36.1016L16.9166 32.9226Z\" fill=\"#F0F0F0\"></path><path d=\"M41.6846 38.9448L42.4448 40.5343L44.1614 40.1375L43.3926 41.7229L44.7731 42.8176L43.0543 43.205L43.0591 44.9669L41.6846 43.8646L40.3101 44.9669L40.3149 43.205L38.5962 42.8176L39.9766 41.7229L39.2079 40.1375L40.9244 40.5343L41.6846 38.9448Z\" fill=\"#F0F0F0\"></path><path d=\"M34.613 22.083L35.3731 23.6726L37.0897 23.2757L36.321 24.8611L37.7014 25.9558L35.9827 26.3432L35.9874 28.1051L34.613 27.0027L33.2385 28.1051L33.2432 26.3432L31.5245 25.9558L32.9049 24.8611L32.1362 23.2757L33.8528 23.6726L34.613 22.083Z\" fill=\"#F0F0F0\"></path><path d=\"M41.6846 12.4475L42.4448 14.0371L44.1614 13.6403L43.3927 15.2257L44.773 16.3203L43.0543 16.7078L43.0591 18.4697L41.6846 17.3674L40.3101 18.4697L40.3149 16.7078L38.5962 16.3203L39.9765 15.2257L39.2079 13.6403L40.9244 14.0371L41.6846 12.4475Z\" fill=\"#F0F0F0\"></path><path d=\"M47.8616 19.6741L48.6217 21.2637L50.3383 20.8668L49.5696 22.4521L50.95 23.5469L49.2312 23.9344L49.236 25.6961L47.8616 24.5939L46.4871 25.6961L46.4918 23.9344L44.7731 23.5469L46.1535 22.4521L45.3848 20.8668L47.1013 21.2637L47.8616 19.6741Z\" fill=\"#F0F0F0\"></path><path d=\"M43.4447 28.105L44.0426 29.9452H45.9776L44.4121 31.0826L45.0102 32.9227L43.4447 31.7854L41.8793 32.9227L42.4772 31.0826L40.9118 29.9452H42.8467L43.4447 28.105Z\" fill=\"#F0F0F0\"></path></g><defs><clippath id=\"clip0_936_10552:S3:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.209686 0.40332)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Austria": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 57 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Austria</title><g clip-path=\"url(#clip0_936_10568:Sd:)\"><path d=\"M54.293 37.7402C55.4066 34.7394 56.0161 31.4934 56.0161 28.1049C56.0161 24.7165 55.4066 21.4707 54.293 18.4696L28.3144 16.0608L2.33585 18.4696C1.22238 21.4707 0.612834 24.7165 0.612834 28.1049C0.612834 31.4934 1.22238 34.7394 2.33585 37.7402L28.3144 40.1491L54.293 37.7402Z\" fill=\"#F0F0F0\"></path><path d=\"M28.3144 55.8066C40.225 55.8066 50.379 48.289 54.2929 37.7402H2.33571C6.24986 48.289 16.4036 55.8066 28.3144 55.8066Z\" fill=\"#D80027\"></path><path d=\"M28.3145 0.40332C16.4036 0.40332 6.24991 7.92085 2.33576 18.4696H54.2931C50.379 7.92085 40.2251 0.40332 28.3145 0.40332Z\" fill=\"#D80027\"></path></g><defs><clippath id=\"clip0_936_10568:Sd:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.612915 0.40332)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Belgica": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 57 57\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Belgium</title><g clip-path=\"url(#clip0_936_10645:Sf:)\"><path d=\"M37.9498 2.52966C34.9488 1.41618 31.7029 0.806641 28.3145 0.806641C24.926 0.806641 21.6801 1.41618 18.6792 2.52966L16.2703 28.5083L18.6792 54.4868C21.6801 55.6004 24.926 56.2099 28.3145 56.2099C31.7029 56.2099 34.9488 55.6004 37.9498 54.4868L40.3586 28.5083L37.9498 2.52966Z\" fill=\"#FFDA44\"></path><path d=\"M56.0161 28.5083C56.0161 16.5977 48.4986 6.44372 37.9498 2.52979V54.4871C48.4986 50.5728 56.0161 40.4191 56.0161 28.5083Z\" fill=\"#D80027\"></path><path d=\"M0.612834 28.5083C0.612834 40.4191 8.13036 50.5728 18.6792 54.487V2.52979C8.13036 6.44372 0.612834 16.5977 0.612834 28.5083Z\" fill=\"black\"></path></g><defs><clippath id=\"clip0_936_10645:Sf:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.612915 0.806641)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Brazil": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 56 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Brazil</title><g clip-path=\"url(#clip0_936_10706:Sn:)\"><path d=\"M27.9113 55.6129C43.2105 55.6129 55.6129 43.2105 55.6129 27.9113C55.6129 12.6122 43.2105 0.209717 27.9113 0.209717C12.6121 0.209717 0.209686 12.6122 0.209686 27.9113C0.209686 43.2105 12.6121 55.6129 27.9113 55.6129Z\" fill=\"#6DA544\"></path><path d=\"M27.9112 11.0496L50.7951 27.9114L27.9112 44.7732L5.02729 27.9114L27.9112 11.0496Z\" fill=\"#FFDA44\"></path><path d=\"M27.9113 37.5467C33.2327 37.5467 37.5466 33.2328 37.5466 27.9114C37.5466 22.59 33.2327 18.2761 27.9113 18.2761C22.5898 18.2761 18.276 22.59 18.276 27.9114C18.276 33.2328 22.5898 37.5467 27.9113 37.5467Z\" fill=\"#F0F0F0\"></path><path d=\"M23.0935 27.3093C21.418 27.3093 19.801 27.5642 18.2789 28.037C18.3463 33.3003 22.6318 37.5469 27.9112 37.5469C31.1756 37.5469 34.0588 35.9219 35.8017 33.4384C32.8198 29.7055 28.2316 27.3093 23.0935 27.3093Z\" fill=\"#0052B4\"></path><path d=\"M37.3679 29.7575C37.4839 29.1597 37.5466 28.543 37.5466 27.9114C37.5466 22.5899 33.2327 18.2761 27.9113 18.2761C23.9407 18.2761 20.5321 20.6785 19.057 24.1085C20.3609 23.8383 21.7109 23.696 23.0937 23.696C28.69 23.6959 33.7527 26.0222 37.3679 29.7575Z\" fill=\"#0052B4\"></path></g><defs><clippath id=\"clip0_936_10706:Sn:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.209686 0.209717)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Italy": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 56 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Italy</title><g clip-path=\"url(#clip0_936_11412:S9:)\"><path d=\"M27.7178 55.8388C43.0169 55.8388 55.4194 43.4363 55.4194 28.1372C55.4194 12.838 43.0169 0.435547 27.7178 0.435547C12.4186 0.435547 0.0161438 12.838 0.0161438 28.1372C0.0161438 43.4363 12.4186 55.8388 27.7178 55.8388Z\" fill=\"#F0F0F0\"></path><path d=\"M55.4193 28.137C55.4193 16.2263 47.9018 6.07249 37.353 2.15845V54.1157C47.9018 50.2016 55.4193 40.0478 55.4193 28.137Z\" fill=\"#D80027\"></path><path d=\"M0.0160599 28.137C0.0160599 40.0478 7.53359 50.2016 18.0824 54.1156V2.15845C7.53359 6.07249 0.0160599 16.2263 0.0160599 28.137Z\" fill=\"#6DA544\"></path></g><defs><clippath id=\"clip0_936_11412:S9:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.0161438 0.435547)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Spain": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 56 57\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Spain</title><g clip-path=\"url(#clip0_936_12192:Sc:)\"><path d=\"M3.05176e-05 28.331C3.05176e-05 31.7195 0.609574 34.9653 1.72305 37.9663L27.7016 40.3751L53.6802 37.9663C54.7937 34.9653 55.4033 31.7195 55.4033 28.331C55.4033 24.9425 54.7937 21.6967 53.6802 18.6957L27.7016 16.2869L1.72305 18.6957C0.609574 21.6967 3.05176e-05 24.9425 3.05176e-05 28.331H3.05176e-05Z\" fill=\"#FFDA44\"></path><path d=\"M53.6802 18.6957C49.7662 8.14703 39.6123 0.629395 27.7016 0.629395C15.7909 0.629395 5.63707 8.14703 1.72302 18.6957H53.6802Z\" fill=\"#D80027\"></path><path d=\"M1.72302 37.9663C5.63707 48.515 15.7909 56.0326 27.7016 56.0326C39.6123 56.0326 49.7662 48.515 53.6802 37.9663H1.72302Z\" fill=\"#D80027\"></path></g><defs><clippath id=\"clip0_936_12192:Sc:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0 0.629395)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Great Britain": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 57 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Great Britain</title><g clip-path=\"url(#clip0_936_12439:Se:)\"><path d=\"M0.707642 13.9725V20.0232H9.35167L0.707642 13.9725ZM-12 61.5H20.6743V47.6587V38.6971L-12 61.5ZM36.0333 38.6986V61.5H69.5L36.0333 38.6986ZM0.707642 35.3762V41.4269L9.35474 35.3762H0.707642ZM48.8381 7.74072L36.0333 -5.5V16.7023L48.8381 7.74072ZM55.9999 41.4284V35.3762H47.3513L55.9999 41.4284ZM55.9999 20.0232V13.9725L47.3544 20.0232H55.9999ZM20.6743 -5.5L7.87107 7.74072L20.6743 16.7023V-5.5Z\" fill=\"#00247D\"></path><path d=\"M39.3201 35.3764L54.2367 45.8181C54.9652 45.0679 55.4887 44.1433 55.7572 43.1328L44.6757 35.3764H39.3201ZM20.6743 35.3764H17.3859L2.4708 45.8165C3.27101 46.6302 4.29699 47.2121 5.44737 47.4823L20.6743 36.8242V35.3764ZM36.0332 20.0234H39.3216L54.2367 9.58329C53.4227 8.75772 52.3911 8.18006 51.2617 7.91748L36.0332 18.5756V20.0234ZM17.3859 20.0234L2.4708 9.58329C1.74272 10.334 1.21876 11.2584 0.94873 12.2685L12.0302 20.0234H17.3859Z\" fill=\"#CF1B2B\"></path><path d=\"M55.9999 32.3056H32.9615V57.5H36.0333V38.6986L48.835 47.6587H49.8564C50.6723 47.6588 51.4801 47.4961 52.2323 47.18C52.9845 46.8638 53.666 46.4008 54.2367 45.8179L39.3201 35.3762H44.6758L55.7573 43.1326C55.9001 42.6152 55.9999 42.0794 55.9999 41.5175V41.4284L47.3513 35.3762H55.9999V32.3056ZM0.707642 32.3056V35.3762H9.35474L0.707642 41.4269V41.5175C0.707642 43.1925 1.3819 44.7078 2.47085 45.8163L17.386 35.3762H20.6743V36.824L5.44742 47.4806C5.89897 47.5881 6.36589 47.6587 6.85123 47.6587H7.87107L20.6743 38.6971V57.5H23.7461V32.3056H0.707642ZM55.9999 13.882C56.0009 12.2729 55.3674 10.7284 54.2367 9.58309L39.3216 20.0232H36.0333V18.5754L51.2617 7.91728C50.8016 7.80448 50.33 7.74523 49.8564 7.74072H48.8381L36.0333 16.7023V0H32.9615V23.0938H55.9999V20.0232H47.3544L55.9999 13.9725V13.882ZM20.6743 0V16.7023L7.87107 7.74072H6.85123C6.03509 7.74037 5.22712 7.90318 4.47486 8.21958C3.72259 8.53598 3.04123 8.99957 2.47085 9.58309L17.386 20.0232H12.0303L0.948777 12.2683C0.796386 12.793 0.71528 13.3357 0.707642 13.882L0.707642 13.9725L9.35167 20.0232H0.707642V23.0938H23.7461V0H20.6743Z\" fill=\"#EEEEEE\"></path><path d=\"M32.9615 23.0938V0H23.7461V23.0938H0.707642V32.3056H23.7461V58H32.9615V32.3056H55.9999V23.0938H32.9615Z\" fill=\"#CF1B2B\"></path></g><defs><clippath id=\"clip0_936_12439:Se:\"><rect fill=\"white\" height=\"55.4032\" rx=\"27.7016\" width=\"55.4032\" x=\"0.661011\" y=\"0.435547\"></rect></clippath></defs></svg>",
+    "Belgium": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 57 57\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Belgium</title><g clip-path=\"url(#clip0_936_10645:Sg:)\"><path d=\"M37.9498 2.52966C34.9488 1.41618 31.7029 0.806641 28.3145 0.806641C24.926 0.806641 21.6801 1.41618 18.6792 2.52966L16.2703 28.5083L18.6792 54.4868C21.6801 55.6004 24.926 56.2099 28.3145 56.2099C31.7029 56.2099 34.9488 55.6004 37.9498 54.4868L40.3586 28.5083L37.9498 2.52966Z\" fill=\"#FFDA44\"></path><path d=\"M56.0161 28.5083C56.0161 16.5977 48.4986 6.44372 37.9498 2.52979V54.4871C48.4986 50.5728 56.0161 40.4191 56.0161 28.5083Z\" fill=\"#D80027\"></path><path d=\"M0.612834 28.5083C0.612834 40.4191 8.13036 50.5728 18.6792 54.487V2.52979C8.13036 6.44372 0.612834 16.5977 0.612834 28.5083Z\" fill=\"black\"></path></g><defs><clippath id=\"clip0_936_10645:Sg:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.612915 0.806641)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Netherlands": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 57 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Netherlands</title><g clip-path=\"url(#clip0_936_11758:Sh:)\"><path d=\"M28.5391 55.6129C43.8383 55.6129 56.2407 43.2105 56.2407 27.9113C56.2407 12.6122 43.8383 0.209717 28.5391 0.209717C13.24 0.209717 0.837524 12.6122 0.837524 27.9113C0.837524 43.2105 13.24 55.6129 28.5391 55.6129Z\" fill=\"#F0F0F0\"></path><path d=\"M28.5391 0.209717C16.6284 0.209717 6.47453 7.72724 2.56049 18.276H54.5178C50.6036 7.72724 40.4498 0.209717 28.5391 0.209717Z\" fill=\"#A2001D\"></path><path d=\"M28.5391 55.613C40.4498 55.613 50.6036 48.0954 54.5177 37.5466H2.56049C6.47453 48.0954 16.6284 55.613 28.5391 55.613Z\" fill=\"#0052B4\"></path></g><defs><clippath id=\"clip0_936_11758:Sh:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.837524 0.209717)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "France": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 57 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of France</title><g clip-path=\"url(#clip0_936_11202:Se:)\"><path d=\"M28.3145 55.6293C43.6137 55.6293 56.0161 43.2269 56.0161 27.9277C56.0161 12.6285 43.6137 0.226074 28.3145 0.226074C13.0153 0.226074 0.612915 12.6285 0.612915 27.9277C0.612915 43.2269 13.0153 55.6293 28.3145 55.6293Z\" fill=\"#F0F0F0\"></path><path d=\"M56.0161 27.9276C56.0161 16.0168 48.4986 5.86302 37.9498 1.94897V53.9063C48.4986 49.9921 56.0161 39.8383 56.0161 27.9276Z\" fill=\"#D80027\"></path><path d=\"M0.612828 27.9276C0.612828 39.8383 8.13046 49.9921 18.6791 53.9062V1.94897C8.13046 5.86302 0.612828 16.0168 0.612828 27.9276Z\" fill=\"#0052B4\"></path></g><defs><clippath id=\"clip0_936_11202:Se:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.612915 0.226074)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Germany": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 56 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Germany</title><g clip-path=\"url(#clip0_936_11238:Sd:)\"><path d=\"M1.75531 37.563C5.66935 48.1117 15.8232 55.6294 27.7339 55.6294C39.6446 55.6294 49.7985 48.1117 53.7125 37.563L27.7339 35.1543L1.75531 37.563Z\" fill=\"#FFDA44\"></path><path d=\"M27.7339 0.226074C15.8232 0.226074 5.66935 7.7436 1.75531 18.2924L27.7339 20.7011L53.7125 18.2923C49.7985 7.7436 39.6446 0.226074 27.7339 0.226074Z\" fill=\"black\"></path><path d=\"M1.75531 18.2925C0.641831 21.2935 0.0322876 24.5393 0.0322876 27.9278C0.0322876 31.3162 0.641831 34.5621 1.75531 37.5631H53.7126C54.8261 34.5621 55.4355 31.3162 55.4355 27.9278C55.4355 24.5393 54.8261 21.2935 53.7125 18.2925H1.75531Z\" fill=\"#D80027\"></path></g><defs><clippath id=\"clip0_936_11238:Sd:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.0322266 0.226074)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Argentina": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 56 56\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Argentina</title><g clip-path=\"url(#clip0_936_10534:S5:)\"><path d=\"M27.7016 55.8065C43.0008 55.8065 55.4032 43.4041 55.4032 28.1049C55.4032 12.8058 43.0008 0.40332 27.7016 0.40332C12.4024 0.40332 0 12.8058 0 28.1049C0 43.4041 12.4024 55.8065 27.7016 55.8065Z\" fill=\"#F0F0F0\"></path><path d=\"M27.7017 0.40332C16.719 0.40332 7.22952 6.79471 2.74878 16.0608H52.6544C48.1738 6.79471 38.6842 0.40332 27.7017 0.40332Z\" fill=\"#338AF3\"></path><path d=\"M27.7017 55.8066C38.6842 55.8066 48.1738 49.4153 52.6545 40.1492H2.74878C7.22952 49.4153 16.719 55.8066 27.7017 55.8066Z\" fill=\"#338AF3\"></path><path d=\"M35.9813 28.105L32.5981 29.6964L34.3997 32.9729L30.726 32.2701L30.2604 35.9812L27.7016 33.2518L25.1427 35.9812L24.6773 32.2701L21.0036 32.9728L22.805 29.6963L19.422 28.105L22.8051 26.5136L21.0036 23.2372L24.6772 23.9399L25.1428 20.2288L27.7016 22.9582L30.2605 20.2288L30.726 23.9399L34.3998 23.2372L32.5982 26.5137L35.9813 28.105Z\" fill=\"#FFDA44\"></path></g><defs><clippath id=\"clip0_936_10534:S5:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0 0.40332)\" width=\"55.4032\"></rect></clippath></defs></svg>",
+    "Switzerland": "<svg class=\"CountryFlag-module_flag__Y-X37 CountryFlag-module_md__QS2fX CountryFlag-module_neutral__3iAn5\" fill=\"none\" height=\"1em\" role=\"img\" viewbox=\"0 0 57 57\" width=\"1em\" xmlns=\"http://www.w3.org/2000/svg\"><title>Flag of Switzerland</title><g clip-path=\"url(#clip0_936_12260:S9:)\"><path d=\"M28.3171 56.0326C43.6163 56.0326 56.0187 43.6302 56.0187 28.331C56.0187 13.0318 43.6163 0.629395 28.3171 0.629395C13.0179 0.629395 0.615479 13.0318 0.615479 28.331C0.615479 43.6302 13.0179 56.0326 28.3171 56.0326Z\" fill=\"#D80027\"></path><path d=\"M42.77 23.5133H33.1347V13.8779H23.4993V23.5133H13.864V33.1486H23.4993V42.7839H33.1347V33.1486H42.77V23.5133Z\" fill=\"#F0F0F0\"></path></g><defs><clippath id=\"clip0_936_12260:S9:\"><rect fill=\"white\" height=\"55.4032\" transform=\"translate(0.615479 0.629395)\" width=\"55.4032\"></rect></clippath></defs></svg>"
+  }
+}

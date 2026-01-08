@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GoleandoAndo - F1</title>
+    <title>GoleandoAndo - F1 Récords Históricos</title>
     <link rel="shortcut icon" href="../../assets/imgs/f1.png">
     <link rel="stylesheet" href="../styles/styles.css">
     <link rel="stylesheet" href="../styles/mainSection.css">
@@ -152,57 +152,45 @@
     </div>
     <main class="contenedor">
         <section class="seccion">
-            <h2 class="titulo-seccion">Calendario</h2>
-            <div class="season-filter-container">
-                <label for="season-select">Temporada:</label>
-                <select id="season-select">
-                </select>
-                <a href="f1-historicos.html" class="records-link">
-                    📊 Récords Históricos
-                </a>
-            </div>
+            <h2 class="titulo-seccion">Más Campeonatos de Pilotos</h2>
             <div class="scrollable-table">
-            <div class="fecha-selector-container">
-                <button class="fecha-arrow" id="fecha-prev">◀</button>
-                <div class="fecha-display-wrapper">
-                    <div class="fecha-display" id="fecha-display">Carrera</div>
-                    <select class="fecha-select" id="fecha-select"></select>
-                </div>
-                <button class="fecha-arrow" id="fecha-next">▶</button>
-            </div>
-            <div id="race-details"></div>
-            </div>
-        </section>
-        <section class="seccion">
-            <h2 class="titulo-seccion">Última Carrera</h2>
-            <div class="scrollable-table">
-                <table class="tabla" id="tabla-ultima-carrera">
+                <table class="tabla" id="tabla-campeonatos-pilotos">
                     <thead></thead>
                     <tbody></tbody>
                 </table>
             </div>
         </section>
         <section class="seccion">
-            <h2 class="titulo-seccion">Clasificación de Pilotos</h2>
+            <h2 class="titulo-seccion">Más Victorias en Carreras</h2>
             <div class="scrollable-table">
-                <table class="tabla" id="tabla-posiciones-table">
+                <table class="tabla" id="tabla-victorias-pilotos">
                     <thead></thead>
                     <tbody></tbody>
                 </table>
             </div>
         </section>
         <section class="seccion">
-            <h2 class="titulo-seccion">Clasificación de Constructores</h2>
+            <h2 class="titulo-seccion">Más Campeonatos de Constructores</h2>
             <div class="scrollable-table">
-                <table class="tabla" id="tabla-goleadores">
+                <table class="tabla" id="tabla-campeonatos-equipos">
                     <thead></thead>
                     <tbody></tbody>
                 </table>
             </div>
         </section>
+        <section class="seccion">
+            <h2 class="titulo-seccion">Más Victorias por Equipo</h2>
+            <div class="scrollable-table">
+                <table class="tabla" id="tabla-victorias-equipos">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </section>
+        <a href="#ancla" class="boton-inicio">⇧</a>
     </main>
 
-    <script src="../scripts/scriptf1.js"></script>
+    <script src="../scripts/scriptf1-historicos.js"></script>
     <script src="../scripts/navScript.js"></script>
 </body>
 
