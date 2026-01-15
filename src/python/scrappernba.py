@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 from nba_api.stats.endpoints import leaguestandings, scoreboardv2, leagueleaders
 
-TEMPORADA_ACTUAL = "2024-25"
+TEMPORADA_ACTUAL = "2025-26"
 DIAS_ATRAS = 3
 DIAS_ADELANTE = 3
 CARPETA_JSONS = os.path.join(os.path.dirname(__file__), "..", "JSONs")
