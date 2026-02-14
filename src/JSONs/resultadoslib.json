@@ -3,62 +3,62 @@
         "fixture": [
             {
                 "fecha_torneo": "Primera Fase",
-                "fecha": "03/02/2026 21:30 HS",
+                "fecha": "03/02/2026 21:30 HS Finalizado",
                 "local": "STR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/74.png",
                 "visitante": "TAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/79.png"
             },
             {
                 "fecha_torneo": "Primera Fase",
-                "fecha": "10/02/2026 21:30 HS",
+                "fecha": "10/02/2026 21:30 HS Finalizado",
                 "local": "TAC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "STR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png"
             },
             {
                 "fecha_torneo": "Primera Fase",
-                "fecha": "05/02/2026 21:30 HS",
+                "fecha": "05/02/2026 21:30 HS Finalizado",
                 "local": "JUV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/771.png",
                 "visitante": "CAT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/894.png"
             },
             {
                 "fecha_torneo": "Primera Fase",
-                "fecha": "12/02/2026 21:30 HS",
+                "fecha": "12/02/2026 21:30 HS Finalizado",
                 "local": "CAT",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/894.png",
                 "visitante": "JUV",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/771.png"
             },
             {
                 "fecha_torneo": "Primera Fase",
-                "fecha": "04/02/2026 21:30 HS",
+                "fecha": "04/02/2026 21:30 HS Finalizado",
                 "local": "2MA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/269.png",
                 "visitante": "ALI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/84.png"
             },
             {
                 "fecha_torneo": "Primera Fase",
-                "fecha": "11/02/2026 21:30 HS",
+                "fecha": "11/02/2026 21:30 HS Finalizado",
                 "local": "ALI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/84.png",
                 "visitante": "2MA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png"
             },
             {
@@ -84,9 +84,9 @@
             {
                 "fecha_torneo": "Segunda Fase",
                 "fecha": "19/02/2026 21:30 HS",
-                "local": "",
+                "local": "TAC",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/0.png",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "TOL",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png"
@@ -97,16 +97,16 @@
                 "local": "TOL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/179.png",
-                "visitante": "",
+                "visitante": "TAC",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/0.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/79.png"
             },
             {
                 "fecha_torneo": "Segunda Fase",
                 "fecha": "17/02/2026 21:30 HS",
-                "local": "",
+                "local": "2MA",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/0.png",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/269.png",
                 "visitante": "SPC",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/92.png"
@@ -117,9 +117,9 @@
                 "local": "SPC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
-                "visitante": "",
+                "visitante": "2MA",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/0.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png"
             },
             {
                 "fecha_torneo": "Segunda Fase",
@@ -1553,6 +1553,85 @@
             }
         ],
         "tabla_posiciones": [],
-        "goleadores": []
+        "goleadores": [
+            {
+                "nombre": "Jhon Chancellor",
+                "equipo": "U. Católica (E)",
+                "escudo": "https://statics-files.tycsports.com/escudos/894.png",
+                "goles": 2
+            },
+            {
+                "nombre": "José Fajardo",
+                "equipo": "U. Católica (E)",
+                "escudo": "https://statics-files.tycsports.com/escudos/894.png",
+                "goles": 2
+            },
+            {
+                "nombre": "Rodrigo Pollero",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Renzo Sánchez",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Diego Acosta",
+                "equipo": "2 de Mayo",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Luis Adví­ncula",
+                "equipo": "Alianza Lima",
+                "escudo": "https://statics-files.tycsports.com/escudos/84.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Carlos Calzadilla",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Patricio Pernicone",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Víctor Ábrego",
+                "equipo": "The Strongest",
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Jaime Arrascaita",
+                "equipo": "The Strongest",
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Brahian Ayala",
+                "equipo": "2 de Mayo",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Federico Barrandeguy",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Pablo Lago",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "goles": 1
+            }
+        ]
     }
 }
