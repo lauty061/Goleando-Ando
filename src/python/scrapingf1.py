@@ -7,7 +7,7 @@ from urllib.parse import urljoin, urlparse, urlunparse
 import posixpath
 import re
 
-YEAR = 2023
+YEAR = 2026
 BASE = "https://www.formula1.com"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 OUT_DIR = os.path.join(os.path.expanduser("~"), "Desktop", "nueva carpeta(7)", "Pagina Futbol", "src", "JSONs", "F1")

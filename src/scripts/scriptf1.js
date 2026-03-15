@@ -1,12 +1,12 @@
 let currentFechaIndex = 0;
 let fechasUnicas = [];
 let racesGlobal = [];
-let currentSeason = 2025;
+let currentSeason = 2026;
 let availableSeasons = [];
 
 document.addEventListener("DOMContentLoaded", async () => {
   populateSeasonSelector();
-  await loadSeason(2025);
+  await loadSeason(2026);
 });
 
 async function fetchJson(path) {
@@ -337,12 +337,12 @@ function populateSeasonSelector() {
   const select = document.getElementById("season-select");
   if (!select) return;
   
-  for (let year = 2025; year >= 1950; year--) {
+  for (let year = 2026; year >= 1950; year--) {
     availableSeasons.push(year);
     const option = document.createElement("option");
     option.value = year;
     option.textContent = year;
-    if (year === 2025) option.selected = true;
+    if (year === 2026) option.selected = true;
     select.appendChild(option);
   }
   
