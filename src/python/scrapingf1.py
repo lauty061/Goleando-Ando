@@ -10,7 +10,7 @@ import re
 YEAR = 2026
 BASE = "https://www.formula1.com"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-OUT_DIR = os.path.join(os.path.expanduser("~"), "Desktop", "nueva carpeta(7)", "Pagina Futbol", "src", "JSONs", "F1")
+OUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "JSONs", "F1")
 os.makedirs(OUT_DIR, exist_ok=True)
 OUTPUT_FILE = os.path.join(OUT_DIR, f"f1_{YEAR}.json")
 REQUEST_TIMEOUT = 15
@@ -375,6 +375,30 @@ def obtener_f1(year, descargar_resultados_detallados=True):
                     r["country"] = r.get("grand_prix")
                 data["race_results"][r.get("grand_prix") or url] = rr
                 time.sleep(SLEEP_BETWEEN)
+                
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+            if "teams" in old_data:
+                old_teams = {t.get("team"): t for t in old_data["teams"]}
+                for new_team in data["teams"]:
+                    t_name = new_team.get("team")
+                    if t_name in old_teams:
+                        for key in ["monoposto", "logo", "car_img"]:
+                            if key in old_teams[t_name] and old_teams[t_name][key]:
+                                new_team[key] = old_teams[t_name][key]
+            if "drivers" in old_data:
+                old_drivers = {d.get("name"): d for d in old_data["drivers"]}
+                for new_driver in data["drivers"]:
+                    d_name = new_driver.get("name")
+                    if d_name in old_drivers:
+                        for key in ["headshot", "img"]:
+                            if key in old_drivers[d_name] and old_drivers[d_name][key]:
+                                new_driver[key] = old_drivers[d_name][key]
+        except Exception as e:
+            print("Error merging existing data:", e)
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     return data

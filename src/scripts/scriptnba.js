@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     fixtureDataGlobal = ligaData.fixture || [];
     let tablaData = ligaData.tabla_posiciones || {};
     let estadisticasData = ligaData.estadisticas_jugadores || {};
-    
+
     datosGlobalesStats = estadisticasData;
 
     mostrarEstadisticas('puntos');
@@ -29,28 +29,28 @@ document.addEventListener("DOMContentLoaded", async function () {
 
     fechasUnicas = [...new Set(fixtureDataGlobal.map(p => p.fecha_torneo))];
     const rondaSelect = document.getElementById("ronda-select");
-    
+
     if (fechasUnicas.length > 0) {
         rondaSelect.innerHTML = fechasUnicas.map(r => `<option value="${r}">${r}</option>`).join("");
-        
+
         let hoy = new Date();
         let dia = String(hoy.getDate()).padStart(2, '0');
         let mes = String(hoy.getMonth() + 1).padStart(2, '0');
         let fechaHoyStr = `${dia}/${mes}`;
-        
+
         if (fechasUnicas.includes(fechaHoyStr)) {
             currentFechaIndex = fechasUnicas.indexOf(fechaHoyStr);
         } else {
             currentFechaIndex = 0;
         }
-        
+
         updateFechaDisplay();
         mostrarPartidos(fixtureDataGlobal, fechasUnicas[currentFechaIndex]);
     }
 
     document.getElementById("fecha-prev").addEventListener("click", () => navigateFecha(-1));
     document.getElementById("fecha-next").addEventListener("click", () => navigateFecha(1));
-    
+
     rondaSelect.addEventListener("change", function() {
         const selectedFecha = this.value;
         currentFechaIndex = fechasUnicas.indexOf(selectedFecha);
@@ -72,7 +72,7 @@ async function obtenerDatosLiga(liga) {
         let data = await response.json();
         return data[liga] || null;
     } catch (error) {
-        console.error("Error:", error);
+
         return null;
     }
 }
@@ -102,7 +102,7 @@ function mostrarPartidos(fixtureData, rondaSeleccionada) {
     partidos.forEach(p => {
         let hora = p.fecha.replace(" ET", "");
         let resultado = p.goles_local === "-" ? "vs" : `${p.goles_local} - ${p.goles_visita}`;
-        
+
         let claseEstado = "";
         if (!hora.includes("Final") && (hora.includes("Q") || hora.includes("Half") || hora.includes(":"))) {
             if(hora.includes("Q") || hora.includes("Half")) claseEstado = "live-text";
@@ -153,7 +153,7 @@ function mostrarTablaPosiciones(tablaData) {
     tablaData.forEach((equipo) => {
         let pos = parseInt(equipo.posicion);
         let claseFila = "";
-        
+
         if (pos <= 6) claseFila = "zona-verde";
         else if (pos <= 10) claseFila = "zona-oro";
 
@@ -243,7 +243,7 @@ function updateFechaDisplay() {
 
 function navigateFecha(direction) {
     const newIndex = currentFechaIndex + direction;
-    
+
     if (newIndex >= 0 && newIndex < fechasUnicas.length) {
         currentFechaIndex = newIndex;
         updateFechaDisplay();

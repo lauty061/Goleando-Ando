@@ -92,25 +92,65 @@ tr:hover {
     min-width: 400px;
 }
 
+table:empty::after {
+    content: 'Cargando datos...';
+    display: block;
+    text-align: center;
+    padding: 30px 10px;
+    color: rgba(255, 255, 255, 0.35);
+    font-family: Inter, sans-serif;
+    font-size: 0.9rem;
+    font-style: italic;
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+.resumen-ligas:empty {
+    min-height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.03);
+}
+
+.resumen-ligas:empty::after {
+    content: '';
+    display: block;
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+        90deg,
+        transparent 0%,
+        rgba(75, 198, 239, 0.08) 50%,
+        transparent 100%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 1.8s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+}
+
 @media (max-width: 768px) {
     .scrollable-table table {
         min-width: 100%;
     }
-    
+
     .piloto-img {
         height: 45px;
         width: 45px;
     }
-    
+
     .team-logo {
         height: 24px;
     }
-    
+
     th, td {
         padding: 8px 4px;
         font-size: 0.85rem;
     }
-    
+
     th {
         font-size: 0.8rem;
     }
@@ -267,9 +307,49 @@ select {
     border-radius: 8px;
     padding: 15px;
     color: var(--text-color);
-    text-align: center;
+    text-align: left;
     background-color: var(--background-color);
     border: 1px solid rgba(255,255,255,0.1);
+    transition: border-color 0.2s, transform 0.2s;
+}
+
+.liga-mini:hover {
+    border-color: rgba(75, 198, 239, 0.4);
+    transform: translateY(-2px);
+}
+
+.liga-mini h4 {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+    color: var(--primary-accent-color);
+    text-align: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 8px;
+}
+
+.liga-mini p {
+    font-size: 0.82rem;
+    color: rgba(255,255,255,0.8);
+    margin: 0;
+}
+
+.liga-mini-fila {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.liga-mini-fila:last-child {
+    border-bottom: none;
+}
+
+.liga-mini-escudo {
+    width: 22px;
+    height: 22px;
+    object-fit: contain;
+    flex-shrink: 0;
 }
 
 #tabla-hoy {
@@ -302,15 +382,24 @@ select {
 .ref-container {
     margin-top: 15px;
     display: flex;
-    justify-content: center;
-    gap: 20px;
-    font-size: 0.9rem;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 0.95rem;
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 12px 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .ref-item {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 8px;
+    font-weight: 500;
 }
 
 .dot {
@@ -318,6 +407,12 @@ select {
     height: 10px;
     border-radius: 2px;
 }
+
+.dot-oro { background-color: #FFD700; }
+.dot-azul { background-color: var(--primary-accent-color); }
+.dot-naranja { background-color: #FF751C; }
+.dot-verde { background-color: #28a745; }
+.dot-roja { background-color: #ff4d4d; }
 
 .live-text {
     color: #ff4d4d;
@@ -478,17 +573,17 @@ select {
         gap: 10px;
         padding: 8px;
     }
-    
+
     .fecha-arrow {
         width: 40px;
         height: 40px;
         font-size: 1rem;
     }
-    
+
     .fecha-display-wrapper {
         min-width: 120px;
     }
-    
+
     .fecha-display {
         padding: 10px 20px;
         font-size: 1rem;
@@ -552,7 +647,7 @@ select {
         flex-wrap: wrap;
         justify-content: center;
     }
-    
+
     .records-link {
         margin-left: 0;
         margin-top: 10px;
@@ -562,10 +657,35 @@ select {
     }
 }
 
-.piloto-info svg, 
+.piloto-info svg,
 .gp-info svg {
     margin-right: 8px;
     flex-shrink: 0;
     width: 22px;
     height: 22px;
+}
+
+@keyframes tableUpdate {
+    0%   { opacity: 0; transform: translateY(6px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+.table-update-anim {
+    animation: tableUpdate 0.22s ease-out;
+}
+
+tr {
+    transition: background-color 0.15s ease;
+}
+.scrollable-table::-webkit-scrollbar {
+    height: 5px;
+}
+.scrollable-table::-webkit-scrollbar-track {
+    background: transparent;
+}
+.scrollable-table::-webkit-scrollbar-thumb {
+    background: rgba(75, 198, 239, 0.3);
+    border-radius: 10px;
+}
+.scrollable-table::-webkit-scrollbar-thumb:hover {
+    background: rgba(75, 198, 239, 0.6);
 }

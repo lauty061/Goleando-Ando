@@ -33,12 +33,12 @@ function renderTable(container, headers, rowsHtml) {
 async function loadAllTimeRecords() {
   const JSON_PATH = `../JSONs/F1/f1_all_time_records.json`;
   const data = await fetchJson(JSON_PATH);
-  
+
   if (!data) {
     console.error("No se pudieron cargar los récords históricos");
     return;
   }
-  
+
   const countryNameMap = {
     'NED': 'Netherlands',
     'GER': 'Germany',
@@ -51,7 +51,7 @@ async function loadAllTimeRecords() {
     'BRA': 'Brazil',
     'BEL': 'Belgium'
   };
-  
+
   function getFlagSVG(countryCode) {
     if (!countryCode || !data.country_flag_svgs) return '';
     const countryName = countryNameMap[countryCode];
@@ -60,7 +60,7 @@ async function loadAllTimeRecords() {
     }
     return '';
   }
-  
+
   renderTable(
     document.getElementById("tabla-campeonatos-pilotos"),
     ["#", "", "Piloto", "Campeonatos"],
@@ -80,7 +80,7 @@ async function loadAllTimeRecords() {
       </tr>`;
     }).join("")
   );
-  
+
   renderTable(
     document.getElementById("tabla-victorias-pilotos"),
     ["#", "", "Piloto", "Victorias"],
@@ -100,7 +100,7 @@ async function loadAllTimeRecords() {
       </tr>`;
     }).join("")
   );
-  
+
   renderTable(
     document.getElementById("tabla-campeonatos-equipos"),
     ["#", "", "Equipo", "Campeonatos"],
@@ -116,7 +116,7 @@ async function loadAllTimeRecords() {
       </tr>`;
     }).join("")
   );
-  
+
   renderTable(
     document.getElementById("tabla-victorias-equipos"),
     ["#", "", "Equipo", "Victorias"],

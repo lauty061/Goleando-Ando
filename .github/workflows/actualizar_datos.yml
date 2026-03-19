@@ -1,0 +1,49 @@
+name: Actualizar JSONs de Deportes
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r src/python/requirements.txt
+
+      - name: Ejecutar Scrapers (Fútbol)
+        run: |
+          for script in src/python/*.py; do
+            # Omitimos F1 y NBA por si requieren argumentos especiales, o se ejecutan igual
+            if [[ "$script" != *"scrapingf1.py"* && "$script" != *"scrappernba.py"* && "$script" != *"requirements.txt"* ]]; then
+              echo "Ejecutando $script..."
+              python "$script" || echo "Error en $script, continuando..."
+            fi
+          done
+
+      - name: Ejecutar Scraper (Fórmula 1)
+        run: python src/python/scrapingf1.py
+        
+      - name: Ejecutar Scraper (NBA)
+        run: python src/python/scrappernba.py
+        
+      - name: Hacer commit y push de los cambios
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/JSONs/
+          # Hacemos commit si hay cambios detectados, de lo contrario no falla
+          git diff-index --quiet HEAD || git commit -m "Actualización automática de resultados deportivos JSON"
+          git push

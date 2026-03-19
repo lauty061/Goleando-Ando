@@ -29,31 +29,50 @@ document.addEventListener("DOMContentLoaded", async () => {
     const tablaHoy = document.getElementById("tabla-hoy");
     let hoy = new Date().toISOString().split("T")[0];
     let partidosHoy = [];
+    const entries = Object.entries(ligas);
+    const results = await Promise.allSettled(
+        entries.map(([liga, url]) =>
+            fetch(url).then(r => r.json()).then(data => ({ liga, data: data[liga] }))
+        )
+    );
+    const ligasOrdenadas = [];
+    results.forEach(result => {
+        if (result.status === "fulfilled") {
+            const { liga, data: info } = result.value;
+            if (!info) return;
+            ligasOrdenadas.push({ liga, info });
 
-    for (let liga in ligas) {
-        try {
-            const res = await fetch(ligas[liga]);
-            const data = await res.json();
-            const info = data[liga];
-            const top = info.tabla_posiciones?.[0];
-            const goleador = info.goleadores?.[0];
-            contenedor.innerHTML += `
-                <div class="liga-mini">
-                    <h4>${liga}</h4>
-                    <p>Líder: <strong>${top?.equipo || "N/A"}</strong> (${top?.puntos || 0} pts)</p>
-                    <p>Goleador: ${goleador?.nombre || "N/A"} (${goleador?.goles || 0} goles)</p>
-                </div>
-            `;
             info.fixture?.forEach(p => {
                 const fechaISO = convertirFecha(p.fecha, p.fecha_partido);
                 if (fechaISO === hoy) {
                     partidosHoy.push({ ...p, liga });
                 }
             });
-        } catch (e) {
-            console.warn(`No se pudo cargar ${liga}:`, e);
+        } else {
+            console.warn("No se pudo cargar una liga:", result.reason);
         }
-    }
+    });
+
+    contenedor.innerHTML = ligasOrdenadas.map(({ liga, info }) => {
+        const top = info.tabla_posiciones?.[0];
+        const goleador = info.goleadores?.[0];
+        const escudoLider = top?.escudo || "";
+        const escudoGoleador = goleador?.escudo || "";
+
+        return `
+            <div class="liga-mini">
+                <h4>${liga}</h4>
+                <div class="liga-mini-fila">
+                    ${escudoLider ? `<img src="${escudoLider}" class="liga-mini-escudo" alt="${top?.equipo}" loading="lazy">` : ""}
+                    <p>🏆 Líder: <strong>${top?.equipo || "N/A"}</strong> (${top?.puntos || 0} pts)</p>
+                </div>
+                <div class="liga-mini-fila">
+                    ${escudoGoleador ? `<img src="${escudoGoleador}" class="liga-mini-escudo" alt="${goleador?.equipo}" loading="lazy">` : ""}
+                    <p>⚽ ${goleador?.nombre || "N/A"} (${goleador?.goles || 0} goles)</p>
+                </div>
+            </div>
+        `;
+    }).join("");
 
     partidosHoy.sort((a, b) => a.liga.localeCompare(b.liga));
 
@@ -72,7 +91,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     } else {
         partidosHoy.forEach(p => {
             html += `
-                <tr> 
+                <tr>
                     <td>${p.fecha_partido || p.fecha}</td>
                     <td>${p.liga}</td>
                     <td><img src="${p.escudo_local}" width="30"> ${p.local}</td>

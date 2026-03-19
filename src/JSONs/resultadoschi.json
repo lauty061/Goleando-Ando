@@ -1,35 +1,2449 @@
 {
     "Liga de Primera": {
-        "fixture": [],
+        "fixture": [
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "30/01/2026 20:00 HS Finalizado",
+                "local": "UCH",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "AUD",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "31/01/2026 12:00 HS Finalizado",
+                "local": "LIM",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "COL",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "31/01/2026 15:30 HS Finalizado",
+                "local": "UDC",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "COQ",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "31/01/2026 18:00 HS Finalizado",
+                "local": "COB",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "HUA",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "01/02/2026 18:00 HS Finalizado",
+                "local": "LSE",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "UCA",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "01/02/2026 20:30 HS Finalizado",
+                "local": "PAL",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "ÑUB",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "02/02/2026 18:00 HS Finalizado",
+                "local": "EVE",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "ULC",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "02/02/2026 20:30 HS Finalizado",
+                "local": "OHI",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "CON",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "06/02/2026 20:00 HS Finalizado",
+                "local": "AUD",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "UDC",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "07/02/2026 12:00 HS Finalizado",
+                "local": "COQ",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "PAL",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "07/02/2026 18:00 HS Finalizado",
+                "local": "OHI",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "LSE",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "07/02/2026 20:30 HS Finalizado",
+                "local": "COL",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "EVE",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "08/02/2026 12:00 HS Finalizado",
+                "local": "HUA",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "UCH",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "08/02/2026 18:00 HS Finalizado",
+                "local": "ÑUB",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "LIM",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "08/02/2026 20:30 HS Finalizado",
+                "local": "UCA",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "CON",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "09/02/2026 20:00 HS Finalizado",
+                "local": "ULC",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "COB",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "13/02/2026 18:00 HS Finalizado",
+                "local": "EVE",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "HUA",
+                "goles_visita": "3",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "13/02/2026 20:30 HS Finalizado",
+                "local": "PAL",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "UCH",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "14/02/2026 12:00 HS Finalizado",
+                "local": "LSE",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "COQ",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "14/02/2026 18:00 HS Finalizado",
+                "local": "LIM",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "OHI",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "14/02/2026 20:30 HS Finalizado",
+                "local": "COB",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "UCA",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "15/02/2026 12:00 HS Finalizado",
+                "local": "UDC",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "CON",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "15/02/2026 18:00 HS Finalizado",
+                "local": "ÑUB",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "AUD",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "15/02/2026 20:30 HS Finalizado",
+                "local": "COL",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "ULC",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "20/02/2026 18:00 HS Finalizado",
+                "local": "ULC",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "ÑUB",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "20/02/2026 20:30 HS Finalizado",
+                "local": "CON",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "COB",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "21/02/2026 12:00 HS Finalizado",
+                "local": "HUA",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "PAL",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "21/02/2026 18:00 HS Finalizado",
+                "local": "OHI",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "COL",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "21/02/2026 20:30 HS Finalizado",
+                "local": "UCA",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "COQ",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "22/02/2026 12:00 HS Finalizado",
+                "local": "LSE",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "UDC",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "22/02/2026 18:00 HS Finalizado",
+                "local": "AUD",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "EVE",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
+                "fecha": "22/02/2026 20:30 HS Finalizado",
+                "local": "UCH",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "LIM",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "27/02/2026 18:00 HS Finalizado",
+                "local": "COB",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "LSE",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "27/02/2026 20:30 HS Finalizado",
+                "local": "ULC",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "AUD",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "28/02/2026 12:00 HS Finalizado",
+                "local": "COQ",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "CON",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "28/02/2026 18:00 HS Finalizado",
+                "local": "LIM",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "HUA",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "28/02/2026 20:30 HS Finalizado",
+                "local": "PAL",
+                "goles_local": "4",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "OHI",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "01/03/2026 12:00 HS Finalizado",
+                "local": "UDC",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "EVE",
+                "goles_visita": "3",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "01/03/2026 18:00 HS Finalizado",
+                "local": "COL",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "UCH",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "01/03/2026 20:30 HS Finalizado",
+                "local": "ÑUB",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "UCA",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "06/03/2026 18:00 HS Finalizado",
+                "local": "LSE",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "ULC",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "06/03/2026 20:30 HS Finalizado",
+                "local": "CON",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "ÑUB",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "07/03/2026 12:00 HS Finalizado",
+                "local": "HUA",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "COQ",
+                "goles_visita": "3",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "07/03/2026 12:00 HS Finalizado",
+                "local": "EVE",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "LIM",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "07/03/2026 18:00 HS Finalizado",
+                "local": "AUD",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "COL",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "07/03/2026 20:30 HS Finalizado",
+                "local": "OHI",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "UCA",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "08/03/2026 20:30 HS Finalizado",
+                "local": "PAL",
+                "goles_local": "4",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "COB",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "09/03/2026 20:00 HS Finalizado",
+                "local": "UCH",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "UDC",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "13/03/2026 20:00 HS Finalizado",
+                "local": "AUD",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "CON",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "14/03/2026 18:00 HS Finalizado",
+                "local": "COQ",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "UCH",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "14/03/2026 20:30 HS Finalizado",
+                "local": "UCA",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "EVE",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "15/03/2026 12:00 HS Finalizado",
+                "local": "UDC",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "PAL",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "15/03/2026 18:00 HS Finalizado",
+                "local": "COB",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "LIM",
+                "goles_visita": "5",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "15/03/2026 20:30 HS Finalizado",
+                "local": "ÑUB",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "LSE",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "16/03/2026 18:00 HS Finalizado",
+                "local": "ULC",
+                "goles_local": "3",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "OHI",
+                "goles_visita": "3",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "16/03/2026 20:30 HS Finalizado",
+                "local": "COL",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "HUA",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "05/04/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "12/04/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 10",
+                "fecha": "19/04/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "26/04/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "17/05/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "24/05/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 14",
+                "fecha": "31/05/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "14/06/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
+                "fecha": "26/07/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "02/08/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
+                "fecha": "09/08/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 20",
+                "fecha": "23/08/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "30/08/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 22",
+                "fecha": "06/09/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 23",
+                "fecha": "13/09/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 24",
+                "fecha": "11/10/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 25",
+                "fecha": "25/10/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 26",
+                "fecha": "01/11/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 27",
+                "fecha": "08/11/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            },
+            {
+                "fecha_torneo": "Fecha 28",
+                "fecha": "22/11/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "COQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/145.png",
+                "visitante": "LIM",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "ULC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
+                "visitante": "UDC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "EVE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
+                "visitante": "OHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "AUD",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/143.png",
+                "visitante": "PAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
+                "visitante": "COB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "UCH",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "COB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/144.png",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "LSE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
+                "visitante": "AUD",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "PAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
+                "visitante": "EVE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "UDC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
+                "visitante": "UCA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "OHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
+                "visitante": "COQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "HUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/149.png",
+                "visitante": "ÑUB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png"
+            },
+            {
+                "fecha_torneo": "Fecha 30",
+                "fecha": "06/12/2026 HS",
+                "local": "LIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
+                "visitante": "CON",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
+            }
+        ],
         "tabla_posiciones": [
             {
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
                 "equipo": "Colo Colo",
-                "puntos": "12",
-                "pj": "6",
-                "pg": "4",
+                "puntos": "15",
+                "pj": "7",
+                "pg": "5",
                 "pe": "0",
                 "pp": "2",
-                "gf": 6,
+                "gf": 8,
                 "gc": 4,
-                "dg": 2
+                "dg": 4
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
                 "equipo": "Deportes Limache",
-                "puntos": "11",
-                "pj": "6",
-                "pg": "3",
+                "puntos": "14",
+                "pj": "7",
+                "pg": "4",
                 "pe": "2",
                 "pp": "1",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
+                "gf": 16,
+                "gc": 8,
+                "dg": 8
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
+                "equipo": "Ñublense",
+                "puntos": "12",
+                "pj": "7",
+                "pg": "3",
+                "pe": "3",
+                "pp": "1",
+                "gf": 9,
+                "gc": 6,
+                "dg": 3
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "equipo": "U. Católica",
                 "puntos": "11",
@@ -42,20 +2456,20 @@
                 "dg": 3
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
-                "equipo": "Ñublense",
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/156.png",
+                "equipo": "U. Concepción",
                 "puntos": "11",
-                "pj": "6",
+                "pj": "7",
                 "pg": "3",
                 "pe": "2",
-                "pp": "1",
-                "gf": 7,
-                "gc": 4,
-                "dg": 3
+                "pp": "2",
+                "gf": 6,
+                "gc": 9,
+                "dg": -3
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png",
                 "equipo": "Audax Italiano",
                 "puntos": "10",
@@ -68,7 +2482,20 @@
                 "dg": 2
             },
             {
-                "posicion": "6",
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
+                "equipo": "U. La Calera",
+                "puntos": "10",
+                "pj": "7",
+                "pg": "3",
+                "pe": "1",
+                "pp": "3",
+                "gf": 10,
+                "gc": 9,
+                "dg": 1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "equipo": "U. de Chile",
                 "puntos": "10",
@@ -81,20 +2508,33 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "equipo": "U. La Calera",
-                "puntos": "9",
-                "pj": "6",
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
+                "equipo": "O'Higgins",
+                "puntos": "10",
+                "pj": "7",
                 "pg": "3",
-                "pe": "0",
+                "pe": "1",
                 "pp": "3",
-                "gf": 7,
-                "gc": 6,
-                "dg": 1
+                "gf": 10,
+                "gc": 11,
+                "dg": -1
             },
             {
-                "posicion": "8",
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/150.png",
+                "equipo": "D. La Serena",
+                "puntos": "9",
+                "pj": "7",
+                "pg": "2",
+                "pe": "3",
+                "pp": "2",
+                "gf": 9,
+                "gc": 7,
+                "dg": 2
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "9",
@@ -107,85 +2547,33 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "equipo": "Huachipato",
                 "puntos": "9",
-                "pj": "6",
+                "pj": "7",
                 "pg": "3",
                 "pe": "0",
-                "pp": "3",
-                "gf": 8,
-                "gc": 9,
-                "dg": -1
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
-                "equipo": "O'Higgins",
-                "puntos": "9",
-                "pj": "6",
-                "pg": "3",
-                "pe": "0",
-                "pp": "3",
-                "gf": 7,
-                "gc": 8,
-                "dg": -1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/150.png",
-                "equipo": "D. La Serena",
-                "puntos": "8",
-                "pj": "6",
-                "pg": "2",
-                "pe": "2",
-                "pp": "2",
-                "gf": 7,
-                "gc": 5,
-                "dg": 2
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
-                "equipo": "Palestino",
-                "puntos": "8",
-                "pj": "6",
-                "pg": "2",
-                "pe": "2",
-                "pp": "2",
-                "gf": 11,
-                "gc": 10,
-                "dg": 1
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/156.png",
-                "equipo": "U. Concepción",
-                "puntos": "8",
-                "pj": "6",
-                "pg": "2",
-                "pe": "2",
-                "pp": "2",
-                "gf": 5,
-                "gc": 9,
-                "dg": -4
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
-                "equipo": "Cobresal",
-                "puntos": "7",
-                "pj": "6",
-                "pg": "2",
-                "pe": "1",
-                "pp": "3",
+                "pp": "4",
                 "gf": 8,
                 "gc": 11,
                 "dg": -3
             },
             {
-                "posicion": "15",
+                "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
+                "equipo": "Palestino",
+                "puntos": "8",
+                "pj": "7",
+                "pg": "2",
+                "pe": "2",
+                "pp": "3",
+                "gf": 11,
+                "gc": 11,
+                "dg": 0
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png",
                 "equipo": "Everton",
                 "puntos": "7",
@@ -196,6 +2584,19 @@
                 "gf": 6,
                 "gc": 9,
                 "dg": -3
+            },
+            {
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
+                "equipo": "Cobresal",
+                "puntos": "7",
+                "pj": "7",
+                "pg": "2",
+                "pe": "1",
+                "pp": "4",
+                "gf": 10,
+                "gc": 16,
+                "dg": -6
             },
             {
                 "posicion": "16",
@@ -219,6 +2620,18 @@
                 "goles": 9
             },
             {
+                "nombre": "Castro Santibáñez, D.",
+                "equipo": "Deportes Limache",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Sebastián Sáez",
+                "equipo": "U. La Calera",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Nelson Da Silva",
                 "equipo": "Palestino",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
@@ -231,15 +2644,15 @@
                 "goles": 4
             },
             {
+                "nombre": "Steffan Pino",
+                "equipo": "Cobresal",
+                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Justo Giani",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Castro Santibáñez, D.",
-                "equipo": "Deportes Limache",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
                 "goles": 3
             },
             {
@@ -252,18 +2665,6 @@
                 "nombre": "Maximiliano Romero",
                 "equipo": "Colo Colo",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Steffan Pino",
-                "equipo": "Cobresal",
-                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Sebastián Sáez",
-                "equipo": "U. La Calera",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "goles": 3
             },
             {

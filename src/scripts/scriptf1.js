@@ -142,7 +142,7 @@ function populateCountrySelect(races) {
   });
 
   fechasUnicas = ["all", ...uniqueCountries.map(c => c.name)];
-  
+
   sel.innerHTML = `<option value="all" selected>Todas las carreras</option>` +
     uniqueCountries.map(c => {
       return `<option value="${escapeAttr(c.name)}">${escapeHtml(c.name)}</option>`;
@@ -319,11 +319,11 @@ function updateFechaDisplay() {
 
 function navigateFecha(direction, races) {
   const newIndex = currentFechaIndex + direction;
-  
+
   if (newIndex >= 0 && newIndex < fechasUnicas.length) {
     currentFechaIndex = newIndex;
     updateFechaDisplay();
-    
+
     const selectedValue = fechasUnicas[currentFechaIndex];
     if (selectedValue === "all") {
       renderAllRacesSummary(races);
@@ -336,7 +336,7 @@ function navigateFecha(direction, races) {
 function populateSeasonSelector() {
   const select = document.getElementById("season-select");
   if (!select) return;
-  
+
   for (let year = 2026; year >= 1950; year--) {
     availableSeasons.push(year);
     const option = document.createElement("option");
@@ -345,7 +345,7 @@ function populateSeasonSelector() {
     if (year === 2026) option.selected = true;
     select.appendChild(option);
   }
-  
+
   select.addEventListener("change", async (e) => {
     await loadSeason(parseInt(e.target.value));
   });
@@ -353,29 +353,29 @@ function populateSeasonSelector() {
 
 async function loadSeason(year) {
   currentSeason = year;
-  
+
   showLoading();
-  
+
   const JSON_PATH = `../JSONs/F1/f1_${year}.json`;
   const data = await fetchJson(JSON_PATH);
-  
+
   if (!data) {
     alert(`No hay datos disponibles para la temporada ${year}`);
     hideLoading();
     return;
   }
-  
+
   window.__F1_DATA = data;
   racesGlobal = data.races || [];
   const { drivers = [], teams = [] } = data;
-  
+
   renderFixtureAll(racesGlobal);
   populateCountrySelect(racesGlobal);
   mostrarTablaPilotos(drivers);
   mostrarConstructores(teams);
   renderProximaCarrera(racesGlobal);
   renderUltimaCarrera(racesGlobal);
-  
+
   hideLoading();
 }
 

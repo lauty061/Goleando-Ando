@@ -37,7 +37,7 @@ class TournamentBracket {
 
     generateMatch(match) {
         const isEmptyMatch = (!match.team1 || match.team1 === '') && (!match.team2 || match.team2 === '');
-        
+
         if (isEmptyMatch) {
             return `
                 <div class="bracket-match tbd-match">
@@ -50,7 +50,7 @@ class TournamentBracket {
                 </div>
             `;
         }
-        
+
         const team1Winner = this.isWinner(match.team1_score, match.team2_score);
         const team2Winner = this.isWinner(match.team2_score, match.team1_score);
 
@@ -85,10 +85,10 @@ class TournamentBracket {
 
     generateMatchInfo(match) {
         if (!match.date && !match.status) return '';
-        
+
         const statusHTML = match.status ? `<span class="match-status">${match.status}</span>` : '';
         const dateHTML = match.date ? `<span>${match.date}</span>` : '';
-        
+
         return `
             <div class="match-date">
                 ${statusHTML}
@@ -122,7 +122,7 @@ class TournamentBracket {
 
     getMatchWinner(match) {
         if (!match.team1 || !match.team2) return null;
-        
+
         const score1 = parseInt(match.team1_score);
         const score2 = parseInt(match.team2_score);
 
@@ -186,16 +186,16 @@ class TournamentBracket {
 
 function convertFixtureToBracket(fixtureData) {
     const rounds = {};
-    
+
     const knockoutPhases = [
         'octavos', 'octavo', 'round of 16', 'round_of_16',
         'cuartos', 'cuarto', 'quarter', 'quarters',
         'semi', 'semifinal', 'semis',
         'final', 'finals'
     ];
-    
+
     const tempRounds = {};
-    
+
     fixtureData.forEach(match => {
         const phase = match.fase || match.fase_torneo || match.fecha_torneo;
         if (!phase) return;
@@ -204,7 +204,7 @@ function convertFixtureToBracket(fixtureData) {
         const isKnockout = knockoutPhases.some(keyword => 
             phaseLower.includes(keyword)
         );
-        
+
         if (!isKnockout) return;
 
         if (!tempRounds[phase]) {
@@ -253,7 +253,7 @@ function ensureCompleteBracket(rounds) {
     }
 
     const completeBracket = {};
-    
+
     for (const [phaseName, matchCount] of Object.entries(bracketStructure)) {
         if (existingPhases[phaseName]) {
             completeBracket[phaseName] = existingPhases[phaseName];
@@ -301,19 +301,19 @@ function combineHomeAwayMatches(matches) {
 
     for (const key in matchPairs) {
         const pair = matchPairs[key];
-        
+
         if (pair.length === 1) {
             combined.push(pair[0]);
         } else if (pair.length >= 2) {
             const match1 = pair[0];
             const match2 = pair[1];
-            
+
             const teams = [match1.team1, match1.team2].sort();
             const isMatch1First = match1.team1 === teams[0];
-            
+
             let totalTeam1 = 0;
             let totalTeam2 = 0;
-            
+
             if (isMatch1First) {
                 totalTeam1 = match1.team1_score + match2.team2_score;
                 totalTeam2 = match1.team2_score + match2.team1_score;
@@ -321,7 +321,7 @@ function combineHomeAwayMatches(matches) {
                 totalTeam1 = match1.team2_score + match2.team1_score;
                 totalTeam2 = match1.team1_score + match2.team2_score;
             }
-            
+
             combined.push({
                 team1: teams[0],
                 team1_logo: isMatch1First ? match1.team1_logo : match1.team2_logo,
@@ -343,7 +343,7 @@ async function loadBracket(jsonPath, containerId) {
     try {
         const response = await fetch(jsonPath);
         const data = await response.json();
-        
+
         const ligaName = Object.keys(data)[0];
         const ligaData = data[ligaName];
 
@@ -361,7 +361,7 @@ async function loadBracket(jsonPath, containerId) {
 
         bracket.generateBracket(rounds);
     } catch (error) {
-        console.error('Error loading bracket:', error);
+
         bracket.showEmpty();
     }
 }

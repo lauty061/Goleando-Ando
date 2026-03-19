@@ -2313,32 +2313,32 @@
             },
             {
                 "fecha_torneo": "Fecha 26",
-                "fecha": "15/03/2026 11:30 HS",
+                "fecha": "15/03/2026 11:30 HS Finalizado",
                 "local": "WEB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/721.png",
                 "visitante": "MAI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1718.png"
             },
             {
                 "fecha_torneo": "Fecha 26",
-                "fecha": "15/03/2026 13:30 HS",
+                "fecha": "15/03/2026 13:30 HS Finalizado",
                 "local": "FRI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1717.png",
                 "visitante": "UNI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6286.png"
             },
             {
                 "fecha_torneo": "Fecha 26",
-                "fecha": "15/03/2026 15:30 HS",
+                "fecha": "15/03/2026 15:30 HS Finalizado",
                 "local": "STU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/718.png",
                 "visitante": "RBL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6345.png"
             },
             {
@@ -3126,27 +3126,27 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/718.png",
                 "equipo": "Stuttgart",
-                "puntos": "47",
-                "pj": "25",
-                "pg": "14",
+                "puntos": "50",
+                "pj": "26",
+                "pg": "15",
                 "pe": "5",
                 "pp": "6",
-                "gf": 50,
+                "gf": 51,
                 "gc": 34,
-                "dg": 16
+                "dg": 17
             },
             {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/6345.png",
                 "equipo": "RB Leipzig",
                 "puntos": "47",
-                "pj": "25",
+                "pj": "26",
                 "pg": "14",
                 "pe": "5",
-                "pp": "6",
+                "pp": "7",
                 "gf": 48,
-                "gc": 34,
-                "dg": 14
+                "gc": 35,
+                "dg": 13
             },
             {
                 "posicion": "6",
@@ -3179,16 +3179,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1717.png",
                 "equipo": "Friburgo",
                 "puntos": "34",
-                "pj": "25",
+                "pj": "26",
                 "pg": "9",
                 "pe": "7",
-                "pp": "9",
+                "pp": "10",
                 "gf": 37,
-                "gc": 42,
-                "dg": -5
+                "gc": 43,
+                "dg": -6
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/6286.png",
+                "equipo": "Unión Berlín",
+                "puntos": "31",
+                "pj": "26",
+                "pg": "8",
+                "pe": "7",
+                "pp": "11",
+                "gf": 31,
+                "gc": 42,
+                "dg": -11
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/3305.png",
                 "equipo": "Augsburg",
                 "puntos": "31",
@@ -3201,7 +3214,7 @@
                 "dg": -14
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/712.png",
                 "equipo": "Hamburgo SV",
                 "puntos": "30",
@@ -3212,19 +3225,6 @@
                 "gf": 29,
                 "gc": 37,
                 "dg": -8
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/6286.png",
-                "equipo": "Unión Berlín",
-                "puntos": "28",
-                "pj": "25",
-                "pg": "7",
-                "pe": "7",
-                "pp": "11",
-                "gf": 30,
-                "gc": 42,
-                "dg": -12
             },
             {
                 "posicion": "12",
@@ -3241,6 +3241,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/1718.png",
+                "equipo": "Mainz",
+                "puntos": "27",
+                "pj": "26",
+                "pg": "6",
+                "pe": "9",
+                "pp": "11",
+                "gf": 31,
+                "gc": 41,
+                "dg": -10
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/1258.png",
                 "equipo": "Colonia",
                 "puntos": "25",
@@ -3253,30 +3266,17 @@
                 "dg": -9
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/721.png",
                 "equipo": "Werder Bremen",
                 "puntos": "25",
-                "pj": "25",
+                "pj": "26",
                 "pg": "6",
                 "pe": "7",
-                "pp": "12",
+                "pp": "13",
                 "gf": 29,
-                "gc": 45,
-                "dg": -16
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/1718.png",
-                "equipo": "Mainz",
-                "puntos": "24",
-                "pj": "25",
-                "pg": "5",
-                "pe": "9",
-                "pp": "11",
-                "gf": 29,
-                "gc": 41,
-                "dg": -12
+                "gc": 47,
+                "dg": -18
             },
             {
                 "posicion": "16",
@@ -3326,15 +3326,15 @@
                 "goles": 30
             },
             {
-                "nombre": "Luis Díaz",
-                "equipo": "Bayern Múnich",
-                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
-                "goles": 15
-            },
-            {
                 "nombre": "Deniz Undav",
                 "equipo": "Stuttgart",
                 "escudo": "https://statics-files.tycsports.com/escudos/718.png",
+                "goles": 16
+            },
+            {
+                "nombre": "Luis Díaz",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
                 "goles": 15
             },
             {
