@@ -653,12 +653,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "19/03/2026 20:00 HS",
+                "fecha": "19/03/2026 20:00 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7948.png"
             },
             {
@@ -1390,6 +1390,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "equipo": "Sp. Ameliano",
+                "puntos": "14",
+                "pj": "11",
+                "pg": "3",
+                "pe": "5",
+                "pp": "3",
+                "gf": 10,
+                "gc": 8,
+                "dg": 2
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png",
                 "equipo": "Guaraní",
                 "puntos": "13",
@@ -1400,19 +1413,6 @@
                 "gf": 17,
                 "gc": 13,
                 "dg": 4
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "equipo": "Sp. Ameliano",
-                "puntos": "13",
-                "pj": "10",
-                "pg": "3",
-                "pe": "4",
-                "pp": "3",
-                "gf": 9,
-                "gc": 7,
-                "dg": 2
             },
             {
                 "posicion": "8",
@@ -1431,13 +1431,13 @@
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "equipo": "Trinidense",
-                "puntos": "11",
-                "pj": "10",
+                "puntos": "12",
+                "pj": "11",
                 "pg": "2",
-                "pe": "5",
+                "pe": "6",
                 "pp": "3",
-                "gf": 9,
-                "gc": 10,
+                "gf": 10,
+                "gc": 11,
                 "dg": -1
             },
             {
@@ -1497,6 +1497,12 @@
                 "nombre": "Néstor Camacho",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Elvio Vera",
+                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "goles": 4
             },
             {
@@ -1539,12 +1545,6 @@
                 "nombre": "Iván Valdez",
                 "equipo": "Nacional (P)",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Cecilio Domínguez",
-                "equipo": "Cerro Porteño",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "goles": 3
             }
         ]

@@ -1797,12 +1797,12 @@
             {
                 "fase": "Octavos de final",
                 "jornada": "Llave 2",
-                "fecha_partido": "19/03/2026 17:00 HS",
+                "fecha_partido": "19/03/2026 17:00 HS Finalizado",
                 "local": "BET",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/32.png",
                 "visitante": "PA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1312.png"
             },
             {
@@ -1819,12 +1819,12 @@
             {
                 "fase": "Octavos de final",
                 "jornada": "Llave 3",
-                "fecha_partido": "19/03/2026 14:45 HS",
+                "fecha_partido": "19/03/2026 14:45 HS Finalizado",
                 "local": "FRI",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1717.png",
                 "visitante": "GEN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2140.png"
             },
             {
@@ -1841,12 +1841,12 @@
             {
                 "fase": "Octavos de final",
                 "jornada": "Llave 4",
-                "fecha_partido": "19/03/2026 14:45 HS",
+                "fecha_partido": "19/03/2026 14:45 HS Finalizado",
                 "local": "LYO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/794.png",
                 "visitante": "CEL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/162.png"
             },
             {
@@ -1863,12 +1863,12 @@
             {
                 "fase": "Octavos de final",
                 "jornada": "Llave 5",
-                "fecha_partido": "19/03/2026 17:00 HS",
+                "fecha_partido": "19/03/2026 17:00 HS Finalizado",
                 "local": "POR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/797.png",
                 "visitante": "STU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/718.png"
             },
             {
@@ -1885,12 +1885,12 @@
             {
                 "fase": "Octavos de final",
                 "jornada": "Llave 6",
-                "fecha_partido": "19/03/2026 14:45 HS",
+                "fecha_partido": "19/03/2026 14:45 HS Finalizado",
                 "local": "MID",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2162.png",
                 "visitante": "NTF",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3295.png"
             },
             {
@@ -1907,12 +1907,12 @@
             {
                 "fase": "Octavos de final",
                 "jornada": "Llave 7",
-                "fecha_partido": "19/03/2026 17:00 HS",
+                "fecha_partido": "19/03/2026 17:00 HS Finalizado",
                 "local": "ROM",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/61.png",
                 "visitante": "BOL",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/46.png"
             },
             {
@@ -1929,12 +1929,12 @@
             {
                 "fase": "Octavos de final",
                 "jornada": "Llave 8",
-                "fecha_partido": "19/03/2026 17:00 HS",
+                "fecha_partido": "19/03/2026 17:00 HS Finalizado",
                 "local": "ASV",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/559.png",
                 "visitante": "LIL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1725.png"
             },
             {
@@ -2583,6 +2583,24 @@
                 "goles": 5
             },
             {
+                "nombre": "Antony",
+                "equipo": "Betis",
+                "escudo": "https://statics-files.tycsports.com/escudos/32.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Federico Bernardeschi",
+                "equipo": "Bologna",
+                "escudo": "https://statics-files.tycsports.com/escudos/46.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Martin Erlic",
+                "equipo": "Midtjylland",
+                "escudo": "https://statics-files.tycsports.com/escudos/2162.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Karol Swiderski",
                 "equipo": "Panathinaikos",
                 "escudo": "https://statics-files.tycsports.com/escudos/1312.png",
@@ -2598,24 +2616,6 @@
                 "nombre": "Barnabás Varga",
                 "equipo": "Ferencváros",
                 "escudo": "https://statics-files.tycsports.com/escudos/5121.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Hamza Igamane",
-                "equipo": "Lille",
-                "escudo": "https://statics-files.tycsports.com/escudos/1725.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Souza Conceição, A.",
-                "equipo": "Fenerbahçe",
-                "escudo": "https://statics-files.tycsports.com/escudos/804.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Antony",
-                "equipo": "Betis",
-                "escudo": "https://statics-files.tycsports.com/escudos/32.png",
                 "goles": 4
             }
         ]
