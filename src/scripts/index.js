@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", async () => {
     const ligas = {
-        "NBA": "src/JSONs/resultadosnba.json",
         "Bundesliga": "src/JSONs/resultadosale.json",
         "Premier League": "src/JSONs/resultadosing.json",
         "La Liga": "src/JSONs/resultadosesp.json",
@@ -22,7 +21,32 @@ document.addEventListener("DOMContentLoaded", async () => {
         "Liga BetPlay Dimayor": "src/JSONs/resultadoscol.json",
         "Liga de Primera": "src/JSONs/resultadoschi.json",
         "Liga FUTVE": "src/JSONs/resultadosvnz.json",
-        "Campeonato Femenino": "src/JSONs/resultadosargfem.json",
+        "NBA": "src/JSONs/resultadosnba.json",
+    };
+
+    const logosLigas = {
+        "Bundesliga": "assets/imgs/BundesligaLogo.png",
+        "Premier League": "assets/imgs/PremierLeagueLogo.png",
+        "La Liga": "assets/imgs/LaLigaLogo.png",
+        "Serie A": "assets/imgs/SerieALogo.png",
+        "Ligue 1": "assets/imgs/Ligue1Logo.png",
+        "Liga Argentina": "assets/imgs/LPFLogo.png",
+        "Primera B Nacional": "assets/imgs/PrimeraNacionalogo.png",
+        "Primera B Metropolitana": "assets/imgs/Primerabmetro.png",
+        "Champions League": "assets/imgs/LogoChampions.png",
+        "Uefa Europa League": "assets/imgs/logoeuropa.png",
+        "Copa Libertadores": "assets/imgs/loogoliberta.png",
+        "Eliminatorias Conmebol": "assets/imgs/CONMEBOL256x.png",
+        "MLS": "assets/imgs/MLS.png",
+        "Brasileirao": "assets/imgs/brasileirao.png",
+        "Liga AUF Uruguay": "assets/imgs/Liga AUF Uruguaya - Blanco.png",
+        "División Profesional Bolivia": "assets/imgs/Ligabolivia.png",
+        "Copa de Primera": "assets/imgs/Copa de Primeraparaguay.png",
+        "Liga 1": "assets/imgs/liga1peru.png",
+        "Liga BetPlay Dimayor": "assets/imgs/ligacolombia.png",
+        "Liga de Primera": "assets/imgs/ligachile.png",
+        "Liga FUTVE": "assets/imgs/Ligaveneca.png",
+        "NBA": "assets/imgs/logo-nba-256.png",
     };
 
     const contenedor = document.querySelector(".resumen-ligas");
@@ -58,10 +82,14 @@ document.addEventListener("DOMContentLoaded", async () => {
         const goleador = info.goleadores?.[0];
         const escudoLider = top?.escudo || "";
         const escudoGoleador = goleador?.escudo || "";
+        const badgeLiga = logosLigas[liga] || "";
 
         return `
             <div class="liga-mini">
-                <h4>${liga}</h4>
+                <div class="liga-mini-header" style="display: flex; align-items: center; justify-content: center; gap: 8px; margin-bottom: 20px;">
+                    ${badgeLiga ? `<img src="${badgeLiga}" alt="${liga}" style="width: 25px; height: 25px; object-fit: contain;">` : ""}
+                    <h4 style="margin: 0; padding: 0; border: none;">${liga}</h4>
+                </div>
                 <div class="liga-mini-fila">
                     ${escudoLider ? `<img src="${escudoLider}" class="liga-mini-escudo" alt="${top?.equipo}" loading="lazy">` : ""}
                     <p>🏆 Líder: <strong>${top?.equipo || "N/A"}</strong> (${top?.puntos || 0} pts)</p>

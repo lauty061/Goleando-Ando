@@ -34,10 +34,12 @@ jobs:
           done
 
       - name: Ejecutar Scraper (Fórmula 1)
-        run: python src/python/scrapingf1.py
+        continue-on-error: true
+        run: python src/python/scrapingf1.py || echo "Fallo en F1, continuando..."
         
       - name: Ejecutar Scraper (NBA)
-        run: python src/python/scrappernba.py
+        continue-on-error: true
+        run: python src/python/scrappernba.py || echo "Fallo en NBA, continuando..."
         
       - name: Hacer commit y push de los cambios
         run: |
