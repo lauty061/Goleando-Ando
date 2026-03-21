@@ -2343,12 +2343,12 @@
             },
             {
                 "fecha_torneo": "Fecha 27",
-                "fecha": "20/03/2026 16:30 HS",
+                "fecha": "20/03/2026 16:30 HS Finalizado",
                 "local": "RBL",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6345.png",
                 "visitante": "HOF",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1260.png"
             },
             {
@@ -3111,16 +3111,16 @@
             },
             {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/1260.png",
-                "equipo": "Hoffenheim",
+                "escudo": "https://statics-files.tycsports.com/escudos/6345.png",
+                "equipo": "RB Leipzig",
                 "puntos": "50",
-                "pj": "26",
+                "pj": "27",
                 "pg": "15",
                 "pe": "5",
-                "pp": "6",
-                "gf": 54,
-                "gc": 34,
-                "dg": 20
+                "pp": "7",
+                "gf": 53,
+                "gc": 35,
+                "dg": 18
             },
             {
                 "posicion": "4",
@@ -3137,16 +3137,16 @@
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/6345.png",
-                "equipo": "RB Leipzig",
-                "puntos": "47",
-                "pj": "26",
-                "pg": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/1260.png",
+                "equipo": "Hoffenheim",
+                "puntos": "50",
+                "pj": "27",
+                "pg": "15",
                 "pe": "5",
                 "pp": "7",
-                "gf": 48,
-                "gc": 35,
-                "dg": 13
+                "gf": 54,
+                "gc": 39,
+                "dg": 15
             },
             {
                 "posicion": "6",
@@ -3338,6 +3338,12 @@
                 "goles": 15
             },
             {
+                "nombre": "Christoph Baumgartner",
+                "equipo": "RB Leipzig",
+                "escudo": "https://statics-files.tycsports.com/escudos/6345.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Serhou Guirassy",
                 "equipo": "Borussia Dortmund",
                 "escudo": "https://statics-files.tycsports.com/escudos/707.png",
@@ -3348,12 +3354,6 @@
                 "equipo": "B. Mönchengladbach",
                 "escudo": "https://statics-files.tycsports.com/escudos/1259.png",
                 "goles": 11
-            },
-            {
-                "nombre": "Christoph Baumgartner",
-                "equipo": "RB Leipzig",
-                "escudo": "https://statics-files.tycsports.com/escudos/6345.png",
-                "goles": 10
             },
             {
                 "nombre": "Yan Diomande",

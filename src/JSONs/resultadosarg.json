@@ -1653,22 +1653,22 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "20/03/2026 21:00 HS",
+                "fecha": "20/03/2026 21:00 HS Finalizado",
                 "local": "BAN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4.png",
                 "visitante": "TIG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/136.png"
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "20/03/2026 21:00 HS",
+                "fecha": "20/03/2026 21:00 HS Finalizado",
                 "local": "ATT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/815.png",
                 "visitante": "GIM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8.png"
             },
             {
@@ -2811,13 +2811,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/136.png",
                 "equipo": "Tigre",
                 "puntos": "17",
-                "pj": "10",
+                "pj": "11",
                 "pg": "4",
                 "pe": "5",
-                "pp": "1",
+                "pp": "2",
                 "gf": 16,
-                "gc": 9,
-                "dg": 7
+                "gc": 10,
+                "dg": 6
             },
             {
                 "zona": "Grupo B",
@@ -2867,13 +2867,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8.png",
                 "equipo": "Gimnasia",
                 "puntos": "14",
-                "pj": "10",
+                "pj": "11",
                 "pg": "4",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 13,
-                "gc": 14,
-                "dg": -1
+                "gc": 15,
+                "dg": -2
             },
             {
                 "zona": "Grupo B",
@@ -2892,6 +2892,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/4.png",
+                "equipo": "Banfield",
+                "puntos": "13",
+                "pj": "11",
+                "pg": "4",
+                "pe": "1",
+                "pp": "6",
+                "gf": 12,
+                "gc": 13,
+                "dg": -1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/2.png",
                 "equipo": "Argentinos",
                 "puntos": "11",
@@ -2902,20 +2916,6 @@
                 "gf": 5,
                 "gc": 4,
                 "dg": 1
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/4.png",
-                "equipo": "Banfield",
-                "puntos": "10",
-                "pj": "10",
-                "pg": "3",
-                "pe": "1",
-                "pp": "6",
-                "gf": 11,
-                "gc": 13,
-                "dg": -2
             },
             {
                 "zona": "Grupo B",
@@ -2936,14 +2936,14 @@
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/815.png",
                 "equipo": "Atl. Tucumán",
-                "puntos": "6",
-                "pj": "10",
-                "pg": "1",
+                "puntos": "9",
+                "pj": "11",
+                "pg": "2",
                 "pe": "3",
                 "pp": "6",
-                "gf": 11,
+                "gf": 12,
                 "gc": 16,
-                "dg": -5
+                "dg": -4
             },
             {
                 "zona": "Grupo B",

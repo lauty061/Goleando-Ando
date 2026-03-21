@@ -2903,22 +2903,22 @@
             },
             {
                 "fecha_torneo": "Fecha 30",
-                "fecha": "20/03/2026 14:30 HS",
+                "fecha": "20/03/2026 14:30 HS Finalizado",
                 "local": "CAG",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/49.png",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/726.png"
             },
             {
                 "fecha_torneo": "Fecha 30",
-                "fecha": "20/03/2026 16:45 HS",
+                "fecha": "20/03/2026 16:45 HS Finalizado",
                 "local": "GEN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/725.png",
                 "visitante": "UDI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/64.png"
             },
             {
@@ -3818,6 +3818,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/726.png",
+                "equipo": "Napoli",
+                "puntos": "62",
+                "pj": "30",
+                "pg": "19",
+                "pe": "5",
+                "pp": "6",
+                "gf": 46,
+                "gc": 30,
+                "dg": 16
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/57.png",
                 "equipo": "Milan",
                 "puntos": "60",
@@ -3828,19 +3841,6 @@
                 "gf": 44,
                 "gc": 21,
                 "dg": 23
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/726.png",
-                "equipo": "Napoli",
-                "puntos": "59",
-                "pj": "29",
-                "pg": "18",
-                "pe": "5",
-                "pp": "6",
-                "gf": 45,
-                "gc": 30,
-                "dg": 15
             },
             {
                 "posicion": "4",
@@ -3922,6 +3922,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/64.png",
+                "equipo": "Udinese",
+                "puntos": "39",
+                "pj": "30",
+                "pg": "11",
+                "pe": "6",
+                "pp": "13",
+                "gf": 35,
+                "gc": 42,
+                "dg": -7
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
                 "equipo": "Sassuolo",
                 "puntos": "38",
@@ -3932,19 +3945,6 @@
                 "gf": 35,
                 "gc": 39,
                 "dg": -4
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/64.png",
-                "equipo": "Udinese",
-                "puntos": "36",
-                "pj": "29",
-                "pg": "10",
-                "pe": "6",
-                "pp": "13",
-                "gf": 33,
-                "gc": 42,
-                "dg": -9
             },
             {
                 "posicion": "12",
@@ -3961,19 +3961,6 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/725.png",
-                "equipo": "Genoa",
-                "puntos": "33",
-                "pj": "29",
-                "pg": "8",
-                "pe": "9",
-                "pp": "12",
-                "gf": 36,
-                "gc": 40,
-                "dg": -4
-            },
-            {
-                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/536.png",
                 "equipo": "Torino",
                 "puntos": "33",
@@ -3986,17 +3973,30 @@
                 "dg": -18
             },
             {
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/725.png",
+                "equipo": "Genoa",
+                "puntos": "33",
+                "pj": "30",
+                "pg": "8",
+                "pe": "9",
+                "pp": "13",
+                "gf": 36,
+                "gc": 42,
+                "dg": -6
+            },
+            {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/49.png",
                 "equipo": "Cagliari",
                 "puntos": "30",
-                "pj": "29",
+                "pj": "30",
                 "pg": "7",
                 "pe": "9",
-                "pp": "13",
+                "pp": "14",
                 "gf": 31,
-                "gc": 41,
-                "dg": -10
+                "gc": 42,
+                "dg": -11
             },
             {
                 "posicion": "16",
@@ -4084,6 +4084,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Keinan Davis",
+                "equipo": "Udinese",
+                "escudo": "https://statics-files.tycsports.com/escudos/64.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Nicolás Paz",
                 "equipo": "Como 1907",
                 "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
@@ -4099,12 +4105,6 @@
                 "nombre": "Rafael Leão",
                 "equipo": "Milan",
                 "escudo": "https://statics-files.tycsports.com/escudos/57.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Keinan Davis",
-                "equipo": "Udinese",
-                "escudo": "https://statics-files.tycsports.com/escudos/64.png",
                 "goles": 9
             },
             {

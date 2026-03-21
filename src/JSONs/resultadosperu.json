@@ -633,22 +633,22 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "20/03/2026 17:30 HS",
+                "fecha": "20/03/2026 17:30 HS Finalizado",
                 "local": "ADT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10029.png",
                 "visitante": "MEL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/203.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "20/03/2026 21:30 HS",
+                "fecha": "20/03/2026 21:30 HS Finalizado",
                 "local": "CIE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
                 "visitante": "FCC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12382.png"
             },
             {
@@ -3151,6 +3151,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
+                "equipo": "Cienciano",
+                "puntos": "16",
+                "pj": "8",
+                "pg": "5",
+                "pe": "1",
+                "pp": "2",
+                "gf": 19,
+                "gc": 10,
+                "dg": 9
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/121.png",
                 "equipo": "Universitario",
                 "puntos": "14",
@@ -3161,19 +3174,6 @@
                 "gf": 11,
                 "gc": 7,
                 "dg": 4
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "equipo": "Cienciano",
-                "puntos": "13",
-                "pj": "7",
-                "pg": "4",
-                "pe": "1",
-                "pp": "2",
-                "gf": 16,
-                "gc": 10,
-                "dg": 6
             },
             {
                 "posicion": "5",
@@ -3205,13 +3205,13 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "equipo": "Melgar",
-                "puntos": "10",
-                "pj": "7",
+                "puntos": "11",
+                "pj": "8",
                 "pg": "3",
-                "pe": "1",
+                "pe": "2",
                 "pp": "3",
-                "gf": 11,
-                "gc": 9,
+                "gf": 12,
+                "gc": 10,
                 "dg": 2
             },
             {
@@ -3257,13 +3257,13 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
                 "equipo": "ADT de Tarma",
-                "puntos": "8",
-                "pj": "7",
+                "puntos": "9",
+                "pj": "8",
                 "pg": "2",
-                "pe": "2",
+                "pe": "3",
                 "pp": "3",
-                "gf": 6,
-                "gc": 8,
+                "gf": 7,
+                "gc": 9,
                 "dg": -2
             },
             {
@@ -3320,19 +3320,6 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
-                "equipo": "FC Cajamarca",
-                "puntos": "5",
-                "pj": "7",
-                "pg": "1",
-                "pe": "2",
-                "pp": "4",
-                "gf": 10,
-                "gc": 13,
-                "dg": -3
-            },
-            {
-                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
                 "equipo": "Grau",
                 "puntos": "5",
@@ -3343,6 +3330,19 @@
                 "gf": 3,
                 "gc": 8,
                 "dg": -5
+            },
+            {
+                "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
+                "equipo": "FC Cajamarca",
+                "puntos": "5",
+                "pj": "8",
+                "pg": "1",
+                "pe": "2",
+                "pp": "5",
+                "gf": 10,
+                "gc": 16,
+                "dg": -6
             },
             {
                 "posicion": "18",
@@ -3360,10 +3360,22 @@
         ],
         "goleadores": [
             {
+                "nombre": "Carlos Garcés",
+                "equipo": "Cienciano",
+                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Hernán Barcos",
                 "equipo": "FC Cajamarca",
                 "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
                 "goles": 7
+            },
+            {
+                "nombre": "Alejandro Hohberg",
+                "equipo": "Cienciano",
+                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
+                "goles": 5
             },
             {
                 "nombre": "Franco Torres",
@@ -3384,28 +3396,16 @@
                 "goles": 4
             },
             {
-                "nombre": "Carlos Garcés",
-                "equipo": "Cienciano",
-                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Renzo Garcés",
                 "equipo": "Alianza Lima",
                 "escudo": "https://statics-files.tycsports.com/escudos/84.png",
                 "goles": 4
             },
             {
-                "nombre": "Alejandro Hohberg",
-                "equipo": "Cienciano",
-                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Neri Bandiera",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 3
+                "goles": 4
             },
             {
                 "nombre": "Bernardo Cuesta",

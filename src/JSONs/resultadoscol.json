@@ -1193,12 +1193,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "20/03/2026 18:00 HS",
+                "fecha": "20/03/2026 18:00 HS Finalizado",
                 "local": "AGU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/922.png",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/66.png"
             },
             {
@@ -1703,7 +1703,7 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "05/04/2026 21:30 HS",
+                "fecha": "23/04/2026 22:00 HS",
                 "local": "MIL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/184.png",
@@ -2097,6 +2097,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
+                "equipo": "América de Cali",
+                "puntos": "20",
+                "pj": "11",
+                "pg": "6",
+                "pe": "2",
+                "pp": "3",
+                "gf": 16,
+                "gc": 8,
+                "dg": 8
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png",
                 "equipo": "Bucaramanga",
                 "puntos": "19",
@@ -2109,7 +2122,7 @@
                 "dg": 10
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/179.png",
                 "equipo": "Tolima",
                 "puntos": "19",
@@ -2122,7 +2135,7 @@
                 "dg": 6
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png",
                 "equipo": "Junior",
                 "puntos": "19",
@@ -2133,19 +2146,6 @@
                 "gf": 17,
                 "gc": 18,
                 "dg": -1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
-                "equipo": "América de Cali",
-                "puntos": "17",
-                "pj": "10",
-                "pg": "5",
-                "pe": "2",
-                "pp": "3",
-                "gf": 15,
-                "gc": 8,
-                "dg": 7
             },
             {
                 "posicion": "9",
@@ -2191,13 +2191,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png",
                 "equipo": "Águilas Doradas",
                 "puntos": "15",
-                "pj": "10",
+                "pj": "11",
                 "pg": "4",
                 "pe": "3",
-                "pp": "3",
+                "pp": "4",
                 "gf": 11,
-                "gc": 10,
-                "dg": 1
+                "gc": 11,
+                "dg": 0
             },
             {
                 "posicion": "13",
