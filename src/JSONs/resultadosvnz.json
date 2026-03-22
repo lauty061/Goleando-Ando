@@ -563,12 +563,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "21/03/2026 19:00 HS",
+                "fecha": "21/03/2026 19:00 HS Finalizado",
                 "local": "UCV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1283.png",
                 "visitante": "DLG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png"
             },
             {
@@ -1168,26 +1168,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "equipo": "UCV",
                 "puntos": "19",
-                "pj": "8",
+                "pj": "9",
                 "pg": "6",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 18,
-                "gc": 9,
-                "dg": 9
+                "gc": 10,
+                "dg": 8
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "equipo": "Dep. La Guaira",
-                "puntos": "16",
-                "pj": "8",
-                "pg": "4",
+                "puntos": "19",
+                "pj": "9",
+                "pg": "5",
                 "pe": "4",
                 "pp": "0",
-                "gf": 9,
+                "gf": 10,
                 "gc": 3,
-                "dg": 6
+                "dg": 7
             },
             {
                 "posicion": "3",
@@ -1360,6 +1360,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Flabián Londoño",
+                "equipo": "Dep. La Guaira",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Juan Manuel Cuesta",
                 "equipo": "UCV",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
@@ -1370,12 +1376,6 @@
                 "equipo": "Metropolitanos",
                 "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Flabián Londoño",
-                "equipo": "Dep. La Guaira",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
-                "goles": 3
             },
             {
                 "nombre": "Ronald Rodríguez",

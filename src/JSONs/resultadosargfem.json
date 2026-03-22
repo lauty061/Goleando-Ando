@@ -123,23 +123,23 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "21/03/2026 11:00 HS",
-                "local": "LAN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/8138.png",
-                "visitante": "NOB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11275.png"
+                "fecha": "21/03/2026 11:00 HS Finalizado",
+                "local": "UNI",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/12384.png",
+                "visitante": "BAN",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/10938.png"
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "21/03/2026 11:00 HS",
-                "local": "UNI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/12384.png",
-                "visitante": "BAN",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/10938.png"
+                "fecha": "21/03/2026 15:30 HS Finalizado",
+                "local": "LAN",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/8138.png",
+                "visitante": "NOB",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11275.png"
             },
             {
                 "fecha_torneo": "Fecha 2",
@@ -1231,6 +1231,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
+                "equipo": "Banfield",
+                "puntos": "6",
+                "pj": "2",
+                "pg": "2",
+                "pe": "0",
+                "pp": "0",
+                "gf": 3,
+                "gc": 1,
+                "dg": 2
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "4",
@@ -1243,7 +1256,20 @@
                 "dg": 1
             },
             {
-                "posicion": "4",
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
+                "equipo": "Newell`s",
+                "puntos": "4",
+                "pj": "2",
+                "pg": "1",
+                "pe": "1",
+                "pp": "0",
+                "gf": 1,
+                "gc": 0,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "equipo": "Gimnasia",
                 "puntos": "3",
@@ -1256,20 +1282,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
-                "equipo": "Banfield",
-                "puntos": "3",
-                "pj": "1",
-                "pg": "1",
-                "pe": "0",
-                "pp": "0",
-                "gf": 2,
-                "gc": 1,
-                "dg": 1
-            },
-            {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
                 "equipo": "SATSAID",
                 "puntos": "3",
@@ -1282,7 +1295,7 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "3",
@@ -1292,19 +1305,6 @@
                 "pp": "1",
                 "gf": 1,
                 "gc": 1,
-                "dg": 0
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
-                "equipo": "Newell`s",
-                "puntos": "1",
-                "pj": "1",
-                "pg": "0",
-                "pe": "1",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
                 "dg": 0
             },
             {
@@ -1364,13 +1364,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
                 "equipo": "Unión",
                 "puntos": "0",
-                "pj": "1",
+                "pj": "2",
                 "pg": "0",
                 "pe": "0",
-                "pp": "1",
+                "pp": "2",
                 "gf": 3,
-                "gc": 4,
-                "dg": -1
+                "gc": 5,
+                "dg": -2
             },
             {
                 "posicion": "14",
@@ -1403,13 +1403,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
                 "equipo": "Lanús",
                 "puntos": "0",
-                "pj": "1",
+                "pj": "2",
                 "pg": "0",
                 "pe": "0",
-                "pp": "1",
+                "pp": "2",
                 "gf": 0,
-                "gc": 6,
-                "dg": -6
+                "gc": 7,
+                "dg": -7
             }
         ],
         "goleadores": [
@@ -1468,15 +1468,15 @@
                 "goles": 1
             },
             {
-                "nombre": "Marilyn Coronel",
-                "equipo": "Unión de Santa Fe",
-                "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
-                "goles": 1
-            },
-            {
                 "nombre": "Abril Coronel",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Marilyn Coronel",
+                "equipo": "Unión de Santa Fe",
+                "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
                 "goles": 1
             }
         ]
