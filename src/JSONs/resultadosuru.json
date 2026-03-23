@@ -543,22 +543,22 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "22/03/2026 10:00 HS",
+                "fecha": "22/03/2026 10:00 HS Finalizado",
                 "local": "JUV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/771.png",
                 "visitante": "ALB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7557.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "22/03/2026 16:00 HS",
+                "fecha": "22/03/2026 16:00 HS Finalizado",
                 "local": "PRO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/510.png",
                 "visitante": "BOR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/957.png"
             },
             {
@@ -1350,52 +1350,52 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "equipo": "Albion",
-                "puntos": "5",
-                "pj": "6",
-                "pg": "1",
+                "puntos": "8",
+                "pj": "7",
+                "pg": "2",
                 "pe": "2",
                 "pp": "3",
-                "gf": 7,
+                "gf": 8,
                 "gc": 8,
-                "dg": -1
+                "dg": 0
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/510.png",
-                "equipo": "Progreso",
+                "escudo": "https://statics-files.tycsports.com/escudos/957.png",
+                "equipo": "Boston River",
                 "puntos": "5",
-                "pj": "6",
+                "pj": "7",
                 "pg": "1",
                 "pe": "2",
-                "pp": "3",
-                "gf": 5,
-                "gc": 10,
-                "dg": -5
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
-                "equipo": "Juventud",
-                "puntos": "4",
-                "pj": "6",
-                "pg": "1",
-                "pe": "1",
                 "pp": "4",
-                "gf": 7,
-                "gc": 11,
+                "gf": 3,
+                "gc": 7,
                 "dg": -4
             },
             {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/957.png",
-                "equipo": "Boston River",
-                "puntos": "2",
-                "pj": "6",
-                "pg": "0",
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/510.png",
+                "equipo": "Progreso",
+                "puntos": "5",
+                "pj": "7",
+                "pg": "1",
                 "pe": "2",
                 "pp": "4",
-                "gf": 2,
-                "gc": 7,
+                "gf": 5,
+                "gc": 11,
+                "dg": -6
+            },
+            {
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "equipo": "Juventud",
+                "puntos": "4",
+                "pj": "7",
+                "pg": "1",
+                "pe": "1",
+                "pp": "5",
+                "gf": 7,
+                "gc": 12,
                 "dg": -5
             },
             {
@@ -1418,6 +1418,12 @@
                 "equipo": "Peñarol",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "goles": 5
+            },
+            {
+                "nombre": "Álvaro López",
+                "equipo": "Albion",
+                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
+                "goles": 4
             },
             {
                 "nombre": "Salomón Rodríguez",
@@ -1447,12 +1453,6 @@
                 "nombre": "Brian Montenegro",
                 "equipo": "Defensor Sporting",
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Álvaro López",
-                "equipo": "Albion",
-                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "goles": 3
             },
             {

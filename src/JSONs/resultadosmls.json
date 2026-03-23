@@ -703,52 +703,52 @@
             },
             {
                 "fecha_torneo": "Semana 5",
-                "fecha": "22/03/2026 14:00 HS",
+                "fecha": "22/03/2026 14:00 HS Finalizado",
                 "local": "NYC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5469.png",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8165.png"
             },
             {
                 "fecha_torneo": "Semana 5",
-                "fecha": "22/03/2026 14:00 HS",
+                "fecha": "22/03/2026 14:00 HS Finalizado",
                 "local": "CIN",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7819.png",
                 "visitante": "MTL",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1298.png"
             },
             {
                 "fecha_torneo": "Semana 5",
-                "fecha": "22/03/2026 15:30 HS",
+                "fecha": "22/03/2026 15:30 HS Finalizado",
                 "local": "MIN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5036.png",
                 "visitante": "SEA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2115.png"
             },
             {
                 "fecha_torneo": "Semana 5",
-                "fecha": "22/03/2026 17:45 HS",
+                "fecha": "22/03/2026 17:45 HS Finalizado",
                 "local": "POR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2127.png",
                 "visitante": "LAG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2112.png"
             },
             {
                 "fecha_torneo": "Semana 5",
-                "fecha": "22/03/2026 20:00 HS",
+                "fecha": "22/03/2026 20:00 HS Finalizado",
                 "local": "SDI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11968.png",
                 "visitante": "RSL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2113.png"
             },
             {
@@ -5373,17 +5373,31 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/5469.png",
                 "equipo": "New York City FC",
                 "puntos": "10",
-                "pj": "4",
+                "pj": "5",
                 "pg": "3",
                 "pe": "1",
-                "pp": "0",
-                "gf": 11,
-                "gc": 3,
-                "dg": 8
+                "pp": "1",
+                "gf": 13,
+                "gc": 6,
+                "dg": 7
             },
             {
                 "zona": "Grupo Este",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
+                "equipo": "Inter Miami",
+                "puntos": "10",
+                "pj": "5",
+                "pg": "3",
+                "pe": "1",
+                "pp": "1",
+                "gf": 9,
+                "gc": 8,
+                "dg": 1
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/10713.png",
                 "equipo": "Charlotte FC",
                 "puntos": "8",
@@ -5397,7 +5411,7 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1688.png",
                 "equipo": "Chicago Fire",
                 "puntos": "7",
@@ -5408,20 +5422,6 @@
                 "gf": 7,
                 "gc": 5,
                 "dg": 2
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
-                "equipo": "Inter Miami",
-                "puntos": "7",
-                "pj": "4",
-                "pg": "2",
-                "pe": "1",
-                "pp": "1",
-                "gf": 6,
-                "gc": 6,
-                "dg": 0
             },
             {
                 "zona": "Grupo Este",
@@ -5468,6 +5468,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/7819.png",
+                "equipo": "FC Cincinnati",
+                "puntos": "6",
+                "pj": "5",
+                "pg": "2",
+                "pe": "0",
+                "pp": "3",
+                "gf": 7,
+                "gc": 11,
+                "dg": -4
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/6751.png",
                 "equipo": "Atlanta United",
                 "puntos": "4",
@@ -5481,7 +5495,7 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1300.png",
                 "equipo": "NE Revolution",
                 "puntos": "3",
@@ -5495,31 +5509,17 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/7819.png",
-                "equipo": "FC Cincinnati",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 3,
-                "gc": 8,
-                "dg": -5
-            },
-            {
-                "zona": "Grupo Este",
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/1298.png",
                 "equipo": "CF Montréal",
                 "puntos": "3",
-                "pj": "4",
+                "pj": "5",
                 "pg": "1",
                 "pe": "0",
-                "pp": "3",
-                "gf": 4,
-                "gc": 10,
-                "dg": -6
+                "pp": "4",
+                "gf": 7,
+                "gc": 14,
+                "dg": -7
             },
             {
                 "zona": "Grupo Este",
@@ -5610,18 +5610,46 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/11968.png",
                 "equipo": "San Diego FC",
-                "puntos": "10",
-                "pj": "4",
+                "puntos": "11",
+                "pj": "5",
                 "pg": "3",
-                "pe": "1",
+                "pe": "2",
                 "pp": "0",
-                "gf": 11,
-                "gc": 3,
+                "gf": 13,
+                "gc": 5,
                 "dg": 8
             },
             {
                 "zona": "Grupo Oeste",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/2115.png",
+                "equipo": "Seattle Sounders",
+                "puntos": "10",
+                "pj": "5",
+                "pg": "3",
+                "pe": "1",
+                "pp": "1",
+                "gf": 5,
+                "gc": 2,
+                "dg": 3
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/2113.png",
+                "equipo": "Real Salt Lake",
+                "puntos": "10",
+                "pj": "5",
+                "pg": "3",
+                "pe": "1",
+                "pp": "1",
+                "gf": 9,
+                "gc": 7,
+                "dg": 2
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/2110.png",
                 "equipo": "Colorado Rapids",
                 "puntos": "9",
@@ -5632,34 +5660,6 @@
                 "gf": 11,
                 "gc": 7,
                 "dg": 4
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/2115.png",
-                "equipo": "Seattle Sounders",
-                "puntos": "9",
-                "pj": "4",
-                "pg": "3",
-                "pe": "0",
-                "pp": "1",
-                "gf": 5,
-                "gc": 2,
-                "dg": 3
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/2113.png",
-                "equipo": "Real Salt Lake",
-                "puntos": "9",
-                "pj": "4",
-                "pg": "3",
-                "pe": "0",
-                "pp": "1",
-                "gf": 7,
-                "gc": 5,
-                "dg": 2
             },
             {
                 "zona": "Grupo Oeste",
@@ -5692,6 +5692,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/2112.png",
+                "equipo": "LA Galaxy",
+                "puntos": "5",
+                "pj": "5",
+                "pg": "1",
+                "pe": "2",
+                "pp": "2",
+                "gf": 7,
+                "gc": 8,
+                "dg": -1
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/10530.png",
                 "equipo": "Austin FC",
                 "puntos": "5",
@@ -5705,21 +5719,21 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/2112.png",
-                "equipo": "LA Galaxy",
-                "puntos": "4",
-                "pj": "4",
+                "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/5036.png",
+                "equipo": "Minnesota United",
+                "puntos": "5",
+                "pj": "5",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 6,
-                "gc": 7,
-                "dg": -1
+                "gf": 4,
+                "gc": 11,
+                "dg": -7
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/10774.png",
                 "equipo": "St. Louis City",
                 "puntos": "4",
@@ -5733,7 +5747,21 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "13",
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/2127.png",
+                "equipo": "Portland Timbers",
+                "puntos": "4",
+                "pj": "5",
+                "pg": "1",
+                "pe": "1",
+                "pp": "3",
+                "gf": 7,
+                "gc": 12,
+                "dg": -5
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/3203.png",
                 "equipo": "Sporting KC",
                 "puntos": "4",
@@ -5744,43 +5772,9 @@
                 "gf": 5,
                 "gc": 11,
                 "dg": -6
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/5036.png",
-                "equipo": "Minnesota United",
-                "puntos": "4",
-                "pj": "4",
-                "pg": "1",
-                "pe": "1",
-                "pp": "2",
-                "gf": 4,
-                "gc": 11,
-                "dg": -7
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/2127.png",
-                "equipo": "Portland Timbers",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 6,
-                "gc": 11,
-                "dg": -5
             }
         ],
         "goleadores": [
-            {
-                "nombre": "Petar Musa",
-                "equipo": "FC Dallas",
-                "escudo": "https://statics-files.tycsports.com/escudos/2111.png",
-                "goles": 7
-            },
             {
                 "nombre": "Sam Surridge",
                 "equipo": "Nashville SC",
@@ -5788,10 +5782,34 @@
                 "goles": 7
             },
             {
+                "nombre": "Petar Musa",
+                "equipo": "FC Dallas",
+                "escudo": "https://statics-files.tycsports.com/escudos/2111.png",
+                "goles": 6
+            },
+            {
+                "nombre": "João Klauss",
+                "equipo": "LA Galaxy",
+                "escudo": "https://statics-files.tycsports.com/escudos/2112.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Nicolás Fernández Mercau",
+                "equipo": "New York City FC",
+                "escudo": "https://statics-files.tycsports.com/escudos/5469.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Brian White",
                 "equipo": "Vancouver Whitecaps FC",
                 "escudo": "https://statics-files.tycsports.com/escudos/3204.png",
                 "goles": 5
+            },
+            {
+                "nombre": "Lionel Messi",
+                "equipo": "Inter Miami",
+                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
+                "goles": 4
             },
             {
                 "nombre": "Pep Biel",
@@ -5806,21 +5824,15 @@
                 "goles": 4
             },
             {
-                "nombre": "João Klauss",
-                "equipo": "LA Galaxy",
-                "escudo": "https://statics-files.tycsports.com/escudos/2112.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Vieira dos Santos, G.",
                 "equipo": "Houston",
                 "escudo": "https://statics-files.tycsports.com/escudos/1297.png",
                 "goles": 4
             },
             {
-                "nombre": "Nicolás Fernández Mercau",
-                "equipo": "New York City FC",
-                "escudo": "https://statics-files.tycsports.com/escudos/5469.png",
+                "nombre": "Marcus Ingvartsen",
+                "equipo": "San Diego FC",
+                "escudo": "https://statics-files.tycsports.com/escudos/11968.png",
                 "goles": 4
             },
             {
@@ -5828,18 +5840,6 @@
                 "equipo": "Chicago Fire",
                 "escudo": "https://statics-files.tycsports.com/escudos/1688.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Lionel Messi",
-                "equipo": "Inter Miami",
-                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Wessam Abou Ali",
-                "equipo": "Columbus Crew",
-                "escudo": "https://statics-files.tycsports.com/escudos/1772.png",
-                "goles": 3
             }
         ]
     }

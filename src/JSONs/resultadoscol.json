@@ -1223,12 +1223,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "22/03/2026 18:00 HS",
+                "fecha": "22/03/2026 18:00 HS Finalizado",
                 "local": "AFC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/921.png",
                 "visitante": "CAL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/111.png"
             },
             {
@@ -2165,13 +2165,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png",
                 "equipo": "Deportivo Cali",
                 "puntos": "16",
-                "pj": "12",
+                "pj": "13",
                 "pg": "4",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 14,
-                "gc": 11,
-                "dg": 3
+                "gc": 12,
+                "dg": 2
             },
             {
                 "posicion": "11",
@@ -2240,6 +2240,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/921.png",
+                "equipo": "Alianza FC",
+                "puntos": "11",
+                "pj": "12",
+                "pg": "2",
+                "pe": "5",
+                "pp": "5",
+                "gf": 7,
+                "gc": 19,
+                "dg": -12
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/1655.png",
                 "equipo": "Jaguares",
                 "puntos": "10",
@@ -2250,19 +2263,6 @@
                 "gf": 10,
                 "gc": 22,
                 "dg": -12
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/921.png",
-                "equipo": "Alianza FC",
-                "puntos": "8",
-                "pj": "11",
-                "pg": "1",
-                "pe": "5",
-                "pp": "5",
-                "gf": 6,
-                "gc": 19,
-                "dg": -13
             },
             {
                 "posicion": "18",

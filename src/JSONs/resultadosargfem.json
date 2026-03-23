@@ -143,12 +143,12 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "22/03/2026 15:00 HS",
+                "fecha": "22/03/2026 15:00 HS Finalizado",
                 "local": "SLU",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11274.png",
                 "visitante": "CGE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8137.png"
             },
             {
@@ -1244,6 +1244,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "equipo": "Gimnasia",
+                "puntos": "4",
+                "pj": "2",
+                "pg": "1",
+                "pe": "1",
+                "pp": "0",
+                "gf": 6,
+                "gc": 5,
+                "dg": 1
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "4",
@@ -1256,7 +1269,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
                 "equipo": "Newell`s",
                 "puntos": "4",
@@ -1266,19 +1279,6 @@
                 "pp": "0",
                 "gf": 1,
                 "gc": 0,
-                "dg": 1
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
-                "equipo": "Gimnasia",
-                "puntos": "3",
-                "pj": "1",
-                "pg": "1",
-                "pe": "0",
-                "pp": "0",
-                "gf": 4,
-                "gc": 3,
                 "dg": 1
             },
             {
@@ -1311,13 +1311,13 @@
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "equipo": "San Luis FC",
-                "puntos": "1",
-                "pj": "1",
+                "puntos": "2",
+                "pj": "2",
                 "pg": "0",
-                "pe": "1",
+                "pe": "2",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 2,
+                "gc": 2,
                 "dg": 0
             },
             {
@@ -1432,9 +1432,21 @@
                 "goles": 2
             },
             {
+                "nombre": "Florencia Gaetán",
+                "equipo": "Gimnasia",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Luciana Pérez",
                 "equipo": "Racing",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
+                "goles": 2
+            },
+            {
+                "nombre": "Lali Esquivel",
+                "equipo": "Gimnasia",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "goles": 2
             },
             {
@@ -1462,21 +1474,9 @@
                 "goles": 1
             },
             {
-                "nombre": "Florencia Coronel",
-                "equipo": "San Lorenzo",
-                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Abril Coronel",
-                "equipo": "Gimnasia",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Marilyn Coronel",
-                "equipo": "Unión de Santa Fe",
-                "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
+                "nombre": "Florencia Cordes",
+                "equipo": "San Luis FC",
+                "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "goles": 1
             }
         ]

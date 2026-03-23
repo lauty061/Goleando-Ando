@@ -693,32 +693,32 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "22/03/2026 15:00 HS",
+                "fecha": "22/03/2026 15:00 HS Finalizado",
                 "local": "UTC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
                 "visitante": "AAT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "22/03/2026 17:30 HS",
+                "fecha": "22/03/2026 17:30 HS Finalizado",
                 "local": "GRA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png",
                 "visitante": "DEG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10929.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "22/03/2026 20:00 HS",
+                "fecha": "22/03/2026 20:00 HS Finalizado",
                 "local": "SPB",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/205.png",
                 "visitante": "DSH",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1659.png"
             },
             {
@@ -3179,13 +3179,13 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
                 "equipo": "UTC",
-                "puntos": "13",
-                "pj": "7",
+                "puntos": "14",
+                "pj": "8",
                 "pg": "4",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 10,
-                "gc": 8,
+                "gf": 11,
+                "gc": 9,
                 "dg": 2
             },
             {
@@ -3229,6 +3229,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/103.png",
+                "equipo": "Alianza Atlético",
+                "puntos": "10",
+                "pj": "8",
+                "pg": "2",
+                "pe": "4",
+                "pp": "2",
+                "gf": 7,
+                "gc": 6,
+                "dg": 1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
                 "equipo": "Cusco FC",
                 "puntos": "10",
@@ -3241,7 +3254,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
                 "equipo": "Juan Pablo II",
                 "puntos": "10",
@@ -3252,19 +3265,6 @@
                 "gf": 13,
                 "gc": 20,
                 "dg": -7
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/103.png",
-                "equipo": "Alianza Atlético",
-                "puntos": "9",
-                "pj": "7",
-                "pg": "2",
-                "pe": "3",
-                "pp": "2",
-                "gf": 6,
-                "gc": 5,
-                "dg": 1
             },
             {
                 "posicion": "12",
@@ -3281,19 +3281,45 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
-                "equipo": "Sport Huancayo",
-                "puntos": "7",
-                "pj": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/205.png",
+                "equipo": "Sport Boys",
+                "puntos": "8",
+                "pj": "8",
                 "pg": "2",
-                "pe": "1",
+                "pe": "2",
                 "pp": "4",
-                "gf": 8,
+                "gf": 6,
                 "gc": 9,
-                "dg": -1
+                "dg": -3
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
+                "equipo": "Deportivo Garcilaso",
+                "puntos": "7",
+                "pj": "8",
+                "pg": "1",
+                "pe": "4",
+                "pp": "3",
+                "gf": 6,
+                "gc": 8,
+                "dg": -2
+            },
+            {
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
+                "equipo": "Sport Huancayo",
+                "puntos": "7",
+                "pj": "8",
+                "pg": "2",
+                "pe": "1",
+                "pp": "5",
+                "gf": 8,
+                "gc": 12,
+                "dg": -4
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
                 "equipo": "Moquegua",
                 "puntos": "7",
@@ -3306,33 +3332,20 @@
                 "dg": -8
             },
             {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
-                "equipo": "Deportivo Garcilaso",
-                "puntos": "6",
-                "pj": "7",
-                "pg": "1",
-                "pe": "3",
-                "pp": "3",
-                "gf": 6,
-                "gc": 8,
-                "dg": -2
-            },
-            {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
                 "equipo": "Grau",
-                "puntos": "5",
-                "pj": "7",
+                "puntos": "6",
+                "pj": "8",
                 "pg": "1",
-                "pe": "2",
+                "pe": "3",
                 "pp": "4",
                 "gf": 3,
                 "gc": 8,
                 "dg": -5
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
                 "equipo": "FC Cajamarca",
                 "puntos": "5",
@@ -3342,19 +3355,6 @@
                 "pp": "5",
                 "gf": 10,
                 "gc": 16,
-                "dg": -6
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/205.png",
-                "equipo": "Sport Boys",
-                "puntos": "5",
-                "pj": "7",
-                "pg": "1",
-                "pe": "2",
-                "pp": "4",
-                "gf": 3,
-                "gc": 9,
                 "dg": -6
             }
         ],

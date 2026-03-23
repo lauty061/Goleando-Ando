@@ -573,32 +573,32 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "22/03/2026 17:30 HS",
+                "fecha": "22/03/2026 17:30 HS Finalizado",
                 "local": "TRU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/119.png",
                 "visitante": "ZAM",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/495.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "22/03/2026 18:30 HS",
+                "fecha": "22/03/2026 18:30 HS Finalizado",
                 "local": "TAC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "EST",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/224.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "22/03/2026 20:30 HS",
+                "fecha": "22/03/2026 20:30 HS Finalizado",
                 "local": "MON",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/226.png",
                 "visitante": "CAR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/85.png"
             },
             {
@@ -1191,6 +1191,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "equipo": "Táchira",
+                "puntos": "17",
+                "pj": "9",
+                "pg": "5",
+                "pe": "2",
+                "pp": "2",
+                "gf": 10,
+                "gc": 6,
+                "dg": 4
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
                 "equipo": "Metropolitanos",
                 "puntos": "15",
@@ -1200,19 +1213,6 @@
                 "pp": "1",
                 "gf": 12,
                 "gc": 9,
-                "dg": 3
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
-                "equipo": "Táchira",
-                "puntos": "14",
-                "pj": "8",
-                "pg": "4",
-                "pe": "2",
-                "pp": "2",
-                "gf": 9,
-                "gc": 6,
                 "dg": 3
             },
             {
@@ -1259,16 +1259,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png",
                 "equipo": "Estudiantes",
                 "puntos": "11",
-                "pj": "8",
+                "pj": "9",
                 "pg": "3",
                 "pe": "2",
-                "pp": "3",
+                "pp": "4",
                 "gf": 14,
-                "gc": 12,
-                "dg": 2
+                "gc": 13,
+                "dg": 1
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/495.png",
+                "equipo": "Zamora",
+                "puntos": "11",
+                "pj": "9",
+                "pg": "3",
+                "pe": "2",
+                "pp": "4",
+                "gf": 10,
+                "gc": 11,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "equipo": "Rayo Zuliano",
                 "puntos": "10",
@@ -1281,42 +1294,29 @@
                 "dg": -7
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/495.png",
-                "equipo": "Zamora",
-                "puntos": "8",
-                "pj": "8",
-                "pg": "2",
-                "pe": "2",
-                "pp": "4",
-                "gf": 7,
-                "gc": 11,
-                "dg": -4
-            },
-            {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/85.png",
                 "equipo": "Caracas",
-                "puntos": "7",
-                "pj": "8",
+                "puntos": "8",
+                "pj": "9",
                 "pg": "1",
-                "pe": "4",
+                "pe": "5",
                 "pp": "3",
-                "gf": 9,
-                "gc": 11,
+                "gf": 10,
+                "gc": 12,
                 "dg": -2
             },
             {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/226.png",
                 "equipo": "Monagas",
-                "puntos": "6",
-                "pj": "8",
+                "puntos": "7",
+                "pj": "9",
                 "pg": "2",
-                "pe": "0",
+                "pe": "1",
                 "pp": "6",
-                "gf": 6,
-                "gc": 15,
+                "gf": 7,
+                "gc": 16,
                 "dg": -9
             },
             {
@@ -1337,13 +1337,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png",
                 "equipo": "Trujillanos",
                 "puntos": "4",
-                "pj": "8",
+                "pj": "9",
                 "pg": "0",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 7,
-                "gc": 14,
-                "dg": -7
+                "gc": 17,
+                "dg": -10
             }
         ],
         "goleadores": [
