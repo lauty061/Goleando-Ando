@@ -1773,22 +1773,22 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "23/03/2026 19:00 HS",
+                "fecha": "23/03/2026 19:00 HS Finalizado",
                 "local": "EST",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7.png",
                 "visitante": "CCO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1485.png"
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "23/03/2026 21:15 HS",
+                "fecha": "23/03/2026 21:15 HS Finalizado",
                 "local": "HUR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/100.png",
                 "visitante": "BAR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/685.png"
             },
             {
@@ -2570,6 +2570,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/7.png",
+                "equipo": "Estudiantes",
+                "puntos": "21",
+                "pj": "11",
+                "pg": "6",
+                "pe": "3",
+                "pp": "2",
+                "gf": 14,
+                "gc": 5,
+                "dg": 9
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/129.png",
                 "equipo": "Defensa",
                 "puntos": "19",
@@ -2583,7 +2597,7 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/12.png",
                 "equipo": "Lanús",
                 "puntos": "18",
@@ -2593,20 +2607,6 @@
                 "pp": "2",
                 "gf": 16,
                 "gc": 12,
-                "dg": 4
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/7.png",
-                "equipo": "Estudiantes",
-                "puntos": "18",
-                "pj": "10",
-                "pg": "5",
-                "pe": "3",
-                "pp": "2",
-                "gf": 9,
-                "gc": 5,
                 "dg": 4
             },
             {
@@ -2699,13 +2699,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1485.png",
                 "equipo": "C.Córdoba (SE)",
                 "puntos": "12",
-                "pj": "10",
+                "pj": "11",
                 "pg": "3",
                 "pe": "3",
-                "pp": "4",
+                "pp": "5",
                 "gf": 5,
-                "gc": 7,
-                "dg": -2
+                "gc": 12,
+                "dg": -7
             },
             {
                 "zona": "Grupo A",
@@ -2852,10 +2852,10 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/685.png",
                 "equipo": "Barracas Central",
-                "puntos": "15",
-                "pj": "10",
+                "puntos": "16",
+                "pj": "11",
                 "pg": "4",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
                 "gf": 10,
                 "gc": 9,
@@ -2878,6 +2878,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/100.png",
+                "equipo": "Huracán",
+                "puntos": "14",
+                "pj": "11",
+                "pg": "3",
+                "pe": "5",
+                "pp": "3",
+                "gf": 9,
+                "gc": 9,
+                "dg": 0
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/8.png",
                 "equipo": "Gimnasia",
                 "puntos": "14",
@@ -2888,20 +2902,6 @@
                 "gf": 13,
                 "gc": 15,
                 "dg": -2
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/100.png",
-                "equipo": "Huracán",
-                "puntos": "13",
-                "pj": "10",
-                "pg": "3",
-                "pe": "4",
-                "pp": "3",
-                "gf": 9,
-                "gc": 9,
-                "dg": 0
             },
             {
                 "zona": "Grupo B",

@@ -703,22 +703,22 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "23/03/2026 18:30 HS",
+                "fecha": "23/03/2026 18:30 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png",
                 "visitante": "REC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png"
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "23/03/2026 20:30 HS",
+                "fecha": "23/03/2026 20:30 HS Finalizado",
                 "local": "RÑU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7948.png"
             },
             {
@@ -1377,32 +1377,45 @@
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
-                "equipo": "Rubio Ñu",
-                "puntos": "15",
-                "pj": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "equipo": "Sp. Ameliano",
+                "puntos": "17",
+                "pj": "12",
                 "pg": "4",
-                "pe": "3",
-                "pp": "4",
-                "gf": 9,
-                "gc": 10,
-                "dg": -1
+                "pe": "5",
+                "pp": "3",
+                "gf": 12,
+                "gc": 9,
+                "dg": 3
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "equipo": "Sp. Ameliano",
-                "puntos": "14",
-                "pj": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "equipo": "Trinidense",
+                "puntos": "15",
+                "pj": "12",
                 "pg": "3",
-                "pe": "5",
+                "pe": "6",
                 "pp": "3",
-                "gf": 10,
-                "gc": 8,
-                "dg": 2
+                "gf": 13,
+                "gc": 13,
+                "dg": 0
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
+                "equipo": "Rubio Ñu",
+                "puntos": "15",
+                "pj": "12",
+                "pg": "4",
+                "pe": "3",
+                "pp": "5",
+                "gf": 10,
+                "gc": 12,
+                "dg": -2
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png",
                 "equipo": "Guaraní",
                 "puntos": "13",
@@ -1415,56 +1428,43 @@
                 "dg": 2
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "equipo": "D. Recoleta",
                 "puntos": "13",
-                "pj": "11",
+                "pj": "12",
                 "pg": "3",
                 "pe": "4",
-                "pp": "4",
-                "gf": 13,
-                "gc": 14,
-                "dg": -1
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
-                "equipo": "Trinidense",
-                "puntos": "12",
-                "pj": "11",
-                "pg": "2",
-                "pe": "6",
-                "pp": "3",
-                "gf": 10,
-                "gc": 11,
-                "dg": -1
+                "pp": "5",
+                "gf": 15,
+                "gc": 17,
+                "dg": -2
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png",
-                "equipo": "Sportivo Luqueño",
-                "puntos": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
+                "equipo": "2 de Mayo",
+                "puntos": "12",
                 "pj": "11",
                 "pg": "3",
-                "pe": "2",
-                "pp": "6",
-                "gf": 10,
-                "gc": 14,
-                "dg": -4
+                "pe": "3",
+                "pp": "5",
+                "gf": 8,
+                "gc": 15,
+                "dg": -7
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
-                "equipo": "2 de Mayo",
-                "puntos": "9",
-                "pj": "10",
-                "pg": "2",
-                "pe": "3",
-                "pp": "5",
-                "gf": 6,
-                "gc": 15,
-                "dg": -9
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png",
+                "equipo": "Sportivo Luqueño",
+                "puntos": "11",
+                "pj": "12",
+                "pg": "3",
+                "pe": "2",
+                "pp": "7",
+                "gf": 10,
+                "gc": 16,
+                "dg": -6
             },
             {
                 "posicion": "12",
@@ -1494,21 +1494,33 @@
                 "goles": 5
             },
             {
+                "nombre": "Elvio Vera",
+                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Néstor Camacho",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "goles": 5
             },
             {
-                "nombre": "Cecilio Domínguez",
-                "equipo": "Cerro Porteño",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
+                "nombre": "Estiven Pérez",
+                "equipo": "Rubio Ñu",
+                "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "goles": 4
             },
             {
-                "nombre": "Elvio Vera",
-                "equipo": "Sp. Ameliano",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "nombre": "Allan Wlk",
+                "equipo": "Deportivo Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Cecilio Domínguez",
+                "equipo": "Cerro Porteño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "goles": 4
             },
             {
@@ -1533,18 +1545,6 @@
                 "nombre": "Juan Iturbe",
                 "equipo": "Cerro Porteño",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Estiven Pérez",
-                "equipo": "Rubio Ñu",
-                "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Derlis Rodríguez",
-                "equipo": "Guaraní",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
                 "goles": 3
             }
         ]

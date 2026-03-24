@@ -593,6 +593,16 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
+                "fecha": "22/03/2026 19:30 HS Finalizado",
+                "local": "POR",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/494.png",
+                "visitante": "ZUL",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/972.png"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
                 "fecha": "22/03/2026 20:30 HS Finalizado",
                 "local": "MON",
                 "goles_local": "1",
@@ -603,32 +613,22 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "23/03/2026 19:00 HS",
+                "fecha": "23/03/2026 19:00 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/223.png",
                 "visitante": "APC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5732.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "23/03/2026 19:30 HS",
-                "local": "POR",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/494.png",
-                "visitante": "ZUL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/972.png"
-            },
-            {
-                "fecha_torneo": "Fecha 9",
-                "fecha": "23/03/2026 20:30 HS",
+                "fecha": "23/03/2026 20:00 HS Finalizado",
                 "local": "MET",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3898.png",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11977.png"
             },
             {
@@ -1191,6 +1191,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
+                "equipo": "Metropolitanos",
+                "puntos": "18",
+                "pj": "9",
+                "pg": "5",
+                "pe": "3",
+                "pp": "1",
+                "gf": 14,
+                "gc": 9,
+                "dg": 5
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/79.png",
                 "equipo": "Táchira",
                 "puntos": "17",
@@ -1203,55 +1216,42 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
-                "equipo": "Metropolitanos",
-                "puntos": "15",
-                "pj": "8",
-                "pg": "4",
-                "pe": "3",
-                "pp": "1",
-                "gf": 12,
-                "gc": 9,
-                "dg": 3
-            },
-            {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
                 "equipo": "Puerto Cabello",
-                "puntos": "12",
-                "pj": "8",
+                "puntos": "13",
+                "pj": "9",
                 "pg": "3",
-                "pe": "3",
+                "pe": "4",
                 "pp": "2",
-                "gf": 10,
-                "gc": 6,
+                "gf": 11,
+                "gc": 7,
                 "dg": 4
             },
             {
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/494.png",
                 "equipo": "Portuguesa",
-                "puntos": "12",
-                "pj": "8",
+                "puntos": "13",
+                "pj": "9",
                 "pg": "3",
-                "pe": "3",
+                "pe": "4",
                 "pp": "2",
-                "gf": 12,
-                "gc": 9,
+                "gf": 13,
+                "gc": 10,
                 "dg": 3
             },
             {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/223.png",
                 "equipo": "Carabobo",
-                "puntos": "11",
-                "pj": "8",
+                "puntos": "12",
+                "pj": "9",
                 "pg": "2",
-                "pe": "5",
+                "pe": "6",
                 "pp": "1",
-                "gf": 10,
-                "gc": 5,
+                "gf": 11,
+                "gc": 6,
                 "dg": 5
             },
             {
@@ -1284,13 +1284,13 @@
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "equipo": "Rayo Zuliano",
-                "puntos": "10",
-                "pj": "8",
+                "puntos": "11",
+                "pj": "9",
                 "pg": "3",
-                "pe": "1",
+                "pe": "2",
                 "pp": "4",
-                "gf": 8,
-                "gc": 15,
+                "gf": 9,
+                "gc": 16,
                 "dg": -7
             },
             {
@@ -1324,13 +1324,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11977.png",
                 "equipo": "Anzoátegui FC",
                 "puntos": "5",
-                "pj": "8",
+                "pj": "9",
                 "pg": "1",
                 "pe": "2",
-                "pp": "5",
+                "pp": "6",
                 "gf": 6,
-                "gc": 12,
-                "dg": -6
+                "gc": 14,
+                "dg": -8
             },
             {
                 "posicion": "14",
@@ -1363,6 +1363,12 @@
                 "nombre": "Flabián Londoño",
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Jonathan Cañete",
+                "equipo": "Portuguesa",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
                 "goles": 4
             },
             {
@@ -1405,12 +1411,6 @@
                 "nombre": "Lewuis Peña",
                 "equipo": "Rayo Zuliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Edson Tortolero",
-                "equipo": "Carabobo",
-                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
                 "goles": 3
             }
         ]
