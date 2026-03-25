@@ -155,7 +155,7 @@ class LeagueRenderer {
 
     renderTablaPosiciones() {
         const grupoSelect = document.getElementById("grupo-select");
-        let zonasUnicas = [...new Set(this.tablaPosicionesData.map(e => e.zona).filter(Boolean))];
+        let zonasUnicas = [...new Set(this.tablaPosicionesData.map(e => e.zona || e.grupo).filter(Boolean))];
         const hasBracket = document.getElementById("tournament-bracket") !== null;
 
         if (grupoSelect && (zonasUnicas.length > 0 || hasBracket)) {
@@ -219,7 +219,7 @@ class LeagueRenderer {
         }
 
         let dataAgrupada = this.tablaPosicionesData.reduce((acc, equipo) => {
-            const grupo = equipo.zona || "Sin grupo";
+            const grupo = equipo.zona || equipo.grupo || "Sin grupo";
             if (!acc[grupo]) acc[grupo] = [];
             acc[grupo].push(equipo);
             return acc;
