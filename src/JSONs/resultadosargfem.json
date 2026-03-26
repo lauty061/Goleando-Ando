@@ -163,6 +163,26 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
+                "fecha": "27/03/2026 15:30 HS",
+                "local": "SAN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/6144.png",
+                "visitante": "TAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11974.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "28/03/2026 16:00 HS",
+                "local": "BEL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png",
+                "visitante": "IND",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/6142.png"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
                 "fecha": "29/03/2026 HS",
                 "local": "SAT",
                 "goles_local": "-",
@@ -170,16 +190,6 @@
                 "visitante": "HUR",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6138.png"
-            },
-            {
-                "fecha_torneo": "Fecha 3",
-                "fecha": "29/03/2026 HS",
-                "local": "BEL",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png",
-                "visitante": "IND",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/6142.png"
             },
             {
                 "fecha_torneo": "Fecha 3",
@@ -230,16 +240,6 @@
                 "visitante": "FER",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10734.png"
-            },
-            {
-                "fecha_torneo": "Fecha 3",
-                "fecha": "29/03/2026 HS",
-                "local": "SAN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/6144.png",
-                "visitante": "TAL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11974.png"
             },
             {
                 "fecha_torneo": "Fecha 4",
@@ -1257,6 +1257,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "equipo": "SATSAID",
+                "puntos": "4",
+                "pj": "2",
+                "pg": "1",
+                "pe": "1",
+                "pp": "0",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "4",
@@ -1269,26 +1282,13 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
                 "equipo": "Newell`s",
                 "puntos": "4",
                 "pj": "2",
                 "pg": "1",
                 "pe": "1",
-                "pp": "0",
-                "gf": 1,
-                "gc": 0,
-                "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
-                "equipo": "SATSAID",
-                "puntos": "3",
-                "pj": "1",
-                "pg": "1",
-                "pe": "0",
                 "pp": "0",
                 "gf": 1,
                 "gc": 0,
@@ -1324,13 +1324,13 @@
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
                 "equipo": "Talleres",
-                "puntos": "1",
-                "pj": "1",
+                "puntos": "2",
+                "pj": "2",
                 "pg": "0",
-                "pe": "1",
+                "pe": "2",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 1,
+                "gc": 1,
                 "dg": 0
             },
             {

@@ -1793,12 +1793,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "25/03/2026 19:00 HS",
+                "fecha": "25/03/2026 19:00 HS Finalizado",
                 "local": "RIE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/788.png",
                 "visitante": "SLO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/19.png"
             },
             {
@@ -2668,6 +2668,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/19.png",
+                "equipo": "San Lorenzo",
+                "puntos": "14",
+                "pj": "11",
+                "pg": "3",
+                "pe": "5",
+                "pp": "3",
+                "gf": 11,
+                "gc": 12,
+                "dg": -1
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/489.png",
                 "equipo": "Platense",
                 "puntos": "14",
@@ -2677,20 +2691,6 @@
                 "pp": "3",
                 "gf": 6,
                 "gc": 7,
-                "dg": -1
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/19.png",
-                "equipo": "San Lorenzo",
-                "puntos": "13",
-                "pj": "10",
-                "pg": "3",
-                "pe": "4",
-                "pp": "3",
-                "gf": 10,
-                "gc": 11,
                 "dg": -1
             },
             {
@@ -2740,13 +2740,13 @@
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/788.png",
                 "equipo": "Dep. Riestra",
-                "puntos": "6",
-                "pj": "10",
+                "puntos": "7",
+                "pj": "11",
                 "pg": "0",
-                "pe": "6",
+                "pe": "7",
                 "pp": "4",
-                "gf": 2,
-                "gc": 6,
+                "gf": 3,
+                "gc": 7,
                 "dg": -4
             },
             {

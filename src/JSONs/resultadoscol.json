@@ -483,16 +483,6 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "08/02/2026 HS Postergado",
-                "local": "FOR",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3209.png",
-                "visitante": "AME",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/66.png"
-            },
-            {
-                "fecha_torneo": "Fecha 5",
                 "fecha": "25/02/2026 21:00 HS Finalizado",
                 "local": "SFE",
                 "goles_local": "1",
@@ -500,6 +490,16 @@
                 "visitante": "ATN",
                 "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/105.png"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "22/04/2026 22:30 HS",
+                "local": "FOR",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3209.png",
+                "visitante": "AME",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/66.png"
             },
             {
                 "fecha_torneo": "Fecha 6",
@@ -1293,12 +1293,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "25/03/2026 22:00 HS",
+                "fecha": "25/03/2026 22:00 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/66.png",
                 "visitante": "LLA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/880.png"
             },
             {
@@ -1533,6 +1533,16 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
+                "fecha": "10/04/2026 22:05 HS",
+                "local": "PAS",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/180.png",
+                "visitante": "TOL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png"
+            },
+            {
+                "fecha_torneo": "Fecha 16",
                 "fecha": "10/04/2026 22:30 HS",
                 "local": "PER",
                 "goles_local": "-",
@@ -1543,23 +1553,13 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "11/04/2026 18:00 HS",
-                "local": "PAS",
+                "fecha": "11/04/2026 16:00 HS",
+                "local": "AGU",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/180.png",
-                "visitante": "TOL",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/922.png",
+                "visitante": "JUN",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png"
-            },
-            {
-                "fecha_torneo": "Fecha 16",
-                "fecha": "11/04/2026 20:10 HS",
-                "local": "MIL",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/184.png",
-                "visitante": "SFE",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/183.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/81.png"
             },
             {
                 "fecha_torneo": "Fecha 16",
@@ -1574,12 +1574,12 @@
             {
                 "fecha_torneo": "Fecha 16",
                 "fecha": "12/04/2026 16:00 HS",
-                "local": "AGU",
+                "local": "MIL",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/922.png",
-                "visitante": "JUN",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/184.png",
+                "visitante": "SFE",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/81.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/183.png"
             },
             {
                 "fecha_torneo": "Fecha 16",
@@ -1703,6 +1703,16 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
+                "fecha": "23/04/2026 20:00 HS",
+                "local": "PAS",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/180.png",
+                "visitante": "SFE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/183.png"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
                 "fecha": "23/04/2026 22:00 HS",
                 "local": "MIL",
                 "goles_local": "-",
@@ -1720,16 +1730,6 @@
                 "visitante": "JUN",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/81.png"
-            },
-            {
-                "fecha_torneo": "Fecha 18",
-                "fecha": "24/04/2026 22:30 HS",
-                "local": "PAS",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/180.png",
-                "visitante": "SFE",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/183.png"
             },
             {
                 "fecha_torneo": "Fecha 18",
@@ -2097,6 +2097,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
+                "equipo": "América de Cali",
+                "puntos": "21",
+                "pj": "12",
+                "pg": "6",
+                "pe": "3",
+                "pp": "3",
+                "gf": 16,
+                "gc": 8,
+                "dg": 8
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png",
                 "equipo": "Int. de Bogotá",
                 "puntos": "21",
@@ -2109,7 +2122,7 @@
                 "dg": -1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png",
                 "equipo": "Millonarios",
                 "puntos": "20",
@@ -2120,19 +2133,6 @@
                 "gf": 23,
                 "gc": 14,
                 "dg": 9
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
-                "equipo": "América de Cali",
-                "puntos": "20",
-                "pj": "11",
-                "pg": "6",
-                "pe": "2",
-                "pp": "3",
-                "gf": 16,
-                "gc": 8,
-                "dg": 8
             },
             {
                 "posicion": "8",
@@ -2175,6 +2175,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/880.png",
+                "equipo": "Llaneros FC",
+                "puntos": "16",
+                "pj": "13",
+                "pg": "3",
+                "pe": "7",
+                "pp": "3",
+                "gf": 14,
+                "gc": 13,
+                "dg": 1
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png",
                 "equipo": "Águilas Doradas",
                 "puntos": "16",
@@ -2185,19 +2198,6 @@
                 "gf": 12,
                 "gc": 12,
                 "dg": 0
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/880.png",
-                "equipo": "Llaneros FC",
-                "puntos": "15",
-                "pj": "12",
-                "pg": "3",
-                "pe": "6",
-                "pp": "3",
-                "gf": 14,
-                "gc": 13,
-                "dg": 1
             },
             {
                 "posicion": "13",
