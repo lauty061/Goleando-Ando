@@ -723,12 +723,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "26/03/2026 20:00 HS",
+                "fecha": "26/03/2026 20:00 HS Finalizado",
                 "local": "REC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png",
                 "visitante": "RÑU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1029.png"
             },
             {
@@ -1390,6 +1390,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "equipo": "D. Recoleta",
+                "puntos": "16",
+                "pj": "13",
+                "pg": "4",
+                "pe": "4",
+                "pp": "5",
+                "gf": 16,
+                "gc": 17,
+                "dg": -1
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "equipo": "Trinidense",
                 "puntos": "15",
@@ -1402,20 +1415,20 @@
                 "dg": 0
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "equipo": "Rubio Ñu",
                 "puntos": "15",
-                "pj": "12",
+                "pj": "13",
                 "pg": "4",
                 "pe": "3",
-                "pp": "5",
+                "pp": "6",
                 "gf": 10,
-                "gc": 12,
-                "dg": -2
+                "gc": 13,
+                "dg": -3
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png",
                 "equipo": "Guaraní",
                 "puntos": "14",
@@ -1426,19 +1439,6 @@
                 "gf": 18,
                 "gc": 16,
                 "dg": 2
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
-                "equipo": "D. Recoleta",
-                "puntos": "13",
-                "pj": "12",
-                "pg": "3",
-                "pe": "4",
-                "pp": "5",
-                "gf": 15,
-                "gc": 17,
-                "dg": -2
             },
             {
                 "posicion": "10",
@@ -1506,6 +1506,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Aldo González",
+                "equipo": "Deportivo Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Estiven Pérez",
                 "equipo": "Rubio Ñu",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
@@ -1539,12 +1545,6 @@
                 "nombre": "Diego Acosta",
                 "equipo": "2 de Mayo",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Aldo González",
-                "equipo": "Deportivo Recoleta",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "goles": 3
             }
         ]

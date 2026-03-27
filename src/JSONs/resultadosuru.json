@@ -623,22 +623,22 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "26/03/2026 13:00 HS",
+                "fecha": "26/03/2026 13:00 HS Finalizado",
                 "local": "RCM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/964.png",
                 "visitante": "PRO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/510.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "26/03/2026 16:00 HS",
+                "fecha": "26/03/2026 16:00 HS Finalizado",
                 "local": "DAN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/72.png",
                 "visitante": "DEF",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/110.png"
             },
             {
@@ -1220,13 +1220,13 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/964.png",
                 "equipo": "Racing (U)",
-                "puntos": "16",
-                "pj": "7",
+                "puntos": "17",
+                "pj": "8",
                 "pg": "5",
-                "pe": "1",
+                "pe": "2",
                 "pp": "1",
-                "gf": 13,
-                "gc": 6,
+                "gf": 14,
+                "gc": 7,
                 "dg": 7
             },
             {
@@ -1283,6 +1283,32 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
+                "equipo": "Danubio",
+                "puntos": "12",
+                "pj": "8",
+                "pg": "3",
+                "pe": "3",
+                "pp": "2",
+                "gf": 11,
+                "gc": 10,
+                "dg": 1
+            },
+            {
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
+                "equipo": "Defensor Sporting",
+                "puntos": "12",
+                "pj": "8",
+                "pg": "3",
+                "pe": "3",
+                "pp": "2",
+                "gf": 6,
+                "gc": 5,
+                "dg": 1
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png",
                 "equipo": "Central Español",
                 "puntos": "11",
@@ -1295,20 +1321,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
-                "equipo": "Danubio",
-                "puntos": "11",
-                "pj": "7",
-                "pg": "3",
-                "pe": "2",
-                "pp": "2",
-                "gf": 11,
-                "gc": 10,
-                "dg": 1
-            },
-            {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "equipo": "Albion",
                 "puntos": "11",
@@ -1318,19 +1331,6 @@
                 "pp": "3",
                 "gf": 10,
                 "gc": 9,
-                "dg": 1
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "equipo": "Defensor Sporting",
-                "puntos": "11",
-                "pj": "7",
-                "pg": "3",
-                "pe": "2",
-                "pp": "2",
-                "gf": 6,
-                "gc": 5,
                 "dg": 1
             },
             {
@@ -1363,13 +1363,13 @@
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png",
                 "equipo": "Progreso",
-                "puntos": "5",
-                "pj": "7",
+                "puntos": "6",
+                "pj": "8",
                 "pg": "1",
-                "pe": "2",
+                "pe": "3",
                 "pp": "4",
-                "gf": 5,
-                "gc": 11,
+                "gf": 6,
+                "gc": 12,
                 "dg": -6
             },
             {
