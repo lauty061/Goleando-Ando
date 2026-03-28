@@ -733,22 +733,22 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "27/03/2026 18:30 HS",
+                "fecha": "27/03/2026 18:30 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/214.png",
                 "visitante": "LUQ",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/213.png"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "27/03/2026 20:30 HS",
+                "fecha": "27/03/2026 20:30 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png",
                 "visitante": "LIB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png"
             },
             {
@@ -1338,6 +1338,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "equipo": "Nacional (P)",
+                "puntos": "23",
+                "pj": "13",
+                "pg": "6",
+                "pe": "5",
+                "pp": "2",
+                "gf": 21,
+                "gc": 13,
+                "dg": 8
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "equipo": "Cerro Porteño",
                 "puntos": "23",
@@ -1350,43 +1363,30 @@
                 "dg": 6
             },
             {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
-                "equipo": "Nacional (P)",
+                "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "equipo": "Sp. Ameliano",
                 "puntos": "20",
-                "pj": "12",
+                "pj": "13",
                 "pg": "5",
                 "pe": "5",
-                "pp": "2",
-                "gf": 18,
-                "gc": 11,
-                "dg": 7
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
-                "equipo": "Libertad",
-                "puntos": "17",
-                "pj": "12",
-                "pg": "5",
-                "pe": "2",
-                "pp": "5",
-                "gf": 20,
-                "gc": 13,
-                "dg": 7
+                "pp": "3",
+                "gf": 14,
+                "gc": 9,
+                "dg": 5
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
+                "equipo": "Libertad",
                 "puntos": "17",
-                "pj": "12",
-                "pg": "4",
-                "pe": "5",
-                "pp": "3",
-                "gf": 12,
-                "gc": 9,
-                "dg": 3
+                "pj": "13",
+                "pg": "5",
+                "pe": "2",
+                "pp": "6",
+                "gf": 20,
+                "gc": 15,
+                "dg": 5
             },
             {
                 "posicion": "6",
@@ -1458,13 +1458,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png",
                 "equipo": "Sportivo Luqueño",
                 "puntos": "11",
-                "pj": "12",
+                "pj": "13",
                 "pg": "3",
                 "pe": "2",
-                "pp": "7",
-                "gf": 10,
-                "gc": 16,
-                "dg": -6
+                "pp": "8",
+                "gf": 12,
+                "gc": 19,
+                "dg": -7
             },
             {
                 "posicion": "12",
@@ -1491,7 +1491,7 @@
                 "nombre": "Iván Maggi",
                 "equipo": "Sportivo Luqueño",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png",
-                "goles": 5
+                "goles": 6
             },
             {
                 "nombre": "Elvio Vera",
@@ -1524,6 +1524,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Iván Valdez",
+                "equipo": "Nacional (P)",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Cecilio Domínguez",
                 "equipo": "Cerro Porteño",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
@@ -1539,12 +1545,6 @@
                 "nombre": "Federico Carrizo",
                 "equipo": "Libertad",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Diego Acosta",
-                "equipo": "2 de Mayo",
-                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
                 "goles": 3
             }
         ]

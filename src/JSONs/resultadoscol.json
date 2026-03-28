@@ -1303,22 +1303,22 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "27/03/2026 18:00 HS",
+                "fecha": "27/03/2026 18:00 HS Finalizado",
                 "local": "AGU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/922.png",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/921.png"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "27/03/2026 22:10 HS",
+                "fecha": "27/03/2026 22:10 HS Finalizado",
                 "local": "BUC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/175.png",
                 "visitante": "SFE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/183.png"
             },
             {
@@ -2152,16 +2152,42 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png",
                 "equipo": "Bucaramanga",
                 "puntos": "19",
-                "pj": "12",
+                "pj": "13",
                 "pg": "4",
                 "pe": "7",
-                "pp": "1",
-                "gf": 16,
-                "gc": 8,
-                "dg": 8
+                "pp": "2",
+                "gf": 17,
+                "gc": 10,
+                "dg": 7
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/922.png",
+                "equipo": "Águilas Doradas",
+                "puntos": "19",
+                "pj": "13",
+                "pg": "5",
+                "pe": "4",
+                "pp": "4",
+                "gf": 13,
+                "gc": 12,
+                "dg": 1
+            },
+            {
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/183.png",
+                "equipo": "Santa Fe",
+                "puntos": "18",
+                "pj": "13",
+                "pg": "4",
+                "pe": "6",
+                "pp": "3",
+                "gf": 16,
+                "gc": 16,
+                "dg": 0
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png",
                 "equipo": "Deportivo Cali",
                 "puntos": "16",
@@ -2174,7 +2200,7 @@
                 "dg": 2
             },
             {
-                "posicion": "11",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png",
                 "equipo": "Llaneros FC",
                 "puntos": "16",
@@ -2185,32 +2211,6 @@
                 "gf": 14,
                 "gc": 13,
                 "dg": 1
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/922.png",
-                "equipo": "Águilas Doradas",
-                "puntos": "16",
-                "pj": "12",
-                "pg": "4",
-                "pe": "4",
-                "pp": "4",
-                "gf": 12,
-                "gc": 12,
-                "dg": 0
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/183.png",
-                "equipo": "Santa Fe",
-                "puntos": "15",
-                "pj": "12",
-                "pg": "3",
-                "pe": "6",
-                "pp": "3",
-                "gf": 14,
-                "gc": 15,
-                "dg": -1
             },
             {
                 "posicion": "14",
@@ -2256,13 +2256,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/921.png",
                 "equipo": "Alianza FC",
                 "puntos": "11",
-                "pj": "12",
+                "pj": "13",
                 "pg": "2",
                 "pe": "5",
-                "pp": "5",
+                "pp": "6",
                 "gf": 7,
-                "gc": 19,
-                "dg": -12
+                "gc": 20,
+                "dg": -13
             },
             {
                 "posicion": "18",
