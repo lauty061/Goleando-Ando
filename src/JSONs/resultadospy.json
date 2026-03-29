@@ -753,22 +753,22 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "28/03/2026 18:30 HS",
+                "fecha": "28/03/2026 18:30 HS Finalizado",
                 "local": "OLI",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/215.png",
                 "visitante": "2MA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "28/03/2026 20:30 HS",
+                "fecha": "28/03/2026 20:30 HS Finalizado",
                 "local": "CER",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/77.png",
                 "visitante": "SLO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2119.png"
             },
             {
@@ -1327,17 +1327,30 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
                 "equipo": "Olimpia",
-                "puntos": "30",
-                "pj": "12",
-                "pg": "9",
+                "puntos": "33",
+                "pj": "13",
+                "pg": "10",
                 "pe": "3",
                 "pp": "0",
-                "gf": 16,
-                "gc": 6,
-                "dg": 10
+                "gf": 20,
+                "gc": 7,
+                "dg": 13
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
+                "equipo": "Cerro Porteño",
+                "puntos": "26",
+                "pj": "13",
+                "pg": "8",
+                "pe": "2",
+                "pp": "3",
+                "gf": 19,
+                "gc": 11,
+                "dg": 8
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "equipo": "Nacional (P)",
                 "puntos": "23",
@@ -1348,19 +1361,6 @@
                 "gf": 21,
                 "gc": 13,
                 "dg": 8
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
-                "equipo": "Cerro Porteño",
-                "puntos": "23",
-                "pj": "12",
-                "pg": "7",
-                "pe": "2",
-                "pp": "3",
-                "gf": 17,
-                "gc": 11,
-                "dg": 6
             },
             {
                 "posicion": "4",
@@ -1445,13 +1445,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png",
                 "equipo": "2 de Mayo",
                 "puntos": "13",
-                "pj": "12",
+                "pj": "13",
                 "pg": "3",
                 "pe": "4",
-                "pp": "5",
-                "gf": 9,
-                "gc": 16,
-                "dg": -7
+                "pp": "6",
+                "gf": 10,
+                "gc": 20,
+                "dg": -10
             },
             {
                 "posicion": "11",
@@ -1471,13 +1471,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2119.png",
                 "equipo": "San Lorenzo",
                 "puntos": "5",
-                "pj": "12",
+                "pj": "13",
                 "pg": "0",
                 "pe": "5",
-                "pp": "7",
+                "pp": "8",
                 "gf": 7,
-                "gc": 25,
-                "dg": -18
+                "gc": 27,
+                "dg": -20
             }
         ],
         "goleadores": [
@@ -1494,6 +1494,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Cecilio Domínguez",
+                "equipo": "Cerro Porteño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Elvio Vera",
                 "equipo": "Sp. Ameliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
@@ -1504,6 +1510,12 @@
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "goles": 5
+            },
+            {
+                "nombre": "Adrián Alcaraz",
+                "equipo": "Olimpia",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
+                "goles": 4
             },
             {
                 "nombre": "Aldo González",
@@ -1528,18 +1540,6 @@
                 "equipo": "Nacional (P)",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Cecilio Domínguez",
-                "equipo": "Cerro Porteño",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Adrián Alcaraz",
-                "equipo": "Olimpia",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
-                "goles": 3
             },
             {
                 "nombre": "Federico Carrizo",

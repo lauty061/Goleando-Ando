@@ -173,12 +173,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "28/03/2026 16:00 HS",
+                "fecha": "28/03/2026 16:00 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png",
                 "visitante": "IND",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6142.png"
             },
             {
@@ -1257,6 +1257,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
+                "equipo": "Belgrano (Cba.)",
+                "puntos": "6",
+                "pj": "3",
+                "pg": "2",
+                "pe": "0",
+                "pp": "1",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "equipo": "Gimnasia",
                 "puntos": "4",
@@ -1269,7 +1282,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
                 "equipo": "SATSAID",
                 "puntos": "4",
@@ -1282,7 +1295,7 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
                 "equipo": "Newell`s",
                 "puntos": "4",
@@ -1293,19 +1306,6 @@
                 "gf": 1,
                 "gc": 0,
                 "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
-                "equipo": "Belgrano (Cba.)",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 1,
-                "gc": 1,
-                "dg": 0
             },
             {
                 "posicion": "9",
@@ -1390,13 +1390,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
                 "equipo": "Independiente",
                 "puntos": "0",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "0",
-                "pp": "2",
+                "pp": "3",
                 "gf": 1,
-                "gc": 4,
-                "dg": -3
+                "gc": 5,
+                "dg": -4
             },
             {
                 "posicion": "16",
@@ -1456,6 +1456,12 @@
                 "goles": 2
             },
             {
+                "nombre": "Ariana Reche",
+                "equipo": "Belgrano (Cba.)",
+                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Micaela Adorno",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
@@ -1471,12 +1477,6 @@
                 "nombre": "Emily Arias",
                 "equipo": "San Lorenzo",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Alaídes Bonilla",
-                "equipo": "Belgrano (Cba.)",
-                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
                 "goles": 1
             }
         ]

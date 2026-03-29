@@ -643,22 +643,22 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "28/03/2026 16:00 HS",
+                "fecha": "28/03/2026 16:00 HS Finalizado",
                 "local": "WAN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/200.png",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/188.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "28/03/2026 19:30 HS",
+                "fecha": "28/03/2026 19:30 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png",
                 "visitante": "NAC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/83.png"
             },
             {
@@ -1231,6 +1231,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
+                "equipo": "Nacional",
+                "puntos": "16",
+                "pj": "9",
+                "pg": "5",
+                "pe": "1",
+                "pp": "3",
+                "gf": 14,
+                "gc": 10,
+                "dg": 4
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "equipo": "Maldonado",
                 "puntos": "16",
@@ -1243,33 +1256,33 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "equipo": "MC Torque",
                 "puntos": "14",
-                "pj": "8",
+                "pj": "9",
                 "pg": "4",
                 "pe": "2",
-                "pp": "2",
-                "gf": 11,
-                "gc": 7,
-                "dg": 4
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "equipo": "Nacional",
-                "puntos": "13",
-                "pj": "8",
-                "pg": "4",
-                "pe": "1",
                 "pp": "3",
-                "gf": 11,
-                "gc": 8,
+                "gf": 13,
+                "gc": 10,
                 "dg": 3
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
+                "equipo": "Wanderers",
+                "puntos": "14",
+                "pj": "9",
+                "pg": "4",
+                "pe": "2",
+                "pp": "3",
+                "gf": 10,
+                "gc": 11,
+                "dg": -1
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
                 "puntos": "12",
@@ -1282,7 +1295,7 @@
                 "dg": 2
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png",
                 "equipo": "Danubio",
                 "puntos": "12",
@@ -1295,7 +1308,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png",
                 "equipo": "Defensor Sporting",
                 "puntos": "12",
@@ -1308,7 +1321,7 @@
                 "dg": 1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png",
                 "equipo": "Central Español",
                 "puntos": "11",
@@ -1321,7 +1334,7 @@
                 "dg": 1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "equipo": "Albion",
                 "puntos": "11",
@@ -1332,19 +1345,6 @@
                 "gf": 10,
                 "gc": 9,
                 "dg": 1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
-                "equipo": "Wanderers",
-                "puntos": "11",
-                "pj": "8",
-                "pg": "3",
-                "pe": "2",
-                "pp": "3",
-                "gf": 7,
-                "gc": 11,
-                "dg": -4
             },
             {
                 "posicion": "12",
@@ -1390,13 +1390,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png",
                 "equipo": "Cerro",
                 "puntos": "5",
-                "pj": "8",
+                "pj": "9",
                 "pg": "1",
                 "pe": "2",
-                "pp": "5",
+                "pp": "6",
                 "gf": 4,
-                "gc": 11,
-                "dg": -7
+                "gc": 14,
+                "dg": -10
             },
             {
                 "posicion": "16",
@@ -1420,15 +1420,21 @@
                 "goles": 6
             },
             {
-                "nombre": "Álvaro López",
-                "equipo": "Albion",
-                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Salomón Rodríguez",
                 "equipo": "MC Torque",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
+                "goles": 6
+            },
+            {
+                "nombre": "Maxi Gómez",
+                "equipo": "Nacional",
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Álvaro López",
+                "equipo": "Albion",
+                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "goles": 4
             },
             {
@@ -1436,12 +1442,6 @@
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Maxi Gómez",
-                "equipo": "Nacional",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "goles": 3
             },
             {
                 "nombre": "Sebastián Fernández",
