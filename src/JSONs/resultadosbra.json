@@ -493,12 +493,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "29/03/2026 19:30 HS",
+                "fecha": "29/03/2026 19:30 HS Finalizado",
                 "local": "ATP",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/68.png",
                 "visitante": "BOT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/254.png"
             },
             {
@@ -3818,6 +3818,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/68.png",
+                "equipo": "Paranaense",
+                "puntos": "16",
+                "pj": "8",
+                "pg": "5",
+                "pe": "1",
+                "pp": "2",
+                "gf": 14,
+                "gc": 8,
+                "dg": 6
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/75.png",
                 "equipo": "São Paulo",
                 "puntos": "16",
@@ -3830,7 +3843,7 @@
                 "dg": 5
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/113.png",
                 "equipo": "Fluminense",
                 "puntos": "16",
@@ -3843,7 +3856,7 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/256.png",
                 "equipo": "Flamengo",
                 "puntos": "14",
@@ -3856,7 +3869,7 @@
                 "dg": 8
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/991.png",
                 "equipo": "Bahia",
                 "puntos": "14",
@@ -3867,19 +3880,6 @@
                 "gf": 9,
                 "gc": 7,
                 "dg": 2
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/68.png",
-                "equipo": "Paranaense",
-                "puntos": "13",
-                "pj": "7",
-                "pg": "4",
-                "pe": "1",
-                "pp": "2",
-                "gf": 10,
-                "gc": 7,
-                "dg": 3
             },
             {
                 "posicion": "7",
@@ -4016,13 +4016,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png",
                 "equipo": "Botafogo",
                 "puntos": "6",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "0",
-                "pp": "4",
-                "gf": 10,
-                "gc": 12,
-                "dg": -2
+                "pp": "5",
+                "gf": 11,
+                "gc": 16,
+                "dg": -5
             },
             {
                 "posicion": "18",
@@ -4078,6 +4078,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Kevin Viveros",
+                "equipo": "Athletico Paranaense",
+                "escudo": "https://statics-files.tycsports.com/escudos/68.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Jonathan Calleri",
                 "equipo": "São Paulo",
                 "escudo": "https://statics-files.tycsports.com/escudos/75.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Stiven Mendoza",
                 "equipo": "Athletico Paranaense",
                 "escudo": "https://statics-files.tycsports.com/escudos/68.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Breno Lopes",
-                "equipo": "Coritiba",
-                "escudo": "https://statics-files.tycsports.com/escudos/628.png",
                 "goles": 3
             }
         ]

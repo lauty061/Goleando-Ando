@@ -773,12 +773,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "29/03/2026 19:00 HS",
+                "fecha": "29/03/2026 19:00 HS Finalizado",
                 "local": "GUA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/115.png",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png"
             },
             {
@@ -1390,6 +1390,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "equipo": "Trinidense",
+                "puntos": "16",
+                "pj": "13",
+                "pg": "3",
+                "pe": "7",
+                "pp": "3",
+                "gf": 13,
+                "gc": 13,
+                "dg": 0
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "equipo": "D. Recoleta",
                 "puntos": "16",
@@ -1402,20 +1415,20 @@
                 "dg": -1
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
-                "equipo": "Trinidense",
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
+                "equipo": "Guaraní",
                 "puntos": "15",
-                "pj": "12",
+                "pj": "13",
                 "pg": "3",
                 "pe": "6",
-                "pp": "3",
-                "gf": 13,
-                "gc": 13,
-                "dg": 0
+                "pp": "4",
+                "gf": 18,
+                "gc": 16,
+                "dg": 2
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "equipo": "Rubio Ñu",
                 "puntos": "15",
@@ -1426,19 +1439,6 @@
                 "gf": 10,
                 "gc": 13,
                 "dg": -3
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
-                "equipo": "Guaraní",
-                "puntos": "14",
-                "pj": "12",
-                "pg": "3",
-                "pe": "5",
-                "pp": "4",
-                "gf": 18,
-                "gc": 16,
-                "dg": 2
             },
             {
                 "posicion": "10",
