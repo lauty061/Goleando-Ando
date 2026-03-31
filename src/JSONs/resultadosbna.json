@@ -1243,12 +1243,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "30/03/2026 16:00 HS",
+                "fecha": "30/03/2026 16:00 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/138.png",
                 "visitante": "RAF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/99.png"
             },
             {
@@ -6776,6 +6776,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/99.png",
+                "equipo": "Atlético Rafaela",
+                "puntos": "11",
+                "pj": "6",
+                "pg": "3",
+                "pe": "2",
+                "pp": "1",
+                "gf": 5,
+                "gc": 3,
+                "dg": 2
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
                 "puntos": "11",
@@ -6789,7 +6803,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/141.png",
                 "equipo": "Racing (Cba)",
                 "puntos": "11",
@@ -6803,7 +6817,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png",
                 "equipo": "San Martín (T)",
                 "puntos": "10",
@@ -6817,7 +6831,21 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "9",
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/138.png",
+                "equipo": "Def. de Belgrano",
+                "puntos": "10",
+                "pj": "6",
+                "pg": "2",
+                "pe": "4",
+                "pp": "0",
+                "gf": 6,
+                "gc": 3,
+                "dg": 3
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png",
                 "equipo": "Godoy Cruz",
                 "puntos": "10",
@@ -6831,21 +6859,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/99.png",
-                "equipo": "Atlético Rafaela",
-                "puntos": "10",
-                "pj": "5",
-                "pg": "3",
-                "pe": "1",
-                "pp": "1",
-                "gf": 4,
-                "gc": 2,
-                "dg": 2
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/865.png",
                 "equipo": "Gimnasia y Tiro",
                 "puntos": "10",
@@ -6856,20 +6870,6 @@
                 "gf": 7,
                 "gc": 6,
                 "dg": 1
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/138.png",
-                "equipo": "Def. de Belgrano",
-                "puntos": "9",
-                "pj": "5",
-                "pg": "2",
-                "pe": "3",
-                "pp": "0",
-                "gf": 5,
-                "gc": 2,
-                "dg": 3
             },
             {
                 "zona": "Posiciones",

@@ -223,22 +223,22 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "30/03/2026 15:00 HS",
+                "fecha": "30/03/2026 15:00 HS Finalizado",
                 "local": "CGE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png",
                 "visitante": "LAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8138.png"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "30/03/2026 15:30 HS",
+                "fecha": "30/03/2026 15:30 HS Finalizado",
                 "local": "BAN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png",
                 "visitante": "SLU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png"
             },
             {
@@ -1231,6 +1231,32 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
+                "equipo": "Banfield",
+                "puntos": "9",
+                "pj": "3",
+                "pg": "3",
+                "pe": "0",
+                "pp": "0",
+                "gf": 5,
+                "gc": 1,
+                "dg": 4
+            },
+            {
+                "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "equipo": "Gimnasia",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
+                "pe": "1",
+                "pp": "0",
+                "gf": 9,
+                "gc": 5,
+                "dg": 4
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "7",
@@ -1243,20 +1269,7 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
-                "equipo": "Banfield",
-                "puntos": "6",
-                "pj": "2",
-                "pg": "2",
-                "pe": "0",
-                "pp": "0",
-                "gf": 3,
-                "gc": 1,
-                "dg": 2
-            },
-            {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "6",
@@ -1269,7 +1282,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
                 "equipo": "SATSAID",
                 "puntos": "5",
@@ -1279,19 +1292,6 @@
                 "pp": "0",
                 "gf": 3,
                 "gc": 2,
-                "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
-                "equipo": "Gimnasia",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 6,
-                "gc": 5,
                 "dg": 1
             },
             {
@@ -1325,13 +1325,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "equipo": "San Luis FC",
                 "puntos": "2",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "2",
-                "pp": "0",
+                "pp": "1",
                 "gf": 2,
-                "gc": 2,
-                "dg": 0
+                "gc": 4,
+                "dg": -2
             },
             {
                 "posicion": "11",
@@ -1403,13 +1403,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
                 "equipo": "Lanús",
                 "puntos": "0",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "0",
-                "pp": "2",
+                "pp": "3",
                 "gf": 0,
-                "gc": 7,
-                "dg": -7
+                "gc": 10,
+                "dg": -10
             }
         ],
         "goleadores": [
@@ -1417,6 +1417,12 @@
                 "nombre": "Emilse Albornos",
                 "equipo": "Unión de Santa Fe",
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Florencia Gaetán",
+                "equipo": "Gimnasia",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "goles": 3
             },
             {
@@ -1441,12 +1447,6 @@
                 "nombre": "Paloma Fagiano",
                 "equipo": "River Plate",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Florencia Gaetán",
-                "equipo": "Gimnasia",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "goles": 2
             },
             {
