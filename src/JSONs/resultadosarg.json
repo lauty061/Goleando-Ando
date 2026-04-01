@@ -1043,12 +1043,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "31/03/2026 14:00 HS",
+                "fecha": "31/03/2026 14:00 HS Finalizado",
                 "local": "ALD",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/122.png",
                 "visitante": "ARG",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2.png"
             },
             {
@@ -2794,6 +2794,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/2.png",
+                "equipo": "Argentinos",
+                "puntos": "20",
+                "pj": "11",
+                "pg": "5",
+                "pe": "5",
+                "pp": "1",
+                "gf": 10,
+                "gc": 5,
+                "dg": 5
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/124.png",
                 "equipo": "Belgrano",
                 "puntos": "19",
@@ -2807,7 +2821,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/16.png",
                 "equipo": "Racing Club",
                 "puntos": "18",
@@ -2821,7 +2835,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/18.png",
                 "equipo": "Rosario Central",
                 "puntos": "18",
@@ -2835,7 +2849,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/136.png",
                 "equipo": "Tigre",
                 "puntos": "17",
@@ -2846,20 +2860,6 @@
                 "gf": 16,
                 "gc": 10,
                 "dg": 6
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/2.png",
-                "equipo": "Argentinos",
-                "puntos": "17",
-                "pj": "10",
-                "pg": "4",
-                "pe": "5",
-                "pp": "1",
-                "gf": 8,
-                "gc": 5,
-                "dg": 3
             },
             {
                 "zona": "Grupo B",
@@ -2951,13 +2951,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/122.png",
                 "equipo": "Aldosivi",
                 "puntos": "5",
-                "pj": "10",
+                "pj": "11",
                 "pg": "0",
                 "pe": "5",
-                "pp": "5",
+                "pp": "6",
                 "gf": 3,
-                "gc": 11,
-                "dg": -8
+                "gc": 13,
+                "dg": -10
             },
             {
                 "zona": "Grupo B",

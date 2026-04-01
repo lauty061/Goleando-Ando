@@ -1403,12 +1403,12 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "31/03/2026 22:00 HS",
+                "fecha": "31/03/2026 22:00 HS Finalizado",
                 "local": "TOL",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/179.png",
                 "visitante": "AGU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/922.png"
             },
             {
@@ -2071,6 +2071,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/179.png",
+                "equipo": "Tolima",
+                "puntos": "26",
+                "pj": "14",
+                "pg": "7",
+                "pe": "5",
+                "pp": "2",
+                "gf": 22,
+                "gc": 11,
+                "dg": 11
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png",
                 "equipo": "Junior",
                 "puntos": "25",
@@ -2083,7 +2096,7 @@
                 "dg": 2
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/88.png",
                 "equipo": "Once Caldas",
                 "puntos": "24",
@@ -2094,19 +2107,6 @@
                 "gf": 25,
                 "gc": 18,
                 "dg": 7
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/179.png",
-                "equipo": "Tolima",
-                "puntos": "23",
-                "pj": "13",
-                "pg": "6",
-                "pe": "5",
-                "pp": "2",
-                "gf": 18,
-                "gc": 10,
-                "dg": 8
             },
             {
                 "posicion": "6",
@@ -2178,13 +2178,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png",
                 "equipo": "Águilas Doradas",
                 "puntos": "19",
-                "pj": "13",
+                "pj": "14",
                 "pg": "5",
                 "pe": "4",
-                "pp": "4",
-                "gf": 13,
-                "gc": 12,
-                "dg": 1
+                "pp": "5",
+                "gf": 14,
+                "gc": 16,
+                "dg": -2
             },
             {
                 "posicion": "12",
