@@ -1803,12 +1803,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "01/04/2026 20:00 HS",
+                "fecha": "01/04/2026 20:00 HS Finalizado",
                 "local": "LAN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12.png",
                 "visitante": "PLA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/489.png"
             },
             {
@@ -2600,10 +2600,10 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/12.png",
                 "equipo": "Lanús",
-                "puntos": "18",
-                "pj": "11",
+                "puntos": "19",
+                "pj": "12",
                 "pg": "5",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
                 "gf": 17,
                 "gc": 14,
@@ -2654,6 +2654,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/489.png",
+                "equipo": "Platense",
+                "puntos": "15",
+                "pj": "12",
+                "pg": "3",
+                "pe": "6",
+                "pp": "3",
+                "gf": 6,
+                "gc": 7,
+                "dg": -1
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/10.png",
                 "equipo": "Independiente",
                 "puntos": "14",
@@ -2667,7 +2681,7 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/19.png",
                 "equipo": "San Lorenzo",
                 "puntos": "14",
@@ -2677,20 +2691,6 @@
                 "pp": "3",
                 "gf": 11,
                 "gc": 12,
-                "dg": -1
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/489.png",
-                "equipo": "Platense",
-                "puntos": "14",
-                "pj": "11",
-                "pg": "3",
-                "pe": "5",
-                "pp": "3",
-                "gf": 6,
-                "gc": 7,
                 "dg": -1
             },
             {

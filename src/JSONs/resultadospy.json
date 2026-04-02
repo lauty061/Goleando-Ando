@@ -823,22 +823,22 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "01/04/2026 18:30 HS",
+                "fecha": "01/04/2026 18:30 HS Finalizado",
                 "local": "RÑU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png",
                 "visitante": "GUA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/115.png"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "01/04/2026 20:30 HS",
+                "fecha": "01/04/2026 20:30 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png",
                 "visitante": "OLI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/215.png"
             },
             {
@@ -1328,13 +1328,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
                 "equipo": "Olimpia",
                 "puntos": "33",
-                "pj": "13",
+                "pj": "14",
                 "pg": "10",
                 "pe": "3",
-                "pp": "0",
-                "gf": 20,
-                "gc": 7,
-                "dg": 13
+                "pp": "1",
+                "gf": 21,
+                "gc": 9,
+                "dg": 12
             },
             {
                 "posicion": "2",
@@ -1392,17 +1392,30 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "equipo": "Trinidense",
-                "puntos": "16",
-                "pj": "13",
-                "pg": "3",
+                "puntos": "19",
+                "pj": "14",
+                "pg": "4",
                 "pe": "7",
                 "pp": "3",
-                "gf": 13,
-                "gc": 13,
-                "dg": 0
+                "gf": 15,
+                "gc": 14,
+                "dg": 1
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
+                "equipo": "Guaraní",
+                "puntos": "18",
+                "pj": "14",
+                "pg": "4",
+                "pe": "6",
+                "pp": "4",
+                "gf": 20,
+                "gc": 16,
+                "dg": 4
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "equipo": "D. Recoleta",
                 "puntos": "16",
@@ -1415,30 +1428,17 @@
                 "dg": -2
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
-                "equipo": "Guaraní",
-                "puntos": "15",
-                "pj": "13",
-                "pg": "3",
-                "pe": "6",
-                "pp": "4",
-                "gf": 18,
-                "gc": 16,
-                "dg": 2
-            },
-            {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "equipo": "Rubio Ñu",
                 "puntos": "15",
-                "pj": "13",
+                "pj": "14",
                 "pg": "4",
                 "pe": "3",
-                "pp": "6",
+                "pp": "7",
                 "gf": 10,
-                "gc": 13,
-                "dg": -3
+                "gc": 15,
+                "dg": -5
             },
             {
                 "posicion": "10",
@@ -1500,6 +1500,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Adrián Alcaraz",
+                "equipo": "Olimpia",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Cecilio Domínguez",
                 "equipo": "Cerro Porteño",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
@@ -1510,12 +1516,6 @@
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "goles": 5
-            },
-            {
-                "nombre": "Adrián Alcaraz",
-                "equipo": "Olimpia",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
-                "goles": 4
             },
             {
                 "nombre": "Aldo González",
