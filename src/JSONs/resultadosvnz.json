@@ -633,12 +633,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "02/04/2026 20:00 HS",
+                "fecha": "02/04/2026 20:00 HS Finalizado",
                 "local": "DLG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1282.png",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/223.png"
             },
             {
@@ -1165,6 +1165,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "equipo": "Dep. La Guaira",
+                "puntos": "20",
+                "pj": "10",
+                "pg": "5",
+                "pe": "5",
+                "pp": "0",
+                "gf": 11,
+                "gc": 4,
+                "dg": 7
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "equipo": "UCV",
                 "puntos": "19",
@@ -1175,19 +1188,6 @@
                 "gf": 18,
                 "gc": 10,
                 "dg": 8
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
-                "equipo": "Dep. La Guaira",
-                "puntos": "19",
-                "pj": "9",
-                "pg": "5",
-                "pe": "4",
-                "pp": "0",
-                "gf": 10,
-                "gc": 3,
-                "dg": 7
             },
             {
                 "posicion": "3",
@@ -1217,6 +1217,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
+                "equipo": "Carabobo",
+                "puntos": "13",
+                "pj": "10",
+                "pg": "2",
+                "pe": "7",
+                "pp": "1",
+                "gf": 12,
+                "gc": 7,
+                "dg": 5
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
                 "equipo": "Puerto Cabello",
                 "puntos": "13",
@@ -1229,7 +1242,7 @@
                 "dg": 4
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/494.png",
                 "equipo": "Portuguesa",
                 "puntos": "13",
@@ -1240,19 +1253,6 @@
                 "gf": 13,
                 "gc": 10,
                 "dg": 3
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
-                "equipo": "Carabobo",
-                "puntos": "12",
-                "pj": "9",
-                "pg": "2",
-                "pe": "6",
-                "pp": "1",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
             },
             {
                 "posicion": "8",

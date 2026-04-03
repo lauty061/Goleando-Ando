@@ -563,12 +563,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "02/04/2026 18:00 HS",
+                "fecha": "02/04/2026 18:00 HS Finalizado",
                 "local": "UCA",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
                 "visitante": "PAL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png"
             },
             {
@@ -2418,6 +2418,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
+                "equipo": "U. Católica",
+                "puntos": "14",
+                "pj": "8",
+                "pg": "4",
+                "pe": "2",
+                "pp": "2",
+                "gf": 19,
+                "gc": 11,
+                "dg": 8
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
                 "equipo": "Deportes Limache",
                 "puntos": "14",
@@ -2430,7 +2443,7 @@
                 "dg": 8
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png",
                 "equipo": "Ñublense",
                 "puntos": "12",
@@ -2440,19 +2453,6 @@
                 "pp": "1",
                 "gf": 9,
                 "gc": 6,
-                "dg": 3
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "equipo": "U. Católica",
-                "puntos": "11",
-                "pj": "7",
-                "pg": "3",
-                "pe": "2",
-                "pp": "2",
-                "gf": 13,
-                "gc": 10,
                 "dg": 3
             },
             {
@@ -2564,13 +2564,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "equipo": "Palestino",
                 "puntos": "8",
-                "pj": "7",
+                "pj": "8",
                 "pg": "2",
                 "pe": "2",
-                "pp": "3",
-                "gf": 11,
-                "gc": 11,
-                "dg": 0
+                "pp": "4",
+                "gf": 12,
+                "gc": 17,
+                "dg": -5
             },
             {
                 "posicion": "14",
@@ -2617,7 +2617,13 @@
                 "nombre": "Fernando Zampedri",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 9
+                "goles": 11
+            },
+            {
+                "nombre": "Justo Giani",
+                "equipo": "U. Católica",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
+                "goles": 5
             },
             {
                 "nombre": "Castro Santibáñez, D.",
@@ -2648,12 +2654,6 @@
                 "equipo": "Cobresal",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Justo Giani",
-                "equipo": "U. Católica",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 3
             },
             {
                 "nombre": "Maximiliano Gutiérrez",

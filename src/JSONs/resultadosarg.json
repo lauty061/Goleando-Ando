@@ -1813,32 +1813,32 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "02/04/2026 15:00 HS",
+                "fecha": "02/04/2026 15:00 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/685.png",
                 "visitante": "SAR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/142.png"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "02/04/2026 17:30 HS",
+                "fecha": "02/04/2026 17:30 HS Finalizado",
                 "local": "TIG",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/136.png",
                 "visitante": "IND",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/664.png"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "02/04/2026 20:30 HS",
+                "fecha": "02/04/2026 20:30 HS Finalizado",
                 "local": "TAL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/135.png",
                 "visitante": "BOC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5.png"
             },
             {
@@ -2584,6 +2584,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/5.png",
+                "equipo": "Boca Juniors",
+                "puntos": "20",
+                "pj": "12",
+                "pg": "5",
+                "pe": "5",
+                "pp": "2",
+                "gf": 14,
+                "gc": 7,
+                "dg": 7
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/129.png",
                 "equipo": "Defensa",
                 "puntos": "19",
@@ -2597,7 +2611,7 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/12.png",
                 "equipo": "Lanús",
                 "puntos": "19",
@@ -2611,31 +2625,17 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/135.png",
                 "equipo": "Talleres",
                 "puntos": "18",
-                "pj": "11",
+                "pj": "12",
                 "pg": "5",
                 "pe": "3",
-                "pp": "3",
+                "pp": "4",
                 "gf": 12,
-                "gc": 10,
-                "dg": 2
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/5.png",
-                "equipo": "Boca Juniors",
-                "puntos": "17",
-                "pj": "11",
-                "pg": "4",
-                "pe": "5",
-                "pp": "2",
-                "gf": 13,
-                "gc": 7,
-                "dg": 6
+                "gc": 11,
+                "dg": 1
             },
             {
                 "zona": "Grupo A",
@@ -2768,14 +2768,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png",
                 "equipo": "Indep.Mza.",
-                "puntos": "23",
-                "pj": "11",
-                "pg": "7",
+                "puntos": "26",
+                "pj": "12",
+                "pg": "8",
                 "pe": "2",
                 "pp": "2",
-                "gf": 18,
+                "gf": 20,
                 "gc": 12,
-                "dg": 6
+                "dg": 8
             },
             {
                 "zona": "Grupo B",
@@ -2853,13 +2853,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/136.png",
                 "equipo": "Tigre",
                 "puntos": "17",
-                "pj": "11",
+                "pj": "12",
                 "pg": "4",
                 "pe": "5",
-                "pp": "2",
+                "pp": "3",
                 "gf": 16,
-                "gc": 10,
-                "dg": 6
+                "gc": 12,
+                "dg": 4
             },
             {
                 "zona": "Grupo B",
@@ -2867,17 +2867,31 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/685.png",
                 "equipo": "Barracas Central",
                 "puntos": "16",
-                "pj": "11",
+                "pj": "12",
                 "pg": "4",
                 "pe": "4",
-                "pp": "3",
-                "gf": 10,
-                "gc": 9,
-                "dg": 1
+                "pp": "4",
+                "gf": 11,
+                "gc": 11,
+                "dg": 0
             },
             {
                 "zona": "Grupo B",
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
+                "equipo": "Sarmiento",
+                "puntos": "16",
+                "pj": "12",
+                "pg": "5",
+                "pe": "1",
+                "pp": "6",
+                "gf": 10,
+                "gc": 12,
+                "dg": -2
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/100.png",
                 "equipo": "Huracán",
                 "puntos": "14",
@@ -2891,7 +2905,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/8.png",
                 "equipo": "Gimnasia",
                 "puntos": "14",
@@ -2905,7 +2919,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/4.png",
                 "equipo": "Banfield",
                 "puntos": "13",
@@ -2916,20 +2930,6 @@
                 "gf": 12,
                 "gc": 13,
                 "dg": -1
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
-                "equipo": "Sarmiento",
-                "puntos": "13",
-                "pj": "11",
-                "pg": "4",
-                "pe": "1",
-                "pp": "6",
-                "gf": 8,
-                "gc": 11,
-                "dg": -3
             },
             {
                 "zona": "Grupo B",
@@ -2988,6 +2988,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Junior Marabel",
+                "equipo": "Sarmiento",
+                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Fabrizio Sartori",
                 "equipo": "Independiente Riv. (M)",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png",
@@ -3015,12 +3021,6 @@
                 "nombre": "Jordy Caicedo",
                 "equipo": "Huracán",
                 "escudo": "https://statics-files.tycsports.com/escudos/100.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Junior Marabel",
-                "equipo": "Sarmiento",
-                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
                 "goles": 5
             },
             {
