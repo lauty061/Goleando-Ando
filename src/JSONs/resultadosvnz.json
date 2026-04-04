@@ -643,22 +643,22 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "03/04/2026 18:30 HS",
+                "fecha": "03/04/2026 18:30 HS Finalizado",
                 "local": "AFC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11977.png",
                 "visitante": "UCV",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1283.png"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "03/04/2026 20:30 HS",
+                "fecha": "03/04/2026 20:30 HS Finalizado",
                 "local": "CAR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/85.png",
                 "visitante": "MET",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3898.png"
             },
             {
@@ -1165,6 +1165,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
+                "equipo": "UCV",
+                "puntos": "22",
+                "pj": "10",
+                "pg": "7",
+                "pe": "1",
+                "pp": "2",
+                "gf": 21,
+                "gc": 12,
+                "dg": 9
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "equipo": "Dep. La Guaira",
                 "puntos": "20",
@@ -1177,30 +1190,17 @@
                 "dg": 7
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
-                "equipo": "UCV",
-                "puntos": "19",
-                "pj": "9",
-                "pg": "6",
-                "pe": "1",
-                "pp": "2",
-                "gf": 18,
-                "gc": 10,
-                "dg": 8
-            },
-            {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
                 "equipo": "Metropolitanos",
                 "puntos": "18",
-                "pj": "9",
+                "pj": "10",
                 "pg": "5",
                 "pe": "3",
-                "pp": "1",
+                "pp": "2",
                 "gf": 14,
-                "gc": 9,
-                "dg": 5
+                "gc": 10,
+                "dg": 4
             },
             {
                 "posicion": "4",
@@ -1269,6 +1269,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/85.png",
+                "equipo": "Caracas",
+                "puntos": "11",
+                "pj": "10",
+                "pg": "2",
+                "pe": "5",
+                "pp": "3",
+                "gf": 11,
+                "gc": 12,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/495.png",
                 "equipo": "Zamora",
                 "puntos": "11",
@@ -1281,7 +1294,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "equipo": "Rayo Zuliano",
                 "puntos": "11",
@@ -1292,19 +1305,6 @@
                 "gf": 9,
                 "gc": 16,
                 "dg": -7
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/85.png",
-                "equipo": "Caracas",
-                "puntos": "8",
-                "pj": "9",
-                "pg": "1",
-                "pe": "5",
-                "pp": "3",
-                "gf": 10,
-                "gc": 12,
-                "dg": -2
             },
             {
                 "posicion": "12",
@@ -1324,13 +1324,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11977.png",
                 "equipo": "Anzoátegui FC",
                 "puntos": "5",
-                "pj": "9",
+                "pj": "10",
                 "pg": "1",
                 "pe": "2",
-                "pp": "6",
-                "gf": 6,
-                "gc": 14,
-                "dg": -8
+                "pp": "7",
+                "gf": 8,
+                "gc": 17,
+                "dg": -9
             },
             {
                 "posicion": "14",
@@ -1360,6 +1360,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Juan Manuel Cuesta",
+                "equipo": "UCV",
+                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Flabián Londoño",
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
@@ -1369,12 +1375,6 @@
                 "nombre": "Jonathan Cañete",
                 "equipo": "Portuguesa",
                 "escudo": "https://statics-files.tycsports.com/escudos/494.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Juan Manuel Cuesta",
-                "equipo": "UCV",
-                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "goles": 4
             },
             {

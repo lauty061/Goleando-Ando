@@ -723,22 +723,22 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "03/04/2026 17:00 HS",
+                "fecha": "03/04/2026 17:00 HS Finalizado",
                 "local": "BOR",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/957.png",
                 "visitante": "WAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/200.png"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "03/04/2026 20:30 HS",
+                "fecha": "03/04/2026 20:30 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/83.png",
                 "visitante": "CEN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/273.png"
             },
             {
@@ -1231,19 +1231,32 @@
             },
             {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "equipo": "Nacional",
-                "puntos": "16",
-                "pj": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
+                "equipo": "Central Español",
+                "puntos": "17",
+                "pj": "10",
                 "pg": "5",
-                "pe": "1",
+                "pe": "2",
                 "pp": "3",
                 "gf": 14,
-                "gc": 10,
-                "dg": 4
+                "gc": 11,
+                "dg": 3
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
+                "equipo": "Nacional",
+                "puntos": "16",
+                "pj": "10",
+                "pg": "5",
+                "pe": "1",
+                "pp": "4",
+                "gf": 14,
+                "gc": 11,
+                "dg": 3
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "equipo": "Maldonado",
                 "puntos": "16",
@@ -1256,7 +1269,7 @@
                 "dg": 3
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "equipo": "MC Torque",
                 "puntos": "14",
@@ -1269,30 +1282,17 @@
                 "dg": 3
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
-                "equipo": "Central Español",
-                "puntos": "14",
-                "pj": "9",
-                "pg": "4",
-                "pe": "2",
-                "pp": "3",
-                "gf": 13,
-                "gc": 11,
-                "dg": 2
-            },
-            {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "equipo": "Wanderers",
                 "puntos": "14",
-                "pj": "9",
+                "pj": "10",
                 "pg": "4",
                 "pe": "2",
-                "pp": "3",
-                "gf": 10,
-                "gc": 11,
-                "dg": -1
+                "pp": "4",
+                "gf": 11,
+                "gc": 15,
+                "dg": -4
             },
             {
                 "posicion": "8",
@@ -1363,14 +1363,14 @@
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png",
                 "equipo": "Boston River",
-                "puntos": "8",
-                "pj": "9",
-                "pg": "2",
+                "puntos": "11",
+                "pj": "10",
+                "pg": "3",
                 "pe": "2",
                 "pp": "5",
-                "gf": 5,
-                "gc": 10,
-                "dg": -5
+                "gf": 9,
+                "gc": 11,
+                "dg": -2
             },
             {
                 "posicion": "14",

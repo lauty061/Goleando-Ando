@@ -2903,12 +2903,12 @@
             },
             {
                 "fecha_torneo": "Fecha 30",
-                "fecha": "03/04/2026 16:00 HS",
+                "fecha": "03/04/2026 16:00 HS Finalizado",
                 "local": "RAY",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3310.png",
                 "visitante": "ELC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4460.png"
             },
             {
@@ -3948,6 +3948,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/3310.png",
+                "equipo": "Rayo Vallecano",
+                "puntos": "35",
+                "pj": "30",
+                "pg": "8",
+                "pe": "11",
+                "pp": "11",
+                "gf": 29,
+                "gc": 35,
+                "dg": -6
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/42.png",
                 "equipo": "Valencia",
                 "puntos": "35",
@@ -3960,7 +3973,7 @@
                 "dg": -10
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/4608.png",
                 "equipo": "Girona",
                 "puntos": "34",
@@ -3971,19 +3984,6 @@
                 "gf": 31,
                 "gc": 44,
                 "dg": -13
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/3310.png",
-                "equipo": "Rayo Vallecano",
-                "puntos": "32",
-                "pj": "29",
-                "pg": "7",
-                "pe": "11",
-                "pp": "11",
-                "gf": 28,
-                "gc": 35,
-                "dg": -7
             },
             {
                 "posicion": "15",
@@ -4016,13 +4016,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
                 "equipo": "Elche",
                 "puntos": "29",
-                "pj": "29",
+                "pj": "30",
                 "pg": "6",
                 "pe": "11",
-                "pp": "12",
+                "pp": "13",
                 "gf": 38,
-                "gc": 46,
-                "dg": -8
+                "gc": 47,
+                "dg": -9
             },
             {
                 "posicion": "18",

@@ -1483,22 +1483,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "03/04/2026 20:20 HS",
+                "fecha": "03/04/2026 20:20 HS Finalizado",
                 "local": "FOR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3209.png",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/597.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "03/04/2026 22:30 HS",
+                "fecha": "03/04/2026 22:30 HS Finalizado",
                 "local": "JUN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/81.png",
                 "visitante": "CAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/111.png"
             },
             {
@@ -2100,13 +2100,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png",
                 "equipo": "Junior",
                 "puntos": "25",
-                "pj": "14",
+                "pj": "15",
                 "pg": "8",
                 "pe": "1",
-                "pp": "5",
-                "gf": 20,
-                "gc": 18,
-                "dg": 2
+                "pp": "6",
+                "gf": 21,
+                "gc": 20,
+                "dg": 1
             },
             {
                 "posicion": "6",
@@ -2123,6 +2123,32 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/111.png",
+                "equipo": "Deportivo Cali",
+                "puntos": "22",
+                "pj": "15",
+                "pg": "6",
+                "pe": "4",
+                "pp": "5",
+                "gf": 17,
+                "gc": 13,
+                "dg": 4
+            },
+            {
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/597.png",
+                "equipo": "Int. de Bogotá",
+                "puntos": "22",
+                "pj": "15",
+                "pg": "5",
+                "pe": "7",
+                "pp": "3",
+                "gf": 18,
+                "gc": 20,
+                "dg": -2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png",
                 "equipo": "Millonarios",
                 "puntos": "21",
@@ -2135,20 +2161,7 @@
                 "dg": 8
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/597.png",
-                "equipo": "Int. de Bogotá",
-                "puntos": "21",
-                "pj": "14",
-                "pg": "5",
-                "pe": "6",
-                "pp": "3",
-                "gf": 17,
-                "gc": 19,
-                "dg": -2
-            },
-            {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png",
                 "equipo": "Llaneros FC",
                 "puntos": "20",
@@ -2161,7 +2174,7 @@
                 "dg": 2
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png",
                 "equipo": "Bucaramanga",
                 "puntos": "19",
@@ -2172,19 +2185,6 @@
                 "gf": 17,
                 "gc": 12,
                 "dg": 5
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/111.png",
-                "equipo": "Deportivo Cali",
-                "puntos": "19",
-                "pj": "14",
-                "pg": "5",
-                "pe": "4",
-                "pp": "5",
-                "gf": 15,
-                "gc": 12,
-                "dg": 3
             },
             {
                 "posicion": "12",
@@ -2229,13 +2229,13 @@
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png",
                 "equipo": "Fortaleza FC",
-                "puntos": "15",
-                "pj": "14",
+                "puntos": "16",
+                "pj": "15",
                 "pg": "3",
-                "pe": "6",
+                "pe": "7",
                 "pp": "5",
-                "gf": 16,
-                "gc": 22,
+                "gf": 17,
+                "gc": 23,
                 "dg": -6
             },
             {

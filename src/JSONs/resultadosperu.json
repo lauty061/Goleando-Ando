@@ -723,32 +723,32 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/04/2026 13:00 HS",
+                "fecha": "03/04/2026 13:00 HS Finalizado",
                 "local": "SPC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
                 "visitante": "CVM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11322.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/04/2026 17:00 HS",
+                "fecha": "03/04/2026 17:00 HS Finalizado",
                 "local": "AAT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/103.png",
                 "visitante": "GRA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7569.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/04/2026 20:15 HS",
+                "fecha": "03/04/2026 20:15 HS Finalizado",
                 "local": "CIE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
                 "visitante": "ADT",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10029.png"
             },
             {
@@ -3153,14 +3153,14 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "equipo": "Cienciano",
-                "puntos": "16",
-                "pj": "8",
-                "pg": "5",
+                "puntos": "19",
+                "pj": "9",
+                "pg": "6",
                 "pe": "1",
                 "pp": "2",
-                "gf": 19,
-                "gc": 10,
-                "dg": 9
+                "gf": 22,
+                "gc": 12,
+                "dg": 10
             },
             {
                 "posicion": "4",
@@ -3193,13 +3193,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/92.png",
                 "equipo": "Sporting Cristal",
                 "puntos": "11",
-                "pj": "8",
+                "pj": "9",
                 "pg": "3",
                 "pe": "2",
-                "pp": "3",
-                "gf": 15,
-                "gc": 11,
-                "dg": 4
+                "pp": "4",
+                "gf": 16,
+                "gc": 13,
+                "dg": 3
             },
             {
                 "posicion": "7",
@@ -3216,6 +3216,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/103.png",
+                "equipo": "Alianza Atlético",
+                "puntos": "11",
+                "pj": "9",
+                "pg": "2",
+                "pe": "5",
+                "pp": "2",
+                "gf": 9,
+                "gc": 8,
+                "dg": 1
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/4950.png",
                 "equipo": "Com. Unidos",
                 "puntos": "11",
@@ -3226,19 +3239,6 @@
                 "gf": 12,
                 "gc": 12,
                 "dg": 0
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/103.png",
-                "equipo": "Alianza Atlético",
-                "puntos": "10",
-                "pj": "8",
-                "pg": "2",
-                "pe": "4",
-                "pp": "2",
-                "gf": 7,
-                "gc": 6,
-                "dg": 1
             },
             {
                 "posicion": "10",
@@ -3268,19 +3268,32 @@
             },
             {
                 "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
-                "equipo": "ADT de Tarma",
-                "puntos": "9",
-                "pj": "8",
-                "pg": "2",
-                "pe": "3",
-                "pp": "3",
-                "gf": 7,
-                "gc": 9,
-                "dg": -2
+                "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
+                "equipo": "Moquegua",
+                "puntos": "10",
+                "pj": "9",
+                "pg": "3",
+                "pe": "1",
+                "pp": "5",
+                "gf": 8,
+                "gc": 15,
+                "dg": -7
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
+                "equipo": "ADT de Tarma",
+                "puntos": "9",
+                "pj": "9",
+                "pg": "2",
+                "pe": "3",
+                "pp": "4",
+                "gf": 9,
+                "gc": 12,
+                "dg": -3
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/205.png",
                 "equipo": "Sport Boys",
                 "puntos": "8",
@@ -3293,7 +3306,7 @@
                 "dg": -3
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
                 "equipo": "Deportivo Garcilaso",
                 "puntos": "7",
@@ -3306,7 +3319,7 @@
                 "dg": -2
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "7",
@@ -3319,29 +3332,16 @@
                 "dg": -4
             },
             {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
-                "equipo": "Moquegua",
-                "puntos": "7",
-                "pj": "8",
-                "pg": "2",
-                "pe": "1",
-                "pp": "5",
-                "gf": 6,
-                "gc": 14,
-                "dg": -8
-            },
-            {
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
                 "equipo": "Grau",
-                "puntos": "6",
-                "pj": "8",
+                "puntos": "7",
+                "pj": "9",
                 "pg": "1",
-                "pe": "3",
+                "pe": "4",
                 "pp": "4",
-                "gf": 3,
-                "gc": 8,
+                "gf": 5,
+                "gc": 10,
                 "dg": -5
             },
             {
@@ -3363,12 +3363,18 @@
                 "nombre": "Carlos Garcés",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 7
+                "goles": 8
             },
             {
                 "nombre": "Hernán Barcos",
                 "equipo": "FC Cajamarca",
                 "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
+                "goles": 7
+            },
+            {
+                "nombre": "Alejandro Hohberg",
+                "equipo": "Cienciano",
+                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "goles": 7
             },
             {
@@ -3381,12 +3387,6 @@
                 "nombre": "Abdiel Ayarza",
                 "equipo": "Los Chankas",
                 "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Alejandro Hohberg",
-                "equipo": "Cienciano",
-                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "goles": 5
             },
             {
