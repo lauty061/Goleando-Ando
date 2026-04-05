@@ -743,32 +743,32 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "04/04/2026 10:00 HS",
+                "fecha": "04/04/2026 10:00 HS Finalizado",
                 "local": "RCM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/964.png",
                 "visitante": "JUV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/771.png"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "04/04/2026 15:30 HS",
+                "fecha": "04/04/2026 15:30 HS Finalizado",
                 "local": "DAN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/72.png",
                 "visitante": "MCT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4043.png"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "04/04/2026 19:00 HS",
+                "fecha": "04/04/2026 19:00 HS Finalizado",
                 "local": "PRO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/510.png",
                 "visitante": "PEÑ",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/98.png"
             },
             {
@@ -1207,27 +1207,27 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/964.png",
                 "equipo": "Racing (U)",
-                "puntos": "20",
-                "pj": "9",
-                "pg": "6",
+                "puntos": "23",
+                "pj": "10",
+                "pg": "7",
                 "pe": "2",
                 "pp": "1",
-                "gf": 16,
-                "gc": 8,
-                "dg": 8
+                "gf": 18,
+                "gc": 9,
+                "dg": 9
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "equipo": "Peñarol",
-                "puntos": "19",
-                "pj": "9",
-                "pg": "6",
+                "puntos": "22",
+                "pj": "10",
+                "pg": "7",
                 "pe": "1",
                 "pp": "2",
-                "gf": 15,
+                "gf": 17,
                 "gc": 8,
-                "dg": 7
+                "dg": 9
             },
             {
                 "posicion": "3",
@@ -1272,13 +1272,13 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "equipo": "MC Torque",
-                "puntos": "14",
-                "pj": "9",
+                "puntos": "15",
+                "pj": "10",
                 "pg": "4",
-                "pe": "2",
+                "pe": "3",
                 "pp": "3",
-                "gf": 13,
-                "gc": 10,
+                "gf": 14,
+                "gc": 11,
                 "dg": 3
             },
             {
@@ -1322,6 +1322,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
+                "equipo": "Danubio",
+                "puntos": "13",
+                "pj": "10",
+                "pg": "3",
+                "pe": "4",
+                "pp": "3",
+                "gf": 12,
+                "gc": 13,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "equipo": "Albion",
                 "puntos": "12",
@@ -1332,19 +1345,6 @@
                 "gf": 11,
                 "gc": 10,
                 "dg": 1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
-                "equipo": "Danubio",
-                "puntos": "12",
-                "pj": "9",
-                "pg": "3",
-                "pe": "3",
-                "pp": "3",
-                "gf": 11,
-                "gc": 12,
-                "dg": -1
             },
             {
                 "posicion": "12",
@@ -1377,13 +1377,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png",
                 "equipo": "Progreso",
                 "puntos": "7",
-                "pj": "9",
+                "pj": "10",
                 "pg": "1",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 9,
-                "gc": 15,
-                "dg": -6
+                "gc": 17,
+                "dg": -8
             },
             {
                 "posicion": "15",
@@ -1403,13 +1403,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
                 "equipo": "Juventud",
                 "puntos": "4",
-                "pj": "9",
+                "pj": "10",
                 "pg": "1",
                 "pe": "1",
-                "pp": "7",
-                "gf": 8,
-                "gc": 15,
-                "dg": -7
+                "pp": "8",
+                "gf": 9,
+                "gc": 17,
+                "dg": -8
             }
         ],
         "goleadores": [
@@ -1444,6 +1444,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Luis Angulo",
+                "equipo": "Peñarol",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Álvaro López",
                 "equipo": "Albion",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
@@ -1468,15 +1474,9 @@
                 "goles": 3
             },
             {
-                "nombre": "Axel Pandiani",
-                "equipo": "Cerro Largo",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Tomás Verón Lupi",
-                "equipo": "Nacional",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
+                "nombre": "Fernando Mimbacas",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
                 "goles": 3
             }
         ]
