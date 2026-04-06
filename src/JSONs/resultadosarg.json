@@ -1903,32 +1903,32 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "05/04/2026 15:30 HS",
+                "fecha": "05/04/2026 15:30 HS Finalizado",
                 "local": "GIM",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8.png",
                 "visitante": "HUR",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/100.png"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "05/04/2026 18:00 HS",
+                "fecha": "05/04/2026 18:00 HS Finalizado",
                 "local": "RIV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/17.png",
                 "visitante": "BEL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/124.png"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "05/04/2026 20:30 HS",
+                "fecha": "05/04/2026 20:30 HS Finalizado",
                 "local": "CCO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1485.png",
                 "visitante": "NOB",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/13.png"
             },
             {
@@ -2713,13 +2713,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1485.png",
                 "equipo": "C.Córdoba (SE)",
                 "puntos": "12",
-                "pj": "11",
+                "pj": "12",
                 "pg": "3",
                 "pe": "3",
-                "pp": "5",
-                "gf": 5,
-                "gc": 12,
-                "dg": -7
+                "pp": "6",
+                "gf": 6,
+                "gc": 15,
+                "dg": -9
             },
             {
                 "zona": "Grupo A",
@@ -2738,6 +2738,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/13.png",
+                "equipo": "Newell`s",
+                "puntos": "9",
+                "pj": "12",
+                "pg": "2",
+                "pe": "3",
+                "pp": "7",
+                "gf": 10,
+                "gc": 23,
+                "dg": -13
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/788.png",
                 "equipo": "Dep. Riestra",
                 "puntos": "7",
@@ -2748,20 +2762,6 @@
                 "gf": 3,
                 "gc": 9,
                 "dg": -6
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/13.png",
-                "equipo": "Newell`s",
-                "puntos": "6",
-                "pj": "11",
-                "pg": "1",
-                "pe": "3",
-                "pp": "7",
-                "gf": 7,
-                "gc": 22,
-                "dg": -15
             },
             {
                 "zona": "Grupo B",
@@ -2780,6 +2780,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/17.png",
+                "equipo": "River Plate",
+                "puntos": "23",
+                "pj": "12",
+                "pg": "7",
+                "pe": "2",
+                "pp": "3",
+                "gf": 17,
+                "gc": 9,
+                "dg": 8
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/18.png",
                 "equipo": "Rosario Central",
                 "puntos": "21",
@@ -2790,20 +2804,6 @@
                 "gf": 14,
                 "gc": 10,
                 "dg": 4
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/17.png",
-                "equipo": "River Plate",
-                "puntos": "20",
-                "pj": "11",
-                "pg": "6",
-                "pe": "2",
-                "pp": "3",
-                "gf": 14,
-                "gc": 9,
-                "dg": 5
             },
             {
                 "zona": "Grupo B",
@@ -2825,13 +2825,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/124.png",
                 "equipo": "Belgrano",
                 "puntos": "19",
-                "pj": "11",
+                "pj": "12",
                 "pg": "5",
                 "pe": "4",
-                "pp": "2",
+                "pp": "3",
                 "gf": 12,
-                "gc": 9,
-                "dg": 3
+                "gc": 12,
+                "dg": 0
             },
             {
                 "zona": "Grupo B",
@@ -2864,6 +2864,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/100.png",
+                "equipo": "Huracán",
+                "puntos": "17",
+                "pj": "12",
+                "pg": "4",
+                "pe": "5",
+                "pp": "3",
+                "gf": 12,
+                "gc": 9,
+                "dg": 3
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/685.png",
                 "equipo": "Barracas Central",
                 "puntos": "16",
@@ -2877,7 +2891,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png",
                 "equipo": "Sarmiento",
                 "puntos": "16",
@@ -2891,31 +2905,17 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/100.png",
-                "equipo": "Huracán",
-                "puntos": "14",
-                "pj": "11",
-                "pg": "3",
-                "pe": "5",
-                "pp": "3",
-                "gf": 9,
-                "gc": 9,
-                "dg": 0
-            },
-            {
-                "zona": "Grupo B",
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/8.png",
                 "equipo": "Gimnasia",
                 "puntos": "14",
-                "pj": "11",
+                "pj": "12",
                 "pg": "4",
                 "pe": "2",
-                "pp": "5",
+                "pp": "6",
                 "gf": 13,
-                "gc": 15,
-                "dg": -2
+                "gc": 18,
+                "dg": -5
             },
             {
                 "zona": "Grupo B",
@@ -3000,6 +3000,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Jordy Caicedo",
+                "equipo": "Huracán",
+                "escudo": "https://statics-files.tycsports.com/escudos/100.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Fabrizio Sartori",
                 "equipo": "Independiente Riv. (M)",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png",
@@ -3015,12 +3021,6 @@
                 "nombre": "Dylan Aquino",
                 "equipo": "Lanús",
                 "escudo": "https://statics-files.tycsports.com/escudos/12.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Jordy Caicedo",
-                "equipo": "Huracán",
-                "escudo": "https://statics-files.tycsports.com/escudos/100.png",
                 "goles": 5
             },
             {

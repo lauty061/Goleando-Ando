@@ -963,32 +963,32 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "05/04/2026 15:30 HS",
+                "fecha": "05/04/2026 15:30 HS Finalizado",
                 "local": "COM",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/673.png",
                 "visitante": "SMB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/697.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "05/04/2026 15:30 HS",
+                "fecha": "05/04/2026 15:30 HS Finalizado",
                 "local": "DSU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/688.png",
                 "visitante": "ITA",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/677.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "05/04/2026 18:00 HS",
+                "fecha": "05/04/2026 18:00 HS Finalizado",
                 "local": "MER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/678.png",
                 "visitante": "CAM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1602.png"
             },
             {
@@ -4827,6 +4827,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/677.png",
+                "equipo": "Sp. Italiano",
+                "puntos": "17",
+                "pj": "8",
+                "pg": "5",
+                "pe": "2",
+                "pp": "1",
+                "gf": 11,
+                "gc": 6,
+                "dg": 5
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/683.png",
                 "equipo": "Argentino de M.",
                 "puntos": "16",
@@ -4837,19 +4850,6 @@
                 "gf": 8,
                 "gc": 3,
                 "dg": 5
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/677.png",
-                "equipo": "Sp. Italiano",
-                "puntos": "14",
-                "pj": "7",
-                "pg": "4",
-                "pe": "2",
-                "pp": "1",
-                "gf": 8,
-                "gc": 5,
-                "dg": 3
             },
             {
                 "posicion": "7",
@@ -4866,32 +4866,45 @@
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
-                "equipo": "Camioneros",
-                "puntos": "11",
-                "pj": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/697.png",
+                "equipo": "S. Martín B.",
+                "puntos": "13",
+                "pj": "8",
                 "pg": "3",
-                "pe": "2",
-                "pp": "2",
-                "gf": 6,
-                "gc": 5,
-                "dg": 1
+                "pe": "4",
+                "pp": "1",
+                "gf": 13,
+                "gc": 6,
+                "dg": 7
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
-                "equipo": "Comunicaciones",
-                "puntos": "11",
-                "pj": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
+                "equipo": "Camioneros",
+                "puntos": "12",
+                "pj": "8",
                 "pg": "3",
-                "pe": "2",
+                "pe": "3",
                 "pp": "2",
-                "gf": 5,
-                "gc": 5,
-                "dg": 0
+                "gf": 7,
+                "gc": 6,
+                "dg": 1
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
+                "equipo": "Comunicaciones",
+                "puntos": "11",
+                "pj": "8",
+                "pg": "3",
+                "pe": "2",
+                "pp": "3",
+                "gf": 5,
+                "gc": 6,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/783.png",
                 "equipo": "Liniers",
                 "puntos": "11",
@@ -4902,19 +4915,6 @@
                 "gf": 8,
                 "gc": 10,
                 "dg": -2
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/697.png",
-                "equipo": "S. Martín B.",
-                "puntos": "10",
-                "pj": "7",
-                "pg": "2",
-                "pe": "4",
-                "pp": "1",
-                "gf": 12,
-                "gc": 6,
-                "dg": 6
             },
             {
                 "posicion": "12",
@@ -4946,13 +4946,13 @@
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/678.png",
                 "equipo": "Dep. Merlo",
-                "puntos": "8",
-                "pj": "7",
+                "puntos": "9",
+                "pj": "8",
                 "pg": "2",
-                "pe": "2",
+                "pe": "3",
                 "pp": "3",
-                "gf": 7,
-                "gc": 10,
+                "gf": 8,
+                "gc": 11,
                 "dg": -3
             },
             {
@@ -4983,21 +4983,21 @@
             },
             {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/688.png",
-                "equipo": "Dock Sud",
+                "escudo": "https://statics-files.tycsports.com/escudos/773.png",
+                "equipo": "Arg. de Quilmes",
                 "puntos": "6",
-                "pj": "7",
+                "pj": "8",
                 "pg": "1",
                 "pe": "3",
-                "pp": "3",
-                "gf": 6,
-                "gc": 7,
-                "dg": -1
+                "pp": "4",
+                "gf": 7,
+                "gc": 10,
+                "dg": -3
             },
             {
                 "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/773.png",
-                "equipo": "Arg. de Quilmes",
+                "escudo": "https://statics-files.tycsports.com/escudos/688.png",
+                "equipo": "Dock Sud",
                 "puntos": "6",
                 "pj": "8",
                 "pg": "1",
@@ -5092,6 +5092,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Ignacio Huguenet",
+                "equipo": "Camioneros",
+                "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Mathías Crocco",
                 "equipo": "Real Pilar",
                 "escudo": "https://statics-files.tycsports.com/escudos/7234.png",
@@ -5110,21 +5116,15 @@
                 "goles": 3
             },
             {
+                "nombre": "Máximo Guzmán",
+                "equipo": "Sp. Italiano",
+                "escudo": "https://statics-files.tycsports.com/escudos/677.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Nazareno Diósquez",
                 "equipo": "Flandria",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Gonzalo Gómez",
-                "equipo": "Dock Sud",
-                "escudo": "https://statics-files.tycsports.com/escudos/688.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Matias Samaniego",
-                "equipo": "Talleres (RE)",
-                "escudo": "https://statics-files.tycsports.com/escudos/681.png",
                 "goles": 3
             }
         ]

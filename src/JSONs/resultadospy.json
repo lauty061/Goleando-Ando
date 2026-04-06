@@ -873,22 +873,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "05/04/2026 18:30 HS",
+                "fecha": "05/04/2026 18:30 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png",
                 "visitante": "LUQ",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/213.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "05/04/2026 20:30 HS",
+                "fecha": "05/04/2026 20:30 HS Finalizado",
                 "local": "GUA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/115.png",
                 "visitante": "LIB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png"
             },
             {
@@ -1351,6 +1351,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "equipo": "Sp. Ameliano",
+                "puntos": "24",
+                "pj": "15",
+                "pg": "6",
+                "pe": "6",
+                "pp": "3",
+                "gf": 18,
+                "gc": 12,
+                "dg": 6
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "equipo": "Nacional (P)",
                 "puntos": "24",
@@ -1363,33 +1376,33 @@
                 "dg": 5
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "equipo": "Sp. Ameliano",
-                "puntos": "23",
-                "pj": "14",
-                "pg": "6",
-                "pe": "5",
-                "pp": "3",
-                "gf": 16,
-                "gc": 10,
-                "dg": 6
-            },
-            {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
-                "equipo": "Libertad",
-                "puntos": "20",
-                "pj": "14",
-                "pg": "6",
-                "pe": "2",
-                "pp": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
+                "equipo": "Guaraní",
+                "puntos": "21",
+                "pj": "15",
+                "pg": "5",
+                "pe": "6",
+                "pp": "4",
                 "gf": 21,
-                "gc": 15,
-                "dg": 6
+                "gc": 16,
+                "dg": 5
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
+                "equipo": "Libertad",
+                "puntos": "20",
+                "pj": "15",
+                "pg": "6",
+                "pe": "2",
+                "pp": "7",
+                "gf": 21,
+                "gc": 16,
+                "dg": 5
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "equipo": "Trinidense",
                 "puntos": "19",
@@ -1402,7 +1415,7 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "equipo": "D. Recoleta",
                 "puntos": "19",
@@ -1413,19 +1426,6 @@
                 "gf": 20,
                 "gc": 20,
                 "dg": 0
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png",
-                "equipo": "Guaraní",
-                "puntos": "18",
-                "pj": "14",
-                "pg": "4",
-                "pe": "6",
-                "pp": "4",
-                "gf": 20,
-                "gc": 16,
-                "dg": 4
             },
             {
                 "posicion": "9",
@@ -1457,13 +1457,13 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png",
                 "equipo": "Sportivo Luqueño",
-                "puntos": "11",
-                "pj": "14",
+                "puntos": "12",
+                "pj": "15",
                 "pg": "3",
-                "pe": "2",
+                "pe": "3",
                 "pp": "9",
-                "gf": 14,
-                "gc": 22,
+                "gf": 16,
+                "gc": 24,
                 "dg": -8
             },
             {
@@ -1488,6 +1488,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Iván Maggi",
+                "equipo": "Sportivo Luqueño",
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Aldo González",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
@@ -1503,12 +1509,6 @@
                 "nombre": "Adrián Alcaraz",
                 "equipo": "Olimpia",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Iván Maggi",
-                "equipo": "Sportivo Luqueño",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png",
                 "goles": 6
             },
             {

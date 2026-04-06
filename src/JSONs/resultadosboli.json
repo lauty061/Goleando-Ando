@@ -63,22 +63,22 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "05/04/2026 16:00 HS",
+                "fecha": "05/04/2026 16:00 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png",
                 "visitante": "ABB",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12012.png"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "05/04/2026 18:15 HS",
+                "fecha": "05/04/2026 18:15 HS Finalizado",
                 "local": "TIN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png",
                 "visitante": "STR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png"
             },
             {
@@ -2470,6 +2470,32 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "equipo": "The Strongest",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
+                "equipo": "ABB",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png",
                 "equipo": "Real Potosí",
                 "puntos": "1",
@@ -2482,7 +2508,7 @@
                 "dg": 0
             },
             {
-                "posicion": "7",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png",
                 "equipo": "Aurora",
                 "puntos": "1",
@@ -2495,56 +2521,30 @@
                 "dg": 0
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
-                "equipo": "The Strongest",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "0",
-                "pj": "0",
+                "pj": "1",
                 "pg": "0",
                 "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
-                "equipo": "ABB",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "pp": "1",
+                "gf": 1,
+                "gc": 2,
+                "dg": -1
             },
             {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "equipo": "GV San José",
                 "puntos": "0",
-                "pj": "0",
+                "pj": "1",
                 "pg": "0",
                 "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "pp": "1",
+                "gf": 1,
+                "gc": 2,
+                "dg": -1
             },
             {
                 "posicion": "12",
@@ -2638,6 +2638,12 @@
                 "goles": 1
             },
             {
+                "nombre": "Santiago Arce",
+                "equipo": "The Strongest",
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "goles": 1
+            },
+            {
                 "nombre": "José Briceño",
                 "equipo": "San Antonio Bulo Bulo",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
@@ -2650,6 +2656,18 @@
                 "goles": 1
             },
             {
+                "nombre": "Guilder Cuéllar",
+                "equipo": "Universitario de Vinto",
+                "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Juan Ignacio Goyeneche",
+                "equipo": "GV San José",
+                "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Diego Hoyos",
                 "equipo": "Nacional Potosí",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
@@ -2659,24 +2677,6 @@
                 "nombre": "Roberto Melgar",
                 "equipo": "Blooming",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "goles": 1
-            },
-            {
-                "nombre": "César Menacho",
-                "equipo": "Blooming",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Luis Pavía",
-                "equipo": "Nacional Potosí",
-                "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Carlos Ribera",
-                "equipo": "Totora Real Oruro",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
                 "goles": 1
             }
         ]

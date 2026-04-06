@@ -693,12 +693,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "05/04/2026 18:00 HS",
+                "fecha": "05/04/2026 18:00 HS Finalizado",
                 "local": "EST",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/224.png",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/494.png"
             },
             {
@@ -1217,6 +1217,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/224.png",
+                "equipo": "Estudiantes",
+                "puntos": "14",
+                "pj": "10",
+                "pg": "4",
+                "pe": "2",
+                "pp": "4",
+                "gf": 16,
+                "gc": 14,
+                "dg": 2
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/495.png",
                 "equipo": "Zamora",
                 "puntos": "14",
@@ -1229,7 +1242,7 @@
                 "dg": 0
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "equipo": "Rayo Zuliano",
                 "puntos": "14",
@@ -1242,7 +1255,7 @@
                 "dg": -5
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/223.png",
                 "equipo": "Carabobo",
                 "puntos": "13",
@@ -1253,19 +1266,6 @@
                 "gf": 12,
                 "gc": 7,
                 "dg": 5
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
-                "equipo": "Portuguesa",
-                "puntos": "13",
-                "pj": "9",
-                "pg": "3",
-                "pe": "4",
-                "pp": "2",
-                "gf": 13,
-                "gc": 10,
-                "dg": 3
             },
             {
                 "posicion": "9",
@@ -1282,16 +1282,16 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/224.png",
-                "equipo": "Estudiantes",
-                "puntos": "11",
-                "pj": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
+                "equipo": "Portuguesa",
+                "puntos": "13",
+                "pj": "10",
                 "pg": "3",
-                "pe": "2",
-                "pp": "4",
+                "pe": "4",
+                "pp": "3",
                 "gf": 14,
-                "gc": 13,
-                "dg": 1
+                "gc": 12,
+                "dg": 2
             },
             {
                 "posicion": "11",
@@ -1351,7 +1351,7 @@
                 "nombre": "Kevin Quejada",
                 "equipo": "Estudiantes Mérida",
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png",
-                "goles": 8
+                "goles": 9
             },
             {
                 "nombre": "Jovanny Bolívar",
