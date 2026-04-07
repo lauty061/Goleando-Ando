@@ -193,12 +193,12 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "06/04/2026 22:10 HS",
+                "fecha": "06/04/2026 22:10 HS Finalizado",
                 "local": "ATN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/105.png",
                 "visitante": "JAG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1655.png"
             },
             {
@@ -593,12 +593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "06/04/2026 17:45 HS",
+                "fecha": "06/04/2026 17:45 HS Finalizado",
                 "local": "PER",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/181.png",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/921.png"
             },
             {
@@ -2047,14 +2047,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png",
                 "equipo": "At. Nacional",
-                "puntos": "31",
-                "pj": "14",
-                "pg": "10",
+                "puntos": "34",
+                "pj": "15",
+                "pg": "11",
                 "pe": "1",
                 "pp": "3",
-                "gf": 28,
-                "gc": 10,
-                "dg": 18
+                "gf": 30,
+                "gc": 11,
+                "dg": 19
             },
             {
                 "posicion": "2",
@@ -2253,29 +2253,29 @@
             },
             {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/1655.png",
-                "equipo": "Jaguares",
-                "puntos": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/921.png",
+                "equipo": "Alianza FC",
+                "puntos": "15",
                 "pj": "15",
-                "pg": "4",
-                "pe": "2",
-                "pp": "9",
-                "gf": 13,
-                "gc": 26,
-                "dg": -13
+                "pg": "3",
+                "pe": "6",
+                "pp": "6",
+                "gf": 10,
+                "gc": 22,
+                "dg": -12
             },
             {
                 "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/921.png",
-                "equipo": "Alianza FC",
-                "puntos": "12",
-                "pj": "14",
-                "pg": "2",
-                "pe": "6",
-                "pp": "6",
-                "gf": 7,
-                "gc": 20,
-                "dg": -13
+                "escudo": "https://statics-files.tycsports.com/escudos/1655.png",
+                "equipo": "Jaguares",
+                "puntos": "14",
+                "pj": "16",
+                "pg": "4",
+                "pe": "2",
+                "pp": "10",
+                "gf": 14,
+                "gc": 28,
+                "dg": -14
             },
             {
                 "posicion": "19",
@@ -2295,13 +2295,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png",
                 "equipo": "Pereira",
                 "puntos": "6",
-                "pj": "14",
+                "pj": "15",
                 "pg": "0",
                 "pe": "6",
-                "pp": "8",
-                "gf": 12,
-                "gc": 26,
-                "dg": -14
+                "pp": "9",
+                "gf": 14,
+                "gc": 29,
+                "dg": -15
             }
         ],
         "goleadores": []
