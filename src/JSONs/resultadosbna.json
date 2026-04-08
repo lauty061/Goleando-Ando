@@ -1433,12 +1433,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "07/04/2026 21:00 HS",
+                "fecha": "07/04/2026 21:00 HS Finalizado",
                 "local": "ATL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/670.png",
                 "visitante": "CHI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/128.png"
             },
             {
@@ -6762,6 +6762,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/128.png",
+                "equipo": "Nueva Chicago",
+                "puntos": "14",
+                "pj": "7",
+                "pg": "4",
+                "pe": "2",
+                "pp": "1",
+                "gf": 8,
+                "gc": 4,
+                "dg": 4
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/138.png",
                 "equipo": "Def. de Belgrano",
                 "puntos": "13",
@@ -6775,7 +6789,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png",
                 "equipo": "Godoy Cruz",
                 "puntos": "13",
@@ -6789,7 +6803,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
                 "puntos": "12",
@@ -6803,7 +6817,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png",
                 "equipo": "San Martín (T)",
                 "puntos": "11",
@@ -6813,20 +6827,6 @@
                 "pp": "0",
                 "gf": 8,
                 "gc": 5,
-                "dg": 3
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/128.png",
-                "equipo": "Nueva Chicago",
-                "puntos": "11",
-                "pj": "6",
-                "pg": "3",
-                "pe": "2",
-                "pp": "1",
-                "gf": 6,
-                "gc": 3,
                 "dg": 3
             },
             {
@@ -7070,20 +7070,6 @@
             {
                 "zona": "Posiciones",
                 "posicion": "27",
-                "escudo": "https://statics-files.tycsports.com/escudos/670.png",
-                "equipo": "Atlanta",
-                "puntos": "7",
-                "pj": "6",
-                "pg": "2",
-                "pe": "1",
-                "pp": "3",
-                "gf": 5,
-                "gc": 5,
-                "dg": 0
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "28",
                 "escudo": "https://statics-files.tycsports.com/escudos/134.png",
                 "equipo": "San Martín (SJ)",
                 "puntos": "7",
@@ -7091,6 +7077,20 @@
                 "pg": "1",
                 "pe": "4",
                 "pp": "2",
+                "gf": 6,
+                "gc": 7,
+                "dg": -1
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "28",
+                "escudo": "https://statics-files.tycsports.com/escudos/670.png",
+                "equipo": "Atlanta",
+                "puntos": "7",
+                "pj": "7",
+                "pg": "2",
+                "pe": "1",
+                "pp": "4",
                 "gf": 6,
                 "gc": 7,
                 "dg": -1
@@ -7222,6 +7222,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Sebastián Cocimano",
+                "equipo": "Nueva Chicago",
+                "escudo": "https://statics-files.tycsports.com/escudos/128.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Vicente Poggi",
                 "equipo": "Godoy Cruz",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png",
@@ -7249,12 +7255,6 @@
                 "nombre": "Juan Sánchez Sotelo",
                 "equipo": "Güemes (SE)",
                 "escudo": "https://statics-files.tycsports.com/escudos/1489.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Sebastián Cocimano",
-                "equipo": "Nueva Chicago",
-                "escudo": "https://statics-files.tycsports.com/escudos/128.png",
                 "goles": 3
             },
             {

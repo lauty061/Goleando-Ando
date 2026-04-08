@@ -693,12 +693,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "07/04/2026 18:00 HS",
+                "fecha": "07/04/2026 18:00 HS Finalizado",
                 "local": "AGU",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/922.png",
                 "visitante": "BUC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/175.png"
             },
             {
@@ -2136,6 +2136,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/922.png",
+                "equipo": "Águilas Doradas",
+                "puntos": "22",
+                "pj": "15",
+                "pg": "6",
+                "pe": "4",
+                "pp": "5",
+                "gf": 16,
+                "gc": 17,
+                "dg": -1
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png",
                 "equipo": "Int. de Bogotá",
                 "puntos": "22",
@@ -2148,7 +2161,7 @@
                 "dg": -2
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png",
                 "equipo": "Millonarios",
                 "puntos": "21",
@@ -2161,7 +2174,7 @@
                 "dg": 8
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png",
                 "equipo": "Llaneros FC",
                 "puntos": "20",
@@ -2174,20 +2187,20 @@
                 "dg": 2
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png",
                 "equipo": "Bucaramanga",
                 "puntos": "19",
-                "pj": "14",
+                "pj": "15",
                 "pg": "4",
                 "pe": "7",
-                "pp": "3",
-                "gf": 17,
-                "gc": 12,
-                "dg": 5
+                "pp": "4",
+                "gf": 18,
+                "gc": 14,
+                "dg": 4
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/183.png",
                 "equipo": "Santa Fe",
                 "puntos": "19",
@@ -2198,19 +2211,6 @@
                 "gf": 18,
                 "gc": 19,
                 "dg": -1
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/922.png",
-                "equipo": "Águilas Doradas",
-                "puntos": "19",
-                "pj": "14",
-                "pg": "5",
-                "pe": "4",
-                "pp": "5",
-                "gf": 14,
-                "gc": 16,
-                "dg": -2
             },
             {
                 "posicion": "14",
