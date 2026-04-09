@@ -1253,12 +1253,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "08/04/2026 20:00 HS",
+                "fecha": "08/04/2026 20:00 HS Finalizado",
                 "local": "MID",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/785.png",
                 "visitante": "ACA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/667.png"
             },
             {
@@ -6804,6 +6804,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/785.png",
+                "equipo": "Midland",
+                "puntos": "12",
+                "pj": "7",
+                "pg": "3",
+                "pe": "3",
+                "pp": "1",
+                "gf": 6,
+                "gc": 3,
+                "dg": 3
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
                 "puntos": "12",
@@ -6817,7 +6831,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png",
                 "equipo": "San Martín (T)",
                 "puntos": "11",
@@ -6831,7 +6845,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/865.png",
                 "equipo": "Gimnasia y Tiro",
                 "puntos": "11",
@@ -6845,7 +6859,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/99.png",
                 "equipo": "Atlético Rafaela",
                 "puntos": "11",
@@ -6859,7 +6873,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/141.png",
                 "equipo": "Racing (Cba)",
                 "puntos": "11",
@@ -6873,7 +6887,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png",
                 "equipo": "Quilmes",
                 "puntos": "10",
@@ -6887,7 +6901,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/874.png",
                 "equipo": "Dep. Madryn",
                 "puntos": "9",
@@ -6901,7 +6915,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/140.png",
                 "equipo": "Los Andes",
                 "puntos": "9",
@@ -6915,7 +6929,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/10612.png",
                 "equipo": "Ciudad Bolívar",
                 "puntos": "9",
@@ -6923,20 +6937,6 @@
                 "pg": "1",
                 "pe": "6",
                 "pp": "0",
-                "gf": 5,
-                "gc": 3,
-                "dg": 2
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/785.png",
-                "equipo": "Midland",
-                "puntos": "9",
-                "pj": "6",
-                "pg": "2",
-                "pe": "3",
-                "pp": "1",
                 "gf": 5,
                 "gc": 3,
                 "dg": 2
@@ -6958,20 +6958,6 @@
             {
                 "zona": "Posiciones",
                 "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/667.png",
-                "equipo": "Acassuso",
-                "puntos": "9",
-                "pj": "6",
-                "pg": "3",
-                "pe": "0",
-                "pp": "3",
-                "gf": 8,
-                "gc": 8,
-                "dg": 0
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/131.png",
                 "equipo": "Ferro",
                 "puntos": "9",
@@ -6985,7 +6971,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "21",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/668.png",
                 "equipo": "All Boys",
                 "puntos": "9",
@@ -6996,6 +6982,20 @@
                 "gf": 4,
                 "gc": 4,
                 "dg": 0
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "21",
+                "escudo": "https://statics-files.tycsports.com/escudos/667.png",
+                "equipo": "Acassuso",
+                "puntos": "9",
+                "pj": "7",
+                "pg": "3",
+                "pe": "0",
+                "pp": "4",
+                "gf": 8,
+                "gc": 9,
+                "dg": -1
             },
             {
                 "zona": "Posiciones",

@@ -1940,12 +1940,12 @@
             {
                 "fase": "Cuartos de Final",
                 "jornada": "Llave 1",
-                "fecha_partido": "08/04/2026 16:00 HS",
+                "fecha_partido": "08/04/2026 16:00 HS Finalizado",
                 "local": "PSG",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/566.png"
             },
             {
@@ -1984,12 +1984,12 @@
             {
                 "fase": "Cuartos de Final",
                 "jornada": "Llave 3",
-                "fecha_partido": "08/04/2026 16:00 HS",
+                "fecha_partido": "08/04/2026 16:00 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/31.png",
                 "visitante": "ATM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/29.png"
             },
             {
@@ -2571,28 +2571,34 @@
                 "goles": 10
             },
             {
+                "nombre": "Julián Álvarez",
+                "equipo": "Atlético de Madrid",
+                "escudo": "https://statics-files.tycsports.com/escudos/29.png",
+                "goles": 9
+            },
+            {
+                "nombre": "Khvicha Kvaratskhelia",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Erling Haaland",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
                 "goles": 8
             },
             {
-                "nombre": "Julián Álvarez",
-                "equipo": "Atlético de Madrid",
-                "escudo": "https://statics-files.tycsports.com/escudos/29.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Khvicha Kvaratskhelia",
-                "equipo": "PSG",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
-                "goles": 7
-            },
-            {
                 "nombre": "Victor Osimhen",
                 "equipo": "Galatasaray",
                 "escudo": "https://statics-files.tycsports.com/escudos/1362.png",
                 "goles": 7
+            },
+            {
+                "nombre": "Alexander Sorloth",
+                "equipo": "Atlético de Madrid",
+                "escudo": "https://statics-files.tycsports.com/escudos/29.png",
+                "goles": 6
             },
             {
                 "nombre": "Harvey Barnes",
@@ -2610,12 +2616,6 @@
                 "nombre": "Fermín López",
                 "equipo": "Barcelona",
                 "escudo": "https://statics-files.tycsports.com/escudos/31.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Gabriel Martinelli",
-                "equipo": "Arsenal",
-                "escudo": "https://statics-files.tycsports.com/escudos/558.png",
                 "goles": 6
             }
         ]
