@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,12 +13,17 @@
     <link rel="stylesheet" href="../styles/bracket.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
     <meta property="og:title" content="Goleando Ando ⚽🔥">
-    <meta property="og:description" content="Resultados, tablas y fixtures actualizados de las principales ligas y competencias de fútbol.">
-    <meta property="og:image" content="https://raw.githubusercontent.com/lauty061/Goleando-Ando/refs/heads/main/imgs/metaIcon.png">
+    <meta property="og:description"
+        content="Resultados, tablas y fixtures actualizados de las principales ligas y competencias de fútbol.">
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/lauty061/Goleando-Ando/refs/heads/main/imgs/metaIcon.png">
     <meta property="og:type" content="website">
 </head>
+
 <body class="fondo">
     <header id="main-header"></header>
     <a id="ancla"></a>
@@ -45,7 +51,7 @@
             </div>
             <table id="fixture-table"></table>
         </section>
-        
+
         <section id="posiciones">
             <h2>Tabla de Posiciones</h2>
             <label for="grupo-select">Seleccionar:</label>
@@ -76,10 +82,11 @@
             new LeagueRenderer({
                 jsonPath: "../JSONs/resultadoslib.json",
                 fixtureField: "fecha_torneo",
-                zonasConfig: [{match: 1, class: "zona-oro"}, {match: 2, class: "zona-azul"}]
+                zonasConfig: [{ start: 1, end: 2, class: "zona-oro" }, { match: 3, class: "zona-azul" }]
             });
         });
     </script>
     <script src="../scripts/navScript.js"></script>
 </body>
+
 </html>

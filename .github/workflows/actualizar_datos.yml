@@ -2,7 +2,7 @@ name: Actualizar JSONs de Deportes
 
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.13'
+          python-version: "3.13"
 
       - name: Instalar dependencias
         run: |
@@ -36,16 +36,16 @@ jobs:
       - name: Ejecutar Scraper (Fórmula 1)
         continue-on-error: true
         run: python src/python/scrapingf1.py || echo "Fallo en F1, continuando..."
-        
+
       - name: Ejecutar Scraper (NBA)
         continue-on-error: true
         run: python src/python/scrappernba.py || echo "Fallo en NBA, continuando..."
-        
+
       - name: Hacer commit y push de los cambios
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add src/JSONs/
           # Hacemos commit si hay cambios detectados, de lo contrario no falla
-          git diff-index --quiet HEAD || git commit -m "Actualización automática de resultados deportivos JSON"
+          git diff-index --quiet HEAD || git commit -m "Actualización JSON"
           git push
