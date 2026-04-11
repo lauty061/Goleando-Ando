@@ -643,12 +643,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "10/04/2026 21:00 HS",
+                "fecha": "10/04/2026 21:00 HS Finalizado",
                 "local": "OHI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/264.png",
                 "visitante": "HUA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png"
             },
             {
@@ -2431,6 +2431,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
+                "equipo": "Huachipato",
+                "puntos": "15",
+                "pj": "9",
+                "pg": "5",
+                "pe": "0",
+                "pp": "4",
+                "gf": 15,
+                "gc": 12,
+                "dg": 3
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "equipo": "U. Católica",
                 "puntos": "14",
@@ -2443,7 +2456,7 @@
                 "dg": 8
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "equipo": "U. de Chile",
                 "puntos": "13",
@@ -2456,7 +2469,7 @@
                 "dg": 5
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png",
                 "equipo": "Ñublense",
                 "puntos": "13",
@@ -2469,30 +2482,17 @@
                 "dg": 3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "equipo": "O'Higgins",
                 "puntos": "13",
-                "pj": "8",
+                "pj": "9",
                 "pg": "4",
                 "pe": "1",
-                "pp": "3",
-                "gf": 12,
-                "gc": 12,
-                "dg": 0
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
-                "equipo": "Huachipato",
-                "puntos": "12",
-                "pj": "8",
-                "pg": "4",
-                "pe": "0",
                 "pp": "4",
-                "gf": 13,
-                "gc": 12,
-                "dg": 1
+                "gf": 12,
+                "gc": 14,
+                "dg": -2
             },
             {
                 "posicion": "8",
@@ -2668,16 +2668,16 @@
                 "goles": 3
             },
             {
+                "nombre": "Cris Martínez",
+                "equipo": "Huachipato",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Ignacio Jeraldino",
                 "equipo": "Ñublense",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png",
                 "goles": 3
-            },
-            {
-                "nombre": "Eduardo Vargas",
-                "equipo": "Universidad de Chile",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
-                "goles": 2
             }
         ]
     }

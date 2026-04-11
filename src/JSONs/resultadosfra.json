@@ -2523,22 +2523,22 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "10/04/2026 14:00 HS",
+                "fecha": "10/04/2026 14:00 HS Finalizado",
                 "local": "PAR",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4360.png",
                 "visitante": "MON",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1727.png"
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "10/04/2026 16:05 HS",
+                "fecha": "10/04/2026 16:05 HS Finalizado",
                 "local": "MAR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/793.png",
                 "visitante": "MET",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5134.png"
             },
             {
@@ -3091,6 +3091,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/793.png",
+                "equipo": "O. Marsella",
+                "puntos": "52",
+                "pj": "29",
+                "pg": "16",
+                "pe": "4",
+                "pp": "9",
+                "gf": 58,
+                "gc": 38,
+                "dg": 20
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png",
                 "equipo": "Lille",
                 "puntos": "50",
@@ -3103,30 +3116,17 @@
                 "dg": 11
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/793.png",
-                "equipo": "O. Marsella",
-                "puntos": "49",
-                "pj": "28",
-                "pg": "15",
-                "pe": "4",
-                "pp": "9",
-                "gf": 55,
-                "gc": 37,
-                "dg": 18
-            },
-            {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1727.png",
                 "equipo": "Mónaco",
                 "puntos": "49",
-                "pj": "28",
+                "pj": "29",
                 "pg": "15",
                 "pe": "4",
-                "pp": "9",
-                "gf": 49,
-                "gc": 39,
-                "dg": 10
+                "pp": "10",
+                "gf": 50,
+                "gc": 43,
+                "dg": 7
             },
             {
                 "posicion": "6",
@@ -3208,6 +3208,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/4360.png",
+                "equipo": "Paris FC",
+                "puntos": "35",
+                "pj": "29",
+                "pg": "8",
+                "pe": "11",
+                "pp": "10",
+                "gf": 37,
+                "gc": 45,
+                "dg": -8
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/5693.png",
                 "equipo": "Angers",
                 "puntos": "33",
@@ -3218,19 +3231,6 @@
                 "gf": 24,
                 "gc": 37,
                 "dg": -13
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/4360.png",
-                "equipo": "Paris FC",
-                "puntos": "32",
-                "pj": "28",
-                "pg": "7",
-                "pe": "11",
-                "pp": "10",
-                "gf": 33,
-                "gc": 44,
-                "dg": -11
             },
             {
                 "posicion": "14",
@@ -3289,13 +3289,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/5134.png",
                 "equipo": "Metz",
                 "puntos": "15",
-                "pj": "28",
+                "pj": "29",
                 "pg": "3",
                 "pe": "6",
-                "pp": "19",
-                "gf": 25,
-                "gc": 60,
-                "dg": -35
+                "pp": "20",
+                "gf": 26,
+                "gc": 63,
+                "dg": -37
             }
         ],
         "goleadores": [
@@ -3324,6 +3324,12 @@
                 "goles": 12
             },
             {
+                "nombre": "Folarin Balogun",
+                "equipo": "Mónaco",
+                "escudo": "https://statics-files.tycsports.com/escudos/1727.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Pavel Sulc",
                 "equipo": "Olympique Lyon",
                 "escudo": "https://statics-files.tycsports.com/escudos/794.png",
@@ -3348,22 +3354,16 @@
                 "goles": 10
             },
             {
-                "nombre": "Folarin Balogun",
-                "equipo": "Mónaco",
-                "escudo": "https://statics-files.tycsports.com/escudos/1727.png",
-                "goles": 10
+                "nombre": "Pierre Aubameyang",
+                "equipo": "Olympique de Marsella",
+                "escudo": "https://statics-files.tycsports.com/escudos/793.png",
+                "goles": 9
             },
             {
                 "nombre": "Florian Thauvin",
                 "equipo": "Lens",
                 "escudo": "https://statics-files.tycsports.com/escudos/1730.png",
                 "goles": 9
-            },
-            {
-                "nombre": "Martial Godo",
-                "equipo": "RC Strasbourg",
-                "escudo": "https://statics-files.tycsports.com/escudos/7100.png",
-                "goles": 8
             }
         ]
     }

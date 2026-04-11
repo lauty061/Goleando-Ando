@@ -703,12 +703,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "10/04/2026 19:30 HS",
+                "fecha": "10/04/2026 19:30 HS Finalizado",
                 "local": "TAC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "DLG",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png"
             },
             {
@@ -1165,6 +1165,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "equipo": "Dep. La Guaira",
+                "puntos": "23",
+                "pj": "11",
+                "pg": "6",
+                "pe": "5",
+                "pp": "0",
+                "gf": 14,
+                "gc": 6,
+                "dg": 8
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "equipo": "UCV",
                 "puntos": "22",
@@ -1177,30 +1190,17 @@
                 "dg": 9
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
-                "equipo": "Dep. La Guaira",
-                "puntos": "20",
-                "pj": "10",
-                "pg": "5",
-                "pe": "5",
-                "pp": "0",
-                "gf": 11,
-                "gc": 4,
-                "dg": 7
-            },
-            {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/79.png",
                 "equipo": "Táchira",
                 "puntos": "20",
-                "pj": "10",
+                "pj": "11",
                 "pg": "6",
                 "pe": "2",
-                "pp": "2",
-                "gf": 12,
-                "gc": 7,
-                "dg": 5
+                "pp": "3",
+                "gf": 14,
+                "gc": 10,
+                "dg": 4
             },
             {
                 "posicion": "4",

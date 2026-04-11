@@ -83,12 +83,12 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "10/04/2026 21:00 HS",
+                "fecha": "10/04/2026 21:00 HS Finalizado",
                 "local": "CDG",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/938.png",
                 "visitante": "IPE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3319.png"
             },
             {
@@ -2522,6 +2522,32 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
+                "equipo": "Independiente",
+                "puntos": "1",
+                "pj": "2",
+                "pg": "0",
+                "pe": "1",
+                "pp": "1",
+                "gf": 2,
+                "gc": 5,
+                "dg": -3
+            },
+            {
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
+                "equipo": "Guabirá",
+                "puntos": "1",
+                "pj": "2",
+                "pg": "0",
+                "pe": "1",
+                "pp": "1",
+                "gf": 2,
+                "gc": 7,
+                "dg": -5
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "0",
@@ -2534,7 +2560,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "equipo": "GV San José",
                 "puntos": "0",
@@ -2547,7 +2573,7 @@
                 "dg": -1
             },
             {
-                "posicion": "12",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "equipo": "Oriente Petrolero",
                 "puntos": "0",
@@ -2560,7 +2586,7 @@
                 "dg": -2
             },
             {
-                "posicion": "13",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
                 "equipo": "Totora Real Oruro",
                 "puntos": "0",
@@ -2573,20 +2599,7 @@
                 "dg": -3
             },
             {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
-                "equipo": "Independiente",
-                "puntos": "0",
-                "pj": "1",
-                "pg": "0",
-                "pe": "0",
-                "pp": "1",
-                "gf": 0,
-                "gc": 3,
-                "dg": -3
-            },
-            {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
                 "equipo": "Real Tomayapo",
                 "puntos": "0",
@@ -2597,19 +2610,6 @@
                 "gf": 0,
                 "gc": 4,
                 "dg": -4
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
-                "equipo": "Guabirá",
-                "puntos": "0",
-                "pj": "1",
-                "pg": "0",
-                "pe": "0",
-                "pp": "1",
-                "gf": 0,
-                "gc": 5,
-                "dg": -5
             }
         ],
         "goleadores": [
@@ -2650,6 +2650,12 @@
                 "goles": 1
             },
             {
+                "nombre": "Rudy Cardozo",
+                "equipo": "Independiente Petrolero",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Andrés Córdoba",
                 "equipo": "San Antonio Bulo Bulo",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "Diego Hoyos",
                 "equipo": "Nacional Potosí",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Roberto Melgar",
-                "equipo": "Blooming",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "goles": 1
             }
         ]

@@ -3103,12 +3103,12 @@
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "10/04/2026 16:00 HS",
+                "fecha": "10/04/2026 16:00 HS Finalizado",
                 "local": "WES",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/576.png",
                 "visitante": "WOL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1692.png"
             },
             {
@@ -4013,6 +4013,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/576.png",
+                "equipo": "West Ham United",
+                "puntos": "32",
+                "pj": "32",
+                "pg": "8",
+                "pe": "8",
+                "pp": "16",
+                "gf": 40,
+                "gc": 57,
+                "dg": -17
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/574.png",
                 "equipo": "Tottenham",
                 "puntos": "30",
@@ -4023,19 +4036,6 @@
                 "gf": 40,
                 "gc": 50,
                 "dg": -10
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/576.png",
-                "equipo": "West Ham United",
-                "puntos": "29",
-                "pj": "31",
-                "pg": "7",
-                "pe": "8",
-                "pp": "16",
-                "gf": 36,
-                "gc": 57,
-                "dg": -21
             },
             {
                 "posicion": "19",
@@ -4055,13 +4055,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1692.png",
                 "equipo": "Wolverhampton",
                 "puntos": "17",
-                "pj": "31",
+                "pj": "32",
                 "pg": "3",
                 "pe": "8",
-                "pp": "20",
+                "pp": "21",
                 "gf": 24,
-                "gc": 54,
-                "dg": -30
+                "gc": 58,
+                "dg": -34
             }
         ],
         "goleadores": [

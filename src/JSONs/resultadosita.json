@@ -3103,12 +3103,12 @@
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "10/04/2026 15:45 HS",
+                "fecha": "10/04/2026 15:45 HS Finalizado",
                 "local": "ROM",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/61.png",
                 "visitante": "PIS",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6347.png"
             },
             {
@@ -3872,14 +3872,14 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/61.png",
                 "equipo": "Roma",
-                "puntos": "54",
-                "pj": "31",
-                "pg": "17",
+                "puntos": "57",
+                "pj": "32",
+                "pg": "18",
                 "pe": "3",
                 "pp": "11",
-                "gf": 42,
+                "gf": 45,
                 "gc": 28,
-                "dg": 14
+                "dg": 17
             },
             {
                 "posicion": "7",
@@ -4055,13 +4055,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6347.png",
                 "equipo": "Pisa",
                 "puntos": "18",
-                "pj": "31",
+                "pj": "32",
                 "pg": "2",
                 "pe": "12",
-                "pp": "17",
+                "pp": "18",
                 "gf": 23,
-                "gc": 55,
-                "dg": -32
+                "gc": 58,
+                "dg": -35
             }
         ],
         "goleadores": [
@@ -4096,6 +4096,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Donyell Malen",
+                "equipo": "Roma",
+                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Keinan Davis",
                 "equipo": "Udinese",
                 "escudo": "https://statics-files.tycsports.com/escudos/64.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Marcus Thuram",
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Andrea Pinamonti",
-                "equipo": "Sassuolo",
-                "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
                 "goles": 8
             }
         ]

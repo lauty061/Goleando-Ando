@@ -1953,12 +1953,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "10/04/2026 21:00 HS",
+                "fecha": "10/04/2026 21:00 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/124.png",
                 "visitante": "ALD",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/122.png"
             },
             {
@@ -2808,6 +2808,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/124.png",
+                "equipo": "Belgrano",
+                "puntos": "22",
+                "pj": "13",
+                "pg": "6",
+                "pe": "4",
+                "pp": "3",
+                "gf": 13,
+                "gc": 12,
+                "dg": 1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/18.png",
                 "equipo": "Rosario Central",
                 "puntos": "21",
@@ -2818,20 +2832,6 @@
                 "gf": 14,
                 "gc": 10,
                 "dg": 4
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/124.png",
-                "equipo": "Belgrano",
-                "puntos": "19",
-                "pj": "12",
-                "pg": "5",
-                "pe": "4",
-                "pp": "3",
-                "gf": 12,
-                "gc": 12,
-                "dg": 0
             },
             {
                 "zona": "Grupo B",
@@ -2951,13 +2951,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/122.png",
                 "equipo": "Aldosivi",
                 "puntos": "6",
-                "pj": "12",
+                "pj": "13",
                 "pg": "0",
                 "pe": "6",
-                "pp": "6",
+                "pp": "7",
                 "gf": 3,
-                "gc": 13,
-                "dg": -10
+                "gc": 14,
+                "dg": -11
             },
             {
                 "zona": "Grupo B",
