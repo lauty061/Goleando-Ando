@@ -3113,42 +3113,42 @@
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "11/04/2026 10:00 HS",
+                "fecha": "11/04/2026 10:00 HS Finalizado",
                 "local": "CAG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/49.png",
                 "visitante": "CRE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7231.png"
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "11/04/2026 10:00 HS",
+                "fecha": "11/04/2026 10:00 HS Finalizado",
                 "local": "TOR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/536.png",
                 "visitante": "HVF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4060.png"
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "11/04/2026 13:00 HS",
+                "fecha": "11/04/2026 13:00 HS Finalizado",
                 "local": "MIL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/57.png",
                 "visitante": "UDI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/64.png"
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "11/04/2026 15:45 HS",
+                "fecha": "11/04/2026 15:45 HS Finalizado",
                 "local": "ATA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/45.png",
                 "visitante": "JUV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/52.png"
             },
             {
@@ -3834,16 +3834,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/57.png",
                 "equipo": "Milan",
                 "puntos": "63",
-                "pj": "31",
+                "pj": "32",
                 "pg": "18",
                 "pe": "9",
-                "pp": "4",
+                "pp": "5",
                 "gf": 47,
-                "gc": 24,
-                "dg": 23
+                "gc": 27,
+                "dg": 20
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/52.png",
+                "equipo": "Juventus",
+                "puntos": "60",
+                "pj": "32",
+                "pg": "17",
+                "pe": "9",
+                "pp": "6",
+                "gf": 55,
+                "gc": 29,
+                "dg": 26
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
                 "equipo": "Como 1907",
                 "puntos": "58",
@@ -3854,19 +3867,6 @@
                 "gf": 53,
                 "gc": 22,
                 "dg": 31
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/52.png",
-                "equipo": "Juventus",
-                "puntos": "57",
-                "pj": "31",
-                "pg": "16",
-                "pe": "9",
-                "pp": "6",
-                "gf": 54,
-                "gc": 29,
-                "dg": 25
             },
             {
                 "posicion": "6",
@@ -3886,13 +3886,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png",
                 "equipo": "Atalanta",
                 "puntos": "53",
-                "pj": "31",
+                "pj": "32",
                 "pg": "14",
                 "pe": "11",
-                "pp": "6",
+                "pp": "7",
                 "gf": 44,
-                "gc": 27,
-                "dg": 17
+                "gc": 28,
+                "dg": 16
             },
             {
                 "posicion": "8",
@@ -3922,6 +3922,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/64.png",
+                "equipo": "Udinese",
+                "puntos": "43",
+                "pj": "32",
+                "pg": "12",
+                "pe": "7",
+                "pp": "13",
+                "gf": 38,
+                "gc": 42,
+                "dg": -4
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
                 "equipo": "Sassuolo",
                 "puntos": "42",
@@ -3934,30 +3947,17 @@
                 "dg": -3
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/64.png",
-                "equipo": "Udinese",
-                "puntos": "40",
-                "pj": "31",
-                "pg": "11",
-                "pe": "7",
-                "pp": "13",
-                "gf": 35,
-                "gc": 42,
-                "dg": -7
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/536.png",
                 "equipo": "Torino",
-                "puntos": "36",
-                "pj": "31",
-                "pg": "10",
+                "puntos": "39",
+                "pj": "32",
+                "pg": "11",
                 "pe": "6",
                 "pp": "15",
-                "gf": 35,
-                "gc": 53,
-                "dg": -18
+                "gf": 37,
+                "gc": 54,
+                "dg": -17
             },
             {
                 "posicion": "13",
@@ -3987,6 +3987,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/49.png",
+                "equipo": "Cagliari",
+                "puntos": "33",
+                "pj": "32",
+                "pg": "8",
+                "pe": "9",
+                "pp": "15",
+                "gf": 33,
+                "gc": 44,
+                "dg": -11
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/50.png",
                 "equipo": "Fiorentina",
                 "puntos": "32",
@@ -3999,33 +4012,7 @@
                 "dg": -8
             },
             {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/49.png",
-                "equipo": "Cagliari",
-                "puntos": "30",
-                "pj": "31",
-                "pg": "7",
-                "pe": "9",
-                "pp": "15",
-                "gf": 32,
-                "gc": 44,
-                "dg": -12
-            },
-            {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/7231.png",
-                "equipo": "Cremonese",
-                "puntos": "27",
-                "pj": "31",
-                "pg": "6",
-                "pe": "9",
-                "pp": "16",
-                "gf": 26,
-                "gc": 46,
-                "dg": -20
-            },
-            {
-                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/54.png",
                 "equipo": "Lecce",
                 "puntos": "27",
@@ -4038,17 +4025,30 @@
                 "dg": -22
             },
             {
+                "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/7231.png",
+                "equipo": "Cremonese",
+                "puntos": "27",
+                "pj": "32",
+                "pg": "6",
+                "pe": "9",
+                "pp": "17",
+                "gf": 26,
+                "gc": 47,
+                "dg": -21
+            },
+            {
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/4060.png",
                 "equipo": "Hellas Verona",
                 "puntos": "18",
-                "pj": "31",
+                "pj": "32",
                 "pg": "3",
                 "pe": "9",
-                "pp": "19",
-                "gf": 22,
-                "gc": 53,
-                "dg": -31
+                "pp": "20",
+                "gf": 23,
+                "gc": 55,
+                "dg": -32
             },
             {
                 "posicion": "20",
@@ -4108,6 +4108,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Giovanni Simeone",
+                "equipo": "Torino",
+                "escudo": "https://statics-files.tycsports.com/escudos/536.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Nikola Krstovic",
                 "equipo": "Atalanta",
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png",
@@ -4124,12 +4130,6 @@
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
                 "goles": 9
-            },
-            {
-                "nombre": "Marcus Thuram",
-                "equipo": "Inter",
-                "escudo": "https://statics-files.tycsports.com/escudos/51.png",
-                "goles": 8
             }
         ]
     }
