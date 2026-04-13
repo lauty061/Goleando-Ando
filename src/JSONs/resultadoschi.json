@@ -683,22 +683,22 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "12/04/2026 18:30 HS",
+                "fecha": "12/04/2026 18:30 HS Finalizado",
                 "local": "ÑUB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
                 "visitante": "UCH",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "12/04/2026 21:00 HS",
+                "fecha": "12/04/2026 21:00 HS Finalizado",
                 "local": "UDC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/156.png",
                 "visitante": "COB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
             },
             {
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
+                "equipo": "Ñublense",
+                "puntos": "16",
+                "pj": "9",
+                "pg": "4",
+                "pe": "4",
+                "pp": "1",
+                "gf": 10,
+                "gc": 6,
+                "dg": 4
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "equipo": "Huachipato",
                 "puntos": "15",
@@ -2456,33 +2469,33 @@
                 "dg": 3
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
-                "equipo": "U. de Chile",
-                "puntos": "13",
-                "pj": "8",
-                "pg": "3",
-                "pe": "4",
-                "pp": "1",
-                "gf": 10,
-                "gc": 5,
-                "dg": 5
-            },
-            {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
-                "equipo": "Ñublense",
-                "puntos": "13",
-                "pj": "8",
-                "pg": "3",
-                "pe": "4",
-                "pp": "1",
-                "gf": 9,
-                "gc": 6,
-                "dg": 3
+                "escudo": "https://statics-files.tycsports.com/escudos/156.png",
+                "equipo": "U. Concepción",
+                "puntos": "14",
+                "pj": "9",
+                "pg": "4",
+                "pe": "2",
+                "pp": "3",
+                "gf": 8,
+                "gc": 14,
+                "dg": -6
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
+                "equipo": "U. de Chile",
+                "puntos": "13",
+                "pj": "9",
+                "pg": "3",
+                "pe": "4",
+                "pp": "2",
+                "gf": 10,
+                "gc": 6,
+                "dg": 4
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "equipo": "O'Higgins",
                 "puntos": "13",
@@ -2495,7 +2508,7 @@
                 "dg": -2
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "12",
@@ -2508,7 +2521,7 @@
                 "dg": 1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png",
                 "equipo": "D. La Serena",
                 "puntos": "12",
@@ -2521,7 +2534,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "equipo": "Palestino",
                 "puntos": "11",
@@ -2532,19 +2545,6 @@
                 "gf": 13,
                 "gc": 17,
                 "dg": -4
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/156.png",
-                "equipo": "U. Concepción",
-                "puntos": "11",
-                "pj": "8",
-                "pg": "3",
-                "pe": "2",
-                "pp": "3",
-                "gf": 7,
-                "gc": 14,
-                "dg": -7
             },
             {
                 "posicion": "12",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
                 "equipo": "Cobresal",
                 "puntos": "7",
-                "pj": "8",
+                "pj": "9",
                 "pg": "2",
                 "pe": "1",
-                "pp": "5",
+                "pp": "6",
                 "gf": 12,
-                "gc": 19,
-                "dg": -7
+                "gc": 20,
+                "dg": -8
             },
             {
                 "posicion": "16",

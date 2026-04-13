@@ -843,32 +843,32 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/04/2026 10:00 HS",
+                "fecha": "12/04/2026 10:00 HS Finalizado",
                 "local": "CEN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/273.png",
                 "visitante": "DAN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/72.png"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/04/2026 15:30 HS",
+                "fecha": "12/04/2026 15:30 HS Finalizado",
                 "local": "JUV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/771.png",
                 "visitante": "PRO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/510.png"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/04/2026 18:30 HS",
+                "fecha": "12/04/2026 18:30 HS Finalizado",
                 "local": "WAN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/200.png",
                 "visitante": "RCM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/964.png"
             },
             {
@@ -1207,14 +1207,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/964.png",
                 "equipo": "Racing (U)",
-                "puntos": "23",
-                "pj": "10",
-                "pg": "7",
+                "puntos": "26",
+                "pj": "11",
+                "pg": "8",
                 "pe": "2",
                 "pp": "1",
-                "gf": 18,
-                "gc": 9,
-                "dg": 9
+                "gf": 20,
+                "gc": 10,
+                "dg": 10
             },
             {
                 "posicion": "2",
@@ -1246,13 +1246,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png",
                 "equipo": "Central Español",
-                "puntos": "17",
-                "pj": "10",
+                "puntos": "18",
+                "pj": "11",
                 "pg": "5",
-                "pe": "2",
+                "pe": "3",
                 "pp": "3",
-                "gf": 14,
-                "gc": 11,
+                "gf": 16,
+                "gc": 13,
                 "dg": 3
             },
             {
@@ -1309,6 +1309,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
+                "equipo": "Danubio",
+                "puntos": "14",
+                "pj": "11",
+                "pg": "3",
+                "pe": "5",
+                "pp": "3",
+                "gf": 14,
+                "gc": 15,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png",
                 "equipo": "Cerro Largo",
                 "puntos": "14",
@@ -1321,20 +1334,20 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "equipo": "Wanderers",
                 "puntos": "14",
-                "pj": "10",
+                "pj": "11",
                 "pg": "4",
                 "pe": "2",
-                "pp": "4",
-                "gf": 11,
-                "gc": 15,
-                "dg": -4
+                "pp": "5",
+                "gf": 12,
+                "gc": 17,
+                "dg": -5
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
                 "puntos": "13",
@@ -1345,19 +1358,6 @@
                 "gf": 13,
                 "gc": 13,
                 "dg": 0
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
-                "equipo": "Danubio",
-                "puntos": "13",
-                "pj": "10",
-                "pg": "3",
-                "pe": "4",
-                "pp": "3",
-                "gf": 12,
-                "gc": 13,
-                "dg": -1
             },
             {
                 "posicion": "13",
@@ -1387,29 +1387,29 @@
             },
             {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/510.png",
-                "equipo": "Progreso",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "equipo": "Juventud",
                 "puntos": "7",
-                "pj": "10",
-                "pg": "1",
-                "pe": "4",
-                "pp": "5",
-                "gf": 9,
+                "pj": "11",
+                "pg": "2",
+                "pe": "1",
+                "pp": "8",
+                "gf": 10,
                 "gc": 17,
-                "dg": -8
+                "dg": -7
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
-                "equipo": "Juventud",
-                "puntos": "4",
-                "pj": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/510.png",
+                "equipo": "Progreso",
+                "puntos": "7",
+                "pj": "11",
                 "pg": "1",
-                "pe": "1",
-                "pp": "8",
+                "pe": "4",
+                "pp": "6",
                 "gf": 9,
-                "gc": 17,
-                "dg": -8
+                "gc": 18,
+                "dg": -9
             }
         ],
         "goleadores": [
@@ -1450,6 +1450,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Fernando Mimbacas",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Brian Montenegro",
                 "equipo": "Defensor Sporting",
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png",
@@ -1468,16 +1474,10 @@
                 "goles": 4
             },
             {
-                "nombre": "Francisco Ginella",
-                "equipo": "Albion",
-                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Tiziano Correa",
-                "equipo": "Cerro Largo",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png",
-                "goles": 3
+                "nombre": "Raúl Tarragona",
+                "equipo": "Central Español",
+                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
+                "goles": 4
             }
         ]
     }

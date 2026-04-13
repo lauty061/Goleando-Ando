@@ -2563,32 +2563,32 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "12/04/2026 12:15 HS",
+                "fecha": "12/04/2026 12:15 HS Finalizado",
                 "local": "NIC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1729.png",
                 "visitante": "AVR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7987.png"
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "12/04/2026 12:15 HS",
+                "fecha": "12/04/2026 12:15 HS Finalizado",
                 "local": "TOU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1733.png",
                 "visitante": "LIL",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1725.png"
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "12/04/2026 15:45 HS",
+                "fecha": "12/04/2026 15:45 HS Segundo Tiempo",
                 "local": "LYO",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/794.png",
                 "visitante": "LOR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1726.png"
             },
             {
@@ -3091,6 +3091,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/1725.png",
+                "equipo": "Lille",
+                "puntos": "53",
+                "pj": "29",
+                "pg": "16",
+                "pe": "5",
+                "pp": "8",
+                "gf": 49,
+                "gc": 34,
+                "dg": 15
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/793.png",
                 "equipo": "O. Marsella",
                 "puntos": "52",
@@ -3103,20 +3116,20 @@
                 "dg": 20
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/1725.png",
-                "equipo": "Lille",
-                "puntos": "50",
-                "pj": "28",
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/794.png",
+                "equipo": "Olympique Lyon",
+                "puntos": "51",
+                "pj": "29",
                 "pg": "15",
-                "pe": "5",
+                "pe": "6",
                 "pp": "8",
-                "gf": 45,
-                "gc": 34,
-                "dg": 11
+                "gf": 43,
+                "gc": 29,
+                "dg": 14
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/1732.png",
                 "equipo": "Stade Rennes",
                 "puntos": "50",
@@ -3129,7 +3142,7 @@
                 "dg": 8
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/1727.png",
                 "equipo": "Mónaco",
                 "puntos": "49",
@@ -3140,19 +3153,6 @@
                 "gf": 50,
                 "gc": 43,
                 "dg": 7
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/794.png",
-                "equipo": "Olympique Lyon",
-                "puntos": "48",
-                "pj": "28",
-                "pg": "14",
-                "pe": "6",
-                "pp": "8",
-                "gf": 41,
-                "gc": 29,
-                "dg": 12
             },
             {
                 "posicion": "8",
@@ -3172,26 +3172,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1726.png",
                 "equipo": "Lorient",
                 "puntos": "38",
-                "pj": "28",
+                "pj": "29",
                 "pg": "9",
                 "pe": "11",
-                "pp": "8",
+                "pp": "9",
                 "gf": 38,
-                "gc": 42,
-                "dg": -4
+                "gc": 44,
+                "dg": -6
             },
             {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1733.png",
                 "equipo": "Toulouse",
                 "puntos": "37",
-                "pj": "28",
+                "pj": "29",
                 "pg": "10",
                 "pe": "7",
-                "pp": "11",
+                "pp": "12",
                 "gf": 39,
-                "gc": 35,
-                "dg": 4
+                "gc": 39,
+                "dg": 0
             },
             {
                 "posicion": "11",
@@ -3236,26 +3236,26 @@
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/7987.png",
                 "equipo": "Le Havre AC",
-                "puntos": "28",
-                "pj": "28",
+                "puntos": "29",
+                "pj": "29",
                 "pg": "6",
-                "pe": "10",
+                "pe": "11",
                 "pp": "12",
-                "gf": 23,
-                "gc": 36,
+                "gf": 24,
+                "gc": 37,
                 "dg": -13
             },
             {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1729.png",
                 "equipo": "Nice",
-                "puntos": "27",
-                "pj": "28",
+                "puntos": "28",
+                "pj": "29",
                 "pg": "7",
-                "pe": "6",
+                "pe": "7",
                 "pp": "15",
-                "gf": 33,
-                "gc": 55,
+                "gf": 34,
+                "gc": 56,
                 "dg": -22
             },
             {

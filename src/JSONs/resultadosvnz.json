@@ -743,32 +743,32 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/04/2026 18:00 HS",
+                "fecha": "12/04/2026 18:00 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/223.png",
                 "visitante": "UCV",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1283.png"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/04/2026 18:30 HS",
+                "fecha": "12/04/2026 18:30 HS Finalizado",
                 "local": "TRU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/119.png",
                 "visitante": "EST",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/224.png"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/04/2026 20:00 HS",
+                "fecha": "12/04/2026 20:00 HS Finalizado",
                 "local": "CAR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/85.png",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11977.png"
             },
             {
@@ -1181,13 +1181,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "equipo": "UCV",
                 "puntos": "22",
-                "pj": "10",
+                "pj": "11",
                 "pg": "7",
                 "pe": "1",
-                "pp": "2",
-                "gf": 21,
-                "gc": 12,
-                "dg": 9
+                "pp": "3",
+                "gf": 23,
+                "gc": 16,
+                "dg": 7
             },
             {
                 "posicion": "3",
@@ -1217,6 +1217,32 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/224.png",
+                "equipo": "Estudiantes",
+                "puntos": "17",
+                "pj": "11",
+                "pg": "5",
+                "pe": "2",
+                "pp": "4",
+                "gf": 18,
+                "gc": 14,
+                "dg": 4
+            },
+            {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
+                "equipo": "Carabobo",
+                "puntos": "16",
+                "pj": "11",
+                "pg": "3",
+                "pe": "7",
+                "pp": "1",
+                "gf": 16,
+                "gc": 9,
+                "dg": 7
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/494.png",
                 "equipo": "Portuguesa",
                 "puntos": "16",
@@ -1229,7 +1255,7 @@
                 "dg": 5
             },
             {
-                "posicion": "6",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/495.png",
                 "equipo": "Zamora",
                 "puntos": "15",
@@ -1242,20 +1268,7 @@
                 "dg": 0
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/224.png",
-                "equipo": "Estudiantes",
-                "puntos": "14",
-                "pj": "10",
-                "pg": "4",
-                "pe": "2",
-                "pp": "4",
-                "gf": 16,
-                "gc": 14,
-                "dg": 2
-            },
-            {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "equipo": "Rayo Zuliano",
                 "puntos": "14",
@@ -1266,19 +1279,6 @@
                 "gf": 12,
                 "gc": 20,
                 "dg": -8
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
-                "equipo": "Carabobo",
-                "puntos": "13",
-                "pj": "10",
-                "pg": "2",
-                "pe": "7",
-                "pp": "1",
-                "gf": 12,
-                "gc": 7,
-                "dg": 5
             },
             {
                 "posicion": "10",
@@ -1298,13 +1298,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/85.png",
                 "equipo": "Caracas",
                 "puntos": "11",
-                "pj": "10",
+                "pj": "11",
                 "pg": "2",
                 "pe": "5",
-                "pp": "3",
-                "gf": 11,
-                "gc": 12,
-                "dg": -1
+                "pp": "4",
+                "gf": 12,
+                "gc": 15,
+                "dg": -3
             },
             {
                 "posicion": "12",
@@ -1323,27 +1323,27 @@
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/11977.png",
                 "equipo": "Anzoátegui FC",
-                "puntos": "5",
-                "pj": "10",
-                "pg": "1",
+                "puntos": "8",
+                "pj": "11",
+                "pg": "2",
                 "pe": "2",
                 "pp": "7",
-                "gf": 8,
-                "gc": 17,
-                "dg": -9
+                "gf": 11,
+                "gc": 18,
+                "dg": -7
             },
             {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png",
                 "equipo": "Trujillanos",
                 "puntos": "4",
-                "pj": "10",
+                "pj": "11",
                 "pg": "0",
                 "pe": "4",
-                "pp": "6",
+                "pp": "7",
                 "gf": 8,
-                "gc": 20,
-                "dg": -12
+                "gc": 22,
+                "dg": -14
             }
         ],
         "goleadores": [
@@ -1351,7 +1351,7 @@
                 "nombre": "Kevin Quejada",
                 "equipo": "Estudiantes Mérida",
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png",
-                "goles": 9
+                "goles": 10
             },
             {
                 "nombre": "Ronald Rodríguez",
