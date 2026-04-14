@@ -3193,12 +3193,12 @@
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "13/04/2026 15:45 HS",
+                "fecha": "13/04/2026 15:45 HS Finalizado",
                 "local": "FIO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/50.png",
                 "visitante": "LAZ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/53.png"
             },
             {
@@ -3912,13 +3912,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/53.png",
                 "equipo": "Lazio",
                 "puntos": "44",
-                "pj": "31",
+                "pj": "32",
                 "pg": "11",
                 "pe": "11",
-                "pp": "9",
+                "pp": "10",
                 "gf": 32,
-                "gc": 29,
-                "dg": 3
+                "gc": 30,
+                "dg": 2
             },
             {
                 "posicion": "10",
@@ -3987,6 +3987,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/50.png",
+                "equipo": "Fiorentina",
+                "puntos": "35",
+                "pj": "32",
+                "pg": "8",
+                "pe": "11",
+                "pp": "13",
+                "gf": 37,
+                "gc": 44,
+                "dg": -7
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/49.png",
                 "equipo": "Cagliari",
                 "puntos": "33",
@@ -3997,19 +4010,6 @@
                 "gf": 33,
                 "gc": 44,
                 "dg": -11
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/50.png",
-                "equipo": "Fiorentina",
-                "puntos": "32",
-                "pj": "31",
-                "pg": "7",
-                "pe": "11",
-                "pp": "13",
-                "gf": 36,
-                "gc": 44,
-                "dg": -8
             },
             {
                 "posicion": "17",

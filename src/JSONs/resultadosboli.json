@@ -153,12 +153,12 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "13/04/2026 21:00 HS",
+                "fecha": "13/04/2026 21:00 HS Finalizado",
                 "local": "TOM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png",
                 "visitante": "RPO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/233.png"
             },
             {
@@ -2509,8 +2509,8 @@
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
-                "equipo": "Aurora",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
+                "equipo": "Real Potosí",
                 "puntos": "2",
                 "pj": "2",
                 "pg": "0",
@@ -2522,15 +2522,15 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
-                "equipo": "Real Potosí",
-                "puntos": "1",
-                "pj": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
+                "equipo": "Aurora",
+                "puntos": "2",
+                "pj": "2",
                 "pg": "0",
-                "pe": "1",
+                "pe": "2",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 1,
+                "gc": 1,
                 "dg": 0
             },
             {
@@ -2561,6 +2561,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
+                "equipo": "Real Tomayapo",
+                "puntos": "1",
+                "pj": "2",
+                "pg": "0",
+                "pe": "1",
+                "pp": "1",
+                "gf": 1,
+                "gc": 5,
+                "dg": -4
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png",
                 "equipo": "Guabirá",
                 "puntos": "1",
@@ -2573,7 +2586,7 @@
                 "dg": -5
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "equipo": "GV San José",
                 "puntos": "0",
@@ -2586,7 +2599,7 @@
                 "dg": -2
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "0",
@@ -2597,19 +2610,6 @@
                 "gf": 1,
                 "gc": 3,
                 "dg": -2
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
-                "equipo": "Real Tomayapo",
-                "puntos": "0",
-                "pj": "1",
-                "pg": "0",
-                "pe": "0",
-                "pp": "1",
-                "gf": 0,
-                "gc": 4,
-                "dg": -4
             }
         ],
         "goleadores": [
@@ -2668,13 +2668,13 @@
                 "goles": 1
             },
             {
-                "nombre": "Juan Godoy",
-                "equipo": "Always Ready",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "nombre": "Leandro Corulo",
+                "equipo": "Real Tomayapo",
+                "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
                 "goles": 1
             },
             {
-                "nombre": "Darío Torrico",
+                "nombre": "Juan Godoy",
                 "equipo": "Always Ready",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "goles": 1

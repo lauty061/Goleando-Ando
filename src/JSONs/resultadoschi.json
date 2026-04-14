@@ -703,12 +703,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "13/04/2026 21:00 HS",
+                "fecha": "13/04/2026 21:00 HS Finalizado",
                 "local": "ULC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
                 "visitante": "CON",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
             },
             {
@@ -2509,6 +2509,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
+                "equipo": "U. La Calera",
+                "puntos": "13",
+                "pj": "9",
+                "pg": "4",
+                "pe": "1",
+                "pp": "4",
+                "gf": 11,
+                "gc": 13,
+                "dg": -2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "12",
@@ -2521,7 +2534,7 @@
                 "dg": 1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png",
                 "equipo": "D. La Serena",
                 "puntos": "12",
@@ -2534,7 +2547,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "equipo": "Palestino",
                 "puntos": "11",
@@ -2547,7 +2560,7 @@
                 "dg": -4
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png",
                 "equipo": "Audax Italiano",
                 "puntos": "10",
@@ -2558,19 +2571,6 @@
                 "gf": 11,
                 "gc": 11,
                 "dg": 0
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "equipo": "U. La Calera",
-                "puntos": "10",
-                "pj": "8",
-                "pg": "3",
-                "pe": "1",
-                "pp": "4",
-                "gf": 10,
-                "gc": 13,
-                "dg": -3
             },
             {
                 "posicion": "14",
@@ -2603,13 +2603,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png",
                 "equipo": "D. Concepción",
                 "puntos": "4",
-                "pj": "8",
+                "pj": "9",
                 "pg": "1",
                 "pe": "1",
-                "pp": "6",
+                "pp": "7",
                 "gf": 4,
-                "gc": 13,
-                "dg": -9
+                "gc": 14,
+                "dg": -10
             }
         ],
         "goleadores": [
@@ -2674,9 +2674,9 @@
                 "goles": 3
             },
             {
-                "nombre": "Maximiliano Romero",
-                "equipo": "Colo Colo",
-                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
+                "nombre": "Kevin Méndez",
+                "equipo": "U. La Calera",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "goles": 3
             }
         ]

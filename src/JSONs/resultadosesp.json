@@ -3093,12 +3093,12 @@
             },
             {
                 "fecha_torneo": "Fecha 31",
-                "fecha": "13/04/2026 16:00 HS",
+                "fecha": "13/04/2026 16:00 HS Finalizado",
                 "local": "LEV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/35.png",
                 "visitante": "GET",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/24.png"
             },
             {
@@ -3899,13 +3899,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/24.png",
                 "equipo": "Getafe",
                 "puntos": "41",
-                "pj": "30",
+                "pj": "31",
                 "pg": "12",
                 "pe": "5",
-                "pp": "13",
+                "pp": "14",
                 "gf": 27,
-                "gc": 31,
-                "dg": -4
+                "gc": 32,
+                "dg": -5
             },
             {
                 "posicion": "9",
@@ -4039,6 +4039,19 @@
             },
             {
                 "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/35.png",
+                "equipo": "Levante",
+                "puntos": "29",
+                "pj": "31",
+                "pg": "7",
+                "pe": "8",
+                "pp": "16",
+                "gf": 35,
+                "gc": 50,
+                "dg": -15
+            },
+            {
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/5736.png",
                 "equipo": "Real Oviedo",
                 "puntos": "27",
@@ -4049,19 +4062,6 @@
                 "gf": 24,
                 "gc": 48,
                 "dg": -24
-            },
-            {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/35.png",
-                "equipo": "Levante",
-                "puntos": "26",
-                "pj": "30",
-                "pg": "6",
-                "pe": "8",
-                "pp": "16",
-                "gf": 34,
-                "gc": 50,
-                "dg": -16
             }
         ],
         "goleadores": [
