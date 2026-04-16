@@ -843,12 +843,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "15/04/2026 17:00 HS",
+                "fecha": "15/04/2026 17:00 HS Finalizado",
                 "local": "UTC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
                 "visitante": "DSH",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1659.png"
             },
             {
@@ -3177,6 +3177,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
+                "equipo": "UTC",
+                "puntos": "15",
+                "pj": "10",
+                "pg": "4",
+                "pe": "3",
+                "pp": "3",
+                "gf": 14,
+                "gc": 13,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "equipo": "Melgar",
                 "puntos": "14",
@@ -3187,19 +3200,6 @@
                 "gf": 16,
                 "gc": 14,
                 "dg": 2
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
-                "equipo": "UTC",
-                "puntos": "14",
-                "pj": "9",
-                "pg": "4",
-                "pe": "2",
-                "pp": "3",
-                "gf": 12,
-                "gc": 11,
-                "dg": 1
             },
             {
                 "posicion": "7",
@@ -3294,25 +3294,25 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
+                "equipo": "Sport Huancayo",
+                "puntos": "9",
+                "pj": "10",
+                "pg": "2",
+                "pe": "3",
+                "pp": "5",
+                "gf": 11,
+                "gc": 15,
+                "dg": -4
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
                 "equipo": "ADT de Tarma",
                 "puntos": "9",
                 "pj": "10",
                 "pg": "2",
                 "pe": "3",
-                "pp": "5",
-                "gf": 9,
-                "gc": 13,
-                "dg": -4
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
-                "equipo": "Sport Huancayo",
-                "puntos": "8",
-                "pj": "9",
-                "pg": "2",
-                "pe": "2",
                 "pp": "5",
                 "gf": 9,
                 "gc": 13,
