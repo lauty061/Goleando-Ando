@@ -723,12 +723,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "17/04/2026 21:00 HS",
+                "fecha": "17/04/2026 21:00 HS Finalizado",
                 "local": "LIM",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png",
                 "visitante": "UDC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
+                "equipo": "Deportes Limache",
+                "puntos": "20",
+                "pj": "10",
+                "pg": "6",
+                "pe": "2",
+                "pp": "2",
+                "gf": 23,
+                "gc": 9,
+                "dg": 14
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
                 "equipo": "Colo Colo",
                 "puntos": "18",
@@ -2415,19 +2428,6 @@
                 "gf": 9,
                 "gc": 4,
                 "dg": 5
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
-                "equipo": "Deportes Limache",
-                "puntos": "17",
-                "pj": "9",
-                "pg": "5",
-                "pe": "2",
-                "pp": "2",
-                "gf": 20,
-                "gc": 9,
-                "dg": 11
             },
             {
                 "posicion": "3",
@@ -2473,13 +2473,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png",
                 "equipo": "U. Concepción",
                 "puntos": "14",
-                "pj": "9",
+                "pj": "10",
                 "pg": "4",
                 "pe": "2",
-                "pp": "3",
+                "pp": "4",
                 "gf": 8,
-                "gc": 14,
-                "dg": -6
+                "gc": 17,
+                "dg": -9
             },
             {
                 "posicion": "7",
@@ -2620,15 +2620,15 @@
                 "goles": 11
             },
             {
-                "nombre": "Justo Giani",
-                "equipo": "U. Católica",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 6
-            },
-            {
                 "nombre": "Castro Santibáñez, D.",
                 "equipo": "Deportes Limache",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
+                "goles": 7
+            },
+            {
+                "nombre": "Justo Giani",
+                "equipo": "U. Católica",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "goles": 6
             },
             {

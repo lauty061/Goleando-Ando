@@ -883,12 +883,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "17/04/2026 20:00 HS",
+                "fecha": "17/04/2026 20:00 HS Finalizado",
                 "local": "ALB",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7557.png",
                 "visitante": "CEN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/273.png"
             },
             {
@@ -1244,19 +1244,32 @@
             },
             {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
-                "equipo": "Central Español",
-                "puntos": "18",
-                "pj": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
+                "equipo": "Albion",
+                "puntos": "19",
+                "pj": "12",
                 "pg": "5",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
-                "gf": 16,
+                "gf": 20,
                 "gc": 13,
-                "dg": 3
+                "dg": 7
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
+                "equipo": "Central Español",
+                "puntos": "18",
+                "pj": "12",
+                "pg": "5",
+                "pe": "3",
+                "pp": "4",
+                "gf": 17,
+                "gc": 19,
+                "dg": -2
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
                 "puntos": "16",
@@ -1266,19 +1279,6 @@
                 "pp": "3",
                 "gf": 15,
                 "gc": 13,
-                "dg": 2
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
-                "equipo": "Albion",
-                "puntos": "16",
-                "pj": "11",
-                "pg": "4",
-                "pe": "4",
-                "pp": "3",
-                "gf": 14,
-                "gc": 12,
                 "dg": 2
             },
             {
@@ -1414,6 +1414,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Álvaro López",
+                "equipo": "Albion",
+                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Matías Arezo",
                 "equipo": "Peñarol",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
@@ -1423,12 +1429,6 @@
                 "nombre": "Salomón Rodríguez",
                 "equipo": "MC Torque",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Álvaro López",
-                "equipo": "Albion",
-                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "goles": 6
             },
             {

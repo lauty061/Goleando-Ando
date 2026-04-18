@@ -1053,12 +1053,12 @@
             },
             {
                 "fecha_torneo": "Semana 8",
-                "fecha": "17/04/2026 23:30 HS",
+                "fecha": "17/04/2026 23:30 HS Finalizado",
                 "local": "VAN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3204.png",
                 "visitante": "SKC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3203.png"
             },
             {
@@ -5496,34 +5496,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/4384.png",
-                "equipo": "Orlando City SC",
+                "escudo": "https://statics-files.tycsports.com/escudos/1772.png",
+                "equipo": "Columbus Crew",
                 "puntos": "6",
                 "pj": "7",
-                "pg": "2",
-                "pe": "0",
-                "pp": "5",
-                "gf": 6,
-                "gc": 23,
-                "dg": -17
+                "pg": "1",
+                "pe": "3",
+                "pp": "3",
+                "gf": 9,
+                "gc": 10,
+                "dg": -1
             },
             {
                 "zona": "Grupo Este",
                 "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/1772.png",
-                "equipo": "Columbus Crew",
-                "puntos": "5",
-                "pj": "7",
-                "pg": "1",
-                "pe": "2",
-                "pp": "4",
-                "gf": 8,
-                "gc": 10,
-                "dg": -2
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/6751.png",
                 "equipo": "Atlanta United",
                 "puntos": "4",
@@ -5534,6 +5520,20 @@
                 "gf": 6,
                 "gc": 12,
                 "dg": -6
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/4384.png",
+                "equipo": "Orlando City SC",
+                "puntos": "4",
+                "pj": "7",
+                "pg": "1",
+                "pe": "1",
+                "pp": "5",
+                "gf": 6,
+                "gc": 24,
+                "dg": -18
             },
             {
                 "zona": "Grupo Este",
@@ -5568,14 +5568,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/3204.png",
                 "equipo": "Vancouver",
-                "puntos": "18",
-                "pj": "7",
-                "pg": "6",
+                "puntos": "21",
+                "pj": "8",
+                "pg": "7",
                 "pe": "0",
                 "pp": "1",
-                "gf": 19,
+                "gf": 22,
                 "gc": 4,
-                "dg": 15
+                "dg": 18
             },
             {
                 "zona": "Grupo Oeste",
@@ -5765,13 +5765,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3203.png",
                 "equipo": "Sporting KC",
                 "puntos": "4",
-                "pj": "7",
+                "pj": "8",
                 "pg": "1",
                 "pe": "1",
-                "pp": "5",
+                "pp": "6",
                 "gf": 7,
-                "gc": 17,
-                "dg": -10
+                "gc": 20,
+                "dg": -13
             }
         ],
         "goleadores": [

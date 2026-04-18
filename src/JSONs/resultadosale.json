@@ -2613,12 +2613,12 @@
             },
             {
                 "fecha_torneo": "Fecha 30",
-                "fecha": "17/04/2026 15:30 HS",
+                "fecha": "17/04/2026 15:30 HS Finalizado",
                 "local": "STP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3003.png",
                 "visitante": "COL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1258.png"
             },
             {
@@ -3228,6 +3228,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/1258.png",
+                "equipo": "Colonia",
+                "puntos": "31",
+                "pj": "30",
+                "pg": "7",
+                "pe": "10",
+                "pp": "13",
+                "gf": 44,
+                "gc": 51,
+                "dg": -7
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/712.png",
                 "equipo": "Hamburgo SV",
                 "puntos": "31",
@@ -3238,19 +3251,6 @@
                 "gf": 32,
                 "gc": 45,
                 "dg": -13
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/1258.png",
-                "equipo": "Colonia",
-                "puntos": "30",
-                "pj": "29",
-                "pg": "7",
-                "pe": "9",
-                "pp": "13",
-                "gf": 43,
-                "gc": 50,
-                "dg": -7
             },
             {
                 "posicion": "14",
@@ -3282,13 +3282,13 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/3003.png",
                 "equipo": "FC St. Pauli",
-                "puntos": "25",
-                "pj": "29",
+                "puntos": "26",
+                "pj": "30",
                 "pg": "6",
-                "pe": "7",
+                "pe": "8",
                 "pp": "16",
-                "gf": 25,
-                "gc": 50,
+                "gf": 26,
+                "gc": 51,
                 "dg": -25
             },
             {

@@ -2103,12 +2103,12 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "17/04/2026 20:30 HS",
+                "fecha": "17/04/2026 20:30 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/137.png",
                 "visitante": "NOB",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/13.png"
             },
             {
@@ -2556,6 +2556,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/20.png",
+                "equipo": "Vélez",
+                "puntos": "25",
+                "pj": "13",
+                "pg": "7",
+                "pe": "4",
+                "pp": "2",
+                "gf": 15,
+                "gc": 9,
+                "dg": 6
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/7.png",
                 "equipo": "Estudiantes",
                 "puntos": "24",
@@ -2566,20 +2580,6 @@
                 "gf": 16,
                 "gc": 7,
                 "dg": 9
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/20.png",
-                "equipo": "Vélez",
-                "puntos": "22",
-                "pj": "12",
-                "pg": "6",
-                "pe": "4",
-                "pp": "2",
-                "gf": 14,
-                "gc": 9,
-                "dg": 5
             },
             {
                 "zona": "Grupo A",
@@ -2629,13 +2629,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/137.png",
                 "equipo": "Unión",
                 "puntos": "19",
-                "pj": "13",
+                "pj": "14",
                 "pg": "5",
                 "pe": "4",
-                "pp": "4",
-                "gf": 19,
-                "gc": 14,
-                "dg": 5
+                "pp": "5",
+                "gf": 21,
+                "gc": 17,
+                "dg": 4
             },
             {
                 "zona": "Grupo A",
@@ -2724,30 +2724,30 @@
             {
                 "zona": "Grupo A",
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/1485.png",
-                "equipo": "C.Córdoba (SE)",
-                "puntos": "12",
-                "pj": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/13.png",
+                "equipo": "Newell`s",
+                "puntos": "13",
+                "pj": "14",
                 "pg": "3",
-                "pe": "3",
-                "pp": "6",
-                "gf": 6,
-                "gc": 15,
-                "dg": -9
+                "pe": "4",
+                "pp": "7",
+                "gf": 13,
+                "gc": 25,
+                "dg": -12
             },
             {
                 "zona": "Grupo A",
                 "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/13.png",
-                "equipo": "Newell`s",
-                "puntos": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/1485.png",
+                "equipo": "C.Córdoba (SE)",
+                "puntos": "12",
                 "pj": "13",
-                "pg": "2",
-                "pe": "4",
+                "pg": "3",
+                "pe": "3",
                 "pp": "7",
-                "gf": 10,
-                "gc": 23,
-                "dg": -13
+                "gf": 6,
+                "gc": 16,
+                "dg": -10
             },
             {
                 "zona": "Grupo A",
