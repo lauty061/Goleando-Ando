@@ -773,12 +773,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "18/04/2026 16:30 HS",
+                "fecha": "18/04/2026 16:30 HS Finalizado",
                 "local": "ZUL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/972.png",
                 "visitante": "MET",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3898.png"
             },
             {
@@ -1191,6 +1191,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
+                "equipo": "Metropolitanos",
+                "puntos": "22",
+                "pj": "12",
+                "pg": "6",
+                "pe": "4",
+                "pp": "2",
+                "gf": 15,
+                "gc": 10,
+                "dg": 5
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/79.png",
                 "equipo": "Táchira",
                 "puntos": "20",
@@ -1198,19 +1211,6 @@
                 "pg": "6",
                 "pe": "2",
                 "pp": "3",
-                "gf": 14,
-                "gc": 10,
-                "dg": 4
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
-                "equipo": "Metropolitanos",
-                "puntos": "19",
-                "pj": "11",
-                "pg": "5",
-                "pe": "4",
-                "pp": "2",
                 "gf": 14,
                 "gc": 10,
                 "dg": 4
@@ -1272,13 +1272,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "equipo": "Rayo Zuliano",
                 "puntos": "14",
-                "pj": "11",
+                "pj": "12",
                 "pg": "4",
                 "pe": "2",
-                "pp": "5",
+                "pp": "6",
                 "gf": 12,
-                "gc": 20,
-                "dg": -8
+                "gc": 21,
+                "dg": -9
             },
             {
                 "posicion": "10",
@@ -1384,15 +1384,15 @@
                 "goles": 5
             },
             {
-                "nombre": "Flabián Londoño",
-                "equipo": "Dep. La Guaira",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Fedor Flores, N.",
                 "equipo": "Metropolitanos",
                 "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Flabián Londoño",
+                "equipo": "Dep. La Guaira",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "goles": 4
             },
             {

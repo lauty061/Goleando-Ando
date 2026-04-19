@@ -1623,22 +1623,22 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "18/04/2026 20:10 HS",
+                "fecha": "18/04/2026 20:10 HS Finalizado",
                 "local": "TOL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/179.png",
                 "visitante": "PER",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "18/04/2026 22:30 HS",
+                "fecha": "18/04/2026 22:30 HS Finalizado",
                 "local": "FOR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3209.png",
                 "visitante": "AGU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/922.png"
             },
             {
@@ -2071,6 +2071,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/179.png",
+                "equipo": "Tolima",
+                "puntos": "30",
+                "pj": "17",
+                "pg": "8",
+                "pe": "6",
+                "pp": "3",
+                "gf": 26,
+                "gc": 14,
+                "dg": 12
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png",
                 "equipo": "Junior",
                 "puntos": "28",
@@ -2081,19 +2094,6 @@
                 "gf": 24,
                 "gc": 20,
                 "dg": 4
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/179.png",
-                "equipo": "Tolima",
-                "puntos": "27",
-                "pj": "16",
-                "pg": "7",
-                "pe": "6",
-                "pp": "3",
-                "gf": 24,
-                "gc": 14,
-                "dg": 10
             },
             {
                 "posicion": "5",
@@ -2178,13 +2178,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png",
                 "equipo": "Águilas Doradas",
                 "puntos": "22",
-                "pj": "16",
+                "pj": "17",
                 "pg": "6",
                 "pe": "4",
-                "pp": "6",
+                "pp": "7",
                 "gf": 16,
-                "gc": 20,
-                "dg": -4
+                "gc": 22,
+                "dg": -6
             },
             {
                 "posicion": "12",
@@ -2214,6 +2214,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/3209.png",
+                "equipo": "Fortaleza FC",
+                "puntos": "19",
+                "pj": "16",
+                "pg": "4",
+                "pe": "7",
+                "pp": "5",
+                "gf": 19,
+                "gc": 23,
+                "dg": -4
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/67.png",
                 "equipo": "Indep. Medellín",
                 "puntos": "17",
@@ -2224,19 +2237,6 @@
                 "gf": 21,
                 "gc": 22,
                 "dg": -1
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/3209.png",
-                "equipo": "Fortaleza FC",
-                "puntos": "16",
-                "pj": "15",
-                "pg": "3",
-                "pe": "7",
-                "pp": "5",
-                "gf": 17,
-                "gc": 23,
-                "dg": -6
             },
             {
                 "posicion": "16",
@@ -2295,13 +2295,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png",
                 "equipo": "Pereira",
                 "puntos": "7",
-                "pj": "16",
+                "pj": "17",
                 "pg": "0",
                 "pe": "7",
-                "pp": "9",
+                "pp": "10",
                 "gf": 14,
-                "gc": 29,
-                "dg": -15
+                "gc": 31,
+                "dg": -17
             }
         ],
         "goleadores": []
