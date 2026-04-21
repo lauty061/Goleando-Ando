@@ -1773,7 +1773,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "19/04/2026 20:00 HS Segundo Tiempo",
+                "fecha": "19/04/2026 20:00 HS Finalizado",
                 "local": "GYT",
                 "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/865.png",
@@ -1783,22 +1783,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2026 20:00 HS",
+                "fecha": "20/04/2026 20:00 HS Finalizado",
                 "local": "RAF",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/99.png",
                 "visitante": "AAG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3683.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/04/2026 21:00 HS",
+                "fecha": "20/04/2026 21:00 HS Finalizado",
                 "local": "ATL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/670.png",
                 "visitante": "CHA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/127.png"
             },
             {
@@ -6790,6 +6790,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/99.png",
+                "equipo": "Atlético Rafaela",
+                "puntos": "15",
+                "pj": "9",
+                "pg": "4",
+                "pe": "3",
+                "pp": "2",
+                "gf": 10,
+                "gc": 6,
+                "dg": 4
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png",
                 "equipo": "Godoy Cruz",
                 "puntos": "14",
@@ -6803,7 +6817,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/138.png",
                 "equipo": "Def. de Belgrano",
                 "puntos": "14",
@@ -6817,7 +6831,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
                 "puntos": "14",
@@ -6831,7 +6845,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/141.png",
                 "equipo": "Racing (Cba)",
                 "puntos": "14",
@@ -6845,7 +6859,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/10612.png",
                 "equipo": "Ciudad Bolívar",
                 "puntos": "13",
@@ -6859,7 +6873,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/140.png",
                 "equipo": "Los Andes",
                 "puntos": "13",
@@ -6873,7 +6887,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/785.png",
                 "equipo": "Midland",
                 "puntos": "13",
@@ -6887,7 +6901,21 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "14",
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/670.png",
+                "equipo": "Atlanta",
+                "puntos": "13",
+                "pj": "9",
+                "pg": "4",
+                "pe": "1",
+                "pp": "4",
+                "gf": 9,
+                "gc": 8,
+                "dg": 1
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png",
                 "equipo": "San Miguel",
                 "puntos": "13",
@@ -6901,7 +6929,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "15",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png",
                 "equipo": "Quilmes",
                 "puntos": "12",
@@ -6915,7 +6943,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "16",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/874.png",
                 "equipo": "Dep. Madryn",
                 "puntos": "12",
@@ -6929,21 +6957,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/99.png",
-                "equipo": "Atlético Rafaela",
-                "puntos": "12",
-                "pj": "8",
-                "pg": "3",
-                "pe": "3",
-                "pp": "2",
-                "gf": 6,
-                "gc": 5,
-                "dg": 1
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/131.png",
                 "equipo": "Ferro",
                 "puntos": "12",
@@ -6957,7 +6971,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "19",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/865.png",
                 "equipo": "Gimnasia y Tiro",
                 "puntos": "12",
@@ -6971,7 +6985,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "20",
+                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/665.png",
                 "equipo": "Almirante Brown",
                 "puntos": "11",
@@ -6982,20 +6996,6 @@
                 "gf": 6,
                 "gc": 8,
                 "dg": -2
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "21",
-                "escudo": "https://statics-files.tycsports.com/escudos/670.png",
-                "equipo": "Atlanta",
-                "puntos": "10",
-                "pj": "8",
-                "pg": "3",
-                "pe": "1",
-                "pp": "4",
-                "gf": 8,
-                "gc": 8,
-                "dg": 0
             },
             {
                 "zona": "Posiciones",
@@ -7126,20 +7126,6 @@
             {
                 "zona": "Posiciones",
                 "posicion": "31",
-                "escudo": "https://statics-files.tycsports.com/escudos/127.png",
-                "equipo": "Chacarita",
-                "puntos": "8",
-                "pj": "8",
-                "pg": "2",
-                "pe": "2",
-                "pp": "4",
-                "gf": 8,
-                "gc": 11,
-                "dg": -3
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "32",
                 "escudo": "https://statics-files.tycsports.com/escudos/1890.png",
                 "equipo": "Mitre (SE)",
                 "puntos": "8",
@@ -7153,17 +7139,31 @@
             },
             {
                 "zona": "Posiciones",
+                "posicion": "32",
+                "escudo": "https://statics-files.tycsports.com/escudos/127.png",
+                "equipo": "Chacarita",
+                "puntos": "8",
+                "pj": "9",
+                "pg": "2",
+                "pe": "2",
+                "pp": "5",
+                "gf": 8,
+                "gc": 12,
+                "dg": -4
+            },
+            {
+                "zona": "Posiciones",
                 "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/3683.png",
                 "equipo": "Agropecuario",
                 "puntos": "8",
-                "pj": "8",
+                "pj": "9",
                 "pg": "2",
                 "pe": "2",
-                "pp": "4",
-                "gf": 6,
-                "gc": 9,
-                "dg": -3
+                "pp": "5",
+                "gf": 7,
+                "gc": 13,
+                "dg": -6
             },
             {
                 "zona": "Posiciones",
@@ -7246,6 +7246,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Martiniano Moreno",
+                "equipo": "Atlético Rafaela",
+                "escudo": "https://statics-files.tycsports.com/escudos/99.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Vicente Poggi",
                 "equipo": "Godoy Cruz",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png",
@@ -7267,12 +7273,6 @@
                 "nombre": "Mauricio Asenjo",
                 "equipo": "Los Andes",
                 "escudo": "https://statics-files.tycsports.com/escudos/140.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Alan Bonansea",
-                "equipo": "Colón",
-                "escudo": "https://statics-files.tycsports.com/escudos/6.png",
                 "goles": 3
             }
         ]

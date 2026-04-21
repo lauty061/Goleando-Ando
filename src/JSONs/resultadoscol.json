@@ -1683,22 +1683,22 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "20/04/2026 20:20 HS",
+                "fecha": "20/04/2026 20:20 HS Finalizado",
                 "local": "ONC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/88.png",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/597.png"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "20/04/2026 22:30 HS",
+                "fecha": "20/04/2026 22:30 HS Finalizado",
                 "local": "ATN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/105.png",
                 "visitante": "BUC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/175.png"
             },
             {
@@ -2047,14 +2047,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png",
                 "equipo": "At. Nacional",
-                "puntos": "37",
-                "pj": "16",
-                "pg": "12",
+                "puntos": "40",
+                "pj": "17",
+                "pg": "13",
                 "pe": "1",
                 "pp": "3",
-                "gf": 33,
+                "gf": 35,
                 "gc": 13,
-                "dg": 20
+                "dg": 22
             },
             {
                 "posicion": "2",
@@ -2097,6 +2097,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/88.png",
+                "equipo": "Once Caldas",
+                "puntos": "29",
+                "pj": "17",
+                "pg": "7",
+                "pe": "8",
+                "pp": "2",
+                "gf": 28,
+                "gc": 20,
+                "dg": 8
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/66.png",
                 "equipo": "América de Cali",
                 "puntos": "27",
@@ -2109,30 +2122,17 @@
                 "dg": 9
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/88.png",
-                "equipo": "Once Caldas",
-                "puntos": "26",
-                "pj": "16",
-                "pg": "6",
-                "pe": "8",
-                "pp": "2",
-                "gf": 26,
-                "gc": 19,
-                "dg": 7
-            },
-            {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png",
                 "equipo": "Int. de Bogotá",
                 "puntos": "25",
-                "pj": "16",
+                "pj": "17",
                 "pg": "6",
                 "pe": "7",
-                "pp": "3",
-                "gf": 20,
-                "gc": 21,
-                "dg": -1
+                "pp": "4",
+                "gf": 21,
+                "gc": 23,
+                "dg": -2
             },
             {
                 "posicion": "8",
@@ -2165,13 +2165,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png",
                 "equipo": "Bucaramanga",
                 "puntos": "22",
-                "pj": "16",
+                "pj": "17",
                 "pg": "5",
                 "pe": "7",
-                "pp": "4",
+                "pp": "5",
                 "gf": 23,
-                "gc": 14,
-                "dg": 9
+                "gc": 16,
+                "dg": 7
             },
             {
                 "posicion": "11",

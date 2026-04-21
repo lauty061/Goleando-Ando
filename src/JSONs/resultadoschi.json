@@ -793,12 +793,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "20/04/2026 21:00 HS",
+                "fecha": "20/04/2026 21:30 HS Finalizado",
                 "local": "UCA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
                 "visitante": "ULC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
             },
             {
@@ -2447,13 +2447,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "equipo": "U. Católica",
                 "puntos": "17",
-                "pj": "9",
+                "pj": "10",
                 "pg": "5",
                 "pe": "2",
-                "pp": "2",
-                "gf": 23,
-                "gc": 14,
-                "dg": 9
+                "pp": "3",
+                "gf": 24,
+                "gc": 16,
+                "dg": 8
             },
             {
                 "posicion": "5",
@@ -2483,6 +2483,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
+                "equipo": "U. La Calera",
+                "puntos": "16",
+                "pj": "10",
+                "pg": "5",
+                "pe": "1",
+                "pp": "4",
+                "gf": 13,
+                "gc": 14,
+                "dg": -1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "equipo": "U. de Chile",
                 "puntos": "14",
@@ -2495,7 +2508,7 @@
                 "dg": 4
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "equipo": "Palestino",
                 "puntos": "14",
@@ -2508,7 +2521,7 @@
                 "dg": -3
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png",
                 "equipo": "U. Concepción",
                 "puntos": "14",
@@ -2521,7 +2534,7 @@
                 "dg": -9
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "13",
@@ -2534,7 +2547,7 @@
                 "dg": 1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png",
                 "equipo": "D. La Serena",
                 "puntos": "13",
@@ -2545,19 +2558,6 @@
                 "gf": 13,
                 "gc": 14,
                 "dg": -1
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "equipo": "U. La Calera",
-                "puntos": "13",
-                "pj": "9",
-                "pg": "4",
-                "pe": "1",
-                "pp": "4",
-                "gf": 11,
-                "gc": 13,
-                "dg": -2
             },
             {
                 "posicion": "13",
@@ -2632,6 +2632,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Sebastián Sáez",
+                "equipo": "U. La Calera",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Nelson Da Silva",
                 "equipo": "Palestino",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
@@ -2641,12 +2647,6 @@
                 "nombre": "Jeisson Vargas",
                 "equipo": "D. La Serena",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Sebastián Sáez",
-                "equipo": "U. La Calera",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "goles": 5
             },
             {

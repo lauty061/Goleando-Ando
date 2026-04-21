@@ -1303,12 +1303,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "20/04/2026 15:30 HS",
+                "fecha": "20/04/2026 15:30 HS Finalizado",
                 "local": "CAM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1602.png",
                 "visitante": "CADU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/778.png"
             },
             {
@@ -4840,6 +4840,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
+                "equipo": "Camioneros",
+                "puntos": "19",
+                "pj": "11",
+                "pg": "5",
+                "pe": "4",
+                "pp": "2",
+                "gf": 10,
+                "gc": 7,
+                "dg": 3
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png",
                 "equipo": "Talleres (RE)",
                 "puntos": "18",
@@ -4852,7 +4865,7 @@
                 "dg": 3
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/683.png",
                 "equipo": "Argentino de M.",
                 "puntos": "17",
@@ -4863,19 +4876,6 @@
                 "gf": 9,
                 "gc": 8,
                 "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
-                "equipo": "Camioneros",
-                "puntos": "16",
-                "pj": "10",
-                "pg": "4",
-                "pe": "4",
-                "pp": "2",
-                "gf": 9,
-                "gc": 7,
-                "dg": 2
             },
             {
                 "posicion": "9",
@@ -4983,19 +4983,6 @@
             },
             {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/778.png",
-                "equipo": "Def. Unidos",
-                "puntos": "11",
-                "pj": "10",
-                "pg": "2",
-                "pe": "5",
-                "pp": "3",
-                "gf": 10,
-                "gc": 9,
-                "dg": 1
-            },
-            {
-                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/688.png",
                 "equipo": "Dock Sud",
                 "puntos": "11",
@@ -5005,6 +4992,19 @@
                 "pp": "4",
                 "gf": 11,
                 "gc": 11,
+                "dg": 0
+            },
+            {
+                "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/778.png",
+                "equipo": "Def. Unidos",
+                "puntos": "11",
+                "pj": "11",
+                "pg": "2",
+                "pe": "5",
+                "pp": "4",
+                "gf": 10,
+                "gc": 10,
                 "dg": 0
             },
             {

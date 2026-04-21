@@ -1003,23 +1003,23 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "20/04/2026 18:15 HS",
+                "fecha": "20/04/2026 20:30 HS Finalizado",
+                "local": "AME",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png",
+                "visitante": "NAC",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png"
+            },
+            {
+                "fecha_torneo": "Fecha 17",
+                "fecha": "21/04/2026 17:00 HS",
                 "local": "RÑU",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png",
                 "visitante": "LIB",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png"
-            },
-            {
-                "fecha_torneo": "Fecha 17",
-                "fecha": "20/04/2026 20:30 HS",
-                "local": "AME",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png",
-                "visitante": "NAC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png"
             },
             {
                 "fecha_torneo": "Fecha 18",
@@ -1353,13 +1353,13 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "equipo": "Sp. Ameliano",
-                "puntos": "27",
-                "pj": "16",
+                "puntos": "28",
+                "pj": "17",
                 "pg": "7",
-                "pe": "6",
+                "pe": "7",
                 "pp": "3",
-                "gf": 20,
-                "gc": 13,
+                "gf": 21,
+                "gc": 14,
                 "dg": 7
             },
             {
@@ -1379,13 +1379,13 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "equipo": "Nacional (P)",
-                "puntos": "25",
-                "pj": "16",
+                "puntos": "26",
+                "pj": "17",
                 "pg": "6",
-                "pe": "7",
+                "pe": "8",
                 "pp": "3",
-                "gf": 22,
-                "gc": 17,
+                "gf": 23,
+                "gc": 18,
                 "dg": 5
             },
             {
@@ -1500,6 +1500,12 @@
                 "goles": 7
             },
             {
+                "nombre": "Elvio Vera",
+                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Aldo González",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
@@ -1509,12 +1515,6 @@
                 "nombre": "Adrián Alcaraz",
                 "equipo": "Olimpia",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Elvio Vera",
-                "equipo": "Sp. Ameliano",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "goles": 6
             },
             {
