@@ -1013,12 +1013,12 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "21/04/2026 17:00 HS",
+                "fecha": "21/04/2026 17:00 HS Finalizado",
                 "local": "RÑU",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png",
                 "visitante": "LIB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png"
             },
             {
@@ -1419,26 +1419,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png",
                 "equipo": "Libertad",
                 "puntos": "21",
-                "pj": "16",
+                "pj": "17",
                 "pg": "6",
                 "pe": "3",
-                "pp": "7",
+                "pp": "8",
                 "gf": 22,
-                "gc": 17,
-                "dg": 5
+                "gc": 20,
+                "dg": 2
             },
             {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "equipo": "Rubio Ñu",
-                "puntos": "15",
-                "pj": "16",
-                "pg": "4",
+                "puntos": "18",
+                "pj": "17",
+                "pg": "5",
                 "pe": "3",
                 "pp": "9",
-                "gf": 10,
+                "gf": 13,
                 "gc": 21,
-                "dg": -11
+                "dg": -8
             },
             {
                 "posicion": "10",
@@ -1530,6 +1530,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Estiven Pérez",
+                "equipo": "Rubio Ñu",
+                "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Néstor Camacho",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
@@ -1539,12 +1545,6 @@
                 "nombre": "Diego Acosta",
                 "equipo": "2 de Mayo",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Ignacio Aliseda",
-                "equipo": "Cerro Porteño",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "goles": 4
             }
         ]

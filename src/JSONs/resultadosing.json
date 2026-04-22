@@ -3303,12 +3303,12 @@
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "21/04/2026 16:00 HS",
+                "fecha": "21/04/2026 16:00 HS Finalizado",
                 "local": "BHA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4713.png",
                 "visitante": "CHE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/563.png"
             },
             {
@@ -3870,19 +3870,32 @@
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
-                "equipo": "Chelsea",
-                "puntos": "48",
-                "pj": "33",
+                "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
+                "equipo": "Brighton and Hove",
+                "puntos": "50",
+                "pj": "34",
                 "pg": "13",
-                "pe": "9",
-                "pp": "11",
-                "gf": 53,
-                "gc": 42,
-                "dg": 11
+                "pe": "11",
+                "pp": "10",
+                "gf": 48,
+                "gc": 39,
+                "dg": 9
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
+                "equipo": "Chelsea",
+                "puntos": "48",
+                "pj": "34",
+                "pg": "13",
+                "pe": "9",
+                "pp": "12",
+                "gf": 53,
+                "gc": 45,
+                "dg": 8
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
                 "equipo": "Brentford",
                 "puntos": "48",
@@ -3895,7 +3908,7 @@
                 "dg": 4
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
                 "equipo": "Bournemouth",
                 "puntos": "48",
@@ -3906,19 +3919,6 @@
                 "gf": 50,
                 "gc": 50,
                 "dg": 0
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
-                "equipo": "Brighton and Hove",
-                "puntos": "47",
-                "pj": "33",
-                "pg": "12",
-                "pe": "11",
-                "pp": "10",
-                "gf": 45,
-                "gc": 39,
-                "dg": 6
             },
             {
                 "posicion": "10",
@@ -4093,7 +4093,7 @@
                 "nombre": "Welbeck, D.",
                 "equipo": "Brighton and Hove",
                 "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
-                "goles": 12
+                "goles": 13
             },
             {
                 "nombre": "Morgan Gibbs-White",

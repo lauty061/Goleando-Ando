@@ -833,12 +833,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "21/04/2026 19:00 HS",
+                "fecha": "21/04/2026 19:00 HS Finalizado",
                 "local": "APC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5732.png",
                 "visitante": "TRU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/119.png"
             },
             {
@@ -1256,6 +1256,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
+                "equipo": "Puerto Cabello",
+                "puntos": "16",
+                "pj": "12",
+                "pg": "4",
+                "pe": "4",
+                "pp": "4",
+                "gf": 15,
+                "gc": 13,
+                "dg": 2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/495.png",
                 "equipo": "Zamora",
                 "puntos": "16",
@@ -1268,7 +1281,7 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "equipo": "Rayo Zuliano",
                 "puntos": "14",
@@ -1279,19 +1292,6 @@
                 "gf": 12,
                 "gc": 21,
                 "dg": -9
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
-                "equipo": "Puerto Cabello",
-                "puntos": "13",
-                "pj": "11",
-                "pg": "3",
-                "pe": "4",
-                "pp": "4",
-                "gf": 12,
-                "gc": 12,
-                "dg": 0
             },
             {
                 "posicion": "11",
@@ -1337,13 +1337,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png",
                 "equipo": "Trujillanos",
                 "puntos": "4",
-                "pj": "11",
+                "pj": "12",
                 "pg": "0",
                 "pe": "4",
-                "pp": "7",
-                "gf": 8,
-                "gc": 22,
-                "dg": -14
+                "pp": "8",
+                "gf": 9,
+                "gc": 25,
+                "dg": -16
             }
         ],
         "goleadores": [
@@ -1408,9 +1408,9 @@
                 "goles": 3
             },
             {
-                "nombre": "Daniel De Sousa",
-                "equipo": "UCV",
-                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
+                "nombre": "Jean Castillo",
+                "equipo": "Puerto Cabello",
+                "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
                 "goles": 3
             }
         ]
