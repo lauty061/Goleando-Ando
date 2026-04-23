@@ -493,12 +493,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "22/04/2026 22:30 HS",
+                "fecha": "22/04/2026 22:30 HS Finalizado",
                 "local": "FOR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3209.png",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/66.png"
             },
             {
@@ -993,12 +993,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "22/04/2026 20:20 HS",
+                "fecha": "22/04/2026 20:20 HS Finalizado",
                 "local": "DIM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/67.png",
                 "visitante": "BOY",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/177.png"
             },
             {
@@ -2097,6 +2097,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
+                "equipo": "América de Cali",
+                "puntos": "30",
+                "pj": "17",
+                "pg": "9",
+                "pe": "3",
+                "pp": "5",
+                "gf": 24,
+                "gc": 14,
+                "dg": 10
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/88.png",
                 "equipo": "Once Caldas",
                 "puntos": "29",
@@ -2107,19 +2120,6 @@
                 "gf": 28,
                 "gc": 20,
                 "dg": 8
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/66.png",
-                "equipo": "América de Cali",
-                "puntos": "27",
-                "pj": "16",
-                "pg": "8",
-                "pe": "3",
-                "pp": "5",
-                "gf": 22,
-                "gc": 13,
-                "dg": 9
             },
             {
                 "posicion": "7",
@@ -2162,6 +2162,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/67.png",
+                "equipo": "Indep. Medellín",
+                "puntos": "23",
+                "pj": "17",
+                "pg": "6",
+                "pe": "5",
+                "pp": "6",
+                "gf": 24,
+                "gc": 22,
+                "dg": 2
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png",
                 "equipo": "Bucaramanga",
                 "puntos": "22",
@@ -2174,7 +2187,7 @@
                 "dg": 7
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png",
                 "equipo": "Millonarios",
                 "puntos": "22",
@@ -2187,7 +2200,7 @@
                 "dg": 6
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png",
                 "equipo": "Águilas Doradas",
                 "puntos": "22",
@@ -2200,7 +2213,7 @@
                 "dg": -6
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png",
                 "equipo": "Llaneros FC",
                 "puntos": "21",
@@ -2213,30 +2226,17 @@
                 "dg": 0
             },
             {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/67.png",
-                "equipo": "Indep. Medellín",
-                "puntos": "20",
-                "pj": "16",
-                "pg": "5",
-                "pe": "5",
-                "pp": "6",
-                "gf": 22,
-                "gc": 22,
-                "dg": 0
-            },
-            {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png",
                 "equipo": "Fortaleza FC",
                 "puntos": "19",
-                "pj": "16",
+                "pj": "17",
                 "pg": "4",
                 "pe": "7",
-                "pp": "5",
-                "gf": 19,
-                "gc": 23,
-                "dg": -4
+                "pp": "6",
+                "gf": 20,
+                "gc": 25,
+                "dg": -5
             },
             {
                 "posicion": "16",
@@ -2266,19 +2266,6 @@
             },
             {
                 "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/177.png",
-                "equipo": "Boyacá Chicó",
-                "puntos": "14",
-                "pj": "16",
-                "pg": "4",
-                "pe": "2",
-                "pp": "10",
-                "gf": 12,
-                "gc": 26,
-                "dg": -14
-            },
-            {
-                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/1655.png",
                 "equipo": "Jaguares",
                 "puntos": "14",
@@ -2289,6 +2276,19 @@
                 "gf": 16,
                 "gc": 31,
                 "dg": -15
+            },
+            {
+                "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/177.png",
+                "equipo": "Boyacá Chicó",
+                "puntos": "14",
+                "pj": "17",
+                "pg": "4",
+                "pe": "2",
+                "pp": "11",
+                "gf": 12,
+                "gc": 28,
+                "dg": -16
             },
             {
                 "posicion": "20",

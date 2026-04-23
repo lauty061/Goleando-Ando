@@ -193,32 +193,32 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "22/04/2026 16:00 HS",
+                "fecha": "22/04/2026 16:00 HS Finalizado",
                 "local": "ALW",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
                 "visitante": "ORI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/97.png"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "22/04/2026 19:00 HS",
+                "fecha": "22/04/2026 19:00 HS Finalizado",
                 "local": "RPO",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png",
                 "visitante": "CDG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "22/04/2026 21:00 HS",
+                "fecha": "22/04/2026 21:00 HS Finalizado",
                 "local": "BLO",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png"
             },
             {
@@ -2405,6 +2405,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
+                "equipo": "Blooming",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
+                "pe": "1",
+                "pp": "0",
+                "gf": 9,
+                "gc": 3,
+                "dg": 6
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "equipo": "Always Ready",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
+                "pe": "1",
+                "pp": "0",
+                "gf": 6,
+                "gc": 1,
+                "dg": 5
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "equipo": "Bolívar",
                 "puntos": "6",
@@ -2417,20 +2443,20 @@
                 "dg": 4
             },
             {
-                "posicion": "2",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
                 "equipo": "Nacional Potosí",
                 "puntos": "6",
-                "pj": "2",
+                "pj": "3",
                 "pg": "2",
                 "pe": "0",
-                "pp": "0",
-                "gf": 4,
-                "gc": 0,
-                "dg": 4
+                "pp": "1",
+                "gf": 5,
+                "gc": 2,
+                "dg": 3
             },
             {
-                "posicion": "3",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "equipo": "The Strongest",
                 "puntos": "6",
@@ -2443,33 +2469,20 @@
                 "dg": 2
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "equipo": "Blooming",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 7,
-                "gc": 2,
-                "dg": 5
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
-                "equipo": "Always Ready",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 5,
-                "gc": 1,
-                "dg": 4
-            },
-            {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
+                "equipo": "Real Potosí",
+                "puntos": "5",
+                "pj": "3",
+                "pg": "1",
+                "pe": "2",
+                "pp": "0",
+                "gf": 4,
+                "gc": 1,
+                "dg": 3
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
                 "equipo": "Independiente",
                 "puntos": "4",
@@ -2482,7 +2495,7 @@
                 "dg": -2
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "3",
@@ -2495,7 +2508,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
                 "equipo": "San Antonio",
                 "puntos": "3",
@@ -2508,7 +2521,7 @@
                 "dg": 1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png",
                 "equipo": "Aurora",
                 "puntos": "3",
@@ -2521,20 +2534,20 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "equipo": "Oriente Petrolero",
                 "puntos": "3",
-                "pj": "2",
+                "pj": "3",
                 "pg": "1",
                 "pe": "0",
-                "pp": "1",
+                "pp": "2",
                 "gf": 2,
-                "gc": 3,
-                "dg": -1
+                "gc": 4,
+                "dg": -2
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
                 "equipo": "ABB",
                 "puntos": "3",
@@ -2545,19 +2558,6 @@
                 "gf": 4,
                 "gc": 8,
                 "dg": -4
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
-                "equipo": "Real Potosí",
-                "puntos": "2",
-                "pj": "2",
-                "pg": "0",
-                "pe": "2",
-                "pp": "0",
-                "gf": 1,
-                "gc": 1,
-                "dg": 0
             },
             {
                 "posicion": "13",
@@ -2603,13 +2603,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png",
                 "equipo": "Guabirá",
                 "puntos": "1",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 2,
-                "gc": 7,
-                "dg": -5
+                "gc": 10,
+                "dg": -8
             }
         ],
         "goleadores": [
