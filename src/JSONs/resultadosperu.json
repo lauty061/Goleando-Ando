@@ -893,12 +893,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "23/04/2026 17:00 HS",
+                "fecha": "23/04/2026 17:00 HS Finalizado",
                 "local": "CHN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
                 "visitante": "CIE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/94.png"
             },
             {
@@ -3125,6 +3125,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
+                "equipo": "Los Chankas",
+                "puntos": "29",
+                "pj": "11",
+                "pg": "9",
+                "pe": "2",
+                "pp": "0",
+                "gf": 21,
+                "gc": 10,
+                "dg": 11
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/84.png",
                 "equipo": "Alianza Lima",
                 "puntos": "26",
@@ -3137,30 +3150,17 @@
                 "dg": 16
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
-                "equipo": "Los Chankas",
-                "puntos": "26",
-                "pj": "10",
-                "pg": "8",
-                "pe": "2",
-                "pp": "0",
-                "gf": 20,
-                "gc": 10,
-                "dg": 10
-            },
-            {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "equipo": "Cienciano",
                 "puntos": "22",
-                "pj": "10",
+                "pj": "11",
                 "pg": "7",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 24,
-                "gc": 13,
-                "dg": 11
+                "gc": 14,
+                "dg": 10
             },
             {
                 "posicion": "4",

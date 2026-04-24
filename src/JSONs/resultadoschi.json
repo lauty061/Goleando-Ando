@@ -803,12 +803,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "23/04/2026 21:00 HS",
+                "fecha": "23/04/2026 21:00 HS Finalizado",
                 "local": "PAL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/151.png",
                 "visitante": "CON",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
             },
             {
@@ -2512,13 +2512,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "equipo": "Palestino",
                 "puntos": "14",
-                "pj": "10",
+                "pj": "11",
                 "pg": "4",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 14,
-                "gc": 17,
-                "dg": -3
+                "gc": 18,
+                "dg": -4
             },
             {
                 "posicion": "10",
@@ -2587,6 +2587,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/146.png",
+                "equipo": "D. Concepción",
+                "puntos": "8",
+                "pj": "11",
+                "pg": "2",
+                "pe": "2",
+                "pp": "7",
+                "gf": 8,
+                "gc": 17,
+                "dg": -9
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
                 "equipo": "Cobresal",
                 "puntos": "7",
@@ -2597,19 +2610,6 @@
                 "gf": 14,
                 "gc": 23,
                 "dg": -9
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/146.png",
-                "equipo": "D. Concepción",
-                "puntos": "5",
-                "pj": "10",
-                "pg": "1",
-                "pe": "2",
-                "pp": "7",
-                "gf": 7,
-                "gc": 17,
-                "dg": -10
             }
         ],
         "goleadores": [

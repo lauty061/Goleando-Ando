@@ -3173,32 +3173,32 @@
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "23/04/2026 14:00 HS",
+                "fecha": "23/04/2026 14:00 HS Finalizado",
                 "local": "LEV",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/35.png",
                 "visitante": "SEV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/41.png"
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "23/04/2026 15:00 HS",
+                "fecha": "23/04/2026 15:00 HS Finalizado",
                 "local": "RAY",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3310.png",
                 "visitante": "ESP",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/34.png"
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "23/04/2026 16:30 HS",
+                "fecha": "23/04/2026 16:30 HS Finalizado",
                 "local": "OVI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5736.png",
                 "visitante": "VIL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/43.png"
             },
             {
@@ -3833,13 +3833,13 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/43.png",
                 "equipo": "Villarreal",
-                "puntos": "61",
-                "pj": "31",
+                "puntos": "62",
+                "pj": "32",
                 "pg": "19",
-                "pe": "4",
+                "pe": "5",
                 "pp": "8",
-                "gf": 56,
-                "gc": 36,
+                "gf": 57,
+                "gc": 37,
                 "dg": 20
             },
             {
@@ -3935,19 +3935,32 @@
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/34.png",
-                "equipo": "Espanyol",
+                "escudo": "https://statics-files.tycsports.com/escudos/3310.png",
+                "equipo": "Rayo Vallecano",
                 "puntos": "38",
-                "pj": "31",
-                "pg": "10",
-                "pe": "8",
-                "pp": "13",
-                "gf": 37,
-                "gc": 48,
-                "dg": -11
+                "pj": "32",
+                "pg": "9",
+                "pe": "11",
+                "pp": "12",
+                "gf": 30,
+                "gc": 38,
+                "dg": -8
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/34.png",
+                "equipo": "Espanyol",
+                "puntos": "38",
+                "pj": "32",
+                "pg": "10",
+                "pe": "8",
+                "pp": "14",
+                "gf": 37,
+                "gc": 49,
+                "dg": -12
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/4608.png",
                 "equipo": "Girona",
                 "puntos": "38",
@@ -3960,7 +3973,7 @@
                 "dg": -13
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/42.png",
                 "equipo": "Valencia",
                 "puntos": "36",
@@ -3973,7 +3986,7 @@
                 "dg": -12
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
                 "equipo": "Elche",
                 "puntos": "35",
@@ -3986,7 +3999,7 @@
                 "dg": -7
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/36.png",
                 "equipo": "Mallorca",
                 "puntos": "35",
@@ -3999,30 +4012,17 @@
                 "dg": -9
             },
             {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/3310.png",
-                "equipo": "Rayo Vallecano",
-                "puntos": "35",
-                "pj": "31",
-                "pg": "8",
-                "pe": "11",
-                "pp": "12",
-                "gf": 29,
-                "gc": 38,
-                "dg": -9
-            },
-            {
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/41.png",
                 "equipo": "Sevilla",
                 "puntos": "34",
-                "pj": "31",
+                "pj": "32",
                 "pg": "9",
                 "pe": "7",
-                "pp": "15",
+                "pp": "16",
                 "gf": 39,
-                "gc": 51,
-                "dg": -12
+                "gc": 53,
+                "dg": -14
             },
             {
                 "posicion": "18",
@@ -4041,26 +4041,26 @@
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/35.png",
                 "equipo": "Levante",
-                "puntos": "29",
-                "pj": "31",
-                "pg": "7",
+                "puntos": "32",
+                "pj": "32",
+                "pg": "8",
                 "pe": "8",
                 "pp": "16",
-                "gf": 35,
+                "gf": 37,
                 "gc": 50,
-                "dg": -15
+                "dg": -13
             },
             {
                 "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/5736.png",
                 "equipo": "Real Oviedo",
-                "puntos": "27",
-                "pj": "31",
+                "puntos": "28",
+                "pj": "32",
                 "pg": "6",
-                "pe": "9",
+                "pe": "10",
                 "pp": "16",
-                "gf": 24,
-                "gc": 48,
+                "gf": 25,
+                "gc": 49,
                 "dg": -24
             }
         ],
