@@ -243,12 +243,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "24/04/2026 21:00 HS",
+                "fecha": "24/04/2026 21:00 HS Finalizado",
                 "local": "IPE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3319.png",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png"
             },
             {
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
+                "equipo": "Independiente",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 6,
+                "gc": 7,
+                "dg": -1
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "equipo": "Bolívar",
                 "puntos": "6",
@@ -2456,7 +2469,7 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
                 "equipo": "Nacional Potosí",
                 "puntos": "6",
@@ -2469,7 +2482,7 @@
                 "dg": 3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
                 "equipo": "San Antonio",
                 "puntos": "6",
@@ -2482,7 +2495,7 @@
                 "dg": 2
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png",
                 "equipo": "Real Potosí",
                 "puntos": "5",
@@ -2495,30 +2508,17 @@
                 "dg": 3
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
-                "equipo": "Independiente",
-                "puntos": "4",
-                "pj": "3",
-                "pg": "1",
-                "pe": "1",
-                "pp": "1",
-                "gf": 4,
-                "gc": 6,
-                "dg": -2
-            },
-            {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "3",
-                "pj": "3",
+                "pj": "4",
                 "pg": "1",
                 "pe": "0",
-                "pp": "2",
-                "gf": 6,
-                "gc": 5,
-                "dg": 1
+                "pp": "3",
+                "gf": 7,
+                "gc": 7,
+                "dg": 0
             },
             {
                 "posicion": "10",
@@ -2638,6 +2638,12 @@
                 "goles": 2
             },
             {
+                "nombre": "Agustín Jara",
+                "equipo": "Universitario de Vinto",
+                "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
+                "goles": 2
+            },
+            {
                 "nombre": "José Sagredo",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
@@ -2647,6 +2653,12 @@
                 "nombre": "Andrés Córdoba",
                 "equipo": "San Antonio Bulo Bulo",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
+                "goles": 2
+            },
+            {
+                "nombre": "Willie Barbosa",
+                "equipo": "Independiente Petrolero",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
                 "goles": 2
             },
             {
@@ -2665,18 +2677,6 @@
                 "nombre": "Daniel Porozo",
                 "equipo": "Totora Real Oruro",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Alex Cáceres",
-                "equipo": "GV San José",
-                "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Layonel Figueroa",
-                "equipo": "ABB",
-                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
                 "goles": 2
             }
         ]

@@ -2703,12 +2703,12 @@
             },
             {
                 "fecha_torneo": "Fecha 31",
-                "fecha": "24/04/2026 15:45 HS",
+                "fecha": "24/04/2026 15:45 HS Finalizado",
                 "local": "SBR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2291.png",
                 "visitante": "LEN",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1730.png"
             },
             {
@@ -3080,14 +3080,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1730.png",
                 "equipo": "Lens",
-                "puntos": "62",
-                "pj": "29",
-                "pg": "20",
+                "puntos": "65",
+                "pj": "30",
+                "pg": "21",
                 "pe": "2",
                 "pp": "7",
-                "gf": 57,
-                "gc": 29,
-                "dg": 28
+                "gf": 61,
+                "gc": 32,
+                "dg": 29
             },
             {
                 "posicion": "3",
@@ -3211,13 +3211,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2291.png",
                 "equipo": "Stade Brestois",
                 "puntos": "37",
-                "pj": "29",
+                "pj": "30",
                 "pg": "10",
                 "pe": "7",
-                "pp": "12",
-                "gf": 38,
-                "gc": 44,
-                "dg": -6
+                "pp": "13",
+                "gf": 41,
+                "gc": 48,
+                "dg": -7
             },
             {
                 "posicion": "13",
@@ -3354,15 +3354,15 @@
                 "goles": 10
             },
             {
+                "nombre": "Florian Thauvin",
+                "equipo": "Lens",
+                "escudo": "https://statics-files.tycsports.com/escudos/1730.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Pierre Aubameyang",
                 "equipo": "Olympique de Marsella",
                 "escudo": "https://statics-files.tycsports.com/escudos/793.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Bamba Dieng",
-                "equipo": "Lorient",
-                "escudo": "https://statics-files.tycsports.com/escudos/1726.png",
                 "goles": 9
             }
         ]

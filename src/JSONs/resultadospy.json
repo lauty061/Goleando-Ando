@@ -1023,22 +1023,22 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "24/04/2026 17:45 HS",
+                "fecha": "24/04/2026 17:45 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/214.png",
                 "visitante": "REC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png"
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "24/04/2026 20:00 HS",
+                "fecha": "24/04/2026 20:00 HS Finalizado",
                 "local": "CER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/77.png",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7948.png"
             },
             {
@@ -1340,30 +1340,43 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "equipo": "Cerro Porteño",
-                "puntos": "33",
-                "pj": "16",
+                "puntos": "34",
+                "pj": "17",
                 "pg": "10",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
-                "gf": 25,
-                "gc": 13,
+                "gf": 26,
+                "gc": 14,
                 "dg": 12
             },
             {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "equipo": "Sp. Ameliano",
-                "puntos": "28",
-                "pj": "17",
+                "puntos": "29",
+                "pj": "18",
                 "pg": "7",
-                "pe": "7",
+                "pe": "8",
                 "pp": "3",
-                "gf": 21,
-                "gc": 14,
+                "gf": 22,
+                "gc": 15,
                 "dg": 7
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "equipo": "Nacional (P)",
+                "puntos": "29",
+                "pj": "18",
+                "pg": "7",
+                "pe": "8",
+                "pp": "3",
+                "gf": 25,
+                "gc": 19,
+                "dg": 6
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "equipo": "Trinidense",
                 "puntos": "26",
@@ -1374,19 +1387,6 @@
                 "gf": 22,
                 "gc": 16,
                 "dg": 6
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
-                "equipo": "Nacional (P)",
-                "puntos": "26",
-                "pj": "17",
-                "pg": "6",
-                "pe": "8",
-                "pp": "3",
-                "gf": 23,
-                "gc": 18,
-                "dg": 5
             },
             {
                 "posicion": "6",
@@ -1406,13 +1406,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "equipo": "D. Recoleta",
                 "puntos": "22",
-                "pj": "17",
+                "pj": "18",
                 "pg": "6",
                 "pe": "4",
-                "pp": "7",
-                "gf": 26,
-                "gc": 22,
-                "dg": 4
+                "pp": "8",
+                "gf": 27,
+                "gc": 24,
+                "dg": 3
             },
             {
                 "posicion": "8",
@@ -1497,7 +1497,7 @@
                 "nombre": "Allan Wlk",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
-                "goles": 7
+                "goles": 8
             },
             {
                 "nombre": "Elvio Vera",
