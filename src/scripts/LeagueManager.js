@@ -228,6 +228,8 @@ class LeagueRenderer {
         const gruposOrdenados = Object.keys(dataAgrupada).sort((a, b) => a.localeCompare(b));
         container.innerHTML = "";
 
+        const hasFixture = this.fixtureDataGlobal.length > 0;
+
         gruposOrdenados.forEach(grupo => {
             if (grupoSeleccionado !== "todos" && grupo !== grupoSeleccionado) return;
 
@@ -250,6 +252,7 @@ class LeagueRenderer {
                                     <th>GF</th>
                                     <th>GC</th>
                                     <th>DG</th>
+                                    ${hasFixture ? '<th>Forma</th>' : ''}
                                 </tr>
                             </thead>
                             <tbody>
@@ -261,6 +264,7 @@ class LeagueRenderer {
                 if(equipo.gf !== undefined) {
                    colExtras = `<td>${equipo.gf}</td><td>${equipo.gc}</td>`;
                 }
+                let formaCell = hasFixture ? `<td>${this.renderFormaReciente(equipo.equipo, equipo.escudo)}</td>` : "";
 
                 html += `
                     <tr>
@@ -278,6 +282,7 @@ class LeagueRenderer {
                         <td>${equipo.pp}</td>
                         ${colExtras}
                         <td>${equipo.dg}</td>
+                        ${formaCell}
                     </tr>
                 `;
             });
@@ -296,6 +301,7 @@ class LeagueRenderer {
         }
 
         let hasGF = tablaData[0].gf !== undefined;
+        let hasFixture = this.fixtureDataGlobal.length > 0;
 
         let html = `
             <thead>
@@ -309,6 +315,7 @@ class LeagueRenderer {
                     <th>PP</th>
                     ${hasGF ? '<th>GF</th><th>GC</th>' : ''}
                     <th>DG</th>
+                    ${hasFixture ? '<th>Forma</th>' : ''}
                 </tr>
             </thead>
             <tbody>`;
@@ -316,6 +323,7 @@ class LeagueRenderer {
         tablaData.forEach((equipo) => {
             let claseFila = this.getZonaClass(equipo.posicion);
             let colExtras = hasGF ? `<td>${equipo.gf}</td><td>${equipo.gc}</td>` : "";
+            let formaCell = hasFixture ? `<td>${this.renderFormaReciente(equipo.equipo, equipo.escudo)}</td>` : "";
 
             html += `
                 <tr>
@@ -333,6 +341,7 @@ class LeagueRenderer {
                     <td>${equipo.pp}</td>
                     ${colExtras}
                     <td>${equipo.dg}</td>
+                    ${formaCell}
                 </tr>`;
         });
         tabla.innerHTML = html + `</tbody>`;
@@ -380,5 +389,66 @@ class LeagueRenderer {
                 `).join("")}
             </tbody>
         `;
+    }
+
+    calcularFormaReciente(equipoNombre, escudoEquipo) {
+        const partidos = this.fixtureDataGlobal.filter(p => {
+            let esTitular, esVisitante;
+
+            if (escudoEquipo) {
+                esTitular = p.escudo_local === escudoEquipo;
+                esVisitante = p.escudo_visita === escudoEquipo;
+            }
+
+            if (!esTitular && !esVisitante) {
+                esTitular = p.local === equipoNombre;
+                esVisitante = p.visitante === equipoNombre;
+            }
+
+            if (!esTitular && !esVisitante) return false;
+
+            const gl = parseInt(p.goles_local);
+            const gv = parseInt(p.goles_visita);
+            return !isNaN(gl) && !isNaN(gv);
+        });
+
+        partidos.sort((a, b) => {
+            const dA = this.parseFecha(a.fecha || a.fecha_partido);
+            const dB = this.parseFecha(b.fecha || b.fecha_partido);
+            return dB - dA;
+        });
+
+        return partidos.slice(0, 5).map(p => {
+            let esTitular;
+            if (escudoEquipo) {
+                esTitular = p.escudo_local === escudoEquipo;
+            } else {
+                esTitular = p.local === equipoNombre;
+            }
+            const gl = parseInt(p.goles_local);
+            const gv = parseInt(p.goles_visita);
+            let res;
+            if (esTitular) res = gl > gv ? 'V' : gl < gv ? 'P' : 'E';
+            else            res = gv > gl ? 'V' : gv < gl ? 'P' : 'E';
+            return res;
+        });
+    }
+
+    parseFecha(fechaStr) {
+        if (!fechaStr) return new Date(0);
+        const m = fechaStr.match(/(\d{2})\/(\d{2})\/(\d{4})/);
+        if (!m) return new Date(0);
+        return new Date(parseInt(m[3]), parseInt(m[2]) - 1, parseInt(m[1]));
+    }
+
+    renderFormaReciente(equipoNombre, escudoEquipo) {
+        const forma = this.calcularFormaReciente(equipoNombre, escudoEquipo);
+        if (!forma.length) return '<span style="opacity:0.3;">—</span>';
+        const badges = forma.map(r => {
+            const cls = r === 'V' ? 'forma-w' : r === 'E' ? 'forma-d' : 'forma-l';
+            const titulo = r === 'V' ? 'Victoria' : r === 'E' ? 'Empate' : 'Derrota';
+            return `<span class="forma-badge ${cls}" title="${titulo}">${r}</span>`;
+        }).join('');
+        return `<div class="forma-reciente">${badges}</div>`;
     }
 }

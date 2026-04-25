@@ -104,34 +104,6 @@ table:empty::after {
     animation: pulse 1.5s ease-in-out infinite;
 }
 
-.resumen-ligas:empty {
-    min-height: 100px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 8px;
-    background: rgba(255,255,255,0.03);
-}
-
-.resumen-ligas:empty::after {
-    content: '';
-    display: block;
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(
-        90deg,
-        transparent 0%,
-        rgba(75, 198, 239, 0.08) 50%,
-        transparent 100%
-    );
-    background-size: 200% 100%;
-    animation: shimmer 1.8s ease-in-out infinite;
-}
-
-@keyframes shimmer {
-    0% { background-position: -200% 0; }
-    100% { background-position: 200% 0; }
-}
-
 @media (max-width: 768px) {
     .scrollable-table table {
         min-width: 100%;
@@ -211,11 +183,6 @@ table:empty::after {
     flex-shrink: 0;
 }
 
-.CountryFlag-module_flag__Y-X37 {
-    flex-shrink: 0;
-    height: 18px;
-    width: 18px;
-}
 label {
     font-weight: 500;
     margin-right: 10px;
@@ -311,6 +278,7 @@ select {
     background-color: var(--background-color);
     border: 1px solid rgba(255,255,255,0.1);
     transition: border-color 0.2s, transform 0.2s;
+    cursor: pointer;
 }
 
 .liga-mini:hover {
@@ -352,15 +320,91 @@ select {
     flex-shrink: 0;
 }
 
+.week-tabs {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+    padding-bottom: 4px;
+}
+
+.week-tab {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1px solid rgba(75, 198, 239, 0.3);
+    background: transparent;
+    color: rgba(255,255,255,0.7);
+    font-family: Rubik, sans-serif;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.week-tab:hover {
+    border-color: var(--primary-accent-color);
+    color: var(--text-color);
+    background: rgba(75, 198, 239, 0.08);
+}
+
+.week-tab.active {
+    background: var(--primary-accent-color);
+    border-color: var(--primary-accent-color);
+    color: #000;
+    font-weight: 700;
+    box-shadow: 0 2px 10px rgba(75, 198, 239, 0.35);
+}
+
+.week-tab-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,0.25);
+    border-radius: 10px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    min-width: 20px;
+    height: 18px;
+    padding: 0 5px;
+    line-height: 1;
+}
+
+.week-tab.active .week-tab-badge {
+    background: rgba(0,0,0,0.3);
+}
+
+.forma-reciente {
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+}
+
+.forma-badge {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.62rem;
+    font-weight: 800;
+    flex-shrink: 0;
+    letter-spacing: 0;
+    color: #fff;
+}
+
+.forma-w { background-color: #28a745; }
+.forma-d { background-color: #6c757d; }
+.forma-l { background-color: #dc3545; }
+
+
 #tabla-hoy {
     margin-top: 15px;
 }
 
-#tabla-hoy th, #tabla-hoy td {
-    padding: 8px;
-    border: 1px solid var(--primary-accent-color);
-    text-align: center;
-}
 
 .piloto-info, .team-info {
     display: flex;
@@ -455,9 +499,6 @@ select {
     justify-content: flex-start;
 }
 
-.justify-end {
-    justify-content: flex-end;
-}
 
 .text-center {
     text-align: center !important;
@@ -548,7 +589,7 @@ select {
 }
 
 .fecha-display::after {
-    content: '▼';
+    content: '\25BC';
     position: absolute;
     right: 12px;
     top: 50%;
