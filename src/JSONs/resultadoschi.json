@@ -833,22 +833,22 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "25/04/2026 16:00 HS",
+                "fecha": "25/04/2026 16:00 HS Finalizado",
                 "local": "ÑUB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/599.png",
                 "visitante": "OHI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "25/04/2026 19:00 HS",
+                "fecha": "25/04/2026 19:00 HS Finalizado",
                 "local": "UCH",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
                 "visitante": "UCA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png"
             },
             {
@@ -2418,6 +2418,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
+                "equipo": "O'Higgins",
+                "puntos": "19",
+                "pj": "11",
+                "pg": "6",
+                "pe": "1",
+                "pp": "4",
+                "gf": 17,
+                "gc": 16,
+                "dg": 1
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "equipo": "Huachipato",
                 "puntos": "18",
@@ -2430,7 +2443,7 @@
                 "dg": 4
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
                 "equipo": "Colo Colo",
                 "puntos": "18",
@@ -2443,33 +2456,46 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "equipo": "U. Católica",
                 "puntos": "17",
-                "pj": "10",
+                "pj": "11",
                 "pg": "5",
                 "pe": "2",
-                "pp": "3",
+                "pp": "4",
                 "gf": 24,
-                "gc": 16,
-                "dg": 8
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
-                "equipo": "Ñublense",
-                "puntos": "17",
-                "pj": "10",
-                "pg": "4",
-                "pe": "5",
-                "pp": "1",
-                "gf": 11,
-                "gc": 7,
-                "dg": 4
+                "gc": 17,
+                "dg": 7
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
+                "equipo": "U. de Chile",
+                "puntos": "17",
+                "pj": "11",
+                "pg": "4",
+                "pe": "5",
+                "pp": "2",
+                "gf": 11,
+                "gc": 6,
+                "dg": 5
+            },
+            {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/599.png",
+                "equipo": "Ñublense",
+                "puntos": "17",
+                "pj": "11",
+                "pg": "4",
+                "pe": "5",
+                "pp": "2",
+                "gf": 11,
+                "gc": 9,
+                "dg": 2
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "16",
@@ -2482,20 +2508,7 @@
                 "dg": 2
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
-                "equipo": "O'Higgins",
-                "puntos": "16",
-                "pj": "10",
-                "pg": "5",
-                "pe": "1",
-                "pp": "4",
-                "gf": 15,
-                "gc": 16,
-                "dg": -1
-            },
-            {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "equipo": "U. La Calera",
                 "puntos": "16",
@@ -2506,19 +2519,6 @@
                 "gf": 14,
                 "gc": 16,
                 "dg": -2
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
-                "equipo": "U. de Chile",
-                "puntos": "14",
-                "pj": "10",
-                "pg": "3",
-                "pe": "5",
-                "pp": "2",
-                "gf": 10,
-                "gc": 6,
-                "dg": 4
             },
             {
                 "posicion": "10",
@@ -2668,16 +2668,16 @@
                 "goles": 4
             },
             {
+                "nombre": "Thiago Vecino",
+                "equipo": "O'Higgins",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Lionel Altamirano",
                 "equipo": "Huachipato",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Arnaldo Castillo",
-                "equipo": "O'Higgins",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
-                "goles": 3
             }
         ]
     }

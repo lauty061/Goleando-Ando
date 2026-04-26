@@ -3313,32 +3313,32 @@
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "25/04/2026 10:00 HS",
+                "fecha": "25/04/2026 10:00 HS Finalizado",
                 "local": "PAR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/59.png",
                 "visitante": "PIS",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6347.png"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "25/04/2026 13:00 HS",
+                "fecha": "25/04/2026 13:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/46.png",
                 "visitante": "ROM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/61.png"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "25/04/2026 15:45 HS",
+                "fecha": "25/04/2026 15:45 HS Finalizado",
                 "local": "HVF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4060.png",
                 "visitante": "LEC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/54.png"
             },
             {
@@ -3857,6 +3857,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
+                "equipo": "Roma",
+                "puntos": "61",
+                "pj": "34",
+                "pg": "19",
+                "pe": "4",
+                "pp": "11",
+                "gf": 48,
+                "gc": 29,
+                "dg": 19
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
                 "equipo": "Como 1907",
                 "puntos": "58",
@@ -3867,19 +3880,6 @@
                 "gf": 57,
                 "gc": 28,
                 "dg": 29
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
-                "equipo": "Roma",
-                "puntos": "58",
-                "pj": "33",
-                "pg": "18",
-                "pe": "4",
-                "pp": "11",
-                "gf": 46,
-                "gc": 29,
-                "dg": 17
             },
             {
                 "posicion": "7",
@@ -3899,13 +3899,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png",
                 "equipo": "Bologna",
                 "puntos": "48",
-                "pj": "33",
+                "pj": "34",
                 "pg": "14",
                 "pe": "6",
-                "pp": "13",
+                "pp": "14",
                 "gf": 42,
-                "gc": 39,
-                "dg": 3
+                "gc": 41,
+                "dg": 1
             },
             {
                 "posicion": "9",
@@ -3948,6 +3948,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/59.png",
+                "equipo": "Parma",
+                "puntos": "42",
+                "pj": "34",
+                "pg": "10",
+                "pe": "12",
+                "pp": "12",
+                "gf": 25,
+                "gc": 40,
+                "dg": -15
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/536.png",
                 "equipo": "Torino",
                 "puntos": "40",
@@ -3960,7 +3973,7 @@
                 "dg": -17
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/725.png",
                 "equipo": "Genoa",
                 "puntos": "39",
@@ -3971,19 +3984,6 @@
                 "gf": 40,
                 "gc": 46,
                 "dg": -6
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/59.png",
-                "equipo": "Parma",
-                "puntos": "39",
-                "pj": "33",
-                "pg": "9",
-                "pe": "12",
-                "pp": "12",
-                "gf": 24,
-                "gc": 40,
-                "dg": -16
             },
             {
                 "posicion": "15",
@@ -4015,10 +4015,10 @@
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/54.png",
                 "equipo": "Lecce",
-                "puntos": "28",
-                "pj": "33",
+                "puntos": "29",
+                "pj": "34",
                 "pg": "7",
-                "pe": "7",
+                "pe": "8",
                 "pp": "19",
                 "gf": 22,
                 "gc": 46,
@@ -4041,10 +4041,10 @@
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/4060.png",
                 "equipo": "Hellas Verona",
-                "puntos": "18",
-                "pj": "33",
+                "puntos": "19",
+                "pj": "34",
                 "pg": "3",
-                "pe": "9",
+                "pe": "10",
                 "pp": "21",
                 "gf": 23,
                 "gc": 56,
@@ -4055,13 +4055,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6347.png",
                 "equipo": "Pisa",
                 "puntos": "18",
-                "pj": "33",
+                "pj": "34",
                 "pg": "2",
                 "pe": "12",
-                "pp": "19",
+                "pp": "20",
                 "gf": 24,
-                "gc": 60,
-                "dg": -36
+                "gc": 61,
+                "dg": -37
             }
         ],
         "goleadores": [
@@ -4090,6 +4090,12 @@
                 "goles": 11
             },
             {
+                "nombre": "Donyell Malen",
+                "equipo": "Roma",
+                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Nikola Krstovic",
                 "equipo": "Atalanta",
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png",
@@ -4105,12 +4111,6 @@
                 "nombre": "Kenan Yildiz",
                 "equipo": "Juventus",
                 "escudo": "https://statics-files.tycsports.com/escudos/52.png",
-                "goles": 10
-            },
-            {
-                "nombre": "Donyell Malen",
-                "equipo": "Roma",
-                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
                 "goles": 10
             },
             {
