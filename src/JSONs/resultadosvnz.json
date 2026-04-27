@@ -903,12 +903,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "26/04/2026 19:00 HS",
+                "fecha": "26/04/2026 19:00 HS Finalizado",
                 "local": "MET",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3898.png",
                 "visitante": "EST",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/224.png"
             },
             {
@@ -1178,6 +1178,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
+                "equipo": "Metropolitanos",
+                "puntos": "25",
+                "pj": "13",
+                "pg": "7",
+                "pe": "4",
+                "pp": "2",
+                "gf": 17,
+                "gc": 10,
+                "dg": 7
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/79.png",
                 "equipo": "Táchira",
                 "puntos": "24",
@@ -1190,7 +1203,7 @@
                 "dg": 5
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "equipo": "UCV",
                 "puntos": "23",
@@ -1201,19 +1214,6 @@
                 "gf": 24,
                 "gc": 20,
                 "dg": 4
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
-                "equipo": "Metropolitanos",
-                "puntos": "22",
-                "pj": "12",
-                "pg": "6",
-                "pe": "4",
-                "pp": "2",
-                "gf": 15,
-                "gc": 10,
-                "dg": 5
             },
             {
                 "posicion": "5",
@@ -1233,13 +1233,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png",
                 "equipo": "Estudiantes",
                 "puntos": "20",
-                "pj": "12",
+                "pj": "13",
                 "pg": "6",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 21,
-                "gc": 16,
-                "dg": 5
+                "gc": 18,
+                "dg": 3
             },
             {
                 "posicion": "7",
@@ -1372,6 +1372,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Fedor Flores, N.",
+                "equipo": "Metropolitanos",
+                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Lewuis Peña",
                 "equipo": "Rayo Zuliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
@@ -1381,12 +1387,6 @@
                 "nombre": "Juan Manuel Cuesta",
                 "equipo": "UCV",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Fedor Flores, N.",
-                "equipo": "Metropolitanos",
-                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
                 "goles": 5
             },
             {

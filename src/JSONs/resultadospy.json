@@ -1063,22 +1063,22 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "26/04/2026 17:45 HS",
+                "fecha": "26/04/2026 17:45 HS Finalizado",
                 "local": "2MA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/269.png",
                 "visitante": "GUA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/115.png"
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "26/04/2026 20:00 HS",
+                "fecha": "26/04/2026 20:00 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2119.png",
                 "visitante": "RÑU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1029.png"
             },
             {
@@ -1392,13 +1392,13 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png",
                 "equipo": "Guaraní",
-                "puntos": "24",
-                "pj": "17",
+                "puntos": "25",
+                "pj": "18",
                 "pg": "6",
-                "pe": "6",
+                "pe": "7",
                 "pp": "5",
-                "gf": 23,
-                "gc": 18,
+                "gf": 25,
+                "gc": 20,
                 "dg": 5
             },
             {
@@ -1457,13 +1457,13 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png",
                 "equipo": "2 de Mayo",
-                "puntos": "14",
-                "pj": "17",
+                "puntos": "15",
+                "pj": "18",
                 "pg": "3",
-                "pe": "5",
+                "pe": "6",
                 "pp": "9",
-                "gf": 12,
-                "gc": 31,
+                "gf": 14,
+                "gc": 33,
                 "dg": -19
             },
             {
@@ -1518,6 +1518,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Diego Acosta",
+                "equipo": "2 de Mayo",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Fernando Romero",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
@@ -1540,12 +1546,6 @@
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "goles": 5
-            },
-            {
-                "nombre": "Federico Carrizo",
-                "equipo": "Libertad",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
-                "goles": 4
             }
         ]
     }
