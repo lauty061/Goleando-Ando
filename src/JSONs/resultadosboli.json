@@ -313,12 +313,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "27/04/2026 21:00 HS",
+                "fecha": "27/04/2026 21:00 HS Finalizado",
                 "local": "AUR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/228.png",
                 "visitante": "SAB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png"
             },
             {
@@ -2483,19 +2483,32 @@
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
-                "equipo": "San Antonio",
+                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
+                "equipo": "Aurora",
                 "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 6,
-                "gc": 4,
+                "pj": "4",
+                "pg": "1",
+                "pe": "3",
+                "pp": "0",
+                "gf": 5,
+                "gc": 3,
                 "dg": 2
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
+                "equipo": "San Antonio",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "2",
+                "pe": "0",
+                "pp": "2",
+                "gf": 7,
+                "gc": 7,
+                "dg": 0
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "equipo": "Oriente Petrolero",
                 "puntos": "6",
@@ -2508,7 +2521,7 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
                 "equipo": "ABB",
                 "puntos": "6",
@@ -2521,7 +2534,7 @@
                 "dg": -3
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png",
                 "equipo": "Real Potosí",
                 "puntos": "5",
@@ -2534,7 +2547,7 @@
                 "dg": 1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "3",
@@ -2544,19 +2557,6 @@
                 "pp": "3",
                 "gf": 7,
                 "gc": 7,
-                "dg": 0
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
-                "equipo": "Aurora",
-                "puntos": "3",
-                "pj": "3",
-                "pg": "0",
-                "pe": "3",
-                "pp": "0",
-                "gf": 2,
-                "gc": 2,
                 "dg": 0
             },
             {

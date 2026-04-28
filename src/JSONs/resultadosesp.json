@@ -3293,12 +3293,12 @@
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "27/04/2026 16:00 HS",
+                "fecha": "27/04/2026 16:00 HS Finalizado",
                 "local": "ESP",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/34.png",
                 "visitante": "LEV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/35.png"
             },
             {
@@ -3961,6 +3961,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/34.png",
+                "equipo": "Espanyol",
+                "puntos": "39",
+                "pj": "33",
+                "pg": "10",
+                "pe": "9",
+                "pp": "14",
+                "gf": 37,
+                "gc": 49,
+                "dg": -12
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
                 "equipo": "Elche",
                 "puntos": "38",
@@ -3971,19 +3984,6 @@
                 "gf": 44,
                 "gc": 50,
                 "dg": -6
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/34.png",
-                "equipo": "Espanyol",
-                "puntos": "38",
-                "pj": "32",
-                "pg": "10",
-                "pe": "8",
-                "pp": "14",
-                "gf": 37,
-                "gc": 49,
-                "dg": -12
             },
             {
                 "posicion": "15",
@@ -4041,10 +4041,10 @@
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/35.png",
                 "equipo": "Levante",
-                "puntos": "32",
-                "pj": "32",
+                "puntos": "33",
+                "pj": "33",
                 "pg": "8",
-                "pe": "8",
+                "pe": "9",
                 "pp": "16",
                 "gf": 37,
                 "gc": 50,

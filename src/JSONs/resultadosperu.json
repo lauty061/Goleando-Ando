@@ -1063,22 +1063,22 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "27/04/2026 17:00 HS",
+                "fecha": "27/04/2026 17:00 HS Finalizado",
                 "local": "ADT",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10029.png",
                 "visitante": "CHN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6198.png"
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "27/04/2026 21:00 HS",
+                "fecha": "27/04/2026 21:00 HS Finalizado",
                 "local": "DEG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10929.png",
                 "visitante": "MEL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/203.png"
             },
             {
@@ -3141,13 +3141,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
                 "equipo": "Los Chankas",
                 "puntos": "29",
-                "pj": "11",
+                "pj": "12",
                 "pg": "9",
                 "pe": "2",
-                "pp": "0",
+                "pp": "1",
                 "gf": 21,
-                "gc": 10,
-                "dg": 11
+                "gc": 14,
+                "dg": 7
             },
             {
                 "posicion": "3",
@@ -3206,13 +3206,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "equipo": "Melgar",
                 "puntos": "17",
-                "pj": "11",
+                "pj": "12",
                 "pg": "5",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 18,
-                "gc": 15,
-                "dg": 3
+                "gc": 16,
+                "dg": 2
             },
             {
                 "posicion": "8",
@@ -3281,6 +3281,32 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
+                "equipo": "ADT de Tarma",
+                "puntos": "13",
+                "pj": "12",
+                "pg": "3",
+                "pe": "4",
+                "pp": "5",
+                "gf": 15,
+                "gc": 15,
+                "dg": 0
+            },
+            {
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
+                "equipo": "Deportivo Garcilaso",
+                "puntos": "13",
+                "pj": "12",
+                "pg": "3",
+                "pe": "4",
+                "pp": "5",
+                "gf": 12,
+                "gc": 16,
+                "dg": -4
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "12",
@@ -3293,7 +3319,7 @@
                 "dg": -4
             },
             {
-                "posicion": "14",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/205.png",
                 "equipo": "Sport Boys",
                 "puntos": "12",
@@ -3301,32 +3327,6 @@
                 "pg": "3",
                 "pe": "3",
                 "pp": "6",
-                "gf": 11,
-                "gc": 16,
-                "dg": -5
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
-                "equipo": "ADT de Tarma",
-                "puntos": "10",
-                "pj": "11",
-                "pg": "2",
-                "pe": "4",
-                "pp": "5",
-                "gf": 11,
-                "gc": 15,
-                "dg": -4
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
-                "equipo": "Deportivo Garcilaso",
-                "puntos": "10",
-                "pj": "11",
-                "pg": "2",
-                "pe": "4",
-                "pp": "5",
                 "gf": 11,
                 "gc": 16,
                 "dg": -5

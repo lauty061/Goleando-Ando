@@ -3383,22 +3383,22 @@
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "27/04/2026 13:30 HS",
+                "fecha": "27/04/2026 13:30 HS Finalizado",
                 "local": "CAG",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/49.png",
                 "visitante": "ATA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/45.png"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "27/04/2026 15:45 HS",
+                "fecha": "27/04/2026 15:45 HS Finalizado",
                 "local": "LAZ",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/53.png",
                 "visitante": "UDI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/64.png"
             },
             {
@@ -3886,16 +3886,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png",
                 "equipo": "Atalanta",
                 "puntos": "54",
-                "pj": "33",
+                "pj": "34",
                 "pg": "14",
                 "pe": "12",
-                "pp": "7",
-                "gf": 45,
-                "gc": 29,
-                "dg": 16
+                "pp": "8",
+                "gf": 47,
+                "gc": 32,
+                "dg": 15
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/53.png",
+                "equipo": "Lazio",
+                "puntos": "48",
+                "pj": "34",
+                "pg": "12",
+                "pe": "12",
+                "pp": "10",
+                "gf": 37,
+                "gc": 33,
+                "dg": 4
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png",
                 "equipo": "Bologna",
                 "puntos": "48",
@@ -3906,19 +3919,6 @@
                 "gf": 42,
                 "gc": 41,
                 "dg": 1
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/53.png",
-                "equipo": "Lazio",
-                "puntos": "47",
-                "pj": "33",
-                "pg": "12",
-                "pe": "11",
-                "pp": "10",
-                "gf": 34,
-                "gc": 30,
-                "dg": 4
             },
             {
                 "posicion": "10",
@@ -3937,13 +3937,13 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/64.png",
                 "equipo": "Udinese",
-                "puntos": "43",
-                "pj": "33",
+                "puntos": "44",
+                "pj": "34",
                 "pg": "12",
-                "pe": "7",
+                "pe": "8",
                 "pp": "14",
-                "gf": 38,
-                "gc": 43,
+                "gf": 41,
+                "gc": 46,
                 "dg": -5
             },
             {
@@ -4002,14 +4002,14 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/49.png",
                 "equipo": "Cagliari",
-                "puntos": "33",
-                "pj": "33",
-                "pg": "8",
+                "puntos": "36",
+                "pj": "34",
+                "pg": "9",
                 "pe": "9",
                 "pp": "16",
-                "gf": 33,
-                "gc": 47,
-                "dg": -14
+                "gf": 36,
+                "gc": 49,
+                "dg": -13
             },
             {
                 "posicion": "17",
@@ -4120,16 +4120,16 @@
                 "goles": 10
             },
             {
+                "nombre": "Gianluca Scamacca",
+                "equipo": "Atalanta",
+                "escudo": "https://statics-files.tycsports.com/escudos/45.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Keinan Davis",
                 "equipo": "Udinese",
                 "escudo": "https://statics-files.tycsports.com/escudos/64.png",
                 "goles": 10
-            },
-            {
-                "nombre": "Scott McTominay",
-                "equipo": "Napoli",
-                "escudo": "https://statics-files.tycsports.com/escudos/726.png",
-                "goles": 9
             }
         ]
     }
