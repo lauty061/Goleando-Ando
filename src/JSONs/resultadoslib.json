@@ -643,12 +643,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "28/04/2026 23:00 HS",
+                "fecha": "28/04/2026 23:00 HS Finalizado",
                 "local": "TOL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/179.png",
                 "visitante": "COQ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
             },
             {
@@ -683,12 +683,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "28/04/2026 21:30 HS",
+                "fecha": "28/04/2026 21:30 HS Finalizado",
                 "local": "CRU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/108.png",
                 "visitante": "BOC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5.png"
             },
             {
@@ -723,12 +723,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "28/04/2026 23:00 HS",
+                "fecha": "28/04/2026 23:00 HS Finalizado",
                 "local": "SPC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
                 "visitante": "JUN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/81.png"
             },
             {
@@ -743,12 +743,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "28/04/2026 19:00 HS",
+                "fecha": "28/04/2026 19:00 HS Finalizado",
                 "local": "LAN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12.png",
                 "visitante": "LDU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/71.png"
             },
             {
@@ -763,22 +763,22 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "28/04/2026 19:00 HS",
+                "fecha": "28/04/2026 19:00 HS Finalizado",
                 "local": "LIB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/69.png",
                 "visitante": "IDV",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/980.png"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "28/04/2026 21:00 HS",
+                "fecha": "28/04/2026 21:00 HS Finalizado",
                 "local": "UCV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1283.png",
                 "visitante": "ROS",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/18.png"
             },
             {
@@ -1626,30 +1626,30 @@
             {
                 "grupo": "Grupo B",
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
-                "equipo": "Coquimbo Unido",
+                "escudo": "https://statics-files.tycsports.com/escudos/179.png",
+                "equipo": "Tolima",
                 "puntos": "4",
-                "pj": "2",
+                "pj": "3",
                 "pg": "1",
                 "pe": "1",
-                "pp": "0",
-                "gf": 3,
-                "gc": 1,
-                "dg": 2
+                "pp": "1",
+                "gf": 4,
+                "gc": 3,
+                "dg": 1
             },
             {
                 "grupo": "Grupo B",
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/179.png",
-                "equipo": "Tolima",
-                "puntos": "1",
-                "pj": "2",
-                "pg": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
+                "equipo": "Coquimbo Unido",
+                "puntos": "4",
+                "pj": "3",
+                "pg": "1",
                 "pe": "1",
                 "pp": "1",
-                "gf": 1,
-                "gc": 3,
-                "dg": -2
+                "gf": 3,
+                "gc": 4,
+                "dg": -1
             },
             {
                 "grupo": "Grupo B",
@@ -1724,20 +1724,34 @@
             {
                 "grupo": "Grupo D",
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/5.png",
-                "equipo": "Boca Juniors",
+                "escudo": "https://statics-files.tycsports.com/escudos/108.png",
+                "equipo": "Cruzeiro",
                 "puntos": "6",
-                "pj": "2",
+                "pj": "3",
                 "pg": "2",
                 "pe": "0",
-                "pp": "0",
-                "gf": 5,
-                "gc": 1,
-                "dg": 4
+                "pp": "1",
+                "gf": 3,
+                "gc": 2,
+                "dg": 1
             },
             {
                 "grupo": "Grupo D",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/5.png",
+                "equipo": "Boca Juniors",
+                "puntos": "6",
+                "pj": "3",
+                "pg": "2",
+                "pe": "0",
+                "pp": "1",
+                "gf": 5,
+                "gc": 2,
+                "dg": 3
+            },
+            {
+                "grupo": "Grupo D",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "equipo": "U. Católica",
                 "puntos": "3",
@@ -1747,20 +1761,6 @@
                 "pp": "1",
                 "gf": 3,
                 "gc": 3,
-                "dg": 0
-            },
-            {
-                "grupo": "Grupo D",
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/108.png",
-                "equipo": "Cruzeiro",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 2,
-                "gc": 2,
                 "dg": 0
             },
             {
@@ -1836,6 +1836,20 @@
             {
                 "grupo": "Grupo F",
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/92.png",
+                "equipo": "Sporting Cristal",
+                "puntos": "6",
+                "pj": "3",
+                "pg": "2",
+                "pe": "0",
+                "pp": "1",
+                "gf": 4,
+                "gc": 2,
+                "dg": 2
+            },
+            {
+                "grupo": "Grupo F",
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/80.png",
                 "equipo": "Palmeiras",
                 "puntos": "4",
@@ -1846,20 +1860,6 @@
                 "gf": 3,
                 "gc": 2,
                 "dg": 1
-            },
-            {
-                "grupo": "Grupo F",
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/92.png",
-                "equipo": "Sporting Cristal",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 2,
-                "gc": 2,
-                "dg": 0
             },
             {
                 "grupo": "Grupo F",
@@ -1881,31 +1881,45 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png",
                 "equipo": "Junior",
                 "puntos": "1",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 1,
-                "gc": 2,
-                "dg": -1
+                "gc": 4,
+                "dg": -3
             },
             {
                 "grupo": "Grupo G",
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/71.png",
-                "equipo": "Liga de Quito",
+                "escudo": "https://statics-files.tycsports.com/escudos/12.png",
+                "equipo": "Lanús",
                 "puntos": "6",
-                "pj": "2",
+                "pj": "3",
                 "pg": "2",
                 "pe": "0",
-                "pp": "0",
-                "gf": 3,
-                "gc": 0,
-                "dg": 3
+                "pp": "1",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
             },
             {
                 "grupo": "Grupo G",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/71.png",
+                "equipo": "Liga de Quito",
+                "puntos": "6",
+                "pj": "3",
+                "pg": "2",
+                "pe": "0",
+                "pp": "1",
+                "gf": 3,
+                "gc": 1,
+                "dg": 2
+            },
+            {
+                "grupo": "Grupo G",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/884.png",
                 "equipo": "Mirassol",
                 "puntos": "3",
@@ -1916,20 +1930,6 @@
                 "gf": 1,
                 "gc": 2,
                 "dg": -1
-            },
-            {
-                "grupo": "Grupo G",
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/12.png",
-                "equipo": "Lanús",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 1,
-                "gc": 1,
-                "dg": 0
             },
             {
                 "grupo": "Grupo G",
@@ -1948,30 +1948,30 @@
             {
                 "grupo": "Grupo H",
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/980.png",
-                "equipo": "Ind. del Valle",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/18.png",
+                "equipo": "Rosario Central",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
                 "pe": "1",
                 "pp": "0",
-                "gf": 3,
-                "gc": 1,
-                "dg": 2
+                "gf": 4,
+                "gc": 0,
+                "dg": 4
             },
             {
                 "grupo": "Grupo H",
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/18.png",
-                "equipo": "Rosario Central",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/980.png",
+                "equipo": "Ind. del Valle",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
                 "pe": "1",
                 "pp": "0",
-                "gf": 1,
-                "gc": 0,
-                "dg": 1
+                "gf": 6,
+                "gc": 3,
+                "dg": 3
             },
             {
                 "grupo": "Grupo H",
@@ -1979,13 +1979,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "equipo": "UCV",
                 "puntos": "3",
-                "pj": "2",
+                "pj": "3",
                 "pg": "1",
                 "pe": "0",
-                "pp": "1",
+                "pp": "2",
                 "gf": 4,
-                "gc": 4,
-                "dg": 0
+                "gc": 7,
+                "dg": -3
             },
             {
                 "grupo": "Grupo H",
@@ -1993,20 +1993,32 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png",
                 "equipo": "Libertad",
                 "puntos": "0",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "0",
-                "pp": "2",
-                "gf": 1,
-                "gc": 4,
-                "dg": -3
+                "pp": "3",
+                "gf": 3,
+                "gc": 7,
+                "dg": -4
             }
         ],
         "goleadores": [
             {
+                "nombre": "Carlos González",
+                "equipo": "Independiente del Valle",
+                "escudo": "https://statics-files.tycsports.com/escudos/980.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Federico Barrandeguy",
                 "equipo": "Juventud",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Lorenzo Melgarejo",
+                "equipo": "Libertad",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
                 "goles": 3
             },
             {
@@ -2025,12 +2037,6 @@
                 "nombre": "Sebastián Coates",
                 "equipo": "Nacional",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Carlos González",
-                "equipo": "Independiente del Valle",
-                "escudo": "https://statics-files.tycsports.com/escudos/980.png",
                 "goles": 2
             },
             {
@@ -2070,21 +2076,15 @@
                 "goles": 2
             },
             {
+                "nombre": "Enzo Copetti",
+                "equipo": "Rosario Central",
+                "escudo": "https://statics-files.tycsports.com/escudos/18.png",
+                "goles": 2
+            },
+            {
                 "nombre": "da Silva, W.",
                 "equipo": "Bahia",
                 "escudo": "https://statics-files.tycsports.com/escudos/991.png",
-                "goles": 2
-            },
-            {
-                "nombre": "José Fajardo",
-                "equipo": "U. Católica (E)",
-                "escudo": "https://statics-files.tycsports.com/escudos/894.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Francisco González",
-                "equipo": "O'Higgins",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "goles": 2
             }
         ]
