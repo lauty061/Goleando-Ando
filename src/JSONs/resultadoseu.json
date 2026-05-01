@@ -2028,12 +2028,12 @@
             {
                 "fase": "Semifinales",
                 "jornada": "Llave 1",
-                "fecha_partido": "30/04/2026 16:00 HS",
+                "fecha_partido": "30/04/2026 16:00 HS Finalizado",
                 "local": "SCB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1358.png",
                 "visitante": "FRI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1717.png"
             },
             {
@@ -2050,12 +2050,12 @@
             {
                 "fase": "Semifinales",
                 "jornada": "Llave 2",
-                "fecha_partido": "30/04/2026 16:00 HS",
+                "fecha_partido": "30/04/2026 16:00 HS Finalizado",
                 "local": "NTF",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3295.png",
                 "visitante": "ASV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/559.png"
             },
             {
@@ -2595,6 +2595,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Vincenzo Grifo",
+                "equipo": "Friburgo",
+                "escudo": "https://statics-files.tycsports.com/escudos/1717.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Federico Bernardeschi",
                 "equipo": "Bologna",
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png",
@@ -2610,12 +2616,6 @@
                 "nombre": "Karol Swiderski",
                 "equipo": "Panathinaikos",
                 "escudo": "https://statics-files.tycsports.com/escudos/1312.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Corentin Tolisso",
-                "equipo": "Olympique Lyon",
-                "escudo": "https://statics-files.tycsports.com/escudos/794.png",
                 "goles": 4
             }
         ]

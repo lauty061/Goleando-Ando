@@ -633,12 +633,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "30/04/2026 23:00 HS",
+                "fecha": "30/04/2026 23:00 HS Finalizado",
                 "local": "DIM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/67.png",
                 "visitante": "CUS",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3685.png"
             },
             {
@@ -663,22 +663,22 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "30/04/2026 19:00 HS",
+                "fecha": "30/04/2026 19:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png",
                 "visitante": "FLU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/113.png"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "30/04/2026 19:00 HS",
+                "fecha": "30/04/2026 19:00 HS Finalizado",
                 "local": "IND",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/664.png",
                 "visitante": "DLG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png"
             },
             {
@@ -713,12 +713,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "30/04/2026 21:00 HS",
+                "fecha": "30/04/2026 21:00 HS Finalizado",
                 "local": "COR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/107.png",
                 "visitante": "PEÑ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/98.png"
             },
             {
@@ -1586,14 +1586,14 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/67.png",
                 "equipo": "Indep. Medellín",
-                "puntos": "1",
-                "pj": "2",
-                "pg": "0",
+                "puntos": "4",
+                "pj": "3",
+                "pg": "1",
                 "pe": "1",
                 "pp": "1",
-                "gf": 2,
+                "gf": 3,
                 "gc": 5,
-                "dg": -3
+                "dg": -2
             },
             {
                 "grupo": "Grupo A",
@@ -1601,13 +1601,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
                 "equipo": "Cusco FC",
                 "puntos": "0",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "0",
-                "pp": "2",
+                "pp": "3",
                 "gf": 1,
-                "gc": 4,
-                "dg": -3
+                "gc": 5,
+                "dg": -4
             },
             {
                 "grupo": "Grupo B",
@@ -1670,42 +1670,42 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png",
                 "equipo": "Indep.Mza.",
-                "puntos": "6",
-                "pj": "2",
-                "pg": "2",
+                "puntos": "9",
+                "pj": "3",
+                "pg": "3",
                 "pe": "0",
                 "pp": "0",
-                "gf": 3,
-                "gc": 1,
-                "dg": 2
+                "gf": 7,
+                "gc": 2,
+                "dg": 5
             },
             {
                 "grupo": "Grupo C",
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
-                "equipo": "Dep. La Guaira",
-                "puntos": "2",
-                "pj": "2",
-                "pg": "0",
-                "pe": "2",
-                "pp": "0",
-                "gf": 1,
-                "gc": 1,
-                "dg": 0
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "equipo": "Bolívar",
+                "puntos": "4",
+                "pj": "3",
+                "pg": "1",
+                "pe": "1",
+                "pp": "1",
+                "gf": 3,
+                "gc": 2,
+                "dg": 1
             },
             {
                 "grupo": "Grupo C",
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "equipo": "Bolívar",
-                "puntos": "1",
-                "pj": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "equipo": "Dep. La Guaira",
+                "puntos": "2",
+                "pj": "3",
                 "pg": "0",
-                "pe": "1",
+                "pe": "2",
                 "pp": "1",
-                "gf": 1,
-                "gc": 2,
-                "dg": -1
+                "gf": 2,
+                "gc": 5,
+                "dg": -3
             },
             {
                 "grupo": "Grupo C",
@@ -1713,13 +1713,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/113.png",
                 "equipo": "Fluminense",
                 "puntos": "1",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 1,
-                "gc": 2,
-                "dg": -1
+                "gc": 4,
+                "dg": -3
             },
             {
                 "grupo": "Grupo D",
@@ -1782,14 +1782,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/107.png",
                 "equipo": "Corinthians",
-                "puntos": "6",
-                "pj": "2",
-                "pg": "2",
+                "puntos": "9",
+                "pj": "3",
+                "pg": "3",
                 "pe": "0",
                 "pp": "0",
-                "gf": 4,
+                "gf": 6,
                 "gc": 0,
-                "dg": 4
+                "dg": 6
             },
             {
                 "grupo": "Grupo E",
@@ -1811,13 +1811,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "equipo": "Peñarol",
                 "puntos": "1",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 2,
-                "gc": 3,
-                "dg": -1
+                "gc": 5,
+                "dg": -3
             },
             {
                 "grupo": "Grupo E",
@@ -2010,6 +2010,18 @@
                 "goles": 5
             },
             {
+                "nombre": "Alex Arce",
+                "equipo": "Independiente Riv. (M)",
+                "escudo": "https://statics-files.tycsports.com/escudos/664.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Francisco Fydriszewski",
+                "equipo": "Independiente Medellín",
+                "escudo": "https://statics-files.tycsports.com/escudos/67.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Federico Barrandeguy",
                 "equipo": "Juventud",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
@@ -2064,27 +2076,15 @@
                 "goles": 2
             },
             {
-                "nombre": "Francisco Fydriszewski",
-                "equipo": "Independiente Medellín",
-                "escudo": "https://statics-files.tycsports.com/escudos/67.png",
+                "nombre": "Robson Tome",
+                "equipo": "Bolívar",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "goles": 2
             },
             {
-                "nombre": "Matías Arezo",
-                "equipo": "Peñarol",
-                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Edson Castillo",
-                "equipo": "Carabobo",
-                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Enzo Copetti",
-                "equipo": "Rosario Central",
-                "escudo": "https://statics-files.tycsports.com/escudos/18.png",
+                "nombre": "Vernes, G.",
+                "equipo": "Corinthians",
+                "escudo": "https://statics-files.tycsports.com/escudos/107.png",
                 "goles": 2
             }
         ]
