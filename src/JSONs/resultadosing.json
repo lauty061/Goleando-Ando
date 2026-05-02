@@ -3403,12 +3403,12 @@
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "01/05/2026 16:00 HS",
+                "fecha": "01/05/2026 16:00 HS Finalizado",
                 "local": "LEE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2184.png",
                 "visitante": "BUR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1693.png"
             },
             {
@@ -3974,6 +3974,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
+                "equipo": "Leeds United",
+                "puntos": "43",
+                "pj": "35",
+                "pg": "10",
+                "pe": "13",
+                "pp": "12",
+                "gf": 47,
+                "gc": 52,
+                "dg": -5
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png",
                 "equipo": "Newcastle United",
                 "puntos": "42",
@@ -3984,19 +3997,6 @@
                 "gf": 46,
                 "gc": 50,
                 "dg": -4
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
-                "equipo": "Leeds United",
-                "puntos": "40",
-                "pj": "34",
-                "pg": "9",
-                "pe": "13",
-                "pp": "12",
-                "gf": 44,
-                "gc": 51,
-                "dg": -7
             },
             {
                 "posicion": "16",
@@ -4042,13 +4042,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1693.png",
                 "equipo": "Burnley",
                 "puntos": "20",
-                "pj": "34",
+                "pj": "35",
                 "pg": "4",
                 "pe": "8",
-                "pp": "22",
-                "gf": 34,
-                "gc": 68,
-                "dg": -34
+                "pp": "23",
+                "gf": 35,
+                "gc": 71,
+                "dg": -36
             },
             {
                 "posicion": "20",
@@ -4102,6 +4102,12 @@
                 "goles": 13
             },
             {
+                "nombre": "Dominic Calvert-Lewin",
+                "equipo": "Leeds United",
+                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Viktor Gyökeres",
                 "equipo": "Arsenal",
                 "escudo": "https://statics-files.tycsports.com/escudos/558.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Eli Kroupi",
                 "equipo": "Bournemouth",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
-                "goles": 11
-            },
-            {
-                "nombre": "Dominic Calvert-Lewin",
-                "equipo": "Leeds United",
-                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
                 "goles": 11
             }
         ]
