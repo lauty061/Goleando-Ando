@@ -323,22 +323,22 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "02/05/2026 14:00 HS",
+                "fecha": "02/05/2026 14:00 HS Finalizado",
                 "local": "SAT",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png",
                 "visitante": "IND",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6142.png"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "02/05/2026 15:00 HS",
+                "fecha": "02/05/2026 15:00 HS Finalizado",
                 "local": "CGE",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png",
                 "visitante": "FER",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10734.png"
             },
             {
@@ -1218,6 +1218,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "equipo": "Gimnasia",
+                "puntos": "11",
+                "pj": "5",
+                "pg": "3",
+                "pe": "2",
+                "pp": "0",
+                "gf": 10,
+                "gc": 5,
+                "dg": 5
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
                 "equipo": "Racing",
                 "puntos": "10",
@@ -1230,7 +1243,7 @@
                 "dg": 9
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "equipo": "River Plate",
                 "puntos": "10",
@@ -1243,7 +1256,7 @@
                 "dg": 9
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "10",
@@ -1254,19 +1267,6 @@
                 "gf": 8,
                 "gc": 2,
                 "dg": 6
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
-                "equipo": "Gimnasia",
-                "puntos": "10",
-                "pj": "4",
-                "pg": "3",
-                "pe": "1",
-                "pp": "0",
-                "gf": 10,
-                "gc": 5,
-                "dg": 5
             },
             {
                 "posicion": "6",
@@ -1286,16 +1286,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
                 "equipo": "SATSAID",
                 "puntos": "5",
-                "pj": "4",
+                "pj": "5",
                 "pg": "1",
                 "pe": "2",
-                "pp": "1",
+                "pp": "2",
                 "gf": 4,
-                "gc": 5,
-                "dg": -1
+                "gc": 6,
+                "dg": -2
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/10734.png",
+                "equipo": "Ferro",
+                "puntos": "5",
+                "pj": "5",
+                "pg": "1",
+                "pe": "2",
+                "pp": "2",
+                "gf": 1,
+                "gc": 3,
+                "dg": -2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
                 "equipo": "Boca Juniors",
                 "puntos": "4",
@@ -1308,7 +1321,7 @@
                 "dg": -1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
                 "equipo": "Newell`s",
                 "puntos": "4",
@@ -1321,7 +1334,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
                 "equipo": "Huracán",
                 "puntos": "4",
@@ -1331,19 +1344,6 @@
                 "pp": "2",
                 "gf": 3,
                 "gc": 5,
-                "dg": -2
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/10734.png",
-                "equipo": "Ferro",
-                "puntos": "4",
-                "pj": "4",
-                "pg": "1",
-                "pe": "1",
-                "pp": "2",
-                "gf": 1,
-                "gc": 3,
                 "dg": -2
             },
             {
@@ -1374,6 +1374,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
+                "equipo": "Independiente",
+                "puntos": "3",
+                "pj": "5",
+                "pg": "1",
+                "pe": "0",
+                "pp": "4",
+                "gf": 2,
+                "gc": 6,
+                "dg": -4
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
                 "equipo": "Unión",
                 "puntos": "1",
@@ -1384,19 +1397,6 @@
                 "gf": 4,
                 "gc": 11,
                 "dg": -7
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
-                "equipo": "Independiente",
-                "puntos": "0",
-                "pj": "4",
-                "pg": "0",
-                "pe": "0",
-                "pp": "4",
-                "gf": 1,
-                "gc": 6,
-                "dg": -5
             },
             {
                 "posicion": "16",

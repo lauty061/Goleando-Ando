@@ -1043,32 +1043,32 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "02/05/2026 12:30 HS",
+                "fecha": "02/05/2026 12:30 HS Finalizado",
                 "local": "JUV",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/771.png",
                 "visitante": "WAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/200.png"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "02/05/2026 15:30 HS",
+                "fecha": "02/05/2026 15:30 HS Finalizado",
                 "local": "CER",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/188.png",
                 "visitante": "MAL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/959.png"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "02/05/2026 18:30 HS",
+                "fecha": "02/05/2026 18:30 HS Finalizado",
                 "local": "LIV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/191.png",
                 "visitante": "DAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/72.png"
             },
             {
@@ -1220,14 +1220,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "equipo": "Maldonado",
-                "puntos": "23",
-                "pj": "13",
-                "pg": "7",
+                "puntos": "26",
+                "pj": "14",
+                "pg": "8",
                 "pe": "2",
                 "pp": "4",
-                "gf": 21,
+                "gf": 22,
                 "gc": 15,
-                "dg": 6
+                "dg": 7
             },
             {
                 "posicion": "3",
@@ -1270,6 +1270,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
+                "equipo": "Liverpool (U)",
+                "puntos": "20",
+                "pj": "14",
+                "pg": "5",
+                "pe": "5",
+                "pp": "4",
+                "gf": 20,
+                "gc": 17,
+                "dg": 3
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png",
                 "equipo": "Defensor Sporting",
                 "puntos": "20",
@@ -1282,7 +1295,7 @@
                 "dg": 3
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "equipo": "MC Torque",
                 "puntos": "19",
@@ -1295,7 +1308,7 @@
                 "dg": 5
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
                 "equipo": "Nacional",
                 "puntos": "19",
@@ -1308,43 +1321,30 @@
                 "dg": 2
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png",
                 "equipo": "Danubio",
                 "puntos": "18",
-                "pj": "13",
+                "pj": "14",
                 "pg": "4",
                 "pe": "6",
-                "pp": "3",
-                "gf": 17,
-                "gc": 17,
-                "dg": 0
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
-                "equipo": "Liverpool (U)",
-                "puntos": "17",
-                "pj": "13",
-                "pg": "4",
-                "pe": "5",
                 "pp": "4",
                 "gf": 17,
-                "gc": 17,
-                "dg": 0
+                "gc": 20,
+                "dg": -3
             },
             {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "equipo": "Wanderers",
                 "puntos": "17",
-                "pj": "13",
+                "pj": "14",
                 "pg": "5",
                 "pe": "2",
-                "pp": "6",
-                "gf": 14,
-                "gc": 19,
-                "dg": -5
+                "pp": "7",
+                "gf": 15,
+                "gc": 21,
+                "dg": -6
             },
             {
                 "posicion": "12",
@@ -1374,6 +1374,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "equipo": "Juventud",
+                "puntos": "12",
+                "pj": "14",
+                "pg": "3",
+                "pe": "3",
+                "pp": "8",
+                "gf": 15,
+                "gc": 21,
+                "dg": -6
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png",
                 "equipo": "Progreso",
                 "puntos": "10",
@@ -1386,30 +1399,17 @@
                 "dg": -9
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png",
                 "equipo": "Cerro",
                 "puntos": "10",
-                "pj": "13",
+                "pj": "14",
                 "pg": "2",
                 "pe": "4",
-                "pp": "7",
-                "gf": 8,
-                "gc": 19,
-                "dg": -11
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
-                "equipo": "Juventud",
-                "puntos": "9",
-                "pj": "13",
-                "pg": "2",
-                "pe": "3",
                 "pp": "8",
-                "gf": 13,
+                "gf": 8,
                 "gc": 20,
-                "dg": -7
+                "dg": -12
             }
         ],
         "goleadores": [
@@ -1426,9 +1426,21 @@
                 "goles": 7
             },
             {
+                "nombre": "Federico Martínez",
+                "equipo": "Liverpool (U)",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Matías Arezo",
                 "equipo": "Peñarol",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
+                "goles": 6
+            },
+            {
+                "nombre": "Fernando Mimbacas",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
                 "goles": 6
             },
             {
@@ -1442,18 +1454,6 @@
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "goles": 6
-            },
-            {
-                "nombre": "Federico Martínez",
-                "equipo": "Liverpool (U)",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Fernando Mimbacas",
-                "equipo": "Juventud",
-                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
-                "goles": 5
             },
             {
                 "nombre": "Brian Montenegro",

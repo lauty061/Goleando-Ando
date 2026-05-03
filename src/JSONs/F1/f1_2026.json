@@ -53,7 +53,7 @@
       "nationality": "ITA",
       "team": "Mercedes",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
-      "points": "72"
+      "points": "75"
     },
     {
       "pos": "2",
@@ -63,7 +63,7 @@
       "nationality": "GBR",
       "team": "Mercedes",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mercedes/2026mercedeslogowhite.webp",
-      "points": "63"
+      "points": "68"
     },
     {
       "pos": "3",
@@ -73,7 +73,7 @@
       "nationality": "MON",
       "team": "Ferrari",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
-      "points": "49"
+      "points": "55"
     },
     {
       "pos": "4",
@@ -83,7 +83,7 @@
       "nationality": "GBR",
       "team": "Ferrari",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/ferrari/2026ferrarilogowhite.webp",
-      "points": "41"
+      "points": "43"
     },
     {
       "pos": "5",
@@ -93,7 +93,7 @@
       "nationality": "GBR",
       "team": "Mc Laren",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
-      "points": "25"
+      "points": "33"
     },
     {
       "pos": "6",
@@ -103,7 +103,7 @@
       "nationality": "AUS",
       "team": "Mc Laren",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/mclaren/2026mclarenlogowhite.webp",
-      "points": "21"
+      "points": "28"
     },
     {
       "pos": "7",
@@ -123,7 +123,7 @@
       "nationality": "FRA",
       "team": "Alpine",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/alpine/2026alpinelogowhite.webp",
-      "points": "15"
+      "points": "16"
     },
     {
       "pos": "9",
@@ -133,7 +133,7 @@
       "nationality": "NED",
       "team": "Red Bull Racing",
       "team_logo": "https://media.formula1.com/image/upload/c_lfill,w_64/q_auto/v1740000001/common/f1/2026/redbullracing/2026redbullracinglogowhite.webp",
-      "points": "12"
+      "points": "16"
     },
     {
       "pos": "10",
@@ -273,7 +273,7 @@
       "profile_url": "https://www.formula1.com/en/results/2026/team/Mercedes",
       "logo": null,
       "car_img": "https://media.formula1.com/image/upload/c_lfill,w_320/q_auto/v1740000000/common/f1/2026/mercedes/2026mercedescar.webp",
-      "points": "135",
+      "points": "143",
       "monoposto": "https://media.formula1.com/image/upload/c_lfill,w_512/q_auto/d_common:f1:2026:fallback:car:2026fallbackcarright.webp/v1740000000/common/f1/2026/mercedes/2026mercedescarright.webp"
     },
     {
@@ -282,7 +282,7 @@
       "profile_url": "https://www.formula1.com/en/results/2026/team/Ferrari",
       "logo": null,
       "car_img": "https://media.formula1.com/image/upload/c_lfill,w_320/q_auto/v1740000000/common/f1/2026/ferrari/2026ferraricar.webp",
-      "points": "90",
+      "points": "98",
       "monoposto": "https://media.formula1.com/image/upload/c_lfill,w_512/q_auto/d_common:f1:2026:fallback:car:2026fallbackcarright.webp/v1740000000/common/f1/2026/ferrari/2026ferraricarright.webp"
     },
     {
@@ -291,11 +291,20 @@
       "profile_url": "https://www.formula1.com/en/results/2026/team/McLaren-Mercedes",
       "logo": null,
       "car_img": "https://media.formula1.com/image/upload/c_lfill,w_320/q_auto/v1740000000/common/f1/2026/mclaren/2026mclarencar.webp",
-      "points": "46",
+      "points": "61",
       "monoposto": "https://media.formula1.com/image/upload/c_lfill,w_512/q_auto/d_common:f1:2026:fallback:car:2026fallbackcarright.webp/v1740000000/common/f1/2026/mclaren/2026mclarencarright.webp"
     },
     {
       "pos": "4",
+      "team": "Red Bull Racing",
+      "profile_url": "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford",
+      "logo": null,
+      "car_img": "https://media.formula1.com/image/upload/c_lfill,w_320/q_auto/v1740000000/common/f1/2026/redbullracing/2026redbullracingcar.webp",
+      "points": "20",
+      "monoposto": "https://media.formula1.com/image/upload/c_lfill,w_512/q_auto/d_common:f1:2026:fallback:car:2026fallbackcarright.webp/v1740000000/common/f1/2026/redbullracing/2026redbullracingcarright.webp"
+    },
+    {
+      "pos": "5",
       "team": "Haas F1 Team",
       "profile_url": "https://www.formula1.com/en/results/2026/team/Haas-Ferrari",
       "logo": null,
@@ -304,22 +313,13 @@
       "monoposto": "https://media.formula1.com/image/upload/c_lfill,w_512/q_auto/d_common:f1:2026:fallback:car:2026fallbackcarright.webp/v1740000000/common/f1/2026/haasf1team/2026haasf1teamcarright.webp"
     },
     {
-      "pos": "5",
+      "pos": "6",
       "team": "Alpine",
       "profile_url": "https://www.formula1.com/en/results/2026/team/Alpine-Mercedes",
       "logo": null,
       "car_img": "https://media.formula1.com/image/upload/c_lfill,w_320/q_auto/v1740000000/common/f1/2026/alpine/2026alpinecar.webp",
-      "points": "16",
+      "points": "17",
       "monoposto": "https://media.formula1.com/image/upload/c_lfill,w_512/q_auto/d_common:f1:2026:fallback:car:2026fallbackcarright.webp/v1740000000/common/f1/2026/alpine/2026alpinecarright.webp"
-    },
-    {
-      "pos": "6",
-      "team": "Red Bull Racing",
-      "profile_url": "https://www.formula1.com/en/results/2026/team/Red-Bull-Racing-Red-Bull-Ford",
-      "logo": null,
-      "car_img": "https://media.formula1.com/image/upload/c_lfill,w_320/q_auto/v1740000000/common/f1/2026/redbullracing/2026redbullracingcar.webp",
-      "points": "16",
-      "monoposto": "https://media.formula1.com/image/upload/c_lfill,w_512/q_auto/d_common:f1:2026:fallback:car:2026fallbackcarright.webp/v1740000000/common/f1/2026/redbullracing/2026redbullracingcarright.webp"
     },
     {
       "pos": "7",

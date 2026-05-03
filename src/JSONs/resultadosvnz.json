@@ -913,22 +913,22 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 1",
-                "fecha": "02/05/2026 19:00 HS",
+                "fecha": "02/05/2026 19:00 HS Finalizado",
                 "local": "POR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/494.png",
                 "visitante": "UCV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1283.png"
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 1",
-                "fecha": "02/05/2026 21:00 HS",
+                "fecha": "02/05/2026 21:00 HS Finalizado",
                 "local": "APC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5732.png",
                 "visitante": "DLG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png"
             },
             {
@@ -1033,12 +1033,12 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 1",
-                "fecha": "02/05/2026 17:00 HS",
+                "fecha": "02/05/2026 17:00 HS Finalizado",
                 "local": "EST",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/224.png",
                 "visitante": "TAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/79.png"
             },
             {
@@ -1351,7 +1351,7 @@
                 "nombre": "Kevin Quejada",
                 "equipo": "Estudiantes Mérida",
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png",
-                "goles": 11
+                "goles": 12
             },
             {
                 "nombre": "Jonathan Cañete",
@@ -1390,6 +1390,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Guillermo Fratta",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Flabián Londoño",
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
@@ -1402,15 +1408,9 @@
                 "goles": 4
             },
             {
-                "nombre": "Guillermo Fratta",
-                "equipo": "Táchira",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Antony Velasco",
-                "equipo": "Anzoátegui FC",
-                "escudo": "https://statics-files.tycsports.com/escudos/11977.png",
+                "nombre": "Rubén Rojas",
+                "equipo": "Portuguesa",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
                 "goles": 3
             }
         ]
