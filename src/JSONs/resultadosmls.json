@@ -1593,22 +1593,22 @@
             },
             {
                 "fecha_torneo": "Semana 10",
-                "fecha": "03/05/2026 16:00 HS",
+                "fecha": "03/05/2026 16:00 HS Finalizado",
                 "local": "NYC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5469.png",
                 "visitante": "DCU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/109.png"
             },
             {
                 "fecha_torneo": "Semana 10",
-                "fecha": "03/05/2026 18:30 HS",
+                "fecha": "03/05/2026 18:30 HS Finalizado",
                 "local": "AUS",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10530.png",
                 "visitante": "SLO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10774.png"
             },
             {
@@ -5412,6 +5412,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/109.png",
+                "equipo": "DC United",
+                "puntos": "15",
+                "pj": "11",
+                "pg": "4",
+                "pe": "3",
+                "pp": "4",
+                "gf": 13,
+                "gc": 15,
+                "dg": -2
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/7819.png",
                 "equipo": "FC Cincinnati",
                 "puntos": "15",
@@ -5425,7 +5439,7 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/10713.png",
                 "equipo": "Charlotte FC",
                 "puntos": "14",
@@ -5439,7 +5453,7 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/1779.png",
                 "equipo": "Toronto FC",
                 "puntos": "14",
@@ -5453,21 +5467,21 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/5469.png",
                 "equipo": "New York City FC",
                 "puntos": "12",
-                "pj": "10",
+                "pj": "11",
                 "pg": "3",
                 "pe": "3",
-                "pp": "4",
+                "pp": "5",
                 "gf": 19,
-                "gc": 16,
-                "dg": 3
+                "gc": 18,
+                "dg": 1
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1772.png",
                 "equipo": "Columbus Crew",
                 "puntos": "12",
@@ -5478,20 +5492,6 @@
                 "gf": 16,
                 "gc": 16,
                 "dg": 0
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/109.png",
-                "equipo": "DC United",
-                "puntos": "12",
-                "pj": "10",
-                "pg": "3",
-                "pe": "3",
-                "pp": "4",
-                "gf": 11,
-                "gc": 15,
-                "dg": -4
             },
             {
                 "zona": "Grupo Este",
@@ -5706,6 +5706,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/10530.png",
+                "equipo": "Austin FC",
+                "puntos": "13",
+                "pj": "11",
+                "pg": "3",
+                "pe": "4",
+                "pp": "4",
+                "gf": 16,
+                "gc": 19,
+                "dg": -3
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11968.png",
                 "equipo": "San Diego FC",
                 "puntos": "12",
@@ -5719,7 +5733,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/2127.png",
                 "equipo": "Portland Timbers",
                 "puntos": "10",
@@ -5733,31 +5747,17 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/10530.png",
-                "equipo": "Austin FC",
-                "puntos": "10",
-                "pj": "10",
-                "pg": "2",
-                "pe": "4",
-                "pp": "4",
-                "gf": 14,
-                "gc": 19,
-                "dg": -5
-            },
-            {
-                "zona": "Grupo Oeste",
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/10774.png",
                 "equipo": "St. Louis City",
                 "puntos": "6",
-                "pj": "9",
+                "pj": "10",
                 "pg": "1",
                 "pe": "3",
-                "pp": "5",
+                "pp": "6",
                 "gf": 9,
-                "gc": 16,
-                "dg": -7
+                "gc": 18,
+                "dg": -9
             },
             {
                 "zona": "Grupo Oeste",

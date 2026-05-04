@@ -713,12 +713,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/05/2026 18:30 HS",
+                "fecha": "03/05/2026 18:30 HS Finalizado",
                 "local": "COL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/95.png",
                 "visitante": "COQ",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
+                "equipo": "Colo Colo",
+                "puntos": "24",
+                "pj": "11",
+                "pg": "8",
+                "pe": "0",
+                "pp": "3",
+                "gf": 14,
+                "gc": 7,
+                "dg": 7
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
                 "equipo": "Deportes Limache",
                 "puntos": "21",
@@ -2415,19 +2428,6 @@
                 "gf": 25,
                 "gc": 11,
                 "dg": 14
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
-                "equipo": "Colo Colo",
-                "puntos": "21",
-                "pj": "10",
-                "pg": "7",
-                "pe": "0",
-                "pp": "3",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
             },
             {
                 "posicion": "3",
@@ -2499,13 +2499,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "16",
-                "pj": "10",
+                "pj": "11",
                 "pg": "5",
                 "pe": "1",
-                "pp": "4",
-                "gf": 14,
-                "gc": 12,
-                "dg": 2
+                "pp": "5",
+                "gf": 15,
+                "gc": 15,
+                "dg": 0
             },
             {
                 "posicion": "9",
@@ -2656,6 +2656,18 @@
                 "goles": 5
             },
             {
+                "nombre": "Maximiliano Romero",
+                "equipo": "Colo Colo",
+                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Javier Correa",
+                "equipo": "Colo Colo",
+                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Jean Meneses",
                 "equipo": "Deportes Limache",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
@@ -2665,18 +2677,6 @@
                 "nombre": "Giovani Chiaverano",
                 "equipo": "Audax Italiano",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Thiago Vecino",
-                "equipo": "O'Higgins",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Lionel Altamirano",
-                "equipo": "Huachipato",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "goles": 4
             }
         ]

@@ -373,22 +373,22 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "03/05/2026 16:00 HS",
+                "fecha": "03/05/2026 16:00 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png",
                 "visitante": "BOL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/70.png"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "03/05/2026 18:15 HS",
+                "fecha": "03/05/2026 18:15 HS Finalizado",
                 "local": "STR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/74.png",
                 "visitante": "ABB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12012.png"
             },
             {
@@ -2420,27 +2420,27 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "equipo": "The Strongest",
-                "puntos": "10",
-                "pj": "4",
-                "pg": "3",
+                "puntos": "13",
+                "pj": "5",
+                "pg": "4",
                 "pe": "1",
                 "pp": "0",
-                "gf": 8,
-                "gc": 5,
-                "dg": 3
+                "gf": 11,
+                "gc": 6,
+                "dg": 5
             },
             {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "equipo": "Bolívar",
-                "puntos": "9",
-                "pj": "4",
-                "pg": "3",
+                "puntos": "12",
+                "pj": "5",
+                "pg": "4",
                 "pe": "0",
                 "pp": "1",
-                "gf": 14,
-                "gc": 4,
-                "dg": 10
+                "gf": 16,
+                "gc": 5,
+                "dg": 11
             },
             {
                 "posicion": "4",
@@ -2525,13 +2525,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
                 "equipo": "ABB",
                 "puntos": "6",
-                "pj": "4",
+                "pj": "5",
                 "pg": "2",
                 "pe": "0",
-                "pp": "2",
-                "gf": 7,
-                "gc": 10,
-                "dg": -3
+                "pp": "3",
+                "gf": 8,
+                "gc": 13,
+                "dg": -5
             },
             {
                 "posicion": "11",
@@ -2577,13 +2577,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "equipo": "GV San José",
                 "puntos": "2",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "2",
-                "pp": "2",
-                "gf": 4,
-                "gc": 6,
-                "dg": -2
+                "pp": "3",
+                "gf": 5,
+                "gc": 8,
+                "dg": -3
             },
             {
                 "posicion": "15",
@@ -2662,6 +2662,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Leonel Justiniano",
+                "equipo": "Bolívar",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Daniel Porozo",
                 "equipo": "Totora Real Oruro",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
@@ -2672,12 +2678,6 @@
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "goles": 3
-            },
-            {
-                "nombre": "Hernán Rodríguez",
-                "equipo": "Universitario de Vinto",
-                "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
-                "goles": 2
             }
         ]
     }

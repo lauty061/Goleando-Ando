@@ -3443,42 +3443,42 @@
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "03/05/2026 07:30 HS",
+                "fecha": "03/05/2026 07:30 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/46.png",
                 "visitante": "CAG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/49.png"
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "03/05/2026 10:00 HS",
+                "fecha": "03/05/2026 10:00 HS Finalizado",
                 "local": "SAS",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2192.png",
                 "visitante": "MIL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/57.png"
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "03/05/2026 13:00 HS",
+                "fecha": "03/05/2026 13:00 HS Finalizado",
                 "local": "JUV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/52.png",
                 "visitante": "HVF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4060.png"
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "03/05/2026 15:45 HS",
+                "fecha": "03/05/2026 15:45 HS Finalizado",
                 "local": "INT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/51.png",
                 "visitante": "PAR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/59.png"
             },
             {
@@ -3807,14 +3807,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
                 "equipo": "Inter",
-                "puntos": "79",
-                "pj": "34",
-                "pg": "25",
+                "puntos": "82",
+                "pj": "35",
+                "pg": "26",
                 "pe": "4",
                 "pp": "5",
-                "gf": 80,
+                "gf": 82,
                 "gc": 31,
-                "dg": 49
+                "dg": 51
             },
             {
                 "posicion": "2",
@@ -3834,25 +3834,25 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/57.png",
                 "equipo": "Milan",
                 "puntos": "67",
-                "pj": "34",
+                "pj": "35",
                 "pg": "19",
                 "pe": "10",
-                "pp": "5",
+                "pp": "6",
                 "gf": 48,
-                "gc": 27,
-                "dg": 21
+                "gc": 29,
+                "dg": 19
             },
             {
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/52.png",
                 "equipo": "Juventus",
-                "puntos": "64",
-                "pj": "34",
+                "puntos": "65",
+                "pj": "35",
                 "pg": "18",
-                "pe": "10",
+                "pe": "11",
                 "pp": "6",
-                "gf": 57,
-                "gc": 29,
+                "gf": 58,
+                "gc": 30,
                 "dg": 28
             },
             {
@@ -3896,6 +3896,32 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/46.png",
+                "equipo": "Bologna",
+                "puntos": "49",
+                "pj": "35",
+                "pg": "14",
+                "pe": "7",
+                "pp": "14",
+                "gf": 42,
+                "gc": 41,
+                "dg": 1
+            },
+            {
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
+                "equipo": "Sassuolo",
+                "puntos": "49",
+                "pj": "35",
+                "pg": "14",
+                "pe": "7",
+                "pp": "14",
+                "gf": 43,
+                "gc": 44,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/53.png",
                 "equipo": "Lazio",
                 "puntos": "48",
@@ -3908,20 +3934,7 @@
                 "dg": 4
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/46.png",
-                "equipo": "Bologna",
-                "puntos": "48",
-                "pj": "34",
-                "pg": "14",
-                "pe": "6",
-                "pp": "14",
-                "gf": 42,
-                "gc": 41,
-                "dg": 1
-            },
-            {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/64.png",
                 "equipo": "Udinese",
                 "puntos": "47",
@@ -3934,30 +3947,17 @@
                 "dg": -3
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
-                "equipo": "Sassuolo",
-                "puntos": "46",
-                "pj": "34",
-                "pg": "13",
-                "pe": "7",
-                "pp": "14",
-                "gf": 41,
-                "gc": 44,
-                "dg": -3
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/59.png",
                 "equipo": "Parma",
                 "puntos": "42",
-                "pj": "34",
+                "pj": "35",
                 "pg": "10",
                 "pe": "12",
-                "pp": "12",
+                "pp": "13",
                 "gf": 25,
-                "gc": 40,
-                "dg": -15
+                "gc": 42,
+                "dg": -17
             },
             {
                 "posicion": "13",
@@ -4002,10 +4002,10 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/49.png",
                 "equipo": "Cagliari",
-                "puntos": "36",
-                "pj": "34",
+                "puntos": "37",
+                "pj": "35",
                 "pg": "9",
-                "pe": "9",
+                "pe": "10",
                 "pp": "16",
                 "gf": 36,
                 "gc": 49,
@@ -4041,13 +4041,13 @@
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/4060.png",
                 "equipo": "Hellas Verona",
-                "puntos": "19",
-                "pj": "34",
+                "puntos": "20",
+                "pj": "35",
                 "pg": "3",
-                "pe": "10",
+                "pe": "11",
                 "pp": "21",
-                "gf": 23,
-                "gc": 56,
+                "gf": 24,
+                "gc": 57,
                 "dg": -33
             },
             {
@@ -4072,15 +4072,15 @@
                 "goles": 16
             },
             {
-                "nombre": "Nicolás Paz",
-                "equipo": "Como 1907",
-                "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
-                "goles": 12
-            },
-            {
                 "nombre": "Marcus Thuram",
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
+                "goles": 13
+            },
+            {
+                "nombre": "Nicolás Paz",
+                "equipo": "Como 1907",
+                "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
                 "goles": 12
             },
             {

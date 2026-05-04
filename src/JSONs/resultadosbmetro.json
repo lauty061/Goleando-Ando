@@ -1523,12 +1523,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "03/05/2026 15:30 HS",
+                "fecha": "03/05/2026 15:30 HS Finalizado",
                 "local": "LIN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/783.png",
                 "visitante": "TRE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/681.png"
             },
             {
@@ -4840,6 +4840,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/681.png",
+                "equipo": "Talleres (RE)",
+                "puntos": "22",
+                "pj": "13",
+                "pg": "6",
+                "pe": "4",
+                "pp": "3",
+                "gf": 10,
+                "gc": 6,
+                "dg": 4
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
                 "equipo": "Camioneros",
                 "puntos": "21",
@@ -4852,7 +4865,7 @@
                 "dg": 3
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/678.png",
                 "equipo": "Dep. Merlo",
                 "puntos": "20",
@@ -4863,19 +4876,6 @@
                 "gf": 16,
                 "gc": 15,
                 "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/681.png",
-                "equipo": "Talleres (RE)",
-                "puntos": "19",
-                "pj": "12",
-                "pg": "5",
-                "pe": "4",
-                "pp": "3",
-                "gf": 9,
-                "gc": 6,
-                "dg": 3
             },
             {
                 "posicion": "9",
@@ -4934,13 +4934,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/783.png",
                 "equipo": "Liniers",
                 "puntos": "15",
-                "pj": "12",
+                "pj": "13",
                 "pg": "4",
                 "pe": "3",
-                "pp": "5",
+                "pp": "6",
                 "gf": 9,
-                "gc": 12,
-                "dg": -3
+                "gc": 13,
+                "dg": -4
             },
             {
                 "posicion": "14",

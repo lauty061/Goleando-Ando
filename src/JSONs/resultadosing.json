@@ -3453,32 +3453,32 @@
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "03/05/2026 10:00 HS",
+                "fecha": "03/05/2026 10:00 HS Finalizado",
                 "local": "BOU",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5376.png",
                 "visitante": "CRY",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2183.png"
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "03/05/2026 11:30 HS",
+                "fecha": "03/05/2026 11:30 HS Finalizado",
                 "local": "MAN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/568.png",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/566.png"
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "03/05/2026 15:00 HS",
+                "fecha": "03/05/2026 15:00 HS Finalizado",
                 "local": "ASV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/559.png",
                 "visitante": "TOT",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/574.png"
             },
             {
@@ -3833,43 +3833,56 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/568.png",
                 "equipo": "Manchester United",
-                "puntos": "61",
-                "pj": "34",
-                "pg": "17",
+                "puntos": "64",
+                "pj": "35",
+                "pg": "18",
                 "pe": "10",
                 "pp": "7",
-                "gf": 60,
-                "gc": 46,
-                "dg": 14
+                "gf": 63,
+                "gc": 48,
+                "dg": 15
             },
             {
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png",
                 "equipo": "Liverpool",
                 "puntos": "58",
-                "pj": "34",
+                "pj": "35",
                 "pg": "17",
                 "pe": "7",
-                "pp": "10",
-                "gf": 57,
-                "gc": 44,
-                "dg": 13
+                "pp": "11",
+                "gf": 59,
+                "gc": 47,
+                "dg": 12
             },
             {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/559.png",
                 "equipo": "Aston Villa",
                 "puntos": "58",
-                "pj": "34",
+                "pj": "35",
                 "pg": "17",
                 "pe": "7",
-                "pp": "10",
-                "gf": 47,
-                "gc": 42,
-                "dg": 5
+                "pp": "11",
+                "gf": 48,
+                "gc": 44,
+                "dg": 4
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
+                "equipo": "Bournemouth",
+                "puntos": "52",
+                "pj": "35",
+                "pg": "12",
+                "pe": "16",
+                "pp": "7",
+                "gf": 55,
+                "gc": 52,
+                "dg": 3
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
                 "equipo": "Brentford",
                 "puntos": "51",
@@ -3882,7 +3895,7 @@
                 "dg": 6
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
                 "equipo": "Brighton and Hove",
                 "puntos": "50",
@@ -3893,19 +3906,6 @@
                 "gf": 49,
                 "gc": 42,
                 "dg": 7
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
-                "equipo": "Bournemouth",
-                "puntos": "49",
-                "pj": "34",
-                "pg": "11",
-                "pe": "16",
-                "pp": "7",
-                "gf": 52,
-                "gc": 52,
-                "dg": 0
             },
             {
                 "posicion": "9",
@@ -3974,19 +3974,6 @@
             },
             {
                 "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/2183.png",
-                "equipo": "Crystal Palace",
-                "puntos": "43",
-                "pj": "33",
-                "pg": "11",
-                "pe": "10",
-                "pp": "12",
-                "gf": 36,
-                "gc": 39,
-                "dg": -3
-            },
-            {
-                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
                 "equipo": "Leeds United",
                 "puntos": "43",
@@ -3997,6 +3984,19 @@
                 "gf": 47,
                 "gc": 52,
                 "dg": -5
+            },
+            {
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/2183.png",
+                "equipo": "Crystal Palace",
+                "puntos": "43",
+                "pj": "34",
+                "pg": "11",
+                "pe": "10",
+                "pp": "13",
+                "gf": 36,
+                "gc": 42,
+                "dg": -6
             },
             {
                 "posicion": "16",
@@ -4013,6 +4013,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/574.png",
+                "equipo": "Tottenham",
+                "puntos": "37",
+                "pj": "35",
+                "pg": "9",
+                "pe": "10",
+                "pp": "16",
+                "gf": 45,
+                "gc": 54,
+                "dg": -9
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/576.png",
                 "equipo": "West Ham United",
                 "puntos": "36",
@@ -4023,19 +4036,6 @@
                 "gf": 42,
                 "gc": 61,
                 "dg": -19
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/574.png",
-                "equipo": "Tottenham",
-                "puntos": "34",
-                "pj": "34",
-                "pg": "8",
-                "pe": "10",
-                "pp": "16",
-                "gf": 43,
-                "gc": 53,
-                "dg": -10
             },
             {
                 "posicion": "19",
@@ -4108,6 +4108,12 @@
                 "goles": 13
             },
             {
+                "nombre": "Eli Kroupi",
+                "equipo": "Bournemouth",
+                "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Dominic Calvert-Lewin",
                 "equipo": "Leeds United",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Hugo Ekitike",
                 "equipo": "Liverpool",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png",
-                "goles": 11
-            },
-            {
-                "nombre": "Eli Kroupi",
-                "equipo": "Bournemouth",
-                "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
                 "goles": 11
             }
         ]
