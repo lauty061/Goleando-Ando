@@ -1113,12 +1113,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "04/05/2026 19:30 HS",
+                "fecha": "04/05/2026 19:30 HS Finalizado",
                 "local": "PEÑ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/98.png",
                 "visitante": "DEF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/110.png"
             },
             {
@@ -1246,17 +1246,30 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "equipo": "Peñarol",
-                "puntos": "23",
-                "pj": "13",
+                "puntos": "24",
+                "pj": "14",
                 "pg": "7",
-                "pe": "2",
+                "pe": "3",
                 "pp": "4",
-                "gf": 19,
-                "gc": 13,
+                "gf": 20,
+                "gc": 14,
                 "dg": 6
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
+                "equipo": "Defensor Sporting",
+                "puntos": "21",
+                "pj": "14",
+                "pg": "5",
+                "pe": "6",
+                "pp": "3",
+                "gf": 12,
+                "gc": 9,
+                "dg": 3
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png",
                 "equipo": "Central Español",
                 "puntos": "21",
@@ -1269,7 +1282,7 @@
                 "dg": -1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "equipo": "MC Torque",
                 "puntos": "20",
@@ -1282,7 +1295,7 @@
                 "dg": 5
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
                 "puntos": "20",
@@ -1292,19 +1305,6 @@
                 "pp": "4",
                 "gf": 20,
                 "gc": 17,
-                "dg": 3
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "equipo": "Defensor Sporting",
-                "puntos": "20",
-                "pj": "13",
-                "pg": "5",
-                "pe": "5",
-                "pp": "3",
-                "gf": 11,
-                "gc": 8,
                 "dg": 3
             },
             {
@@ -1432,6 +1432,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Brian Montenegro",
+                "equipo": "Defensor Sporting",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Matías Arezo",
                 "equipo": "Peñarol",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
@@ -1454,12 +1460,6 @@
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "goles": 6
-            },
-            {
-                "nombre": "Brian Montenegro",
-                "equipo": "Defensor Sporting",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "goles": 5
             },
             {
                 "nombre": "Raúl Tarragona",

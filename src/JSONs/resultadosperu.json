@@ -1163,12 +1163,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "04/05/2026 15:00 HS",
+                "fecha": "04/05/2026 15:00 HS Finalizado",
                 "local": "CHN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
                 "visitante": "DEG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10929.png"
             },
             {
@@ -3141,13 +3141,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
                 "equipo": "Los Chankas",
                 "puntos": "29",
-                "pj": "12",
+                "pj": "13",
                 "pg": "9",
                 "pe": "2",
-                "pp": "1",
+                "pp": "2",
                 "gf": 21,
-                "gc": 14,
-                "dg": 7
+                "gc": 15,
+                "dg": 6
             },
             {
                 "posicion": "3",
@@ -3255,6 +3255,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
+                "equipo": "Deportivo Garcilaso",
+                "puntos": "16",
+                "pj": "13",
+                "pg": "4",
+                "pe": "4",
+                "pp": "5",
+                "gf": 13,
+                "gc": 16,
+                "dg": -3
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
                 "equipo": "Moquegua",
                 "puntos": "16",
@@ -3267,7 +3280,7 @@
                 "dg": -5
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/92.png",
                 "equipo": "Sporting Cristal",
                 "puntos": "15",
@@ -3280,7 +3293,7 @@
                 "dg": 0
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
                 "equipo": "Juan Pablo II",
                 "puntos": "15",
@@ -3291,19 +3304,6 @@
                 "gf": 19,
                 "gc": 31,
                 "dg": -12
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
-                "equipo": "Deportivo Garcilaso",
-                "puntos": "13",
-                "pj": "12",
-                "pg": "3",
-                "pe": "4",
-                "pp": "5",
-                "gf": 12,
-                "gc": 16,
-                "dg": -4
             },
             {
                 "posicion": "15",

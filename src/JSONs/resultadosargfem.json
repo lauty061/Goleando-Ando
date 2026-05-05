@@ -393,17 +393,17 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "04/05/2026 15:00 HS",
+                "fecha": "04/05/2026 15:00 HS Finalizado",
                 "local": "RIV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6141.png",
                 "visitante": "LAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8138.png"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
+                "fecha": "08/05/2026 15:00 HS",
                 "local": "RAC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8139.png",
@@ -413,27 +413,7 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
-                "local": "SAN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/6144.png",
-                "visitante": "NOB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11275.png"
-            },
-            {
-                "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
-                "local": "TAL",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/11974.png",
-                "visitante": "CGE",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/8137.png"
-            },
-            {
-                "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
+                "fecha": "08/05/2026 15:00 HS",
                 "local": "FER",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10734.png",
@@ -443,17 +423,17 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
-                "local": "BOC",
+                "fecha": "08/05/2026 15:30 HS",
+                "local": "SAN",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3499.png",
-                "visitante": "RIV",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/6144.png",
+                "visitante": "NOB",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/6141.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11275.png"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
+                "fecha": "09/05/2026 10:00 HS",
                 "local": "LAN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8138.png",
@@ -463,7 +443,17 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
+                "fecha": "09/05/2026 10:00 HS",
+                "local": "UNI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/12384.png",
+                "visitante": "IND",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/6142.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "10/05/2026 16:00 HS",
                 "local": "SLU",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11274.png",
@@ -473,13 +463,23 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 HS",
-                "local": "UNI",
+                "fecha": "10/05/2026 HS Postergado",
+                "local": "BOC",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/12384.png",
-                "visitante": "IND",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3499.png",
+                "visitante": "RIV",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/6142.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/6141.png"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "11/05/2026 18:30 HS",
+                "local": "TAL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/11974.png",
+                "visitante": "CGE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/8137.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
+                "equipo": "River Plate",
+                "puntos": "13",
+                "pj": "5",
+                "pg": "4",
+                "pe": "1",
+                "pp": "0",
+                "gf": 15,
+                "gc": 3,
+                "dg": 12
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
                 "equipo": "Racing",
                 "puntos": "13",
@@ -1217,7 +1230,7 @@
                 "dg": 10
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "equipo": "Banfield",
                 "puntos": "12",
@@ -1230,7 +1243,7 @@
                 "dg": 5
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "equipo": "Gimnasia",
                 "puntos": "11",
@@ -1241,19 +1254,6 @@
                 "gf": 10,
                 "gc": 5,
                 "dg": 5
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
-                "equipo": "River Plate",
-                "puntos": "10",
-                "pj": "4",
-                "pg": "3",
-                "pe": "1",
-                "pp": "0",
-                "gf": 12,
-                "gc": 3,
-                "dg": 9
             },
             {
                 "posicion": "5",
@@ -1403,16 +1403,22 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
                 "equipo": "Lanús",
                 "puntos": "0",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "0",
-                "pp": "4",
+                "pp": "5",
                 "gf": 0,
-                "gc": 12,
-                "dg": -12
+                "gc": 15,
+                "dg": -15
             }
         ],
         "goleadores": [
+            {
+                "nombre": "María Altgelt",
+                "equipo": "River Plate",
+                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
+                "goles": 3
+            },
             {
                 "nombre": "Emilse Albornos",
                 "equipo": "Unión de Santa Fe",
@@ -1447,12 +1453,6 @@
                 "nombre": "Rocío Bueno",
                 "equipo": "Racing",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
-                "goles": 2
-            },
-            {
-                "nombre": "María Altgelt",
-                "equipo": "River Plate",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "goles": 2
             },
             {

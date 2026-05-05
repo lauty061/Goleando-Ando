@@ -3393,12 +3393,12 @@
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "04/05/2026 16:00 HS",
+                "fecha": "04/05/2026 16:00 HS Finalizado",
                 "local": "SEV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/41.png",
                 "visitante": "RSO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/40.png"
             },
             {
@@ -3912,13 +3912,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/40.png",
                 "equipo": "Real Sociedad",
                 "puntos": "43",
-                "pj": "33",
+                "pj": "34",
                 "pg": "11",
                 "pe": "10",
-                "pp": "12",
+                "pp": "13",
                 "gf": 52,
-                "gc": 52,
-                "dg": 0
+                "gc": 53,
+                "dg": -1
             },
             {
                 "posicion": "10",
@@ -4013,6 +4013,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/41.png",
+                "equipo": "Sevilla",
+                "puntos": "37",
+                "pj": "34",
+                "pg": "10",
+                "pe": "7",
+                "pp": "17",
+                "gf": 41,
+                "gc": 55,
+                "dg": -14
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/160.png",
                 "equipo": "Alavés",
                 "puntos": "36",
@@ -4023,19 +4036,6 @@
                 "gf": 40,
                 "gc": 53,
                 "dg": -13
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/41.png",
-                "equipo": "Sevilla",
-                "puntos": "34",
-                "pj": "33",
-                "pg": "9",
-                "pe": "7",
-                "pp": "17",
-                "gf": 40,
-                "gc": 55,
-                "dg": -15
             },
             {
                 "posicion": "19",

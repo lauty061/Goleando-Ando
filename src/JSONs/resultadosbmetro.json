@@ -1533,12 +1533,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "04/05/2026 20:00 HS",
+                "fecha": "04/05/2026 20:00 HS Finalizado",
                 "local": "COM",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/673.png",
                 "visitante": "ITU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/781.png"
             },
             {
@@ -4879,6 +4879,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
+                "equipo": "Comunicaciones",
+                "puntos": "18",
+                "pj": "13",
+                "pg": "5",
+                "pe": "3",
+                "pp": "5",
+                "gf": 12,
+                "gc": 13,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/683.png",
                 "equipo": "Argentino de M.",
                 "puntos": "18",
@@ -4891,7 +4904,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/697.png",
                 "equipo": "S. Martín B.",
                 "puntos": "16",
@@ -4904,7 +4917,7 @@
                 "dg": 3
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png",
                 "equipo": "Laferrere",
                 "puntos": "16",
@@ -4915,19 +4928,6 @@
                 "gf": 12,
                 "gc": 16,
                 "dg": -4
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
-                "equipo": "Comunicaciones",
-                "puntos": "15",
-                "pj": "12",
-                "pg": "4",
-                "pe": "3",
-                "pp": "5",
-                "gf": 9,
-                "gc": 11,
-                "dg": -2
             },
             {
                 "posicion": "13",
@@ -5051,13 +5051,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png",
                 "equipo": "Ituzaingó",
                 "puntos": "4",
-                "pj": "12",
+                "pj": "13",
                 "pg": "0",
                 "pe": "4",
-                "pp": "8",
-                "gf": 6,
-                "gc": 20,
-                "dg": -14
+                "pp": "9",
+                "gf": 8,
+                "gc": 23,
+                "dg": -15
             }
         ],
         "goleadores": [
@@ -5066,6 +5066,12 @@
                 "equipo": "Def. Unidos",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png",
                 "goles": 7
+            },
+            {
+                "nombre": "Jeremías Heidenreich",
+                "equipo": "Comunicaciones",
+                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
+                "goles": 6
             },
             {
                 "nombre": "Ignacio Serpa",
@@ -5107,12 +5113,6 @@
                 "nombre": "Mathías Crocco",
                 "equipo": "Real Pilar",
                 "escudo": "https://statics-files.tycsports.com/escudos/7234.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Jeremías Heidenreich",
-                "equipo": "Comunicaciones",
-                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
                 "goles": 4
             },
             {

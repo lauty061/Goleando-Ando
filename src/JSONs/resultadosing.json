@@ -3483,22 +3483,22 @@
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "04/05/2026 11:00 HS",
+                "fecha": "04/05/2026 11:00 HS Finalizado",
                 "local": "CHE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/563.png",
                 "visitante": "NTF",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3295.png"
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "04/05/2026 16:00 HS",
+                "fecha": "04/05/2026 16:00 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/564.png",
                 "visitante": "MCI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/567.png"
             },
             {
@@ -3820,13 +3820,13 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
                 "equipo": "Manchester City",
-                "puntos": "70",
-                "pj": "33",
+                "puntos": "71",
+                "pj": "34",
                 "pg": "21",
-                "pe": "7",
+                "pe": "8",
                 "pp": "5",
-                "gf": 66,
-                "gc": 29,
+                "gf": 69,
+                "gc": 32,
                 "dg": 37
             },
             {
@@ -3912,16 +3912,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/563.png",
                 "equipo": "Chelsea",
                 "puntos": "48",
-                "pj": "34",
+                "pj": "35",
                 "pg": "13",
                 "pe": "9",
-                "pp": "12",
-                "gf": 53,
-                "gc": 45,
-                "dg": 8
+                "pp": "13",
+                "gf": 54,
+                "gc": 48,
+                "dg": 6
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
+                "equipo": "Everton",
+                "puntos": "48",
+                "pj": "35",
+                "pg": "13",
+                "pe": "9",
+                "pp": "13",
+                "gf": 44,
+                "gc": 44,
+                "dg": 0
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/565.png",
                 "equipo": "Fulham",
                 "puntos": "48",
@@ -3932,19 +3945,6 @@
                 "gf": 44,
                 "gc": 49,
                 "dg": -5
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
-                "equipo": "Everton",
-                "puntos": "47",
-                "pj": "34",
-                "pg": "13",
-                "pe": "8",
-                "pp": "13",
-                "gf": 41,
-                "gc": 41,
-                "dg": 0
             },
             {
                 "posicion": "12",
@@ -4002,14 +4002,14 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/3295.png",
                 "equipo": "Nottingham Forest",
-                "puntos": "39",
-                "pj": "34",
-                "pg": "10",
+                "puntos": "42",
+                "pj": "35",
+                "pg": "11",
                 "pe": "9",
                 "pp": "15",
-                "gf": 41,
-                "gc": 45,
-                "dg": -4
+                "gf": 44,
+                "gc": 46,
+                "dg": -2
             },
             {
                 "posicion": "17",
@@ -4069,7 +4069,7 @@
                 "nombre": "Erling Haaland",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
-                "goles": 24
+                "goles": 25
             },
             {
                 "nombre": "Nascimento Rodrigues, I.",
@@ -4078,16 +4078,16 @@
                 "goles": 22
             },
             {
+                "nombre": "Junqueira de Jesus, J.",
+                "equipo": "Chelsea",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
+                "goles": 15
+            },
+            {
                 "nombre": "Antoine Semenyo",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
                 "goles": 15
-            },
-            {
-                "nombre": "Junqueira de Jesus, J.",
-                "equipo": "Chelsea",
-                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
-                "goles": 14
             },
             {
                 "nombre": "Viktor Gyökeres",
