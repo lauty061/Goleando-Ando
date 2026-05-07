@@ -2039,12 +2039,12 @@
             {
                 "fase": "Semifinales",
                 "jornada": "Llave 1",
-                "fecha_partido": "06/05/2026 16:00 HS",
+                "fecha_partido": "06/05/2026 16:00 HS Finalizado",
                 "local": "BAY",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/617.png",
                 "visitante": "PSG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1370.png"
             },
             {
@@ -2073,9 +2073,9 @@
                 "fase": "Final",
                 "jornada": "Llave 2",
                 "fecha_partido": "30/05/2026 13:00 HS",
-                "local": "",
+                "local": "PSG",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/0.png",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png",
                 "visitante": "ASL",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/558.png"
@@ -2562,7 +2562,7 @@
                 "nombre": "Harry Kane",
                 "equipo": "Bayern Múnich",
                 "escudo": "https://statics-files.tycsports.com/escudos/617.png",
-                "goles": 13
+                "goles": 14
             },
             {
                 "nombre": "Khvicha Kvaratskhelia",
@@ -2595,6 +2595,12 @@
                 "goles": 7
             },
             {
+                "nombre": "Ousmane Dembélé",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Victor Osimhen",
                 "equipo": "Galatasaray",
                 "escudo": "https://statics-files.tycsports.com/escudos/1362.png",
@@ -2610,12 +2616,6 @@
                 "nombre": "Harvey Barnes",
                 "equipo": "Newcastle United",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Jens Hauge",
-                "equipo": "FK Bodo/Glimt",
-                "escudo": "https://statics-files.tycsports.com/escudos/7137.png",
                 "goles": 6
             }
         ]
