@@ -2039,12 +2039,12 @@
             {
                 "fase": "Semifinales",
                 "jornada": "Llave 1",
-                "fecha_partido": "07/05/2026 16:00 HS",
+                "fecha_partido": "07/05/2026 16:00 HS Finalizado",
                 "local": "FRI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1717.png",
                 "visitante": "SCB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1358.png"
             },
             {
@@ -2061,24 +2061,24 @@
             {
                 "fase": "Semifinales",
                 "jornada": "Llave 2",
-                "fecha_partido": "07/05/2026 16:00 HS",
+                "fecha_partido": "07/05/2026 16:00 HS Finalizado",
                 "local": "ASV",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/559.png",
                 "visitante": "NTF",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3295.png"
             },
             {
                 "fase": "Final",
                 "jornada": "Llave 2",
                 "fecha_partido": "20/05/2026 HS",
-                "local": "",
+                "local": "FRI",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/0.png",
-                "visitante": "",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1717.png",
+                "visitante": "ASV",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/0.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/559.png"
             }
         ],
         "tabla_posiciones": [
@@ -2583,9 +2583,21 @@
                 "goles": 5
             },
             {
+                "nombre": "Ollie Watkins",
+                "equipo": "Aston Villa",
+                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Dion Beljo",
                 "equipo": "Dinamo Zagreb",
                 "escudo": "https://statics-files.tycsports.com/escudos/1360.png",
+                "goles": 5
+            },
+            {
+                "nombre": "John McGinn",
+                "equipo": "Aston Villa",
+                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
                 "goles": 5
             },
             {
@@ -2605,18 +2617,6 @@
                 "equipo": "Bologna",
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png",
                 "goles": 5
-            },
-            {
-                "nombre": "Martin Erlic",
-                "equipo": "Midtjylland",
-                "escudo": "https://statics-files.tycsports.com/escudos/2162.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Karol Swiderski",
-                "equipo": "Panathinaikos",
-                "escudo": "https://statics-files.tycsports.com/escudos/1312.png",
-                "goles": 4
             }
         ]
     }
