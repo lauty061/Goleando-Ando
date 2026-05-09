@@ -1123,12 +1123,12 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "08/05/2026 19:30 HS",
+                "fecha": "08/05/2026 19:30 HS Finalizado",
                 "local": "WAN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/200.png",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/191.png"
             },
             {
@@ -1299,16 +1299,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
                 "puntos": "20",
-                "pj": "14",
+                "pj": "15",
                 "pg": "5",
                 "pe": "5",
-                "pp": "4",
+                "pp": "5",
                 "gf": 20,
-                "gc": 17,
-                "dg": 3
+                "gc": 18,
+                "dg": 2
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
+                "equipo": "Wanderers",
+                "puntos": "20",
+                "pj": "15",
+                "pg": "6",
+                "pe": "2",
+                "pp": "7",
+                "gf": 16,
+                "gc": 21,
+                "dg": -5
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
                 "equipo": "Nacional",
                 "puntos": "19",
@@ -1321,7 +1334,7 @@
                 "dg": 1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png",
                 "equipo": "Danubio",
                 "puntos": "18",
@@ -1334,7 +1347,7 @@
                 "dg": -3
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png",
                 "equipo": "Cerro Largo",
                 "puntos": "17",
@@ -1347,7 +1360,7 @@
                 "dg": -2
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png",
                 "equipo": "Boston River",
                 "puntos": "17",
@@ -1358,19 +1371,6 @@
                 "gf": 13,
                 "gc": 18,
                 "dg": -5
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
-                "equipo": "Wanderers",
-                "puntos": "17",
-                "pj": "14",
-                "pg": "5",
-                "pe": "2",
-                "pp": "7",
-                "gf": 15,
-                "gc": 21,
-                "dg": -6
             },
             {
                 "posicion": "14",

@@ -3503,12 +3503,12 @@
             },
             {
                 "fecha_torneo": "Fecha 36",
-                "fecha": "08/05/2026 15:45 HS",
+                "fecha": "08/05/2026 15:45 HS Finalizado",
                 "local": "TOR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/536.png",
                 "visitante": "SAS",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2192.png"
             },
             {
@@ -3925,13 +3925,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
                 "equipo": "Sassuolo",
                 "puntos": "49",
-                "pj": "35",
+                "pj": "36",
                 "pg": "14",
                 "pe": "7",
-                "pp": "14",
-                "gf": 43,
-                "gc": 44,
-                "dg": -1
+                "pp": "15",
+                "gf": 44,
+                "gc": 46,
+                "dg": -2
             },
             {
                 "posicion": "11",
@@ -3948,6 +3948,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/536.png",
+                "equipo": "Torino",
+                "puntos": "44",
+                "pj": "36",
+                "pg": "12",
+                "pe": "8",
+                "pp": "16",
+                "gf": 41,
+                "gc": 59,
+                "dg": -18
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/59.png",
                 "equipo": "Parma",
                 "puntos": "42",
@@ -3958,19 +3971,6 @@
                 "gf": 25,
                 "gc": 42,
                 "dg": -17
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/536.png",
-                "equipo": "Torino",
-                "puntos": "41",
-                "pj": "35",
-                "pg": "11",
-                "pe": "8",
-                "pp": "16",
-                "gf": 39,
-                "gc": 58,
-                "dg": -19
             },
             {
                 "posicion": "14",
@@ -4090,16 +4090,16 @@
                 "goles": 12
             },
             {
+                "nombre": "Giovanni Simeone",
+                "equipo": "Torino",
+                "escudo": "https://statics-files.tycsports.com/escudos/536.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Donyell Malen",
                 "equipo": "Roma",
                 "escudo": "https://statics-files.tycsports.com/escudos/61.png",
                 "goles": 11
-            },
-            {
-                "nombre": "Giovanni Simeone",
-                "equipo": "Torino",
-                "escudo": "https://statics-files.tycsports.com/escudos/536.png",
-                "goles": 10
             },
             {
                 "nombre": "Nikola Krstovic",

@@ -2883,12 +2883,12 @@
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "08/05/2026 15:30 HS",
+                "fecha": "08/05/2026 15:30 HS Finalizado",
                 "local": "DOR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/707.png",
                 "visitante": "FRA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/708.png"
             },
             {
@@ -3100,14 +3100,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/707.png",
                 "equipo": "Borussia Dortmund",
-                "puntos": "67",
-                "pj": "32",
-                "pg": "20",
+                "puntos": "70",
+                "pj": "33",
+                "pg": "21",
                 "pe": "7",
                 "pp": "5",
-                "gf": 65,
-                "gc": 32,
-                "dg": 33
+                "gf": 68,
+                "gc": 34,
+                "dg": 34
             },
             {
                 "posicion": "3",
@@ -3179,13 +3179,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png",
                 "equipo": "E. Frankfurt",
                 "puntos": "43",
-                "pj": "32",
+                "pj": "33",
                 "pg": "11",
                 "pe": "10",
-                "pp": "11",
-                "gf": 57,
-                "gc": 60,
-                "dg": -3
+                "pp": "12",
+                "gf": 59,
+                "gc": 63,
+                "dg": -4
             },
             {
                 "posicion": "9",
@@ -3332,6 +3332,12 @@
                 "goles": 18
             },
             {
+                "nombre": "Serhou Guirassy",
+                "equipo": "Borussia Dortmund",
+                "escudo": "https://statics-files.tycsports.com/escudos/707.png",
+                "goles": 16
+            },
+            {
                 "nombre": "Patrik Schick",
                 "equipo": "Bayer Leverkusen",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png",
@@ -3341,12 +3347,6 @@
                 "nombre": "Luis Díaz",
                 "equipo": "Bayern Múnich",
                 "escudo": "https://statics-files.tycsports.com/escudos/617.png",
-                "goles": 15
-            },
-            {
-                "nombre": "Serhou Guirassy",
-                "equipo": "Borussia Dortmund",
-                "escudo": "https://statics-files.tycsports.com/escudos/707.png",
                 "goles": 15
             },
             {

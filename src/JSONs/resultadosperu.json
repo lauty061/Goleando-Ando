@@ -1173,12 +1173,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "08/05/2026 17:00 HS",
+                "fecha": "08/05/2026 17:00 HS Finalizado",
                 "local": "UTC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png",
                 "visitante": "FCC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12382.png"
             },
             {
@@ -3245,13 +3245,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
                 "equipo": "UTC",
                 "puntos": "16",
-                "pj": "13",
+                "pj": "14",
                 "pg": "4",
                 "pe": "4",
-                "pp": "5",
-                "gf": 18,
-                "gc": 20,
-                "dg": -2
+                "pp": "6",
+                "gf": 19,
+                "gc": 22,
+                "dg": -3
             },
             {
                 "posicion": "11",
@@ -3320,6 +3320,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
+                "equipo": "FC Cajamarca",
+                "puntos": "12",
+                "pj": "14",
+                "pg": "3",
+                "pe": "3",
+                "pp": "8",
+                "gf": 18,
+                "gc": 25,
+                "dg": -7
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "12",
@@ -3332,7 +3345,7 @@
                 "dg": -7
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
                 "equipo": "Grau",
                 "puntos": "10",
@@ -3343,19 +3356,6 @@
                 "gf": 9,
                 "gc": 15,
                 "dg": -6
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
-                "equipo": "FC Cajamarca",
-                "puntos": "9",
-                "pj": "13",
-                "pg": "2",
-                "pe": "3",
-                "pp": "8",
-                "gf": 16,
-                "gc": 24,
-                "dg": -8
             }
         ],
         "goleadores": [
@@ -3378,16 +3378,16 @@
                 "goles": 8
             },
             {
+                "nombre": "Hernán Barcos",
+                "equipo": "FC Cajamarca",
+                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Facundo Callejo",
                 "equipo": "Cusco FC",
                 "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
                 "goles": 8
-            },
-            {
-                "nombre": "Hernán Barcos",
-                "equipo": "FC Cajamarca",
-                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
-                "goles": 7
             },
             {
                 "nombre": "Alex Valera",

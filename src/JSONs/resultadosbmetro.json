@@ -1543,12 +1543,12 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "08/05/2026 20:00 HS",
+                "fecha": "08/05/2026 20:00 HS Finalizado",
                 "local": "EXC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/689.png",
                 "visitante": "UR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/780.png"
             },
             {
@@ -4801,6 +4801,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/689.png",
+                "equipo": "Excursionistas",
+                "puntos": "25",
+                "pj": "14",
+                "pg": "7",
+                "pe": "4",
+                "pp": "3",
+                "gf": 15,
+                "gc": 8,
+                "dg": 7
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/677.png",
                 "equipo": "Sp. Italiano",
                 "puntos": "25",
@@ -4811,19 +4824,6 @@
                 "gf": 15,
                 "gc": 10,
                 "dg": 5
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/689.png",
-                "equipo": "Excursionistas",
-                "puntos": "24",
-                "pj": "13",
-                "pg": "7",
-                "pe": "3",
-                "pp": "3",
-                "gf": 15,
-                "gc": 8,
-                "dg": 7
             },
             {
                 "posicion": "5",
@@ -4957,6 +4957,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/780.png",
+                "equipo": "UAI Urquiza",
+                "puntos": "14",
+                "pj": "14",
+                "pg": "2",
+                "pe": "8",
+                "pp": "4",
+                "gf": 8,
+                "gc": 9,
+                "dg": -1
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png",
                 "equipo": "Dep. Armenio",
                 "puntos": "14",
@@ -4969,7 +4982,7 @@
                 "dg": -7
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png",
                 "equipo": "Flandria",
                 "puntos": "14",
@@ -4982,7 +4995,7 @@
                 "dg": -8
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/671.png",
                 "equipo": "Brown (Adrogué)",
                 "puntos": "14",
@@ -4993,19 +5006,6 @@
                 "gf": 8,
                 "gc": 16,
                 "dg": -8
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/780.png",
-                "equipo": "UAI Urquiza",
-                "puntos": "13",
-                "pj": "13",
-                "pg": "2",
-                "pe": "7",
-                "pp": "4",
-                "gf": 8,
-                "gc": 9,
-                "dg": -1
             },
             {
                 "posicion": "19",
