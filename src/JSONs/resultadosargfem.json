@@ -433,22 +433,22 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "09/05/2026 10:00 HS",
+                "fecha": "09/05/2026 10:00 HS Finalizado",
                 "local": "LAN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8138.png",
                 "visitante": "BEL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10937.png"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "09/05/2026 10:00 HS",
+                "fecha": "09/05/2026 10:00 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12384.png",
                 "visitante": "IND",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6142.png"
             },
             {
@@ -1312,13 +1312,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "7",
-                "pj": "5",
+                "pj": "6",
                 "pg": "2",
                 "pe": "1",
-                "pp": "2",
-                "gf": 2,
-                "gc": 3,
-                "dg": -1
+                "pp": "3",
+                "gf": 4,
+                "gc": 6,
+                "dg": -2
             },
             {
                 "posicion": "10",
@@ -1361,6 +1361,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
+                "equipo": "Independiente",
+                "puntos": "4",
+                "pj": "6",
+                "pg": "1",
+                "pe": "1",
+                "pp": "4",
+                "gf": 4,
+                "gc": 8,
+                "dg": -4
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
                 "equipo": "Newell`s",
                 "puntos": "4",
@@ -1373,43 +1386,30 @@
                 "dg": -10
             },
             {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
-                "equipo": "Independiente",
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
+                "equipo": "Lanús",
                 "puntos": "3",
-                "pj": "5",
+                "pj": "6",
                 "pg": "1",
                 "pe": "0",
-                "pp": "4",
-                "gf": 2,
-                "gc": 6,
-                "dg": -4
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
-                "equipo": "Unión",
-                "puntos": "1",
-                "pj": "5",
-                "pg": "0",
-                "pe": "1",
-                "pp": "4",
-                "gf": 4,
-                "gc": 12,
-                "dg": -8
+                "pp": "5",
+                "gf": 3,
+                "gc": 17,
+                "dg": -14
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
-                "equipo": "Lanús",
-                "puntos": "0",
-                "pj": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
+                "equipo": "Unión",
+                "puntos": "2",
+                "pj": "6",
                 "pg": "0",
-                "pe": "0",
-                "pp": "5",
-                "gf": 0,
-                "gc": 15,
-                "dg": -15
+                "pe": "2",
+                "pp": "4",
+                "gf": 6,
+                "gc": 14,
+                "dg": -8
             }
         ],
         "goleadores": [
@@ -1426,6 +1426,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Camila López",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Emilse Albornos",
                 "equipo": "Unión de Santa Fe",
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
@@ -1435,12 +1441,6 @@
                 "nombre": "Florencia Gaetán",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Camila López",
-                "equipo": "San Lorenzo",
-                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "goles": 3
             },
             {

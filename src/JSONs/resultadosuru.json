@@ -1133,22 +1133,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "09/05/2026 15:30 HS",
+                "fecha": "09/05/2026 15:30 HS Finalizado",
                 "local": "DAN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/72.png",
                 "visitante": "ALB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7557.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "09/05/2026 18:30 HS",
+                "fecha": "09/05/2026 18:30 HS Finalizado",
                 "local": "CEN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/273.png",
                 "visitante": "RCM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/964.png"
             },
             {
@@ -1208,16 +1208,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/964.png",
                 "equipo": "Racing (U)",
                 "puntos": "31",
-                "pj": "14",
+                "pj": "15",
                 "pg": "9",
                 "pe": "4",
-                "pp": "1",
+                "pp": "2",
                 "gf": 23,
-                "gc": 12,
-                "dg": 11
+                "gc": 14,
+                "dg": 9
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
+                "equipo": "Albion",
+                "puntos": "28",
+                "pj": "15",
+                "pg": "8",
+                "pe": "4",
+                "pp": "3",
+                "gf": 26,
+                "gc": 16,
+                "dg": 10
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "equipo": "Maldonado",
                 "puntos": "26",
@@ -1228,19 +1241,6 @@
                 "gf": 22,
                 "gc": 15,
                 "dg": 7
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
-                "equipo": "Albion",
-                "puntos": "25",
-                "pj": "14",
-                "pg": "7",
-                "pe": "4",
-                "pp": "3",
-                "gf": 25,
-                "gc": 16,
-                "dg": 9
             },
             {
                 "posicion": "4",
@@ -1257,6 +1257,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
+                "equipo": "Central Español",
+                "puntos": "24",
+                "pj": "15",
+                "pg": "7",
+                "pe": "3",
+                "pp": "5",
+                "gf": 23,
+                "gc": 22,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png",
                 "equipo": "Defensor Sporting",
                 "puntos": "21",
@@ -1267,19 +1280,6 @@
                 "gf": 12,
                 "gc": 9,
                 "dg": 3
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
-                "equipo": "Central Español",
-                "puntos": "21",
-                "pj": "14",
-                "pg": "6",
-                "pe": "3",
-                "pp": "5",
-                "gf": 21,
-                "gc": 22,
-                "dg": -1
             },
             {
                 "posicion": "7",
@@ -1338,13 +1338,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png",
                 "equipo": "Danubio",
                 "puntos": "18",
-                "pj": "14",
+                "pj": "15",
                 "pg": "4",
                 "pe": "6",
-                "pp": "4",
+                "pp": "5",
                 "gf": 17,
-                "gc": 20,
-                "dg": -3
+                "gc": 21,
+                "dg": -4
             },
             {
                 "posicion": "12",
@@ -1417,7 +1417,7 @@
                 "nombre": "Álvaro López",
                 "equipo": "Albion",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
-                "goles": 10
+                "goles": 11
             },
             {
                 "nombre": "Maxi Gómez",
@@ -1456,16 +1456,16 @@
                 "goles": 6
             },
             {
+                "nombre": "Raúl Tarragona",
+                "equipo": "Central Español",
+                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Maximiliano Noble",
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "goles": 6
-            },
-            {
-                "nombre": "Raúl Tarragona",
-                "equipo": "Central Español",
-                "escudo": "https://statics-files.tycsports.com/escudos/273.png",
-                "goles": 5
             },
             {
                 "nombre": "Tomás Habib",

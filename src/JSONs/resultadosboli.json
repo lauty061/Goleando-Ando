@@ -403,22 +403,22 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "09/05/2026 18:15 HS",
+                "fecha": "09/05/2026 18:15 HS Finalizado",
                 "local": "CDG",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/938.png",
                 "visitante": "VSJ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11268.png"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "09/05/2026 20:30 HS",
+                "fecha": "09/05/2026 20:30 HS Finalizado",
                 "local": "TOM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png",
                 "visitante": "SAB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png"
             },
             {
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
+                "equipo": "Blooming",
+                "puntos": "8",
+                "pj": "5",
+                "pg": "2",
+                "pe": "2",
+                "pp": "1",
+                "gf": 12,
+                "gc": 7,
+                "dg": 5
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
                 "equipo": "Independiente",
                 "puntos": "8",
@@ -2480,19 +2493,6 @@
                 "gf": 8,
                 "gc": 9,
                 "dg": -1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "equipo": "Blooming",
-                "puntos": "7",
-                "pj": "4",
-                "pg": "2",
-                "pe": "1",
-                "pp": "1",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
             },
             {
                 "posicion": "8",
@@ -2512,13 +2512,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
                 "equipo": "San Antonio",
                 "puntos": "7",
-                "pj": "5",
+                "pj": "6",
                 "pg": "2",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 9,
-                "gc": 9,
-                "dg": 0
+                "gc": 10,
+                "dg": -1
             },
             {
                 "posicion": "10",
@@ -2548,6 +2548,32 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
+                "equipo": "Real Tomayapo",
+                "puntos": "5",
+                "pj": "6",
+                "pg": "1",
+                "pe": "2",
+                "pp": "3",
+                "gf": 3,
+                "gc": 14,
+                "dg": -11
+            },
+            {
+                "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
+                "equipo": "U. de Vinto",
+                "puntos": "4",
+                "pj": "5",
+                "pg": "1",
+                "pe": "1",
+                "pp": "3",
+                "gf": 8,
+                "gc": 8,
+                "dg": 0
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
                 "equipo": "Totora Real Oruro",
                 "puntos": "4",
@@ -2560,56 +2586,30 @@
                 "dg": -4
             },
             {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
-                "equipo": "U. de Vinto",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 7,
-                "gc": 7,
-                "dg": 0
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
-                "equipo": "GV San José",
-                "puntos": "2",
-                "pj": "5",
-                "pg": "0",
-                "pe": "2",
-                "pp": "3",
-                "gf": 5,
-                "gc": 8,
-                "dg": -3
-            },
-            {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
-                "equipo": "Real Tomayapo",
-                "puntos": "2",
-                "pj": "5",
-                "pg": "0",
-                "pe": "2",
-                "pp": "3",
-                "gf": 2,
-                "gc": 14,
-                "dg": -12
+                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
+                "equipo": "Guabirá",
+                "puntos": "4",
+                "pj": "6",
+                "pg": "1",
+                "pe": "1",
+                "pp": "4",
+                "gf": 8,
+                "gc": 16,
+                "dg": -8
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
-                "equipo": "Guabirá",
-                "puntos": "1",
-                "pj": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
+                "equipo": "GV San José",
+                "puntos": "2",
+                "pj": "6",
                 "pg": "0",
-                "pe": "1",
+                "pe": "2",
                 "pp": "4",
                 "gf": 5,
-                "gc": 16,
-                "dg": -11
+                "gc": 11,
+                "dg": -6
             }
         ],
         "goleadores": [

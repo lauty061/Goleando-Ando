@@ -933,22 +933,22 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 2",
-                "fecha": "09/05/2026 17:00 HS",
+                "fecha": "09/05/2026 17:00 HS Finalizado",
                 "local": "DLG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1282.png",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/494.png"
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 2",
-                "fecha": "09/05/2026 21:00 HS",
+                "fecha": "09/05/2026 21:00 HS Finalizado",
                 "local": "UCV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1283.png",
                 "visitante": "APC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5732.png"
             },
             {
@@ -1063,12 +1063,12 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 2",
-                "fecha": "09/05/2026 21:30 HS",
+                "fecha": "09/05/2026 21:30 HS Finalizado",
                 "local": "TAC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/223.png"
             },
             {
@@ -1357,6 +1357,12 @@
                 "nombre": "Jonathan Cañete",
                 "equipo": "Portuguesa",
                 "escudo": "https://statics-files.tycsports.com/escudos/494.png",
+                "goles": 8
+            },
+            {
+                "nombre": "Juan Manuel Cuesta",
+                "equipo": "UCV",
+                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "goles": 7
             },
             {
@@ -1378,22 +1384,16 @@
                 "goles": 6
             },
             {
+                "nombre": "Guillermo Fratta",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Lewuis Peña",
                 "equipo": "Rayo Zuliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "goles": 5
-            },
-            {
-                "nombre": "Juan Manuel Cuesta",
-                "equipo": "UCV",
-                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Guillermo Fratta",
-                "equipo": "Táchira",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
-                "goles": 4
             },
             {
                 "nombre": "Flabián Londoño",
@@ -1402,16 +1402,16 @@
                 "goles": 4
             },
             {
+                "nombre": "Rodrigo Pollero",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Eric Ramírez",
                 "equipo": "Carabobo",
                 "escudo": "https://statics-files.tycsports.com/escudos/223.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Rubén Rojas",
-                "equipo": "Portuguesa",
-                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
-                "goles": 3
             }
         ]
     }
