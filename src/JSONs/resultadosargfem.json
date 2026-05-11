@@ -453,12 +453,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "10/05/2026 16:30 HS",
+                "fecha": "10/05/2026 16:30 HS Finalizado",
                 "local": "SLU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11274.png",
                 "visitante": "HUR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6138.png"
             },
             {
@@ -1283,6 +1283,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
+                "equipo": "Huracán",
+                "puntos": "8",
+                "pj": "6",
+                "pg": "2",
+                "pe": "2",
+                "pp": "2",
+                "gf": 5,
+                "gc": 6,
+                "dg": -1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
                 "equipo": "Boca Juniors",
                 "puntos": "7",
@@ -1295,20 +1308,20 @@
                 "dg": 0
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
-                "equipo": "Huracán",
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
+                "equipo": "San Luis FC",
                 "puntos": "7",
-                "pj": "5",
-                "pg": "2",
-                "pe": "1",
-                "pp": "2",
-                "gf": 4,
-                "gc": 5,
-                "dg": -1
+                "pj": "6",
+                "pg": "1",
+                "pe": "4",
+                "pp": "1",
+                "gf": 6,
+                "gc": 6,
+                "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "7",
@@ -1321,7 +1334,7 @@
                 "dg": -2
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
                 "equipo": "Talleres",
                 "puntos": "6",
@@ -1332,19 +1345,6 @@
                 "gf": 6,
                 "gc": 5,
                 "dg": 1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
-                "equipo": "San Luis FC",
-                "puntos": "6",
-                "pj": "5",
-                "pg": "1",
-                "pe": "3",
-                "pp": "1",
-                "gf": 5,
-                "gc": 5,
-                "dg": 0
             },
             {
                 "posicion": "12",
@@ -1444,6 +1444,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Victoria Vázquez",
+                "equipo": "San Luis FC",
+                "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Lali Esquivel",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
@@ -1456,6 +1462,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Brenda Varela",
+                "equipo": "Lanús",
+                "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Rocío Bueno",
                 "equipo": "Racing",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
@@ -1465,18 +1477,6 @@
                 "nombre": "Emily Arias",
                 "equipo": "San Lorenzo",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Kimberlyn  Campos",
-                "equipo": "River Plate",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Paloma Fagiano",
-                "equipo": "River Plate",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "goles": 2
             }
         ]

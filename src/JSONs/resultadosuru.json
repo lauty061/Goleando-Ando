@@ -1153,32 +1153,32 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "10/05/2026 11:00 HS",
+                "fecha": "10/05/2026 11:00 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/110.png",
                 "visitante": "JUV",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/771.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "10/05/2026 16:00 HS",
+                "fecha": "10/05/2026 16:00 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png",
                 "visitante": "PRO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/510.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "10/05/2026 19:30 HS",
+                "fecha": "10/05/2026 19:30 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/83.png",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/188.png"
             },
             {
@@ -1270,32 +1270,45 @@
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "equipo": "Defensor Sporting",
-                "puntos": "21",
-                "pj": "14",
-                "pg": "5",
-                "pe": "6",
-                "pp": "3",
-                "gf": 12,
-                "gc": 9,
-                "dg": 3
+                "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
+                "equipo": "MC Torque",
+                "puntos": "23",
+                "pj": "15",
+                "pg": "6",
+                "pe": "5",
+                "pp": "4",
+                "gf": 22,
+                "gc": 16,
+                "dg": 6
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
-                "equipo": "MC Torque",
-                "puntos": "20",
-                "pj": "14",
-                "pg": "5",
-                "pe": "5",
-                "pp": "4",
-                "gf": 20,
-                "gc": 15,
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
+                "equipo": "Nacional",
+                "puntos": "22",
+                "pj": "15",
+                "pg": "7",
+                "pe": "1",
+                "pp": "7",
+                "gf": 26,
+                "gc": 21,
                 "dg": 5
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
+                "equipo": "Defensor Sporting",
+                "puntos": "21",
+                "pj": "15",
+                "pg": "5",
+                "pe": "6",
+                "pp": "4",
+                "gf": 13,
+                "gc": 11,
+                "dg": 2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
                 "puntos": "20",
@@ -1308,7 +1321,7 @@
                 "dg": 2
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "equipo": "Wanderers",
                 "puntos": "20",
@@ -1319,19 +1332,6 @@
                 "gf": 16,
                 "gc": 21,
                 "dg": -5
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "equipo": "Nacional",
-                "puntos": "19",
-                "pj": "14",
-                "pg": "6",
-                "pe": "1",
-                "pp": "7",
-                "gf": 22,
-                "gc": 21,
-                "dg": 1
             },
             {
                 "posicion": "11",
@@ -1376,40 +1376,40 @@
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
                 "equipo": "Juventud",
-                "puntos": "12",
-                "pj": "14",
-                "pg": "3",
+                "puntos": "15",
+                "pj": "15",
+                "pg": "4",
                 "pe": "3",
                 "pp": "8",
-                "gf": 15,
-                "gc": 21,
-                "dg": -6
+                "gf": 17,
+                "gc": 22,
+                "dg": -5
             },
             {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png",
                 "equipo": "Progreso",
                 "puntos": "10",
-                "pj": "14",
+                "pj": "15",
                 "pg": "2",
                 "pe": "4",
-                "pp": "8",
-                "gf": 11,
-                "gc": 21,
-                "dg": -10
+                "pp": "9",
+                "gf": 12,
+                "gc": 23,
+                "dg": -11
             },
             {
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png",
                 "equipo": "Cerro",
                 "puntos": "10",
-                "pj": "14",
+                "pj": "15",
                 "pg": "2",
                 "pe": "4",
-                "pp": "8",
+                "pp": "9",
                 "gf": 8,
-                "gc": 20,
-                "dg": -12
+                "gc": 24,
+                "dg": -16
             }
         ],
         "goleadores": [
@@ -1423,7 +1423,7 @@
                 "nombre": "Maxi Gómez",
                 "equipo": "Nacional",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "goles": 7
+                "goles": 10
             },
             {
                 "nombre": "Federico Martínez",

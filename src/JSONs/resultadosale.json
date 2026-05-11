@@ -2943,32 +2943,32 @@
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "10/05/2026 10:30 HS",
+                "fecha": "10/05/2026 10:30 HS Finalizado",
                 "local": "HSV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/712.png",
                 "visitante": "FRI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1717.png"
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "10/05/2026 12:30 HS",
+                "fecha": "10/05/2026 12:30 HS Finalizado",
                 "local": "COL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1258.png",
                 "visitante": "HEI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/9783.png"
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "10/05/2026 14:30 HS",
+                "fecha": "10/05/2026 14:30 HS Finalizado",
                 "local": "MAI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1718.png",
                 "visitante": "UNI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6286.png"
             },
             {
@@ -3166,13 +3166,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1717.png",
                 "equipo": "Friburgo",
                 "puntos": "44",
-                "pj": "32",
+                "pj": "33",
                 "pg": "12",
                 "pe": "8",
-                "pp": "12",
-                "gf": 45,
-                "gc": 53,
-                "dg": -8
+                "pp": "13",
+                "gf": 47,
+                "gc": 56,
+                "dg": -9
             },
             {
                 "posicion": "8",
@@ -3205,16 +3205,42 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1718.png",
                 "equipo": "Mainz",
                 "puntos": "37",
-                "pj": "32",
+                "pj": "33",
                 "pg": "9",
                 "pe": "10",
-                "pp": "13",
-                "gf": 41,
-                "gc": 50,
-                "dg": -9
+                "pp": "14",
+                "gf": 42,
+                "gc": 53,
+                "dg": -11
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/712.png",
+                "equipo": "Hamburgo SV",
+                "puntos": "37",
+                "pj": "33",
+                "pg": "9",
+                "pe": "10",
+                "pp": "14",
+                "gf": 39,
+                "gc": 53,
+                "dg": -14
+            },
+            {
+                "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/6286.png",
+                "equipo": "Unión Berlín",
+                "puntos": "36",
+                "pj": "33",
+                "pg": "9",
+                "pe": "9",
+                "pp": "15",
+                "gf": 40,
+                "gc": 58,
+                "dg": -18
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/1259.png",
                 "equipo": "Borussia M.",
                 "puntos": "35",
@@ -3227,43 +3253,17 @@
                 "dg": -15
             },
             {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/712.png",
-                "equipo": "Hamburgo SV",
-                "puntos": "34",
-                "pj": "32",
-                "pg": "8",
-                "pe": "10",
-                "pp": "14",
-                "gf": 36,
-                "gc": 51,
-                "dg": -15
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/6286.png",
-                "equipo": "Unión Berlín",
-                "puntos": "33",
-                "pj": "32",
-                "pg": "8",
-                "pe": "9",
-                "pp": "15",
-                "gf": 37,
-                "gc": 57,
-                "dg": -20
-            },
-            {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/1258.png",
                 "equipo": "Colonia",
                 "puntos": "32",
-                "pj": "32",
+                "pj": "33",
                 "pg": "7",
                 "pe": "11",
-                "pp": "14",
-                "gf": 47,
-                "gc": 55,
-                "dg": -8
+                "pp": "15",
+                "gf": 48,
+                "gc": 58,
+                "dg": -10
             },
             {
                 "posicion": "15",
@@ -3293,6 +3293,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/9783.png",
+                "equipo": "Heidenheim",
+                "puntos": "26",
+                "pj": "33",
+                "pg": "6",
+                "pe": "8",
+                "pp": "19",
+                "gf": 41,
+                "gc": 70,
+                "dg": -29
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/3003.png",
                 "equipo": "FC St. Pauli",
                 "puntos": "26",
@@ -3303,19 +3316,6 @@
                 "gf": 28,
                 "gc": 57,
                 "dg": -29
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/9783.png",
-                "equipo": "Heidenheim",
-                "puntos": "23",
-                "pj": "32",
-                "pg": "5",
-                "pe": "8",
-                "pp": "19",
-                "gf": 38,
-                "gc": 69,
-                "dg": -31
             }
         ],
         "goleadores": [

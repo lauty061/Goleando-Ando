@@ -1633,22 +1633,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "10/05/2026 15:30 HS",
+                "fecha": "10/05/2026 15:30 HS Finalizado",
                 "local": "ASL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3.png",
                 "visitante": "PIL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7234.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "10/05/2026 15:30 HS",
+                "fecha": "10/05/2026 15:30 HS Finalizado",
                 "local": "ADQ",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/773.png",
                 "visitante": "DSU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/688.png"
             },
             {
@@ -4775,6 +4775,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/3.png",
+                "equipo": "Arsenal",
+                "puntos": "31",
+                "pj": "14",
+                "pg": "9",
+                "pe": "4",
+                "pp": "1",
+                "gf": 22,
+                "gc": 6,
+                "dg": 16
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/700.png",
                 "equipo": "Villa Dálmine",
                 "puntos": "31",
@@ -4785,19 +4798,6 @@
                 "gf": 20,
                 "gc": 6,
                 "dg": 14
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/3.png",
-                "equipo": "Arsenal",
-                "puntos": "28",
-                "pj": "13",
-                "pg": "8",
-                "pe": "4",
-                "pp": "1",
-                "gf": 20,
-                "gc": 5,
-                "dg": 15
             },
             {
                 "posicion": "3",
@@ -4840,19 +4840,6 @@
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/7234.png",
-                "equipo": "Real Pilar",
-                "puntos": "24",
-                "pj": "13",
-                "pg": "7",
-                "pe": "3",
-                "pp": "3",
-                "gf": 18,
-                "gc": 13,
-                "dg": 5
-            },
-            {
-                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
                 "equipo": "Camioneros",
                 "puntos": "24",
@@ -4863,6 +4850,19 @@
                 "gf": 13,
                 "gc": 8,
                 "dg": 5
+            },
+            {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/7234.png",
+                "equipo": "Real Pilar",
+                "puntos": "24",
+                "pj": "14",
+                "pg": "7",
+                "pe": "3",
+                "pp": "4",
+                "gf": 19,
+                "gc": 15,
+                "dg": 4
             },
             {
                 "posicion": "8",
@@ -4931,6 +4931,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/688.png",
+                "equipo": "Dock Sud",
+                "puntos": "17",
+                "pj": "14",
+                "pg": "4",
+                "pe": "5",
+                "pp": "5",
+                "gf": 15,
+                "gc": 13,
+                "dg": 2
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png",
                 "equipo": "Flandria",
                 "puntos": "17",
@@ -4943,7 +4956,7 @@
                 "dg": -6
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png",
                 "equipo": "Laferrere",
                 "puntos": "16",
@@ -4956,7 +4969,7 @@
                 "dg": -6
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/671.png",
                 "equipo": "Brown (Adrogué)",
                 "puntos": "15",
@@ -4967,19 +4980,6 @@
                 "gf": 8,
                 "gc": 16,
                 "dg": -8
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/688.png",
-                "equipo": "Dock Sud",
-                "puntos": "14",
-                "pj": "13",
-                "pg": "3",
-                "pe": "5",
-                "pp": "5",
-                "gf": 13,
-                "gc": 13,
-                "dg": 0
             },
             {
                 "posicion": "17",
@@ -5038,13 +5038,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png",
                 "equipo": "Arg. de Quilmes",
                 "puntos": "11",
-                "pj": "13",
+                "pj": "14",
                 "pg": "2",
                 "pe": "5",
-                "pp": "6",
+                "pp": "7",
                 "gf": 12,
-                "gc": 14,
-                "dg": -2
+                "gc": 16,
+                "dg": -4
             },
             {
                 "posicion": "22",
@@ -5098,6 +5098,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Kevin Ghigliazza",
+                "equipo": "Dock Sud",
+                "escudo": "https://statics-files.tycsports.com/escudos/688.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Matías Sosa",
                 "equipo": "Arsenal",
                 "escudo": "https://statics-files.tycsports.com/escudos/3.png",
@@ -5119,12 +5125,6 @@
                 "nombre": "Gonzalo Figueroa",
                 "equipo": "Dep. Armenio",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Kevin Pavia",
-                "equipo": "Villa San Carlos",
-                "escudo": "https://statics-files.tycsports.com/escudos/701.png",
                 "goles": 4
             }
         ]
