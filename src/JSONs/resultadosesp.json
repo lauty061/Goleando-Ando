@@ -3493,12 +3493,12 @@
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "11/05/2026 16:00 HS",
+                "fecha": "11/05/2026 16:00 HS Finalizado",
                 "local": "RAY",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3310.png",
                 "visitante": "GIR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4608.png"
             },
             {
@@ -3922,6 +3922,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/3310.png",
+                "equipo": "Rayo Vallecano",
+                "puntos": "43",
+                "pj": "35",
+                "pg": "10",
+                "pe": "13",
+                "pp": "12",
+                "gf": 36,
+                "gc": 42,
+                "dg": -6
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/37.png",
                 "equipo": "Osasuna",
                 "puntos": "42",
@@ -3932,19 +3945,6 @@
                 "gf": 42,
                 "gc": 45,
                 "dg": -3
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/3310.png",
-                "equipo": "Rayo Vallecano",
-                "puntos": "42",
-                "pj": "34",
-                "pg": "10",
-                "pe": "12",
-                "pp": "12",
-                "gf": 35,
-                "gc": 41,
-                "dg": -6
             },
             {
                 "posicion": "12",
@@ -4015,13 +4015,13 @@
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/4608.png",
                 "equipo": "Girona",
-                "puntos": "38",
-                "pj": "34",
+                "puntos": "39",
+                "pj": "35",
                 "pg": "9",
-                "pe": "11",
+                "pe": "12",
                 "pp": "14",
-                "gf": 36,
-                "gc": 51,
+                "gf": 37,
+                "gc": 52,
                 "dg": -15
             },
             {

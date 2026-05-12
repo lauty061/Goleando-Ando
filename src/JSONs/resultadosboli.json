@@ -453,12 +453,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "11/05/2026 16:00 HS",
+                "fecha": "11/05/2026 16:00 HS Finalizado",
                 "local": "ABB",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png",
                 "visitante": "ORI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/97.png"
             },
             {
@@ -2473,13 +2473,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "equipo": "Oriente Petrolero",
                 "puntos": "9",
-                "pj": "5",
+                "pj": "6",
                 "pg": "3",
                 "pe": "0",
-                "pp": "2",
-                "gf": 7,
-                "gc": 5,
-                "dg": 2
+                "pp": "3",
+                "gf": 8,
+                "gc": 8,
+                "dg": 0
             },
             {
                 "posicion": "7",
@@ -2496,6 +2496,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
+                "equipo": "ABB",
+                "puntos": "9",
+                "pj": "6",
+                "pg": "3",
+                "pe": "0",
+                "pp": "3",
+                "gf": 11,
+                "gc": 14,
+                "dg": -3
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
                 "equipo": "Nacional Potosí",
                 "puntos": "7",
@@ -2508,7 +2521,7 @@
                 "dg": 1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
                 "equipo": "San Antonio",
                 "puntos": "7",
@@ -2521,7 +2534,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png",
                 "equipo": "Real Potosí",
                 "puntos": "6",
@@ -2532,19 +2545,6 @@
                 "gf": 5,
                 "gc": 5,
                 "dg": 0
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
-                "equipo": "ABB",
-                "puntos": "6",
-                "pj": "5",
-                "pg": "2",
-                "pe": "0",
-                "pp": "3",
-                "gf": 8,
-                "gc": 13,
-                "dg": -5
             },
             {
                 "posicion": "12",
@@ -2638,6 +2638,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Rodderyk Perozo",
+                "equipo": "ABB",
+                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Enrique Triverio",
                 "equipo": "Always Ready",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "Daniel Porozo",
                 "equipo": "Totora Real Oruro",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Darwin Lom",
-                "equipo": "The Strongest",
-                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "goles": 3
             }
         ]

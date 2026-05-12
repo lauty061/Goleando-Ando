@@ -1183,22 +1183,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "11/05/2026 17:00 HS",
+                "fecha": "11/05/2026 17:00 HS Finalizado",
                 "local": "MAL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/959.png",
                 "visitante": "BOR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/957.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "11/05/2026 20:30 HS",
+                "fecha": "11/05/2026 20:30 HS Finalizado",
                 "local": "CLA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/958.png",
                 "visitante": "PEÑ",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/98.png"
             }
         ],
@@ -1218,6 +1218,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/959.png",
+                "equipo": "Maldonado",
+                "puntos": "29",
+                "pj": "15",
+                "pg": "9",
+                "pe": "2",
+                "pp": "4",
+                "gf": 24,
+                "gc": 16,
+                "dg": 8
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png",
                 "equipo": "Albion",
                 "puntos": "28",
@@ -1230,30 +1243,17 @@
                 "dg": 10
             },
             {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/959.png",
-                "equipo": "Maldonado",
-                "puntos": "26",
-                "pj": "14",
-                "pg": "8",
-                "pe": "2",
-                "pp": "4",
-                "gf": 22,
-                "gc": 15,
-                "dg": 7
-            },
-            {
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "equipo": "Peñarol",
-                "puntos": "24",
-                "pj": "14",
-                "pg": "7",
+                "puntos": "27",
+                "pj": "15",
+                "pg": "8",
                 "pe": "3",
                 "pp": "4",
-                "gf": 20,
-                "gc": 14,
-                "dg": 6
+                "gf": 23,
+                "gc": 16,
+                "dg": 7
             },
             {
                 "posicion": "5",
@@ -1351,26 +1351,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png",
                 "equipo": "Cerro Largo",
                 "puntos": "17",
-                "pj": "14",
+                "pj": "15",
                 "pg": "5",
                 "pe": "2",
-                "pp": "7",
-                "gf": 14,
-                "gc": 16,
-                "dg": -2
+                "pp": "8",
+                "gf": 16,
+                "gc": 19,
+                "dg": -3
             },
             {
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png",
                 "equipo": "Boston River",
                 "puntos": "17",
-                "pj": "14",
+                "pj": "15",
                 "pg": "5",
                 "pe": "2",
-                "pp": "7",
-                "gf": 13,
-                "gc": 18,
-                "dg": -5
+                "pp": "8",
+                "gf": 14,
+                "gc": 20,
+                "dg": -6
             },
             {
                 "posicion": "14",

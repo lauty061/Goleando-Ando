@@ -2313,22 +2313,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "11/05/2026 19:00 HS",
+                "fecha": "11/05/2026 19:00 HS Finalizado",
                 "local": "FCO",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/131.png",
                 "visitante": "DEF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/138.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "11/05/2026 19:30 HS",
+                "fecha": "11/05/2026 19:30 HS Finalizado",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/128.png",
                 "visitante": "ALM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1.png"
             },
             {
@@ -6874,6 +6874,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/131.png",
+                "equipo": "Ferro",
+                "puntos": "18",
+                "pj": "12",
+                "pg": "5",
+                "pe": "3",
+                "pp": "4",
+                "gf": 13,
+                "gc": 11,
+                "dg": 2
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/665.png",
                 "equipo": "Almirante Brown",
                 "puntos": "18",
@@ -6887,21 +6901,21 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/128.png",
                 "equipo": "Nueva Chicago",
                 "puntos": "17",
-                "pj": "11",
+                "pj": "12",
                 "pg": "4",
                 "pe": "5",
-                "pp": "2",
-                "gf": 11,
-                "gc": 8,
-                "dg": 3
+                "pp": "3",
+                "gf": 12,
+                "gc": 10,
+                "dg": 2
             },
             {
                 "zona": "Posiciones",
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
                 "puntos": "16",
@@ -6915,7 +6929,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/862.png",
                 "equipo": "Deportivo Maipú",
                 "puntos": "15",
@@ -6929,31 +6943,17 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/131.png",
-                "equipo": "Ferro",
-                "puntos": "15",
-                "pj": "11",
-                "pg": "4",
-                "pe": "3",
-                "pp": "4",
-                "gf": 11,
-                "gc": 10,
-                "dg": 1
-            },
-            {
-                "zona": "Posiciones",
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/138.png",
                 "equipo": "Def. de Belgrano",
                 "puntos": "15",
-                "pj": "11",
+                "pj": "12",
                 "pg": "3",
                 "pe": "6",
-                "pp": "2",
-                "gf": 10,
-                "gc": 9,
-                "dg": 1
+                "pp": "3",
+                "gf": 11,
+                "gc": 11,
+                "dg": 0
             },
             {
                 "zona": "Posiciones",
@@ -7140,6 +7140,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "32",
+                "escudo": "https://statics-files.tycsports.com/escudos/1.png",
+                "equipo": "Almagro",
+                "puntos": "12",
+                "pj": "12",
+                "pg": "3",
+                "pe": "3",
+                "pp": "6",
+                "gf": 8,
+                "gc": 15,
+                "dg": -7
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/668.png",
                 "equipo": "All Boys",
                 "puntos": "11",
@@ -7153,7 +7167,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "33",
+                "posicion": "34",
                 "escudo": "https://statics-files.tycsports.com/escudos/667.png",
                 "equipo": "Acassuso",
                 "puntos": "11",
@@ -7167,7 +7181,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "34",
+                "posicion": "35",
                 "escudo": "https://statics-files.tycsports.com/escudos/1915.png",
                 "equipo": "Central Norte",
                 "puntos": "10",
@@ -7178,20 +7192,6 @@
                 "gf": 6,
                 "gc": 11,
                 "dg": -5
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "35",
-                "escudo": "https://statics-files.tycsports.com/escudos/1.png",
-                "equipo": "Almagro",
-                "puntos": "9",
-                "pj": "11",
-                "pg": "2",
-                "pe": "3",
-                "pp": "6",
-                "gf": 6,
-                "gc": 14,
-                "dg": -8
             },
             {
                 "zona": "Posiciones",

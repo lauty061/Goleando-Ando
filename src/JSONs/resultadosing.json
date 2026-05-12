@@ -3593,12 +3593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 36",
-                "fecha": "11/05/2026 16:00 HS",
+                "fecha": "11/05/2026 16:00 HS Finalizado",
                 "local": "TOT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/574.png",
                 "visitante": "LEE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2184.png"
             },
             {
@@ -3974,6 +3974,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
+                "equipo": "Leeds United",
+                "puntos": "44",
+                "pj": "36",
+                "pg": "10",
+                "pe": "14",
+                "pp": "12",
+                "gf": 48,
+                "gc": 53,
+                "dg": -5
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/2183.png",
                 "equipo": "Crystal Palace",
                 "puntos": "44",
@@ -3986,7 +3999,7 @@
                 "dg": -6
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/3295.png",
                 "equipo": "Nottingham Forest",
                 "puntos": "43",
@@ -3999,29 +4012,16 @@
                 "dg": -2
             },
             {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
-                "equipo": "Leeds United",
-                "puntos": "43",
-                "pj": "35",
-                "pg": "10",
-                "pe": "13",
-                "pp": "12",
-                "gf": 47,
-                "gc": 52,
-                "dg": -5
-            },
-            {
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/574.png",
                 "equipo": "Tottenham",
-                "puntos": "37",
-                "pj": "35",
+                "puntos": "38",
+                "pj": "36",
                 "pg": "9",
-                "pe": "10",
+                "pe": "11",
                 "pp": "16",
-                "gf": 45,
-                "gc": 54,
+                "gf": 46,
+                "gc": 55,
                 "dg": -9
             },
             {
@@ -4108,6 +4108,12 @@
                 "goles": 13
             },
             {
+                "nombre": "Dominic Calvert-Lewin",
+                "equipo": "Leeds United",
+                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
+                "goles": 13
+            },
+            {
                 "nombre": "Ollie Watkins",
                 "equipo": "Aston Villa",
                 "escudo": "https://statics-files.tycsports.com/escudos/559.png",
@@ -4117,12 +4123,6 @@
                 "nombre": "Eli Kroupi",
                 "equipo": "Bournemouth",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
-                "goles": 12
-            },
-            {
-                "nombre": "Dominic Calvert-Lewin",
-                "equipo": "Leeds United",
-                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
                 "goles": 12
             },
             {

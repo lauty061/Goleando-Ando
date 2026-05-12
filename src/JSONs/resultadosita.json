@@ -3593,12 +3593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 36",
-                "fecha": "11/05/2026 15:45 HS",
+                "fecha": "11/05/2026 15:45 HS Finalizado",
                 "local": "NAP",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/726.png",
                 "visitante": "BOL",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/46.png"
             },
             {
@@ -3821,13 +3821,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/726.png",
                 "equipo": "Napoli",
                 "puntos": "70",
-                "pj": "35",
+                "pj": "36",
                 "pg": "21",
                 "pe": "7",
-                "pp": "7",
-                "gf": 52,
-                "gc": 33,
-                "dg": 19
+                "pp": "8",
+                "gf": 54,
+                "gc": 36,
+                "dg": 18
             },
             {
                 "posicion": "3",
@@ -3896,6 +3896,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/46.png",
+                "equipo": "Bologna",
+                "puntos": "52",
+                "pj": "36",
+                "pg": "15",
+                "pe": "7",
+                "pp": "14",
+                "gf": 45,
+                "gc": 43,
+                "dg": 2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/53.png",
                 "equipo": "Lazio",
                 "puntos": "51",
@@ -3908,7 +3921,7 @@
                 "dg": 2
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/64.png",
                 "equipo": "Udinese",
                 "puntos": "50",
@@ -3919,19 +3932,6 @@
                 "gf": 45,
                 "gc": 46,
                 "dg": -1
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/46.png",
-                "equipo": "Bologna",
-                "puntos": "49",
-                "pj": "35",
-                "pg": "14",
-                "pe": "7",
-                "pp": "14",
-                "gf": 42,
-                "gc": 41,
-                "dg": 1
             },
             {
                 "posicion": "11",
