@@ -953,12 +953,12 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 3",
-                "fecha": "12/05/2026 20:30 HS",
+                "fecha": "12/05/2026 20:30 HS Finalizado",
                 "local": "UCV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1283.png",
                 "visitante": "DLG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png"
             },
             {
@@ -1073,12 +1073,12 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 3",
-                "fecha": "12/05/2026 19:00 HS",
+                "fecha": "12/05/2026 19:00 HS Finalizado",
                 "local": "TAC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/79.png",
                 "visitante": "MET",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3898.png"
             },
             {
@@ -1390,6 +1390,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Rodrigo Pollero",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Lewuis Peña",
                 "equipo": "Rayo Zuliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
@@ -1399,12 +1405,6 @@
                 "nombre": "Flabián Londoño",
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Rodrigo Pollero",
-                "equipo": "Táchira",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
                 "goles": 4
             },
             {

@@ -483,43 +483,33 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "12/05/2026 16:00 HS",
+                "fecha": "12/05/2026 16:00 HS Finalizado",
                 "local": "SAB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11267.png",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "12/05/2026 19:00 HS",
+                "fecha": "12/05/2026 21:00 HS Finalizado",
+                "local": "AUR",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/228.png",
+                "visitante": "TRO",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/12013.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "12/05/2026 HS Postergado",
                 "local": "VSJ",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png",
                 "visitante": "TOM",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10529.png"
-            },
-            {
-                "fecha_torneo": "Fecha 7",
-                "fecha": "12/05/2026 21:00 HS",
-                "local": "AUR",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/228.png",
-                "visitante": "TRO",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/12013.png"
-            },
-            {
-                "fecha_torneo": "Fecha 7",
-                "fecha": "13/05/2026 16:00 HS",
-                "local": "ALW",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
-                "visitante": "STR",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
@@ -540,6 +530,16 @@
                 "visitante": "NAP",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "14/05/2026 16:00 HS",
+                "local": "ALW",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
+                "visitante": "STR",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
+                "equipo": "Aurora",
+                "puntos": "10",
+                "pj": "6",
+                "pg": "2",
+                "pe": "4",
+                "pp": "0",
+                "gf": 10,
+                "gc": 6,
+                "dg": 4
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "equipo": "Blooming",
                 "puntos": "9",
@@ -2454,19 +2467,6 @@
                 "gf": 12,
                 "gc": 7,
                 "dg": 5
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
-                "equipo": "Aurora",
-                "puntos": "9",
-                "pj": "5",
-                "pg": "2",
-                "pe": "3",
-                "pp": "0",
-                "gf": 9,
-                "gc": 5,
-                "dg": 4
             },
             {
                 "posicion": "6",
@@ -2509,6 +2509,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
+                "equipo": "U. de Vinto",
+                "puntos": "7",
+                "pj": "6",
+                "pg": "2",
+                "pe": "1",
+                "pp": "3",
+                "gf": 10,
+                "gc": 8,
+                "dg": 2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
                 "equipo": "Nacional Potosí",
                 "puntos": "7",
@@ -2521,20 +2534,20 @@
                 "dg": 1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
                 "equipo": "San Antonio",
                 "puntos": "7",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "1",
-                "pp": "3",
+                "pp": "4",
                 "gf": 9,
-                "gc": 10,
-                "dg": -1
+                "gc": 12,
+                "dg": -3
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png",
                 "equipo": "Real Potosí",
                 "puntos": "6",
@@ -2547,7 +2560,20 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
+                "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
+                "equipo": "Totora Real Oruro",
+                "puntos": "5",
+                "pj": "6",
+                "pg": "1",
+                "pe": "2",
+                "pp": "3",
+                "gf": 10,
+                "gc": 14,
+                "dg": -4
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
                 "equipo": "Real Tomayapo",
                 "puntos": "5",
@@ -2558,32 +2584,6 @@
                 "gf": 3,
                 "gc": 14,
                 "dg": -11
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
-                "equipo": "U. de Vinto",
-                "puntos": "4",
-                "pj": "5",
-                "pg": "1",
-                "pe": "1",
-                "pp": "3",
-                "gf": 8,
-                "gc": 8,
-                "dg": 0
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
-                "equipo": "Totora Real Oruro",
-                "puntos": "4",
-                "pj": "5",
-                "pg": "1",
-                "pe": "1",
-                "pp": "3",
-                "gf": 9,
-                "gc": 13,
-                "dg": -4
             },
             {
                 "posicion": "15",
