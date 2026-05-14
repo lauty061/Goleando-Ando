@@ -473,37 +473,17 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "11/05/2026 18:30 HS",
+                "fecha": "11/05/2026 18:30 HS Finalizado",
                 "local": "TAL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11974.png",
                 "visitante": "CGE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8137.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
-                "local": "SAT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png",
-                "visitante": "UNI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/12384.png"
-            },
-            {
-                "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
-                "local": "IND",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/6142.png",
-                "visitante": "SLU",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png"
-            },
-            {
-                "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
+                "fecha": "15/05/2026 11:00 HS",
                 "local": "HUR",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6138.png",
@@ -513,17 +493,17 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
-                "local": "BEL",
+                "fecha": "15/05/2026 15:00 HS",
+                "local": "IND",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png",
-                "visitante": "BOC",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/6142.png",
+                "visitante": "SLU",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3499.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
+                "fecha": "15/05/2026 15:00 HS",
                 "local": "RIV",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6141.png",
@@ -533,7 +513,7 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
+                "fecha": "15/05/2026 15:30 HS",
                 "local": "BAN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png",
@@ -543,23 +523,43 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
-                "local": "CGE",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png",
-                "visitante": "SAN",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/6144.png"
-            },
-            {
-                "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 HS",
+                "fecha": "15/05/2026 15:30 HS",
                 "local": "NOB",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11275.png",
                 "visitante": "RAC",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8139.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "16/05/2026 09:30 HS",
+                "local": "SAT",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png",
+                "visitante": "UNI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/12384.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "16/05/2026 15:00 HS",
+                "local": "BEL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png",
+                "visitante": "BOC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3499.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "17/05/2026 15:00 HS",
+                "local": "CGE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png",
+                "visitante": "SAN",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/6144.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
@@ -1260,16 +1260,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "equipo": "Gimnasia",
                 "puntos": "11",
-                "pj": "5",
+                "pj": "6",
                 "pg": "3",
                 "pe": "2",
-                "pp": "0",
+                "pp": "1",
                 "gf": 10,
-                "gc": 5,
-                "dg": 5
+                "gc": 7,
+                "dg": 3
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
+                "equipo": "Talleres",
+                "puntos": "9",
+                "pj": "6",
+                "pg": "2",
+                "pe": "3",
+                "pp": "1",
+                "gf": 8,
+                "gc": 5,
+                "dg": 3
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
                 "equipo": "SATSAID",
                 "puntos": "8",
@@ -1282,7 +1295,7 @@
                 "dg": -1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
                 "equipo": "Huracán",
                 "puntos": "8",
@@ -1295,7 +1308,7 @@
                 "dg": -1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
                 "equipo": "Boca Juniors",
                 "puntos": "7",
@@ -1308,7 +1321,7 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "equipo": "San Luis FC",
                 "puntos": "7",
@@ -1321,7 +1334,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "7",
@@ -1332,19 +1345,6 @@
                 "gf": 4,
                 "gc": 6,
                 "dg": -2
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
-                "equipo": "Talleres",
-                "puntos": "6",
-                "pj": "5",
-                "pg": "1",
-                "pe": "3",
-                "pp": "1",
-                "gf": 6,
-                "gc": 5,
-                "dg": 1
             },
             {
                 "posicion": "12",

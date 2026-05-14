@@ -65,10 +65,10 @@
                 "fecha_torneo": "Fecha 1",
                 "fecha": "02/02/2026 18:00 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "0",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
                 "visitante": "ULC",
-                "goles_visita": "1",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png"
             },
             {
@@ -155,10 +155,10 @@
                 "fecha_torneo": "Fecha 2",
                 "fecha": "09/02/2026 20:00 HS Finalizado",
                 "local": "ULC",
-                "goles_local": "3",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/945.png",
                 "visitante": "COB",
-                "goles_visita": "1",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png"
             },
             {
@@ -2509,16 +2509,16 @@
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "equipo": "U. La Calera",
-                "puntos": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
+                "equipo": "Everton",
+                "puntos": "15",
                 "pj": "11",
-                "pg": "5",
-                "pe": "1",
-                "pp": "5",
-                "gf": 14,
-                "gc": 16,
-                "dg": -2
+                "pg": "4",
+                "pe": "3",
+                "pp": "4",
+                "gf": 12,
+                "gc": 10,
+                "dg": 2
             },
             {
                 "posicion": "10",
@@ -2561,19 +2561,6 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
-                "equipo": "Everton",
-                "puntos": "12",
-                "pj": "11",
-                "pg": "3",
-                "pe": "3",
-                "pp": "5",
-                "gf": 9,
-                "gc": 11,
-                "dg": -2
-            },
-            {
-                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png",
                 "equipo": "Audax Italiano",
                 "puntos": "11",
@@ -2586,7 +2573,33 @@
                 "dg": -1
             },
             {
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
+                "equipo": "Cobresal",
+                "puntos": "10",
+                "pj": "11",
+                "pg": "3",
+                "pe": "1",
+                "pp": "7",
+                "gf": 17,
+                "gc": 23,
+                "dg": -6
+            },
+            {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
+                "equipo": "U. La Calera",
+                "puntos": "10",
+                "pj": "11",
+                "pg": "3",
+                "pe": "1",
+                "pp": "7",
+                "gf": 10,
+                "gc": 21,
+                "dg": -11
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png",
                 "equipo": "D. Concepción",
                 "puntos": "8",
@@ -2597,19 +2610,6 @@
                 "gf": 8,
                 "gc": 17,
                 "dg": -9
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
-                "equipo": "Cobresal",
-                "puntos": "7",
-                "pj": "11",
-                "pg": "2",
-                "pe": "1",
-                "pp": "8",
-                "gf": 15,
-                "gc": 26,
-                "dg": -11
             }
         ],
         "goleadores": [
@@ -2626,15 +2626,15 @@
                 "goles": 8
             },
             {
-                "nombre": "Sebastián Sáez",
-                "equipo": "U. La Calera",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "goles": 7
-            },
-            {
                 "nombre": "Justo Giani",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
+                "goles": 6
+            },
+            {
+                "nombre": "Sebastián Sáez",
+                "equipo": "U. La Calera",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "goles": 6
             },
             {

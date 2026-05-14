@@ -513,22 +513,22 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "13/05/2026 19:00 HS",
+                "fecha": "13/05/2026 19:00 HS Finalizado",
                 "local": "IPE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3319.png",
                 "visitante": "BLO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/229.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "13/05/2026 21:00 HS",
+                "fecha": "13/05/2026 21:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "equipo": "Bolívar",
+                "puntos": "14",
+                "pj": "7",
+                "pg": "4",
+                "pe": "2",
+                "pp": "1",
+                "gf": 17,
+                "gc": 6,
+                "dg": 11
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "equipo": "Always Ready",
                 "puntos": "14",
@@ -2417,7 +2430,7 @@
                 "dg": 8
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "equipo": "The Strongest",
                 "puntos": "14",
@@ -2430,20 +2443,20 @@
                 "dg": 5
             },
             {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "equipo": "Bolívar",
-                "puntos": "13",
-                "pj": "6",
-                "pg": "4",
-                "pe": "1",
+                "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
+                "equipo": "Independiente",
+                "puntos": "12",
+                "pj": "7",
+                "pg": "3",
+                "pe": "3",
                 "pp": "1",
-                "gf": 16,
-                "gc": 5,
-                "dg": 11
+                "gf": 11,
+                "gc": 10,
+                "dg": 1
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png",
                 "equipo": "Aurora",
                 "puntos": "10",
@@ -2456,20 +2469,20 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "equipo": "Blooming",
                 "puntos": "9",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "3",
-                "pp": "1",
-                "gf": 12,
-                "gc": 7,
-                "dg": 5
+                "pp": "2",
+                "gf": 13,
+                "gc": 10,
+                "dg": 3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "equipo": "Oriente Petrolero",
                 "puntos": "9",
@@ -2480,19 +2493,6 @@
                 "gf": 8,
                 "gc": 8,
                 "dg": 0
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
-                "equipo": "Independiente",
-                "puntos": "9",
-                "pj": "6",
-                "pg": "2",
-                "pe": "3",
-                "pp": "1",
-                "gf": 8,
-                "gc": 9,
-                "dg": -1
             },
             {
                 "posicion": "8",
@@ -2509,6 +2509,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
+                "equipo": "Nacional Potosí",
+                "puntos": "8",
+                "pj": "6",
+                "pg": "2",
+                "pe": "2",
+                "pp": "2",
+                "gf": 8,
+                "gc": 7,
+                "dg": 1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "7",
@@ -2519,19 +2532,6 @@
                 "gf": 10,
                 "gc": 8,
                 "dg": 2
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
-                "equipo": "Nacional Potosí",
-                "puntos": "7",
-                "pj": "5",
-                "pg": "2",
-                "pe": "1",
-                "pp": "2",
-                "gf": 7,
-                "gc": 6,
-                "dg": 1
             },
             {
                 "posicion": "11",
@@ -2614,21 +2614,27 @@
         ],
         "goleadores": [
             {
+                "nombre": "Willie Barbosa",
+                "equipo": "Independiente Petrolero",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Martín Cauteruccio",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "goles": 5
             },
             {
-                "nombre": "Willie Barbosa",
-                "equipo": "Independiente Petrolero",
-                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Rafael Menacho",
                 "equipo": "San Antonio Bulo Bulo",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Bayron Garcés",
+                "equipo": "Blooming",
+                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "goles": 4
             },
             {
@@ -2659,12 +2665,6 @@
                 "nombre": "Leonardo Viviani",
                 "equipo": "Aurora",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Bayron Garcés",
-                "equipo": "Blooming",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "goles": 3
             },
             {
