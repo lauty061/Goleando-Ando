@@ -1263,22 +1263,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "15/05/2026 17:00 HS",
+                "fecha": "15/05/2026 17:00 HS Finalizado",
                 "local": "FCC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12382.png",
                 "visitante": "SPC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/92.png"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "15/05/2026 22:00 HS",
+                "fecha": "15/05/2026 22:00 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/121.png",
                 "visitante": "GRA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7569.png"
             },
             {
@@ -3167,13 +3167,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/121.png",
                 "equipo": "Universitario",
                 "puntos": "25",
-                "pj": "14",
+                "pj": "15",
                 "pg": "7",
                 "pe": "4",
-                "pp": "3",
+                "pp": "4",
                 "gf": 22,
-                "gc": 13,
-                "dg": 9
+                "gc": 14,
+                "dg": 8
             },
             {
                 "posicion": "5",
@@ -3271,13 +3271,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/92.png",
                 "equipo": "Sporting Cristal",
                 "puntos": "16",
-                "pj": "14",
+                "pj": "15",
                 "pg": "4",
                 "pe": "4",
-                "pp": "6",
-                "gf": 23,
-                "gc": 23,
-                "dg": 0
+                "pp": "7",
+                "gf": 24,
+                "gc": 26,
+                "dg": -2
             },
             {
                 "posicion": "13",
@@ -3294,6 +3294,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
+                "equipo": "FC Cajamarca",
+                "puntos": "15",
+                "pj": "15",
+                "pg": "4",
+                "pe": "3",
+                "pp": "8",
+                "gf": 21,
+                "gc": 26,
+                "dg": -5
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "15",
@@ -3306,7 +3319,7 @@
                 "dg": -6
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
                 "equipo": "Juan Pablo II",
                 "puntos": "15",
@@ -3319,7 +3332,7 @@
                 "dg": -13
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/205.png",
                 "equipo": "Sport Boys",
                 "puntos": "13",
@@ -3332,30 +3345,17 @@
                 "dg": -6
             },
             {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
-                "equipo": "FC Cajamarca",
-                "puntos": "12",
-                "pj": "14",
-                "pg": "3",
-                "pe": "3",
-                "pp": "8",
-                "gf": 18,
-                "gc": 25,
-                "dg": -7
-            },
-            {
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
                 "equipo": "Grau",
-                "puntos": "10",
-                "pj": "14",
-                "pg": "2",
+                "puntos": "13",
+                "pj": "15",
+                "pg": "3",
                 "pe": "4",
                 "pp": "8",
-                "gf": 10,
+                "gf": 11,
                 "gc": 17,
-                "dg": -7
+                "dg": -6
             }
         ],
         "goleadores": [
@@ -3364,6 +3364,12 @@
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "goles": 10
+            },
+            {
+                "nombre": "Hernán Barcos",
+                "equipo": "FC Cajamarca",
+                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
+                "goles": 9
             },
             {
                 "nombre": "Carlos Garcés",
@@ -3375,12 +3381,6 @@
                 "nombre": "Erick Castillo",
                 "equipo": "Alianza Lima",
                 "escudo": "https://statics-files.tycsports.com/escudos/84.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Hernán Barcos",
-                "equipo": "FC Cajamarca",
-                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
                 "goles": 8
             },
             {

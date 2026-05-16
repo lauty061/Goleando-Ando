@@ -1203,42 +1203,42 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "14/05/2026 17:00 HS",
+                "fecha": "14/05/2026 17:00 HS Finalizado",
                 "local": "LIB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/69.png",
                 "visitante": "2MA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "15/05/2026 09:30 HS",
+                "fecha": "15/05/2026 09:30 HS Finalizado",
                 "local": "OLI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/215.png",
                 "visitante": "REC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "15/05/2026 17:00 HS",
+                "fecha": "15/05/2026 17:00 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "15/05/2026 17:00 HS",
+                "fecha": "15/05/2026 17:00 HS Finalizado",
                 "local": "RÑU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png",
                 "visitante": "NAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png"
             },
             {
@@ -1327,26 +1327,26 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
                 "equipo": "Olimpia",
-                "puntos": "43",
-                "pj": "20",
-                "pg": "13",
+                "puntos": "46",
+                "pj": "21",
+                "pg": "14",
                 "pe": "4",
                 "pp": "3",
-                "gf": 32,
-                "gc": 14,
-                "dg": 18
+                "gf": 35,
+                "gc": 16,
+                "dg": 19
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "equipo": "Nacional (P)",
-                "puntos": "35",
-                "pj": "20",
+                "puntos": "36",
+                "pj": "21",
                 "pg": "9",
-                "pe": "8",
+                "pe": "9",
                 "pp": "3",
-                "gf": 28,
-                "gc": 20,
+                "gf": 29,
+                "gc": 21,
                 "dg": 8
             },
             {
@@ -1354,13 +1354,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "equipo": "Cerro Porteño",
                 "puntos": "35",
-                "pj": "20",
+                "pj": "21",
                 "pg": "10",
                 "pe": "5",
-                "pp": "5",
-                "gf": 27,
-                "gc": 19,
-                "dg": 8
+                "pp": "6",
+                "gf": 28,
+                "gc": 22,
+                "dg": 6
             },
             {
                 "posicion": "4",
@@ -1379,10 +1379,10 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png",
                 "equipo": "Libertad",
-                "puntos": "30",
-                "pj": "20",
+                "puntos": "31",
+                "pj": "21",
                 "pg": "9",
-                "pe": "3",
+                "pe": "4",
                 "pp": "8",
                 "gf": 33,
                 "gc": 24,
@@ -1390,6 +1390,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "equipo": "Trinidense",
+                "puntos": "29",
+                "pj": "21",
+                "pg": "7",
+                "pe": "8",
+                "pp": "6",
+                "gf": 28,
+                "gc": 23,
+                "dg": 5
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png",
                 "equipo": "Guaraní",
                 "puntos": "26",
@@ -1402,52 +1415,39 @@
                 "dg": 4
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
-                "equipo": "Trinidense",
-                "puntos": "26",
-                "pj": "20",
-                "pg": "6",
-                "pe": "8",
-                "pp": "6",
-                "gf": 25,
-                "gc": 22,
-                "dg": 3
-            },
-            {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "equipo": "D. Recoleta",
                 "puntos": "25",
-                "pj": "20",
+                "pj": "21",
                 "pg": "7",
                 "pe": "4",
-                "pp": "9",
-                "gf": 31,
-                "gc": 28,
-                "dg": 3
+                "pp": "10",
+                "gf": 33,
+                "gc": 31,
+                "dg": 2
             },
             {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "equipo": "Rubio Ñu",
-                "puntos": "22",
-                "pj": "20",
+                "puntos": "23",
+                "pj": "21",
                 "pg": "6",
-                "pe": "4",
+                "pe": "5",
                 "pp": "10",
-                "gf": 14,
-                "gc": 23,
+                "gf": 15,
+                "gc": 24,
                 "dg": -9
             },
             {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png",
                 "equipo": "2 de Mayo",
-                "puntos": "21",
-                "pj": "20",
+                "puntos": "22",
+                "pj": "21",
                 "pg": "5",
-                "pe": "6",
+                "pe": "7",
                 "pp": "9",
                 "gf": 18,
                 "gc": 34,
@@ -1491,7 +1491,7 @@
                 "nombre": "Allan Wlk",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
-                "goles": 11
+                "goles": 12
             },
             {
                 "nombre": "Iván Maggi",
@@ -1506,21 +1506,33 @@
                 "goles": 9
             },
             {
+                "nombre": "Adrián Alcaraz",
+                "equipo": "Olimpia",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
+                "goles": 7
+            },
+            {
+                "nombre": "Néstor Camacho",
+                "equipo": "Trinidense",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Aldo González",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "goles": 6
             },
             {
-                "nombre": "Adrián Alcaraz",
-                "equipo": "Olimpia",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
+                "nombre": "Fernando Romero",
+                "equipo": "Trinidense",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
                 "goles": 6
             },
             {
-                "nombre": "Néstor Camacho",
-                "equipo": "Trinidense",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "nombre": "Estiven Pérez",
+                "equipo": "Rubio Ñu",
+                "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "goles": 6
             },
             {
@@ -1530,21 +1542,9 @@
                 "goles": 5
             },
             {
-                "nombre": "Fernando Romero",
-                "equipo": "Trinidense",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
-                "goles": 5
-            },
-            {
                 "nombre": "Cecilio Domínguez",
                 "equipo": "Cerro Porteño",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Estiven Pérez",
-                "equipo": "Rubio Ñu",
-                "escudo": "https://statics-files.tycsports.com/escudos/1029.png",
                 "goles": 5
             }
         ]

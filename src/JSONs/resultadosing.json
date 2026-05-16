@@ -3603,12 +3603,12 @@
             },
             {
                 "fecha_torneo": "Fecha 37",
-                "fecha": "15/05/2026 16:00 HS",
+                "fecha": "15/05/2026 16:00 HS Finalizado",
                 "local": "ASV",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/559.png",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/566.png"
             },
             {
@@ -3844,29 +3844,29 @@
             },
             {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/566.png",
-                "equipo": "Liverpool",
-                "puntos": "59",
-                "pj": "36",
-                "pg": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
+                "equipo": "Aston Villa",
+                "puntos": "62",
+                "pj": "37",
+                "pg": "18",
                 "pe": "8",
                 "pp": "11",
-                "gf": 60,
+                "gf": 54,
                 "gc": 48,
-                "dg": 12
+                "dg": 6
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
-                "equipo": "Aston Villa",
+                "escudo": "https://statics-files.tycsports.com/escudos/566.png",
+                "equipo": "Liverpool",
                 "puntos": "59",
-                "pj": "36",
+                "pj": "37",
                 "pg": "17",
                 "pe": "8",
-                "pp": "11",
-                "gf": 50,
-                "gc": 46,
-                "dg": 4
+                "pp": "12",
+                "gf": 62,
+                "gc": 52,
+                "dg": 10
             },
             {
                 "posicion": "6",
@@ -4090,6 +4090,12 @@
                 "goles": 15
             },
             {
+                "nombre": "Ollie Watkins",
+                "equipo": "Aston Villa",
+                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
+                "goles": 14
+            },
+            {
                 "nombre": "Viktor Gyökeres",
                 "equipo": "Arsenal",
                 "escudo": "https://statics-files.tycsports.com/escudos/558.png",
@@ -4112,12 +4118,6 @@
                 "equipo": "Leeds United",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
                 "goles": 13
-            },
-            {
-                "nombre": "Ollie Watkins",
-                "equipo": "Aston Villa",
-                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
-                "goles": 12
             },
             {
                 "nombre": "Eli Kroupi",

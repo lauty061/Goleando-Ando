@@ -533,17 +533,27 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "14/05/2026 16:00 HS",
+                "fecha": "14/05/2026 16:00 HS Finalizado",
                 "local": "ALW",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
                 "visitante": "STR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "14/05/2026 19:00 HS",
+                "fecha": "14/05/2026 21:00 HS Finalizado",
+                "local": "ORI",
+                "goles_local": "2",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/97.png",
+                "visitante": "CDG",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png"
+            },
+            {
+                "fecha_torneo": "Fecha 7",
+                "fecha": "14/05/2026 HS Postergado",
                 "local": "RPO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png",
@@ -552,23 +562,13 @@
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12012.png"
             },
             {
-                "fecha_torneo": "Fecha 7",
-                "fecha": "14/05/2026 21:00 HS",
-                "local": "ORI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/97.png",
-                "visitante": "CDG",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png"
-            },
-            {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "15/05/2026 21:00 HS",
+                "fecha": "15/05/2026 21:00 HS Finalizado",
                 "local": "TOM",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png",
                 "visitante": "AUR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/228.png"
             },
             {
@@ -583,7 +583,7 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "16/05/2026 18:15 HS",
+                "fecha": "16/05/2026 HS Postergado",
                 "local": "TRO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12013.png",
@@ -593,33 +593,13 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "16/05/2026 20:30 HS",
+                "fecha": "16/05/2026 HS Postergado",
                 "local": "BLO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png",
                 "visitante": "VSJ",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11268.png"
-            },
-            {
-                "fecha_torneo": "Fecha 8",
-                "fecha": "17/05/2026 16:00 HS",
-                "local": "ABB",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png",
-                "visitante": "IPE",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3319.png"
-            },
-            {
-                "fecha_torneo": "Fecha 8",
-                "fecha": "17/05/2026 18:15 HS",
-                "local": "STR",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/74.png",
-                "visitante": "ORI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/97.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
@@ -630,6 +610,26 @@
                 "visitante": "NAP",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "17/05/2026 HS Postergado",
+                "local": "ABB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png",
+                "visitante": "IPE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3319.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "17/05/2026 HS Postergado",
+                "local": "STR",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/74.png",
+                "visitante": "ORI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/97.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "equipo": "The Strongest",
+                "puntos": "17",
+                "pj": "7",
+                "pg": "5",
+                "pe": "2",
+                "pp": "0",
+                "gf": 12,
+                "gc": 6,
+                "dg": 6
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "equipo": "Bolívar",
                 "puntos": "14",
@@ -2417,33 +2430,33 @@
                 "dg": 11
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "equipo": "Always Ready",
                 "puntos": "14",
-                "pj": "6",
+                "pj": "7",
                 "pg": "4",
                 "pe": "2",
-                "pp": "0",
+                "pp": "1",
                 "gf": 11,
-                "gc": 3,
-                "dg": 8
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
-                "equipo": "The Strongest",
-                "puntos": "14",
-                "pj": "6",
-                "pg": "4",
-                "pe": "2",
-                "pp": "0",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
+                "gc": 4,
+                "dg": 7
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
+                "equipo": "Aurora",
+                "puntos": "13",
+                "pj": "7",
+                "pg": "3",
+                "pe": "4",
+                "pp": "0",
+                "gf": 12,
+                "gc": 6,
+                "dg": 6
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
                 "equipo": "Independiente",
                 "puntos": "12",
@@ -2456,20 +2469,20 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
-                "equipo": "Aurora",
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png",
+                "equipo": "Oriente Petrolero",
                 "puntos": "10",
-                "pj": "6",
-                "pg": "2",
-                "pe": "4",
-                "pp": "0",
+                "pj": "7",
+                "pg": "3",
+                "pe": "1",
+                "pp": "3",
                 "gf": 10,
-                "gc": 6,
-                "dg": 4
+                "gc": 10,
+                "dg": 0
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "equipo": "Blooming",
                 "puntos": "9",
@@ -2480,19 +2493,6 @@
                 "gf": 13,
                 "gc": 10,
                 "dg": 3
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/97.png",
-                "equipo": "Oriente Petrolero",
-                "puntos": "9",
-                "pj": "6",
-                "pg": "3",
-                "pe": "0",
-                "pp": "3",
-                "gf": 8,
-                "gc": 8,
-                "dg": 0
             },
             {
                 "posicion": "8",
@@ -2574,29 +2574,29 @@
             },
             {
                 "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
-                "equipo": "Real Tomayapo",
+                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
+                "equipo": "Guabirá",
                 "puntos": "5",
-                "pj": "6",
+                "pj": "7",
                 "pg": "1",
                 "pe": "2",
-                "pp": "3",
-                "gf": 3,
-                "gc": 14,
-                "dg": -11
+                "pp": "4",
+                "gf": 10,
+                "gc": 18,
+                "dg": -8
             },
             {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
-                "equipo": "Guabirá",
-                "puntos": "4",
-                "pj": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/10529.png",
+                "equipo": "Real Tomayapo",
+                "puntos": "5",
+                "pj": "7",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "4",
-                "gf": 8,
+                "gf": 3,
                 "gc": 16,
-                "dg": -8
+                "dg": -13
             },
             {
                 "posicion": "16",
@@ -2613,6 +2613,12 @@
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Marcelo Moreno Martins",
+                "equipo": "Oriente Petrolero",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png",
+                "goles": 6
+            },
             {
                 "nombre": "Willie Barbosa",
                 "equipo": "Independiente Petrolero",
@@ -2638,9 +2644,9 @@
                 "goles": 4
             },
             {
-                "nombre": "Marcelo Moreno Martins",
-                "equipo": "Oriente Petrolero",
-                "escudo": "https://statics-files.tycsports.com/escudos/97.png",
+                "nombre": "Darwin Lom",
+                "equipo": "The Strongest",
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "goles": 4
             },
             {
@@ -2671,12 +2677,6 @@
                 "nombre": "Leonel Justiniano",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Daniel Porozo",
-                "equipo": "Totora Real Oruro",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
                 "goles": 3
             }
         ]

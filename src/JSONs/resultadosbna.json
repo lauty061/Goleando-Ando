@@ -2343,12 +2343,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "15/05/2026 21:00 HS",
+                "fecha": "15/05/2026 21:00 HS Finalizado",
                 "local": "RAC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/141.png",
                 "visitante": "CNO",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1915.png"
             },
             {
@@ -2413,16 +2413,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/05/2026 17:00 HS",
-                "local": "MAI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/862.png",
-                "visitante": "CHI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/128.png"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "17/05/2026 15:00 HS",
                 "local": "MAD",
                 "goles_local": "-",
@@ -2480,6 +2470,16 @@
                 "visitante": "AAG",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3683.png"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "17/05/2026 17:00 HS",
+                "local": "MAI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/862.png",
+                "visitante": "CHI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/128.png"
             },
             {
                 "fecha_torneo": null,
@@ -6972,20 +6972,6 @@
             {
                 "zona": "Posiciones",
                 "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/141.png",
-                "equipo": "Racing (Cba)",
-                "puntos": "15",
-                "pj": "12",
-                "pg": "4",
-                "pe": "3",
-                "pp": "5",
-                "gf": 12,
-                "gc": 14,
-                "dg": -2
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png",
                 "equipo": "San Miguel",
                 "puntos": "15",
@@ -6999,7 +6985,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "22",
+                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/663.png",
                 "equipo": "Estudiantes (BA)",
                 "puntos": "15",
@@ -7010,6 +6996,20 @@
                 "gf": 8,
                 "gc": 10,
                 "dg": -2
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "22",
+                "escudo": "https://statics-files.tycsports.com/escudos/141.png",
+                "equipo": "Racing (Cba)",
+                "puntos": "15",
+                "pj": "13",
+                "pg": "4",
+                "pe": "3",
+                "pp": "6",
+                "gf": 13,
+                "gc": 16,
+                "dg": -3
             },
             {
                 "zona": "Posiciones",
@@ -7112,6 +7112,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "30",
+                "escudo": "https://statics-files.tycsports.com/escudos/1915.png",
+                "equipo": "Central Norte",
+                "puntos": "13",
+                "pj": "13",
+                "pg": "3",
+                "pe": "4",
+                "pp": "6",
+                "gf": 8,
+                "gc": 12,
+                "dg": -4
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "31",
                 "escudo": "https://statics-files.tycsports.com/escudos/865.png",
                 "equipo": "Gimnasia y Tiro",
                 "puntos": "12",
@@ -7125,7 +7139,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "31",
+                "posicion": "32",
                 "escudo": "https://statics-files.tycsports.com/escudos/687.png",
                 "equipo": "Colegiales",
                 "puntos": "12",
@@ -7139,7 +7153,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "32",
+                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/1.png",
                 "equipo": "Almagro",
                 "puntos": "12",
@@ -7153,7 +7167,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "33",
+                "posicion": "34",
                 "escudo": "https://statics-files.tycsports.com/escudos/668.png",
                 "equipo": "All Boys",
                 "puntos": "11",
@@ -7167,7 +7181,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "34",
+                "posicion": "35",
                 "escudo": "https://statics-files.tycsports.com/escudos/667.png",
                 "equipo": "Acassuso",
                 "puntos": "11",
@@ -7177,20 +7191,6 @@
                 "pp": "7",
                 "gf": 8,
                 "gc": 13,
-                "dg": -5
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "35",
-                "escudo": "https://statics-files.tycsports.com/escudos/1915.png",
-                "equipo": "Central Norte",
-                "puntos": "10",
-                "pj": "12",
-                "pg": "2",
-                "pe": "4",
-                "pp": "6",
-                "gf": 6,
-                "gc": 11,
                 "dg": -5
             },
             {
