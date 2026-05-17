@@ -533,22 +533,22 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "16/05/2026 09:30 HS",
+                "fecha": "16/05/2026 09:30 HS Finalizado",
                 "local": "SAT",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png",
                 "visitante": "UNI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12384.png"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "16/05/2026 15:00 HS",
+                "fecha": "16/05/2026 15:00 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png",
                 "visitante": "BOC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3499.png"
             },
             {
@@ -1270,6 +1270,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "equipo": "SATSAID",
+                "puntos": "11",
+                "pj": "7",
+                "pg": "3",
+                "pe": "2",
+                "pp": "2",
+                "gf": 11,
+                "gc": 7,
+                "dg": 4
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "equipo": "Gimnasia",
                 "puntos": "11",
@@ -1282,7 +1295,20 @@
                 "dg": 3
             },
             {
-                "posicion": "7",
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
+                "equipo": "Belgrano (Cba.)",
+                "puntos": "10",
+                "pj": "7",
+                "pg": "3",
+                "pe": "1",
+                "pp": "3",
+                "gf": 5,
+                "gc": 6,
+                "dg": -1
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
                 "equipo": "Huracán",
                 "puntos": "9",
@@ -1295,33 +1321,20 @@
                 "dg": -1
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
-                "equipo": "SATSAID",
-                "puntos": "8",
-                "pj": "6",
-                "pg": "2",
-                "pe": "2",
-                "pp": "2",
-                "gf": 6,
-                "gc": 7,
-                "dg": -1
-            },
-            {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
                 "equipo": "Boca Juniors",
                 "puntos": "7",
-                "pj": "5",
+                "pj": "6",
                 "pg": "2",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 7,
-                "gc": 7,
-                "dg": 0
+                "gc": 8,
+                "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "equipo": "San Luis FC",
                 "puntos": "7",
@@ -1332,19 +1345,6 @@
                 "gf": 6,
                 "gc": 7,
                 "dg": -1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
-                "equipo": "Belgrano (Cba.)",
-                "puntos": "7",
-                "pj": "6",
-                "pg": "2",
-                "pe": "1",
-                "pp": "3",
-                "gf": 4,
-                "gc": 6,
-                "dg": -2
             },
             {
                 "posicion": "12",
@@ -1403,16 +1403,22 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
                 "equipo": "Unión",
                 "puntos": "2",
-                "pj": "6",
+                "pj": "7",
                 "pg": "0",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 6,
-                "gc": 14,
-                "dg": -8
+                "gc": 19,
+                "dg": -13
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Lara Lopez",
+                "equipo": "SATSAID",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "goles": 4
+            },
             {
                 "nombre": "Sindy Ramírez",
                 "equipo": "Racing",
@@ -1471,12 +1477,6 @@
                 "nombre": "Lali Esquivel",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Kishi Núñez",
-                "equipo": "Boca Juniors",
-                "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
                 "goles": 3
             }
         ]
