@@ -553,12 +553,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/05/2026 15:00 HS",
+                "fecha": "17/05/2026 15:00 HS Finalizado",
                 "local": "CGE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png",
                 "visitante": "SAN",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6144.png"
             },
             {
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
+                "equipo": "San Lorenzo",
+                "puntos": "16",
+                "pj": "7",
+                "pg": "5",
+                "pe": "1",
+                "pp": "1",
+                "gf": 17,
+                "gc": 4,
+                "dg": 13
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "equipo": "River Plate",
                 "puntos": "16",
@@ -1217,7 +1230,7 @@
                 "dg": 13
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
                 "equipo": "Racing",
                 "puntos": "16",
@@ -1230,7 +1243,7 @@
                 "dg": 10
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "equipo": "Banfield",
                 "puntos": "15",
@@ -1241,19 +1254,6 @@
                 "gf": 9,
                 "gc": 4,
                 "dg": 5
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "equipo": "San Lorenzo",
-                "puntos": "13",
-                "pj": "6",
-                "pg": "4",
-                "pe": "1",
-                "pp": "1",
-                "gf": 13,
-                "gc": 3,
-                "dg": 10
             },
             {
                 "posicion": "5",
@@ -1286,13 +1286,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
                 "equipo": "Gimnasia",
                 "puntos": "11",
-                "pj": "6",
+                "pj": "7",
                 "pg": "3",
                 "pe": "2",
-                "pp": "1",
-                "gf": 10,
-                "gc": 7,
-                "dg": 3
+                "pp": "2",
+                "gf": 11,
+                "gc": 11,
+                "dg": 0
             },
             {
                 "posicion": "8",
@@ -1414,6 +1414,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Florencia Gaetán",
+                "equipo": "Gimnasia",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Lara Lopez",
                 "equipo": "SATSAID",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
@@ -1450,33 +1456,27 @@
                 "goles": 3
             },
             {
+                "nombre": "Emily Arias",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Kimberlyn  Campos",
                 "equipo": "River Plate",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "goles": 3
             },
             {
-                "nombre": "Florencia Gaetán",
-                "equipo": "Gimnasia",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "nombre": "Débora Molina",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "goles": 3
             },
             {
-                "nombre": "Victoria Vázquez",
-                "equipo": "San Luis FC",
-                "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Oriana Villa",
-                "equipo": "Independiente",
-                "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Lali Esquivel",
-                "equipo": "Gimnasia",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png",
+                "nombre": "Delfina Pafundi",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "goles": 3
             }
         ]

@@ -983,12 +983,12 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 4",
-                "fecha": "17/05/2026 18:30 HS",
+                "fecha": "17/05/2026 18:30 HS Finalizado",
                 "local": "POR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/494.png",
                 "visitante": "APC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5732.png"
             },
             {
@@ -1093,22 +1093,22 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 4",
-                "fecha": "17/05/2026 18:00 HS",
+                "fecha": "17/05/2026 18:00 HS Finalizado",
                 "local": "EST",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/224.png",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/223.png"
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 4",
-                "fecha": "17/05/2026 19:00 HS",
+                "fecha": "17/05/2026 19:00 HS Finalizado",
                 "local": "MET",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3898.png",
                 "visitante": "TAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/79.png"
             },
             {
@@ -1357,7 +1357,7 @@
                 "nombre": "Jonathan Cañete",
                 "equipo": "Portuguesa",
                 "escudo": "https://statics-files.tycsports.com/escudos/494.png",
-                "goles": 9
+                "goles": 10
             },
             {
                 "nombre": "Juan Manuel Cuesta",
@@ -1370,6 +1370,12 @@
                 "equipo": "Metropolitanos",
                 "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
                 "goles": 7
+            },
+            {
+                "nombre": "Rodrigo Pollero",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 6
             },
             {
                 "nombre": "Ronald Rodríguez",
@@ -1390,27 +1396,21 @@
                 "goles": 5
             },
             {
-                "nombre": "Rodrigo Pollero",
-                "equipo": "Táchira",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
-                "goles": 5
-            },
-            {
                 "nombre": "Lewuis Peña",
                 "equipo": "Rayo Zuliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "goles": 5
             },
             {
-                "nombre": "Flabián Londoño",
-                "equipo": "Dep. La Guaira",
-                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Edson Tortolero",
                 "equipo": "Carabobo",
                 "escudo": "https://statics-files.tycsports.com/escudos/223.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Flabián Londoño",
+                "equipo": "Dep. La Guaira",
+                "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "goles": 4
             }
         ]

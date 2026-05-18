@@ -2033,22 +2033,22 @@
             },
             {
                 "fecha_torneo": "Semana 12",
-                "fecha": "17/05/2026 19:00 HS",
+                "fecha": "17/05/2026 19:00 HS Finalizado",
                 "local": "INT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8165.png",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2127.png"
             },
             {
                 "fecha_torneo": "Semana 12",
-                "fecha": "17/05/2026 21:00 HS",
+                "fecha": "17/05/2026 21:00 HS Finalizado",
                 "local": "NAS",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7917.png",
                 "visitante": "LAF",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7548.png"
             },
             {
@@ -5358,18 +5358,32 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/7917.png",
                 "equipo": "Nashville SC",
-                "puntos": "27",
-                "pj": "12",
-                "pg": "8",
+                "puntos": "30",
+                "pj": "13",
+                "pg": "9",
                 "pe": "3",
                 "pp": "1",
-                "gf": 26,
-                "gc": 8,
-                "dg": 18
+                "gf": 29,
+                "gc": 10,
+                "dg": 19
             },
             {
                 "zona": "Grupo Este",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
+                "equipo": "Inter Miami",
+                "puntos": "28",
+                "pj": "14",
+                "pg": "8",
+                "pe": "4",
+                "pp": "2",
+                "gf": 33,
+                "gc": 24,
+                "dg": 9
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/1300.png",
                 "equipo": "NE Revolution",
                 "puntos": "25",
@@ -5380,20 +5394,6 @@
                 "gf": 22,
                 "gc": 17,
                 "dg": 5
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
-                "equipo": "Inter Miami",
-                "puntos": "25",
-                "pj": "13",
-                "pg": "7",
-                "pe": "4",
-                "pp": "2",
-                "gf": 31,
-                "gc": 24,
-                "dg": 7
             },
             {
                 "zona": "Grupo Este",
@@ -5653,13 +5653,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7548.png",
                 "equipo": "Los Angeles FC",
                 "puntos": "21",
-                "pj": "13",
+                "pj": "14",
                 "pg": "6",
                 "pe": "3",
-                "pp": "4",
-                "gf": 21,
-                "gc": 14,
-                "dg": 7
+                "pp": "5",
+                "gf": 23,
+                "gc": 17,
+                "dg": 6
             },
             {
                 "zona": "Grupo Oeste",
@@ -5723,13 +5723,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2127.png",
                 "equipo": "Portland Timbers",
                 "puntos": "14",
-                "pj": "12",
+                "pj": "13",
                 "pg": "4",
                 "pe": "2",
-                "pp": "6",
+                "pp": "7",
                 "gf": 21,
-                "gc": 23,
-                "dg": -2
+                "gc": 25,
+                "dg": -4
             },
             {
                 "zona": "Grupo Oeste",
@@ -5782,16 +5782,16 @@
                 "goles": 13
             },
             {
+                "nombre": "Lionel Messi",
+                "equipo": "Inter Miami",
+                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Petar Musa",
                 "equipo": "FC Dallas",
                 "escudo": "https://statics-files.tycsports.com/escudos/2111.png",
                 "goles": 12
-            },
-            {
-                "nombre": "Lionel Messi",
-                "equipo": "Inter Miami",
-                "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
-                "goles": 11
             },
             {
                 "nombre": "Marcus Ingvartsen",
