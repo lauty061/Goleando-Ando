@@ -2503,22 +2503,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "18/05/2026 15:30 HS",
+                "fecha": "18/05/2026 15:30 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/138.png",
                 "visitante": "CFE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/853.png"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "18/05/2026 20:00 HS",
+                "fecha": "18/05/2026 20:00 HS Finalizado",
                 "local": "ALB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/668.png",
                 "visitante": "MOR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/679.png"
             },
             {
@@ -6765,13 +6765,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/679.png",
                 "equipo": "Dep. Morón",
                 "puntos": "22",
-                "pj": "12",
+                "pj": "13",
                 "pg": "6",
                 "pe": "4",
-                "pp": "2",
+                "pp": "3",
                 "gf": 18,
-                "gc": 11,
-                "dg": 7
+                "gc": 12,
+                "dg": 6
             },
             {
                 "zona": "Posiciones",
@@ -6972,6 +6972,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "20",
+                "escudo": "https://statics-files.tycsports.com/escudos/138.png",
+                "equipo": "Def. de Belgrano",
+                "puntos": "16",
+                "pj": "13",
+                "pg": "3",
+                "pe": "7",
+                "pp": "3",
+                "gf": 11,
+                "gc": 11,
+                "dg": 0
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/663.png",
                 "equipo": "Estudiantes (BA)",
                 "puntos": "16",
@@ -6985,7 +6999,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "21",
+                "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
                 "puntos": "16",
@@ -6996,20 +7010,6 @@
                 "gf": 9,
                 "gc": 13,
                 "dg": -4
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "22",
-                "escudo": "https://statics-files.tycsports.com/escudos/138.png",
-                "equipo": "Def. de Belgrano",
-                "puntos": "15",
-                "pj": "12",
-                "pg": "3",
-                "pe": "6",
-                "pp": "3",
-                "gf": 11,
-                "gc": 11,
-                "dg": 0
             },
             {
                 "zona": "Posiciones",
@@ -7112,6 +7112,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "30",
+                "escudo": "https://statics-files.tycsports.com/escudos/668.png",
+                "equipo": "All Boys",
+                "puntos": "14",
+                "pj": "13",
+                "pg": "3",
+                "pe": "5",
+                "pp": "5",
+                "gf": 8,
+                "gc": 11,
+                "dg": -3
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "31",
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png",
                 "equipo": "Quilmes",
                 "puntos": "13",
@@ -7125,7 +7139,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "31",
+                "posicion": "32",
                 "escudo": "https://statics-files.tycsports.com/escudos/1915.png",
                 "equipo": "Central Norte",
                 "puntos": "13",
@@ -7139,7 +7153,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "32",
+                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/1489.png",
                 "equipo": "Güemes (SE)",
                 "puntos": "13",
@@ -7153,7 +7167,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "33",
+                "posicion": "34",
                 "escudo": "https://statics-files.tycsports.com/escudos/1.png",
                 "equipo": "Almagro",
                 "puntos": "12",
@@ -7164,20 +7178,6 @@
                 "gf": 9,
                 "gc": 17,
                 "dg": -8
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "34",
-                "escudo": "https://statics-files.tycsports.com/escudos/668.png",
-                "equipo": "All Boys",
-                "puntos": "11",
-                "pj": "12",
-                "pg": "2",
-                "pe": "5",
-                "pp": "5",
-                "gf": 7,
-                "gc": 11,
-                "dg": -4
             },
             {
                 "zona": "Posiciones",
@@ -7198,10 +7198,10 @@
                 "posicion": "36",
                 "escudo": "https://statics-files.tycsports.com/escudos/853.png",
                 "equipo": "Chaco For Ever",
-                "puntos": "7",
-                "pj": "12",
+                "puntos": "8",
+                "pj": "13",
                 "pg": "1",
-                "pe": "4",
+                "pe": "5",
                 "pp": "7",
                 "gf": 9,
                 "gc": 17,

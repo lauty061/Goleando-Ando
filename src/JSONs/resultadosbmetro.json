@@ -1743,23 +1743,23 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "18/05/2026 15:30 HS",
-                "local": "ITA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/677.png",
-                "visitante": "LAF",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/694.png"
+                "fecha": "17/05/2026 15:30 HS Finalizado",
+                "local": "COM",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/673.png",
+                "visitante": "ADQ",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/773.png"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "19/05/2026 HS",
-                "local": "COM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/673.png",
-                "visitante": "ADQ",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/773.png"
+                "fecha": "18/05/2026 15:30 HS Finalizado",
+                "local": "ITA",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/677.png",
+                "visitante": "LAF",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/694.png"
             },
             {
                 "fecha_torneo": "Fecha 17",
@@ -4842,13 +4842,13 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/677.png",
                 "equipo": "Sp. Italiano",
-                "puntos": "26",
-                "pj": "14",
+                "puntos": "27",
+                "pj": "15",
                 "pg": "7",
-                "pe": "5",
+                "pe": "6",
                 "pp": "2",
-                "gf": 15,
-                "gc": 10,
+                "gf": 16,
+                "gc": 11,
                 "dg": 5
             },
             {
@@ -4879,6 +4879,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
+                "equipo": "Comunicaciones",
+                "puntos": "20",
+                "pj": "15",
+                "pg": "5",
+                "pe": "5",
+                "pp": "5",
+                "gf": 13,
+                "gc": 14,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/697.png",
                 "equipo": "S. Martín B.",
                 "puntos": "19",
@@ -4889,19 +4902,6 @@
                 "gf": 17,
                 "gc": 14,
                 "dg": 3
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/673.png",
-                "equipo": "Comunicaciones",
-                "puntos": "19",
-                "pj": "14",
-                "pg": "5",
-                "pe": "4",
-                "pp": "5",
-                "gf": 13,
-                "gc": 14,
-                "dg": -1
             },
             {
                 "posicion": "11",
@@ -4957,6 +4957,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/694.png",
+                "equipo": "Laferrere",
+                "puntos": "17",
+                "pj": "15",
+                "pg": "4",
+                "pe": "5",
+                "pp": "6",
+                "gf": 13,
+                "gc": 19,
+                "dg": -6
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png",
                 "equipo": "Def. Unidos",
                 "puntos": "16",
@@ -4967,19 +4980,6 @@
                 "gf": 14,
                 "gc": 15,
                 "dg": -1
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/694.png",
-                "equipo": "Laferrere",
-                "puntos": "16",
-                "pj": "14",
-                "pg": "4",
-                "pe": "4",
-                "pp": "6",
-                "gf": 12,
-                "gc": 18,
-                "dg": -6
             },
             {
                 "posicion": "17",
@@ -5037,10 +5037,10 @@
                 "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png",
                 "equipo": "Arg. de Quilmes",
-                "puntos": "11",
-                "pj": "14",
+                "puntos": "12",
+                "pj": "15",
                 "pg": "2",
-                "pe": "5",
+                "pe": "6",
                 "pp": "7",
                 "gf": 12,
                 "gc": 16,
