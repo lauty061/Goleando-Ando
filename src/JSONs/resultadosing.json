@@ -3683,22 +3683,22 @@
             },
             {
                 "fecha_torneo": "Fecha 37",
-                "fecha": "19/05/2026 15:30 HS",
+                "fecha": "19/05/2026 15:30 HS Finalizado",
                 "local": "BOU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5376.png",
                 "visitante": "MCI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/567.png"
             },
             {
                 "fecha_torneo": "Fecha 37",
-                "fecha": "19/05/2026 16:15 HS",
+                "fecha": "19/05/2026 16:15 HS Finalizado",
                 "local": "CHE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/563.png",
                 "visitante": "TOT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/574.png"
             },
             {
@@ -3820,13 +3820,13 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
                 "equipo": "Manchester City",
-                "puntos": "77",
-                "pj": "36",
+                "puntos": "78",
+                "pj": "37",
                 "pg": "23",
-                "pe": "8",
+                "pe": "9",
                 "pp": "5",
-                "gf": 75,
-                "gc": 32,
+                "gf": 76,
+                "gc": 33,
                 "dg": 43
             },
             {
@@ -3872,13 +3872,13 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
                 "equipo": "Bournemouth",
-                "puntos": "55",
-                "pj": "36",
+                "puntos": "56",
+                "pj": "37",
                 "pg": "13",
-                "pe": "16",
+                "pe": "17",
                 "pp": "7",
-                "gf": 56,
-                "gc": 52,
+                "gf": 57,
+                "gc": 53,
                 "dg": 4
             },
             {
@@ -3896,6 +3896,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
+                "equipo": "Chelsea",
+                "puntos": "52",
+                "pj": "37",
+                "pg": "14",
+                "pe": "10",
+                "pp": "13",
+                "gf": 57,
+                "gc": 50,
+                "dg": 7
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
                 "equipo": "Brentford",
                 "puntos": "52",
@@ -3908,7 +3921,7 @@
                 "dg": 3
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/704.png",
                 "equipo": "Sunderland",
                 "puntos": "51",
@@ -3919,19 +3932,6 @@
                 "gf": 40,
                 "gc": 47,
                 "dg": -7
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
-                "equipo": "Chelsea",
-                "puntos": "49",
-                "pj": "36",
-                "pg": "13",
-                "pe": "10",
-                "pp": "13",
-                "gf": 55,
-                "gc": 49,
-                "dg": 6
             },
             {
                 "posicion": "11",
@@ -4016,13 +4016,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/574.png",
                 "equipo": "Tottenham",
                 "puntos": "38",
-                "pj": "36",
+                "pj": "37",
                 "pg": "9",
                 "pe": "11",
-                "pp": "16",
-                "gf": 46,
-                "gc": 55,
-                "dg": -9
+                "pp": "17",
+                "gf": 47,
+                "gc": 57,
+                "dg": -10
             },
             {
                 "posicion": "18",
@@ -4069,7 +4069,7 @@
                 "nombre": "Erling Haaland",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
-                "goles": 26
+                "goles": 27
             },
             {
                 "nombre": "Nascimento Rodrigues, I.",
@@ -4123,12 +4123,12 @@
                 "nombre": "Eli Kroupi",
                 "equipo": "Bournemouth",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
-                "goles": 12
+                "goles": 13
             },
             {
-                "nombre": "Hugo Ekitike",
-                "equipo": "Liverpool",
-                "escudo": "https://statics-files.tycsports.com/escudos/566.png",
+                "nombre": "Richarlison",
+                "equipo": "Tottenham",
+                "escudo": "https://statics-files.tycsports.com/escudos/574.png",
                 "goles": 11
             }
         ]
