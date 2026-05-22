@@ -473,12 +473,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "21/05/2026 15:00 HS",
+                "fecha": "21/05/2026 15:00 HS Finalizado",
                 "local": "BOC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3499.png",
                 "visitante": "RIV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6141.png"
             },
             {
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
+                "equipo": "River Plate",
+                "puntos": "19",
+                "pj": "7",
+                "pg": "6",
+                "pe": "1",
+                "pp": "0",
+                "gf": 17,
+                "gc": 3,
+                "dg": 14
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "16",
@@ -1214,19 +1227,6 @@
                 "pp": "1",
                 "gf": 17,
                 "gc": 4,
-                "dg": 13
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
-                "equipo": "River Plate",
-                "puntos": "16",
-                "pj": "6",
-                "pg": "5",
-                "pe": "1",
-                "pp": "0",
-                "gf": 16,
-                "gc": 3,
                 "dg": 13
             },
             {
@@ -1322,19 +1322,6 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
-                "equipo": "Boca Juniors",
-                "puntos": "7",
-                "pj": "6",
-                "pg": "2",
-                "pe": "1",
-                "pp": "3",
-                "gf": 7,
-                "gc": 8,
-                "dg": -1
-            },
-            {
-                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "equipo": "San Luis FC",
                 "puntos": "7",
@@ -1345,6 +1332,19 @@
                 "gf": 6,
                 "gc": 7,
                 "dg": -1
+            },
+            {
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
+                "equipo": "Boca Juniors",
+                "puntos": "7",
+                "pj": "7",
+                "pg": "2",
+                "pe": "1",
+                "pp": "4",
+                "gf": 7,
+                "gc": 9,
+                "dg": -2
             },
             {
                 "posicion": "12",

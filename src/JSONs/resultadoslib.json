@@ -993,12 +993,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "21/05/2026 19:00 HS",
+                "fecha": "21/05/2026 19:00 HS Finalizado",
                 "local": "DLG",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1282.png",
                 "visitante": "IND",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/664.png"
             },
             {
@@ -1013,12 +1013,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "21/05/2026 21:30 HS",
+                "fecha": "21/05/2026 21:30 HS Finalizado",
                 "local": "UCA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/120.png",
                 "visitante": "BAR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/217.png"
             },
             {
@@ -1033,12 +1033,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "21/05/2026 21:30 HS",
+                "fecha": "21/05/2026 21:30 HS Finalizado",
                 "local": "PEÑ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/98.png",
                 "visitante": "COR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/107.png"
             },
             {
@@ -1670,14 +1670,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png",
                 "equipo": "Indep.Mza.",
-                "puntos": "10",
-                "pj": "4",
-                "pg": "3",
+                "puntos": "13",
+                "pj": "5",
+                "pg": "4",
                 "pe": "1",
                 "pp": "0",
-                "gf": 8,
-                "gc": 3,
-                "dg": 5
+                "gf": 12,
+                "gc": 5,
+                "dg": 7
             },
             {
                 "grupo": "Grupo C",
@@ -1713,17 +1713,31 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "equipo": "Dep. La Guaira",
                 "puntos": "3",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "3",
-                "pp": "1",
-                "gf": 3,
-                "gc": 6,
-                "dg": -3
+                "pp": "2",
+                "gf": 5,
+                "gc": 10,
+                "dg": -5
             },
             {
                 "grupo": "Grupo D",
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
+                "equipo": "U. Católica",
+                "puntos": "10",
+                "pj": "5",
+                "pg": "3",
+                "pe": "1",
+                "pp": "1",
+                "gf": 7,
+                "gc": 4,
+                "dg": 3
+            },
+            {
+                "grupo": "Grupo D",
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png",
                 "equipo": "Cruzeiro",
                 "puntos": "8",
@@ -1737,7 +1751,7 @@
             },
             {
                 "grupo": "Grupo D",
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/5.png",
                 "equipo": "Boca Juniors",
                 "puntos": "7",
@@ -1751,44 +1765,30 @@
             },
             {
                 "grupo": "Grupo D",
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "equipo": "U. Católica",
-                "puntos": "7",
-                "pj": "4",
-                "pg": "2",
-                "pe": "1",
-                "pp": "1",
-                "gf": 5,
-                "gc": 4,
-                "dg": 1
-            },
-            {
-                "grupo": "Grupo D",
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/217.png",
                 "equipo": "Barcelona",
                 "puntos": "3",
-                "pj": "4",
+                "pj": "5",
                 "pg": "1",
                 "pe": "0",
-                "pp": "3",
+                "pp": "4",
                 "gf": 2,
-                "gc": 6,
-                "dg": -4
+                "gc": 8,
+                "dg": -6
             },
             {
                 "grupo": "Grupo E",
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/107.png",
                 "equipo": "Corinthians",
-                "puntos": "10",
-                "pj": "4",
+                "puntos": "11",
+                "pj": "5",
                 "pg": "3",
-                "pe": "1",
+                "pe": "2",
                 "pp": "0",
-                "gf": 7,
-                "gc": 1,
+                "gf": 8,
+                "gc": 2,
                 "dg": 6
             },
             {
@@ -1824,13 +1824,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "equipo": "Peñarol",
-                "puntos": "2",
-                "pj": "4",
+                "puntos": "3",
+                "pj": "5",
                 "pg": "0",
-                "pe": "2",
+                "pe": "3",
                 "pp": "2",
-                "gf": 3,
-                "gc": 6,
+                "gf": 4,
+                "gc": 7,
                 "dg": -3
             },
             {
@@ -2004,16 +2004,16 @@
         ],
         "goleadores": [
             {
+                "nombre": "Alex Arce",
+                "equipo": "Independiente Riv. (M)",
+                "escudo": "https://statics-files.tycsports.com/escudos/664.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Carlos González",
                 "equipo": "Independiente del Valle",
                 "escudo": "https://statics-files.tycsports.com/escudos/980.png",
                 "goles": 6
-            },
-            {
-                "nombre": "Alex Arce",
-                "equipo": "Independiente Riv. (M)",
-                "escudo": "https://statics-files.tycsports.com/escudos/664.png",
-                "goles": 5
             },
             {
                 "nombre": "Francisco Fydriszewski",
@@ -2037,6 +2037,12 @@
                 "nombre": "Tiago Palacios",
                 "equipo": "Estudiantes",
                 "escudo": "https://statics-files.tycsports.com/escudos/7.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Fernando Zampedri",
+                "equipo": "U. Católica",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "goles": 3
             },
             {
@@ -2079,12 +2085,6 @@
                 "nombre": "Bruno Henrique",
                 "equipo": "Flamengo",
                 "escudo": "https://statics-files.tycsports.com/escudos/256.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Milton Céliz",
-                "equipo": "Barcelona",
-                "escudo": "https://statics-files.tycsports.com/escudos/217.png",
                 "goles": 2
             }
         ]
