@@ -1353,12 +1353,12 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "22/05/2026 17:00 HS",
+                "fecha": "22/05/2026 17:00 HS Finalizado",
                 "local": "JUP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11321.png",
                 "visitante": "MEL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/203.png"
             },
             {
@@ -3179,13 +3179,13 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "equipo": "Melgar",
-                "puntos": "24",
-                "pj": "15",
+                "puntos": "25",
+                "pj": "16",
                 "pg": "7",
-                "pe": "3",
+                "pe": "4",
                 "pp": "5",
-                "gf": 25,
-                "gc": 18,
+                "gf": 26,
+                "gc": 19,
                 "dg": 7
             },
             {
@@ -3307,6 +3307,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
+                "equipo": "Juan Pablo II",
+                "puntos": "16",
+                "pj": "16",
+                "pg": "4",
+                "pe": "4",
+                "pp": "8",
+                "gf": 21,
+                "gc": 36,
+                "dg": -15
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
                 "equipo": "FC Cajamarca",
                 "puntos": "15",
@@ -3319,7 +3332,7 @@
                 "dg": -5
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "15",
@@ -3330,19 +3343,6 @@
                 "gf": 18,
                 "gc": 27,
                 "dg": -9
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
-                "equipo": "Juan Pablo II",
-                "puntos": "15",
-                "pj": "15",
-                "pg": "4",
-                "pe": "3",
-                "pp": "8",
-                "gf": 20,
-                "gc": 35,
-                "dg": -15
             },
             {
                 "posicion": "18",
@@ -3390,6 +3390,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Bernardo Cuesta",
+                "equipo": "Melgar",
+                "escudo": "https://statics-files.tycsports.com/escudos/203.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Alex Valera",
                 "equipo": "Universitario",
                 "escudo": "https://statics-files.tycsports.com/escudos/121.png",
@@ -3399,12 +3405,6 @@
                 "nombre": "Neri Bandiera",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Bernardo Cuesta",
-                "equipo": "Melgar",
-                "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "goles": 6
             },
             {

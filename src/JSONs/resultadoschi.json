@@ -963,12 +963,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "22/05/2026 16:00 HS",
+                "fecha": "22/05/2026 16:00 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/148.png",
                 "visitante": "COQ",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png"
             },
             {
@@ -2459,17 +2459,30 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
-                "puntos": "19",
-                "pj": "12",
+                "puntos": "20",
+                "pj": "13",
                 "pg": "6",
-                "pe": "1",
+                "pe": "2",
                 "pp": "5",
-                "gf": 18,
-                "gc": 15,
+                "gf": 19,
+                "gc": 16,
                 "dg": 3
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
+                "equipo": "Everton",
+                "puntos": "19",
+                "pj": "13",
+                "pg": "5",
+                "pe": "4",
+                "pp": "4",
+                "gf": 15,
+                "gc": 11,
+                "dg": 4
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "equipo": "O'Higgins",
                 "puntos": "19",
@@ -2480,19 +2493,6 @@
                 "gf": 17,
                 "gc": 17,
                 "dg": 0
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
-                "equipo": "Everton",
-                "puntos": "18",
-                "pj": "12",
-                "pg": "5",
-                "pe": "3",
-                "pp": "4",
-                "gf": 14,
-                "gc": 10,
-                "dg": 4
             },
             {
                 "posicion": "8",
@@ -2674,9 +2674,9 @@
                 "goles": 5
             },
             {
-                "nombre": "Jean Meneses",
-                "equipo": "Deportes Limache",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
+                "nombre": "Nicolás Johansen",
+                "equipo": "Coquimbo Unido",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "goles": 4
             }
         ]

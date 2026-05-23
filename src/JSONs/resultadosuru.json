@@ -43,12 +43,12 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 2",
-                "fecha": "22/05/2026 19:30 HS",
+                "fecha": "22/05/2026 19:30 HS Finalizado",
                 "local": "LIV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/191.png",
                 "visitante": "RCM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/964.png"
             },
             {
@@ -575,6 +575,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/964.png",
+                "equipo": "Racing (U)",
+                "puntos": "4",
+                "pj": "2",
+                "pg": "1",
+                "pe": "1",
+                "pp": "0",
+                "gf": 1,
+                "gc": 0,
+                "dg": 1
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png",
                 "equipo": "Boston River",
                 "puntos": "3",
@@ -587,7 +600,7 @@
                 "dg": 3
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
                 "equipo": "Maldonado",
                 "puntos": "3",
@@ -600,7 +613,7 @@
                 "dg": 2
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
                 "equipo": "Juventud",
                 "puntos": "3",
@@ -613,7 +626,7 @@
                 "dg": 2
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png",
                 "equipo": "Central Español",
                 "puntos": "3",
@@ -626,7 +639,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
                 "equipo": "Nacional",
                 "puntos": "3",
@@ -639,7 +652,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "equipo": "Peñarol",
                 "puntos": "3",
@@ -649,19 +662,6 @@
                 "pp": "0",
                 "gf": 2,
                 "gc": 1,
-                "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/964.png",
-                "equipo": "Racing (U)",
-                "puntos": "3",
-                "pj": "1",
-                "pg": "1",
-                "pe": "0",
-                "pp": "0",
-                "gf": 1,
-                "gc": 0,
                 "dg": 1
             },
             {
@@ -692,12 +692,12 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "equipo": "Defensor Sporting",
-                "puntos": "0",
-                "pj": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
+                "equipo": "Liverpool (U)",
+                "puntos": "1",
+                "pj": "2",
                 "pg": "0",
-                "pe": "0",
+                "pe": "1",
                 "pp": "1",
                 "gf": 1,
                 "gc": 2,
@@ -705,8 +705,8 @@
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
-                "equipo": "Liverpool (U)",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
+                "equipo": "Defensor Sporting",
                 "puntos": "0",
                 "pj": "1",
                 "pg": "0",

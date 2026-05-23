@@ -563,12 +563,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "22/05/2026 15:00 HS",
+                "fecha": "22/05/2026 15:00 HS Finalizado",
                 "local": "SAN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6144.png",
                 "visitante": "BAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10938.png"
             },
             {
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
+                "equipo": "San Lorenzo",
+                "puntos": "19",
+                "pj": "8",
+                "pg": "6",
+                "pe": "1",
+                "pp": "1",
+                "gf": 20,
+                "gc": 4,
+                "dg": 16
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
                 "equipo": "River Plate",
                 "puntos": "19",
@@ -1215,19 +1228,6 @@
                 "gf": 17,
                 "gc": 3,
                 "dg": 14
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "equipo": "San Lorenzo",
-                "puntos": "16",
-                "pj": "7",
-                "pg": "5",
-                "pe": "1",
-                "pp": "1",
-                "gf": 17,
-                "gc": 4,
-                "dg": 13
             },
             {
                 "posicion": "3",
@@ -1247,13 +1247,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "equipo": "Banfield",
                 "puntos": "15",
-                "pj": "7",
+                "pj": "8",
                 "pg": "5",
                 "pe": "0",
-                "pp": "2",
+                "pp": "3",
                 "gf": 9,
-                "gc": 4,
-                "dg": 5
+                "gc": 7,
+                "dg": 2
             },
             {
                 "posicion": "5",
@@ -1426,6 +1426,18 @@
                 "goles": 4
             },
             {
+                "nombre": "Débora Molina",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Delfina Pafundi",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Sindy Ramírez",
                 "equipo": "Racing",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
@@ -1465,18 +1477,6 @@
                 "nombre": "Kimberlyn  Campos",
                 "equipo": "River Plate",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Débora Molina",
-                "equipo": "San Lorenzo",
-                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Delfina Pafundi",
-                "equipo": "San Lorenzo",
-                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "goles": 3
             }
         ]
