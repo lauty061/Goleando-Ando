@@ -613,12 +613,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "24/05/2026 15:30 HS",
+                "fecha": "24/05/2026 15:30 HS Finalizado",
                 "local": "NOB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11275.png",
                 "visitante": "SAT",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8142.png"
             },
             {
@@ -1257,6 +1257,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "equipo": "SATSAID",
+                "puntos": "12",
+                "pj": "8",
+                "pg": "3",
+                "pe": "3",
+                "pp": "2",
+                "gf": 11,
+                "gc": 7,
+                "dg": 4
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
                 "equipo": "Talleres",
                 "puntos": "12",
@@ -1266,19 +1279,6 @@
                 "pp": "1",
                 "gf": 9,
                 "gc": 5,
-                "dg": 4
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
-                "equipo": "SATSAID",
-                "puntos": "11",
-                "pj": "7",
-                "pg": "3",
-                "pe": "2",
-                "pp": "2",
-                "gf": 11,
-                "gc": 7,
                 "dg": 4
             },
             {
@@ -1376,10 +1376,10 @@
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
                 "equipo": "Newell`s",
-                "puntos": "4",
-                "pj": "7",
+                "puntos": "5",
+                "pj": "8",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "5",
                 "gf": 2,
                 "gc": 13,

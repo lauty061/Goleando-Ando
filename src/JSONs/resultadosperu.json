@@ -1403,32 +1403,32 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "24/05/2026 13:00 HS",
+                "fecha": "24/05/2026 13:00 HS Finalizado",
                 "local": "SPC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/92.png",
                 "visitante": "ADT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10029.png"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "24/05/2026 15:15 HS",
+                "fecha": "24/05/2026 15:15 HS Finalizado",
                 "local": "DSH",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1659.png",
                 "visitante": "CIE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/94.png"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "24/05/2026 17:30 HS",
+                "fecha": "24/05/2026 17:30 HS Finalizado",
                 "local": "AAT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/103.png",
                 "visitante": "FCC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12382.png"
             },
             {
@@ -3153,13 +3153,13 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "equipo": "Cienciano",
-                "puntos": "29",
-                "pj": "15",
+                "puntos": "30",
+                "pj": "16",
                 "pg": "9",
-                "pe": "2",
+                "pe": "3",
                 "pp": "4",
-                "gf": 29,
-                "gc": 18,
+                "gf": 31,
+                "gc": 20,
                 "dg": 11
             },
             {
@@ -3218,13 +3218,13 @@
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/103.png",
                 "equipo": "Alianza Atlético",
-                "puntos": "20",
-                "pj": "15",
+                "puntos": "21",
+                "pj": "16",
                 "pg": "5",
-                "pe": "5",
+                "pe": "6",
                 "pp": "5",
-                "gf": 18,
-                "gc": 14,
+                "gf": 19,
+                "gc": 15,
                 "dg": 4
             },
             {
@@ -3232,13 +3232,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10029.png",
                 "equipo": "ADT de Tarma",
                 "puntos": "20",
-                "pj": "15",
+                "pj": "16",
                 "pg": "5",
                 "pe": "5",
-                "pp": "5",
-                "gf": 20,
-                "gc": 17,
-                "dg": 3
+                "pp": "6",
+                "gf": 21,
+                "gc": 19,
+                "dg": 2
             },
             {
                 "posicion": "10",
@@ -3255,6 +3255,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/92.png",
+                "equipo": "Sporting Cristal",
+                "puntos": "19",
+                "pj": "16",
+                "pg": "5",
+                "pe": "4",
+                "pp": "7",
+                "gf": 26,
+                "gc": 27,
+                "dg": -1
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
                 "equipo": "Moquegua",
                 "puntos": "18",
@@ -3267,7 +3280,7 @@
                 "dg": -6
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
                 "equipo": "UTC",
                 "puntos": "17",
@@ -3280,7 +3293,7 @@
                 "dg": -5
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/205.png",
                 "equipo": "Sport Boys",
                 "puntos": "17",
@@ -3293,20 +3306,33 @@
                 "dg": -5
             },
             {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/92.png",
-                "equipo": "Sporting Cristal",
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
+                "equipo": "FC Cajamarca",
                 "puntos": "16",
-                "pj": "15",
+                "pj": "16",
                 "pg": "4",
                 "pe": "4",
-                "pp": "7",
-                "gf": 24,
-                "gc": 26,
-                "dg": -2
+                "pp": "8",
+                "gf": 22,
+                "gc": 27,
+                "dg": -5
             },
             {
-                "posicion": "15",
+                "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
+                "equipo": "Sport Huancayo",
+                "puntos": "16",
+                "pj": "16",
+                "pg": "4",
+                "pe": "4",
+                "pp": "8",
+                "gf": 20,
+                "gc": 29,
+                "dg": -9
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
                 "equipo": "Juan Pablo II",
                 "puntos": "16",
@@ -3317,32 +3343,6 @@
                 "gf": 21,
                 "gc": 36,
                 "dg": -15
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
-                "equipo": "FC Cajamarca",
-                "puntos": "15",
-                "pj": "15",
-                "pg": "4",
-                "pe": "3",
-                "pp": "8",
-                "gf": 21,
-                "gc": 26,
-                "dg": -5
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
-                "equipo": "Sport Huancayo",
-                "puntos": "15",
-                "pj": "15",
-                "pg": "4",
-                "pe": "3",
-                "pp": "8",
-                "gf": 18,
-                "gc": 27,
-                "dg": -9
             },
             {
                 "posicion": "18",
@@ -3360,6 +3360,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Carlos Garcés",
+                "equipo": "Cienciano",
+                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Alejandro Hohberg",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
@@ -3375,12 +3381,6 @@
                 "nombre": "Hernán Barcos",
                 "equipo": "FC Cajamarca",
                 "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Carlos Garcés",
-                "equipo": "Cienciano",
-                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "goles": 9
             },
             {

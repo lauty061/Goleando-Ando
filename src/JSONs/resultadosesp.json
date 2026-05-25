@@ -3793,12 +3793,12 @@
             },
             {
                 "fecha_torneo": "Fecha 38",
-                "fecha": "24/05/2026 16:00 HS",
+                "fecha": "24/05/2026 16:00 HS Finalizado",
                 "local": "VIL",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/43.png",
                 "visitante": "ATM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/29.png"
             }
         ],
@@ -3833,27 +3833,27 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/43.png",
                 "equipo": "Villarreal",
-                "puntos": "69",
-                "pj": "37",
-                "pg": "21",
+                "puntos": "72",
+                "pj": "38",
+                "pg": "22",
                 "pe": "6",
                 "pp": "10",
-                "gf": 67,
-                "gc": 45,
-                "dg": 22
+                "gf": 72,
+                "gc": 46,
+                "dg": 26
             },
             {
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/29.png",
                 "equipo": "Atl. Madrid",
                 "puntos": "69",
-                "pj": "37",
+                "pj": "38",
                 "pg": "21",
                 "pe": "6",
-                "pp": "10",
-                "gf": 61,
-                "gc": 39,
-                "dg": 22
+                "pp": "11",
+                "gf": 62,
+                "gc": 44,
+                "dg": 18
             },
             {
                 "posicion": "5",
@@ -3961,16 +3961,16 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
-                "equipo": "Elche",
+                "escudo": "https://statics-files.tycsports.com/escudos/41.png",
+                "equipo": "Sevilla",
                 "puntos": "43",
                 "pj": "38",
-                "pg": "10",
-                "pe": "13",
-                "pp": "15",
-                "gf": 49,
-                "gc": 57,
-                "dg": -8
+                "pg": "12",
+                "pe": "7",
+                "pp": "19",
+                "gf": 46,
+                "gc": 60,
+                "dg": -14
             },
             {
                 "posicion": "14",
@@ -3987,19 +3987,32 @@
             },
             {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/41.png",
-                "equipo": "Sevilla",
+                "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
+                "equipo": "Elche",
                 "puntos": "43",
                 "pj": "38",
-                "pg": "12",
-                "pe": "7",
-                "pp": "19",
-                "gf": 46,
-                "gc": 60,
-                "dg": -14
+                "pg": "10",
+                "pe": "13",
+                "pp": "15",
+                "gf": 49,
+                "gc": 57,
+                "dg": -8
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/35.png",
+                "equipo": "Levante",
+                "puntos": "42",
+                "pj": "38",
+                "pg": "11",
+                "pe": "9",
+                "pp": "18",
+                "gf": 47,
+                "gc": 61,
+                "dg": -14
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/37.png",
                 "equipo": "Osasuna",
                 "puntos": "42",
@@ -4012,7 +4025,7 @@
                 "dg": -6
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/36.png",
                 "equipo": "Mallorca",
                 "puntos": "42",
@@ -4023,19 +4036,6 @@
                 "gf": 47,
                 "gc": 57,
                 "dg": -10
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/35.png",
-                "equipo": "Levante",
-                "puntos": "42",
-                "pj": "38",
-                "pg": "11",
-                "pe": "9",
-                "pp": "18",
-                "gf": 47,
-                "gc": 61,
-                "dg": -14
             },
             {
                 "posicion": "19",
