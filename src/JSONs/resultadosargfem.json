@@ -623,22 +623,22 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "25/05/2026 15:00 HS",
+                "fecha": "25/05/2026 15:00 HS Finalizado",
                 "local": "BOC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3499.png",
                 "visitante": "HUR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6138.png"
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "25/05/2026 17:30 HS",
+                "fecha": "25/05/2026 17:30 HS Finalizado",
                 "local": "TAL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11974.png",
                 "visitante": "RIV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6141.png"
             },
             {
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
+                "equipo": "River Plate",
+                "puntos": "20",
+                "pj": "8",
+                "pg": "6",
+                "pe": "2",
+                "pp": "0",
+                "gf": 18,
+                "gc": 4,
+                "dg": 14
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "equipo": "San Lorenzo",
                 "puntos": "19",
@@ -1215,19 +1228,6 @@
                 "gf": 20,
                 "gc": 4,
                 "dg": 16
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
-                "equipo": "River Plate",
-                "puntos": "19",
-                "pj": "7",
-                "pg": "6",
-                "pe": "1",
-                "pp": "0",
-                "gf": 17,
-                "gc": 3,
-                "dg": 14
             },
             {
                 "posicion": "3",
@@ -1257,6 +1257,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
+                "equipo": "Talleres",
+                "puntos": "13",
+                "pj": "8",
+                "pg": "3",
+                "pe": "4",
+                "pp": "1",
+                "gf": 10,
+                "gc": 6,
+                "dg": 4
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
                 "equipo": "SATSAID",
                 "puntos": "12",
@@ -1266,19 +1279,6 @@
                 "pp": "2",
                 "gf": 11,
                 "gc": 7,
-                "dg": 4
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
-                "equipo": "Talleres",
-                "puntos": "12",
-                "pj": "7",
-                "pg": "3",
-                "pe": "3",
-                "pp": "1",
-                "gf": 9,
-                "gc": 5,
                 "dg": 4
             },
             {
@@ -1309,6 +1309,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
+                "equipo": "Huracán",
+                "puntos": "10",
+                "pj": "8",
+                "pg": "2",
+                "pe": "4",
+                "pp": "2",
+                "gf": 5,
+                "gc": 6,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
                 "equipo": "Independiente",
                 "puntos": "10",
@@ -1321,7 +1334,7 @@
                 "dg": -2
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "10",
@@ -1334,20 +1347,20 @@
                 "dg": -2
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
-                "equipo": "Huracán",
-                "puntos": "9",
-                "pj": "7",
+                "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
+                "equipo": "Boca Juniors",
+                "puntos": "8",
+                "pj": "8",
                 "pg": "2",
-                "pe": "3",
-                "pp": "2",
-                "gf": 5,
-                "gc": 6,
-                "dg": -1
+                "pe": "2",
+                "pp": "4",
+                "gf": 7,
+                "gc": 9,
+                "dg": -2
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/10734.png",
                 "equipo": "Ferro",
                 "puntos": "8",
@@ -1358,19 +1371,6 @@
                 "gf": 2,
                 "gc": 5,
                 "dg": -3
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
-                "equipo": "Boca Juniors",
-                "puntos": "7",
-                "pj": "7",
-                "pg": "2",
-                "pe": "1",
-                "pp": "4",
-                "gf": 7,
-                "gc": 9,
-                "dg": -2
             },
             {
                 "posicion": "14",

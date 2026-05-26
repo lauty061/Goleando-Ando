@@ -1693,12 +1693,12 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "25/05/2026 20:00 HS",
+                "fecha": "25/05/2026 20:00 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/628.png",
                 "visitante": "BAH",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/991.png"
             },
             {
@@ -3870,6 +3870,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/628.png",
+                "equipo": "Coritiba",
+                "puntos": "26",
+                "pj": "17",
+                "pg": "7",
+                "pe": "5",
+                "pp": "5",
+                "gf": 24,
+                "gc": 21,
+                "dg": 3
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/75.png",
                 "equipo": "São Paulo",
                 "puntos": "25",
@@ -3882,30 +3895,17 @@
                 "dg": 4
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/991.png",
                 "equipo": "Bahia",
-                "puntos": "23",
-                "pj": "15",
-                "pg": "6",
-                "pe": "5",
-                "pp": "4",
-                "gf": 21,
-                "gc": 19,
-                "dg": 2
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/628.png",
-                "equipo": "Coritiba",
                 "puntos": "23",
                 "pj": "16",
                 "pg": "6",
                 "pe": "5",
                 "pp": "5",
-                "gf": 21,
-                "gc": 19,
-                "dg": 2
+                "gf": 23,
+                "gc": 22,
+                "dg": 1
             },
             {
                 "posicion": "9",
@@ -4090,6 +4090,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Breno Lopes",
+                "equipo": "Coritiba",
+                "escudo": "https://statics-files.tycsports.com/escudos/628.png",
+                "goles": 8
+            },
+            {
                 "nombre": "de Oliveira, D.",
                 "equipo": "Botafogo",
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png",
@@ -4099,12 +4105,6 @@
                 "nombre": "Arthur Cabral",
                 "equipo": "Botafogo",
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Breno Lopes",
-                "equipo": "Coritiba",
-                "escudo": "https://statics-files.tycsports.com/escudos/628.png",
                 "goles": 7
             },
             {
