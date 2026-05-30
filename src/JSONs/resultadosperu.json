@@ -1443,12 +1443,12 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "29/05/2026 17:00 HS",
+                "fecha": "29/05/2026 17:00 HS Finalizado",
                 "local": "GRA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png",
                 "visitante": "CVM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11322.png"
             },
             {
@@ -3271,13 +3271,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
                 "equipo": "Moquegua",
                 "puntos": "18",
-                "pj": "16",
+                "pj": "17",
                 "pg": "5",
                 "pe": "3",
-                "pp": "8",
+                "pp": "9",
                 "gf": 17,
-                "gc": 23,
-                "dg": -6
+                "gc": 24,
+                "dg": -7
             },
             {
                 "posicion": "13",
@@ -3320,6 +3320,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
+                "equipo": "Grau",
+                "puntos": "16",
+                "pj": "17",
+                "pg": "4",
+                "pe": "4",
+                "pp": "9",
+                "gf": 12,
+                "gc": 18,
+                "dg": -6
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/1659.png",
                 "equipo": "Sport Huancayo",
                 "puntos": "16",
@@ -3332,7 +3345,7 @@
                 "dg": -9
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/11321.png",
                 "equipo": "Juan Pablo II",
                 "puntos": "16",
@@ -3343,19 +3356,6 @@
                 "gf": 21,
                 "gc": 36,
                 "dg": -15
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/7569.png",
-                "equipo": "Grau",
-                "puntos": "13",
-                "pj": "16",
-                "pg": "3",
-                "pe": "4",
-                "pp": "9",
-                "gf": 11,
-                "gc": 18,
-                "dg": -7
             }
         ],
         "goleadores": [

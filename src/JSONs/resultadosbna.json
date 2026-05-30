@@ -2703,12 +2703,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "29/05/2026 21:00 HS",
+                "fecha": "29/05/2026 21:00 HS Finalizado",
                 "local": "RAC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/141.png",
                 "visitante": "FCO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/131.png"
             },
             {
@@ -6762,6 +6762,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/131.png",
+                "equipo": "Ferro",
+                "puntos": "25",
+                "pj": "15",
+                "pg": "7",
+                "pe": "4",
+                "pp": "4",
+                "gf": 15,
+                "gc": 11,
+                "dg": 4
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/140.png",
                 "equipo": "Los Andes",
                 "puntos": "24",
@@ -6775,7 +6789,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/6.png",
                 "equipo": "Colón",
                 "puntos": "24",
@@ -6789,7 +6803,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/630.png",
                 "equipo": "Tristán Suárez",
                 "puntos": "24",
@@ -6800,20 +6814,6 @@
                 "gf": 14,
                 "gc": 9,
                 "dg": 5
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/131.png",
-                "equipo": "Ferro",
-                "puntos": "24",
-                "pj": "14",
-                "pg": "7",
-                "pe": "3",
-                "pp": "4",
-                "gf": 15,
-                "gc": 11,
-                "dg": 4
             },
             {
                 "zona": "Posiciones",
@@ -7070,6 +7070,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "27",
+                "escudo": "https://statics-files.tycsports.com/escudos/141.png",
+                "equipo": "Racing (Cba)",
+                "puntos": "16",
+                "pj": "15",
+                "pg": "4",
+                "pe": "4",
+                "pp": "7",
+                "gf": 13,
+                "gc": 18,
+                "dg": -5
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "28",
                 "escudo": "https://statics-files.tycsports.com/escudos/3683.png",
                 "equipo": "Agropecuario",
                 "puntos": "16",
@@ -7083,7 +7097,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "28",
+                "posicion": "29",
                 "escudo": "https://statics-files.tycsports.com/escudos/1489.png",
                 "equipo": "Güemes (SE)",
                 "puntos": "16",
@@ -7097,7 +7111,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "29",
+                "posicion": "30",
                 "escudo": "https://statics-files.tycsports.com/escudos/680.png",
                 "equipo": "San Telmo",
                 "puntos": "15",
@@ -7108,20 +7122,6 @@
                 "gf": 12,
                 "gc": 15,
                 "dg": -3
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "30",
-                "escudo": "https://statics-files.tycsports.com/escudos/141.png",
-                "equipo": "Racing (Cba)",
-                "puntos": "15",
-                "pj": "14",
-                "pg": "4",
-                "pe": "3",
-                "pp": "7",
-                "gf": 13,
-                "gc": 18,
-                "dg": -5
             },
             {
                 "zona": "Posiciones",

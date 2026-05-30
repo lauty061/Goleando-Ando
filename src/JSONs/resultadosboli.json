@@ -723,12 +723,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "29/05/2026 16:00 HS",
+                "fecha": "29/05/2026 16:00 HS Finalizado",
                 "local": "SAB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11267.png",
                 "visitante": "CDG",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png"
             },
             {
@@ -763,7 +763,7 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "31/05/2026 20:30 HS",
+                "fecha": "31/05/2026 17:00 HS",
                 "local": "ORI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/97.png",
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
+                "equipo": "Guabirá",
+                "puntos": "11",
+                "pj": "9",
+                "pg": "3",
+                "pe": "2",
+                "pp": "4",
+                "gf": 14,
+                "gc": 20,
+                "dg": -6
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "10",
@@ -2482,7 +2495,7 @@
                 "dg": 3
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "equipo": "Oriente Petrolero",
                 "puntos": "10",
@@ -2495,7 +2508,7 @@
                 "dg": 0
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "equipo": "Blooming",
                 "puntos": "9",
@@ -2508,7 +2521,7 @@
                 "dg": 3
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
                 "equipo": "ABB",
                 "puntos": "9",
@@ -2521,7 +2534,7 @@
                 "dg": -3
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png",
                 "equipo": "Nacional Potosí",
                 "puntos": "8",
@@ -2534,30 +2547,17 @@
                 "dg": 0
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png",
-                "equipo": "Guabirá",
-                "puntos": "8",
-                "pj": "8",
-                "pg": "2",
-                "pe": "2",
-                "pp": "4",
-                "gf": 12,
-                "gc": 19,
-                "dg": -7
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
                 "equipo": "San Antonio",
                 "puntos": "7",
-                "pj": "7",
+                "pj": "8",
                 "pg": "2",
                 "pe": "1",
-                "pp": "4",
-                "gf": 9,
-                "gc": 12,
-                "dg": -3
+                "pp": "5",
+                "gf": 10,
+                "gc": 14,
+                "dg": -4
             },
             {
                 "posicion": "13",
