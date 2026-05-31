@@ -1063,22 +1063,22 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "30/05/2026 16:00 HS",
+                "fecha": "30/05/2026 16:00 HS Finalizado",
                 "local": "LSE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/150.png",
                 "visitante": "COL",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "30/05/2026 18:30 HS",
+                "fecha": "30/05/2026 18:30 HS Finalizado",
                 "local": "UCH",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/76.png",
                 "visitante": "CON",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png"
             },
             {
@@ -2407,14 +2407,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
                 "equipo": "Colo Colo",
-                "puntos": "30",
-                "pj": "13",
-                "pg": "10",
+                "puntos": "33",
+                "pj": "14",
+                "pg": "11",
                 "pe": "0",
                 "pp": "3",
-                "gf": 22,
-                "gc": 10,
-                "dg": 12
+                "gf": 26,
+                "gc": 12,
+                "dg": 14
             },
             {
                 "posicion": "2",
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
+                "equipo": "U. de Chile",
+                "puntos": "20",
+                "pj": "13",
+                "pg": "5",
+                "pe": "5",
+                "pp": "3",
+                "gf": 13,
+                "gc": 8,
+                "dg": 5
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "equipo": "Coquimbo Unido",
                 "puntos": "20",
@@ -2482,7 +2495,7 @@
                 "dg": 3
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "equipo": "Palestino",
                 "puntos": "20",
@@ -2495,7 +2508,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png",
                 "equipo": "Everton",
                 "puntos": "19",
@@ -2508,7 +2521,7 @@
                 "dg": 4
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "equipo": "O'Higgins",
                 "puntos": "19",
@@ -2521,7 +2534,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png",
                 "equipo": "U. Concepción",
                 "puntos": "19",
@@ -2534,30 +2547,17 @@
                 "dg": -9
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
-                "equipo": "U. de Chile",
-                "puntos": "17",
-                "pj": "12",
-                "pg": "4",
-                "pe": "5",
-                "pp": "3",
-                "gf": 11,
-                "gc": 7,
-                "dg": 4
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png",
                 "equipo": "D. La Serena",
                 "puntos": "17",
-                "pj": "13",
+                "pj": "14",
                 "pg": "4",
                 "pe": "5",
-                "pp": "4",
-                "gf": 18,
-                "gc": 20,
-                "dg": -2
+                "pp": "5",
+                "gf": 20,
+                "gc": 24,
+                "dg": -4
             },
             {
                 "posicion": "13",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png",
                 "equipo": "D. Concepción",
                 "puntos": "11",
-                "pj": "13",
+                "pj": "14",
                 "pg": "3",
                 "pe": "2",
-                "pp": "8",
-                "gf": 10,
-                "gc": 19,
-                "dg": -9
+                "pp": "9",
+                "gf": 11,
+                "gc": 21,
+                "dg": -10
             },
             {
                 "posicion": "16",

@@ -733,12 +733,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "30/05/2026 16:00 HS",
+                "fecha": "30/05/2026 16:00 HS Finalizado",
                 "local": "ABB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png",
                 "visitante": "ALW",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3254.png"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "equipo": "Always Ready",
+                "puntos": "17",
+                "pj": "8",
+                "pg": "5",
+                "pe": "2",
+                "pp": "1",
+                "gf": 14,
+                "gc": 5,
+                "dg": 9
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "equipo": "The Strongest",
                 "puntos": "17",
@@ -2417,7 +2430,7 @@
                 "dg": 6
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "equipo": "Bolívar",
                 "puntos": "14",
@@ -2428,19 +2441,6 @@
                 "gf": 19,
                 "gc": 9,
                 "dg": 10
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
-                "equipo": "Always Ready",
-                "puntos": "14",
-                "pj": "7",
-                "pg": "4",
-                "pe": "2",
-                "pp": "1",
-                "gf": 11,
-                "gc": 4,
-                "dg": 7
             },
             {
                 "posicion": "4",
@@ -2525,13 +2525,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
                 "equipo": "ABB",
                 "puntos": "9",
-                "pj": "6",
+                "pj": "7",
                 "pg": "3",
                 "pe": "0",
-                "pp": "3",
-                "gf": 11,
-                "gc": 14,
-                "dg": -3
+                "pp": "4",
+                "gf": 12,
+                "gc": 17,
+                "dg": -5
             },
             {
                 "posicion": "11",
@@ -2644,6 +2644,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Enrique Triverio",
+                "equipo": "Always Ready",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Darwin Lom",
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
@@ -2659,12 +2665,6 @@
                 "nombre": "Hernán Rodríguez",
                 "equipo": "Universitario de Vinto",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Enrique Triverio",
-                "equipo": "Always Ready",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "goles": 3
             },
             {

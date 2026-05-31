@@ -1013,22 +1013,22 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 6",
-                "fecha": "30/05/2026 17:00 HS",
+                "fecha": "30/05/2026 17:00 HS Finalizado",
                 "local": "UCV",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1283.png",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/494.png"
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 6",
-                "fecha": "30/05/2026 21:00 HS",
+                "fecha": "30/05/2026 21:00 HS Finalizado",
                 "local": "DLG",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1282.png",
                 "visitante": "APC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5732.png"
             },
             {
@@ -1157,9 +1157,9 @@
                 "local": "",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/.png",
-                "visitante": "",
+                "visitante": "APC",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/5732.png"
             }
         ],
         "tabla_posiciones": [
@@ -1348,16 +1348,22 @@
         ],
         "goleadores": [
             {
+                "nombre": "Jonathan Cañete",
+                "equipo": "Portuguesa",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Kevin Quejada",
                 "equipo": "Estudiantes Mérida",
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png",
                 "goles": 12
             },
             {
-                "nombre": "Jonathan Cañete",
-                "equipo": "Portuguesa",
-                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
-                "goles": 10
+                "nombre": "Jovanny Bolívar",
+                "equipo": "UCV",
+                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
+                "goles": 7
             },
             {
                 "nombre": "Juan Manuel Cuesta",
@@ -1381,12 +1387,6 @@
                 "nombre": "Ronald Rodríguez",
                 "equipo": "Monagas",
                 "escudo": "https://statics-files.tycsports.com/escudos/226.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Jovanny Bolívar",
-                "equipo": "UCV",
-                "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
                 "goles": 6
             },
             {
