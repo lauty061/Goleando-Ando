@@ -763,12 +763,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "31/05/2026 17:00 HS",
+                "fecha": "31/05/2026 17:00 HS Finalizado",
                 "local": "ORI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/97.png",
                 "visitante": "BLO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/229.png"
             },
             {
@@ -2457,6 +2457,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
+                "equipo": "Blooming",
+                "puntos": "12",
+                "pj": "8",
+                "pg": "3",
+                "pe": "3",
+                "pp": "2",
+                "gf": 14,
+                "gc": 10,
+                "dg": 4
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
                 "equipo": "Independiente",
                 "puntos": "12",
@@ -2469,7 +2482,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png",
                 "equipo": "Guabirá",
                 "puntos": "11",
@@ -2482,7 +2495,7 @@
                 "dg": -6
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "10",
@@ -2495,30 +2508,17 @@
                 "dg": 3
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "equipo": "Oriente Petrolero",
                 "puntos": "10",
-                "pj": "7",
+                "pj": "8",
                 "pg": "3",
                 "pe": "1",
-                "pp": "3",
+                "pp": "4",
                 "gf": 10,
-                "gc": 10,
-                "dg": 0
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "equipo": "Blooming",
-                "puntos": "9",
-                "pj": "7",
-                "pg": "2",
-                "pe": "3",
-                "pp": "2",
-                "gf": 13,
-                "gc": 10,
-                "dg": 3
+                "gc": 11,
+                "dg": -1
             },
             {
                 "posicion": "10",

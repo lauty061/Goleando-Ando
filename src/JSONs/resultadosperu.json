@@ -1493,42 +1493,42 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "31/05/2026 13:00 HS",
+                "fecha": "31/05/2026 13:00 HS Finalizado",
                 "local": "MEL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/203.png",
                 "visitante": "AAT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "31/05/2026 15:15 HS",
+                "fecha": "31/05/2026 15:15 HS Finalizado",
                 "local": "FCC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12382.png",
                 "visitante": "ALI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/84.png"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "31/05/2026 17:15 HS",
+                "fecha": "31/05/2026 17:15 HS Finalizado",
                 "local": "CHN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png",
                 "visitante": "UTC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1007.png"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "31/05/2026 19:00 HS",
+                "fecha": "31/05/2026 19:00 HS Finalizado",
                 "local": "CIE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/94.png",
                 "visitante": "SPC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/92.png"
             },
             {
@@ -3127,40 +3127,40 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/84.png",
                 "equipo": "Alianza Lima",
-                "puntos": "39",
-                "pj": "16",
+                "puntos": "40",
+                "pj": "17",
                 "pg": "12",
-                "pe": "3",
+                "pe": "4",
                 "pp": "1",
-                "gf": 29,
-                "gc": 7,
+                "gf": 30,
+                "gc": 8,
                 "dg": 22
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
                 "equipo": "Los Chankas",
-                "puntos": "33",
-                "pj": "16",
+                "puntos": "34",
+                "pj": "17",
                 "pg": "10",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
-                "gf": 23,
-                "gc": 19,
+                "gf": 25,
+                "gc": 21,
                 "dg": 4
             },
             {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "equipo": "Cienciano",
-                "puntos": "30",
-                "pj": "16",
-                "pg": "9",
+                "puntos": "33",
+                "pj": "17",
+                "pg": "10",
                 "pe": "3",
                 "pp": "4",
-                "gf": 31,
-                "gc": 20,
-                "dg": 11
+                "gf": 34,
+                "gc": 22,
+                "dg": 12
             },
             {
                 "posicion": "4",
@@ -3177,6 +3177,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/203.png",
+                "equipo": "Melgar",
+                "puntos": "28",
+                "pj": "17",
+                "pg": "8",
+                "pe": "4",
+                "pp": "5",
+                "gf": 29,
+                "gc": 20,
+                "dg": 9
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
                 "equipo": "Cusco FC",
                 "puntos": "27",
@@ -3189,7 +3202,7 @@
                 "dg": -3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
                 "equipo": "Deportivo Garcilaso",
                 "puntos": "26",
@@ -3202,30 +3215,17 @@
                 "dg": 3
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/203.png",
-                "equipo": "Melgar",
-                "puntos": "25",
-                "pj": "16",
-                "pg": "7",
-                "pe": "4",
-                "pp": "5",
-                "gf": 26,
-                "gc": 19,
-                "dg": 7
-            },
-            {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/103.png",
                 "equipo": "Alianza Atlético",
                 "puntos": "21",
-                "pj": "16",
+                "pj": "17",
                 "pg": "5",
                 "pe": "6",
-                "pp": "5",
-                "gf": 19,
-                "gc": 15,
-                "dg": 4
+                "pp": "6",
+                "gf": 20,
+                "gc": 18,
+                "dg": 2
             },
             {
                 "posicion": "9",
@@ -3271,16 +3271,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/92.png",
                 "equipo": "Sporting Cristal",
                 "puntos": "19",
-                "pj": "16",
+                "pj": "17",
                 "pg": "5",
                 "pe": "4",
-                "pp": "7",
-                "gf": 26,
-                "gc": 27,
-                "dg": -1
+                "pp": "8",
+                "gf": 28,
+                "gc": 30,
+                "dg": -2
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
+                "equipo": "UTC",
+                "puntos": "18",
+                "pj": "17",
+                "pg": "4",
+                "pe": "6",
+                "pp": "7",
+                "gf": 21,
+                "gc": 26,
+                "dg": -5
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
                 "equipo": "Moquegua",
                 "puntos": "18",
@@ -3293,29 +3306,16 @@
                 "dg": -7
             },
             {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/1007.png",
-                "equipo": "UTC",
-                "puntos": "17",
-                "pj": "16",
-                "pg": "4",
-                "pe": "5",
-                "pp": "7",
-                "gf": 19,
-                "gc": 24,
-                "dg": -5
-            },
-            {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/12382.png",
                 "equipo": "FC Cajamarca",
-                "puntos": "16",
-                "pj": "16",
+                "puntos": "17",
+                "pj": "17",
                 "pg": "4",
-                "pe": "4",
+                "pe": "5",
                 "pp": "8",
-                "gf": 22,
-                "gc": 27,
+                "gf": 23,
+                "gc": 28,
                 "dg": -5
             },
             {
@@ -3360,13 +3360,13 @@
         ],
         "goleadores": [
             {
-                "nombre": "Carlos Garcés",
+                "nombre": "Alejandro Hohberg",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 10
+                "goles": 11
             },
             {
-                "nombre": "Alejandro Hohberg",
+                "nombre": "Carlos Garcés",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
                 "goles": 10
@@ -3384,6 +3384,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Bernardo Cuesta",
+                "equipo": "Melgar",
+                "escudo": "https://statics-files.tycsports.com/escudos/203.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Alex Valera",
                 "equipo": "Universitario",
                 "escudo": "https://statics-files.tycsports.com/escudos/121.png",
@@ -3396,7 +3402,7 @@
                 "goles": 8
             },
             {
-                "nombre": "Bernardo Cuesta",
+                "nombre": "Jhonny Vidales",
                 "equipo": "Melgar",
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "goles": 7
@@ -3405,12 +3411,6 @@
                 "nombre": "Neri Bandiera",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Christopher Olivares",
-                "equipo": "Deportivo Garcilaso",
-                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
                 "goles": 6
             }
         ]
