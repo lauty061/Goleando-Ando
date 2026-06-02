@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoleandoAndo - Mundial</title>
+    <link rel="shortcut icon" href="../../assets/imgs/World-Cup-2026-Logo.png">
+    <link rel="stylesheet" href="../styles/styles.css">
+    <link rel="stylesheet" href="../styles/mainSection.css">
+    <link rel="stylesheet" href="../styles/responsive.css">
+    <link rel="stylesheet" href="../styles/scrollbar.css">
+    <link rel="stylesheet" href="../styles/bracket.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
+        rel="stylesheet">
+    <meta property="og:title" content="Goleando Ando ⚽🔥">
+    <meta property="og:description"
+        content="Resultados, tablas y fixtures actualizados de las principales ligas y competencias de fútbol.">
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/lauty061/Goleando-Ando/refs/heads/main/imgs/metaIcon.png">
+    <meta property="og:type" content="website">
+</head>
+
+<body class="fondo">
+    <header id="main-header"></header>
+    <a id="ancla"></a>
+    <div class="liga-banner">
+        <h1 id="titulo-liga">Mundial</h1>
+        <img src="../../assets/imgs/World-Cup-2026-Logo.png" class="logo">
+    </div>
+    <main>
+        <section id="fixture">
+            <h2>Fixture</h2>
+            <div class="fecha-selector-container">
+
+                <button class="fecha-arrow" id="fecha-prev">◀</button>
+
+                <div class="fecha-display-wrapper">
+
+                    <div class="fecha-display" id="fecha-display">FECHA 1</div>
+
+                    <select class="fecha-select" id="fecha-select"></select>
+
+                </div>
+
+                <button class="fecha-arrow" id="fecha-next">▶</button>
+
+            </div>
+            <table id="fixture-table"></table>
+        </section>
+
+        <section id="posiciones">
+            <h2>Tabla de Posiciones</h2>
+            <label for="grupo-select">Seleccionar:</label>
+            <select id="grupo-select">
+                <option value="bracket">Llave de Eliminación</option>
+            </select>
+            <div id="bracket-container" style="display: none;" class="scrollable-table">
+                <div id="tournament-bracket"></div>
+            </div>
+            <div id="tabla-container" class="scrollable-table">
+                <table id="tabla-posiciones-table"></table>
+            </div>
+            <div class="ref-container">
+                <div class="ref-item"><span class="dot dot-oro"></span>Diecsiseisavos de Final</div>
+                <div class="ref-item"><span class="dot dot-azul"></span>Diecsiseisavos de Final (8 3eros)</div>
+            </div>
+        </section>
+        <section id="goleadores">
+            <h2>Tabla de Goleadores</h2>
+            <table id="tabla-goleadores"></table>
+        </section>
+        <a href="#ancla" class="boton-inicio" aria-label="Volver al inicio">⇧</a>
+    </main>
+    <script src="../scripts/bracket.js"></script>
+    <script src="../scripts/LeagueManager.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            new LeagueRenderer({
+                jsonPath: "../JSONs/resultadosmundial.json",
+                fixtureField: "fecha_torneo",
+                zonasConfig: [{ start: 1, end: 2, class: "zona-oro" }, { match: 3, class: "zona-azul" }]
+            });
+        });
+    </script>
+    <script src="../scripts/navScript.js"></script>
+</body>
+
+</html>
