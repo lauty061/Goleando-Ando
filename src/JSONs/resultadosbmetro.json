@@ -1963,12 +1963,12 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "01/06/2026 15:30 HS",
+                "fecha": "01/06/2026 15:30 HS Finalizado",
                 "local": "ADQ",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/773.png",
                 "visitante": "ITU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/781.png"
             },
             {
@@ -4983,6 +4983,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/773.png",
+                "equipo": "Arg. de Quilmes",
+                "puntos": "19",
+                "pj": "18",
+                "pg": "4",
+                "pe": "7",
+                "pp": "7",
+                "gf": 17,
+                "gc": 18,
+                "dg": -1
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png",
                 "equipo": "Flandria",
                 "puntos": "19",
@@ -4995,7 +5008,7 @@
                 "dg": -8
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/671.png",
                 "equipo": "Brown (Adrogué)",
                 "puntos": "18",
@@ -5006,19 +5019,6 @@
                 "gf": 10,
                 "gc": 20,
                 "dg": -10
-            },
-            {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/773.png",
-                "equipo": "Arg. de Quilmes",
-                "puntos": "16",
-                "pj": "17",
-                "pg": "3",
-                "pe": "7",
-                "pp": "7",
-                "gf": 15,
-                "gc": 18,
-                "dg": -3
             },
             {
                 "posicion": "20",
@@ -5051,13 +5051,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png",
                 "equipo": "Ituzaingó",
                 "puntos": "5",
-                "pj": "17",
+                "pj": "18",
                 "pg": "0",
                 "pe": "5",
-                "pp": "12",
+                "pp": "13",
                 "gf": 10,
-                "gc": 30,
-                "dg": -20
+                "gc": 32,
+                "dg": -22
             }
         ],
         "goleadores": [

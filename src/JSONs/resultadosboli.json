@@ -793,12 +793,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "01/06/2026 21:00 HS",
+                "fecha": "01/06/2026 21:00 HS Finalizado",
                 "local": "TIN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png",
                 "visitante": "AUR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/228.png"
             },
             {
@@ -2431,6 +2431,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
+                "equipo": "Aurora",
+                "puntos": "16",
+                "pj": "8",
+                "pg": "4",
+                "pe": "4",
+                "pp": "0",
+                "gf": 14,
+                "gc": 7,
+                "dg": 7
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "equipo": "Bolívar",
                 "puntos": "14",
@@ -2441,19 +2454,6 @@
                 "gf": 19,
                 "gc": 9,
                 "dg": 10
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/228.png",
-                "equipo": "Aurora",
-                "puntos": "13",
-                "pj": "7",
-                "pg": "3",
-                "pe": "4",
-                "pp": "0",
-                "gf": 12,
-                "gc": 6,
-                "dg": 6
             },
             {
                 "posicion": "5",
@@ -2499,13 +2499,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
                 "equipo": "U. de Vinto",
                 "puntos": "10",
-                "pj": "7",
+                "pj": "8",
                 "pg": "3",
                 "pe": "1",
-                "pp": "3",
-                "gf": 13,
-                "gc": 10,
-                "dg": 3
+                "pp": "4",
+                "gf": 14,
+                "gc": 12,
+                "dg": 2
             },
             {
                 "posicion": "9",
