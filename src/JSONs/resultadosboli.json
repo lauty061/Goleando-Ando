@@ -463,7 +463,7 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "06/06/2026 18:15 HS",
+                "fecha": "06/06/2026 HS Postergado",
                 "local": "NAP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png",
@@ -473,7 +473,7 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "06/06/2026 20:30 HS",
+                "fecha": "06/06/2026 HS Postergado",
                 "local": "TRO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12013.png",
@@ -543,7 +543,7 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "03/06/2026 19:00 HS",
+                "fecha": "03/06/2026 HS Postergado",
                 "local": "VSJ",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png",
@@ -553,7 +553,7 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "03/06/2026 21:00 HS",
+                "fecha": "03/06/2026 HS Postergado",
                 "local": "RPO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png",
@@ -613,16 +613,6 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "07/06/2026 16:00 HS",
-                "local": "RPO",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/233.png",
-                "visitante": "SAB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png"
-            },
-            {
-                "fecha_torneo": "Fecha 8",
                 "fecha": "07/06/2026 18:15 HS",
                 "local": "STR",
                 "goles_local": "-",
@@ -633,13 +623,23 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "07/06/2026 20:30 HS",
+                "fecha": "07/06/2026 HS Postergado",
                 "local": "BLO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png",
                 "visitante": "VSJ",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11268.png"
+            },
+            {
+                "fecha_torneo": "Fecha 8",
+                "fecha": "07/06/2026 HS Postergado",
+                "local": "RPO",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/233.png",
+                "visitante": "SAB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png"
             },
             {
                 "fecha_torneo": "Fecha 9",
@@ -803,7 +803,7 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/06/2026 18:00 HS",
+                "fecha": "12/06/2026 HS Postergado",
                 "local": "NAP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png",
@@ -813,7 +813,7 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "12/06/2026 20:30 HS",
+                "fecha": "12/06/2026 HS Postergado",
                 "local": "AUR",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/228.png",
@@ -823,17 +823,7 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "13/06/2026 16:00 HS",
-                "local": "CDG",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/938.png",
-                "visitante": "TRO",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/12013.png"
-            },
-            {
-                "fecha_torneo": "Fecha 11",
-                "fecha": "13/06/2026 19:00 HS",
+                "fecha": "13/06/2026 HS Postergado",
                 "local": "VSJ",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png",
@@ -843,7 +833,17 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "13/06/2026 21:30 HS",
+                "fecha": "13/06/2026 HS Postergado",
+                "local": "CDG",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/938.png",
+                "visitante": "TRO",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/12013.png"
+            },
+            {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "13/06/2026 HS Postergado",
                 "local": "IPE",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3319.png",
@@ -853,17 +853,7 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "14/06/2026 16:00 HS",
-                "local": "ALW",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
-                "visitante": "SAB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png"
-            },
-            {
-                "fecha_torneo": "Fecha 11",
-                "fecha": "14/06/2026 19:00 HS",
+                "fecha": "14/06/2026 HS Postergado",
                 "local": "BOL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png",
@@ -873,7 +863,7 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "14/06/2026 21:30 HS",
+                "fecha": "14/06/2026 HS Postergado",
                 "local": "BLO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png",
@@ -882,8 +872,18 @@
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png"
             },
             {
+                "fecha_torneo": "Fecha 11",
+                "fecha": "14/06/2026 HS Postergado",
+                "local": "ALW",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
+                "visitante": "SAB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png"
+            },
+            {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "19/06/2026 18:30 HS",
+                "fecha": "19/06/2026 HS Postergado",
                 "local": "RPO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png",
@@ -893,7 +893,7 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "19/06/2026 21:00 HS",
+                "fecha": "19/06/2026 HS Postergado",
                 "local": "TIN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png",
@@ -903,7 +903,7 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "20/06/2026 16:00 HS",
+                "fecha": "20/06/2026 HS Postergado",
                 "local": "SAB",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11267.png",
@@ -913,17 +913,7 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "20/06/2026 18:30 HS",
-                "local": "TOM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png",
-                "visitante": "ABB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/12012.png"
-            },
-            {
-                "fecha_torneo": "Fecha 12",
-                "fecha": "20/06/2026 21:30 HS",
+                "fecha": "20/06/2026 HS Postergado",
                 "local": "STR",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/74.png",
@@ -933,17 +923,17 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "21/06/2026 16:00 HS",
-                "local": "ALW",
+                "fecha": "20/06/2026 HS Postergado",
+                "local": "TOM",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
-                "visitante": "BOL",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png",
+                "visitante": "ABB",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/70.png"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/12012.png"
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "21/06/2026 19:00 HS",
+                "fecha": "21/06/2026 HS Postergado",
                 "local": "TRO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12013.png",
@@ -953,7 +943,17 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "21/06/2026 21:30 HS",
+                "fecha": "21/06/2026 HS Postergado",
+                "local": "ALW",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png",
+                "visitante": "BOL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/70.png"
+            },
+            {
+                "fecha_torneo": "Fecha 12",
+                "fecha": "21/06/2026 HS Postergado",
                 "local": "ORI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/97.png",
@@ -963,7 +963,7 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "11/07/2026 16:00 HS",
+                "fecha": "11/07/2026 HS Postergado",
                 "local": "ABB",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png",
@@ -973,7 +973,7 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "12/07/2026 16:00 HS",
+                "fecha": "12/07/2026 HS Postergado",
                 "local": "NAP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png",
@@ -983,7 +983,7 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "12/07/2026 18:15 HS",
+                "fecha": "12/07/2026 HS Postergado",
                 "local": "BOL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png",
@@ -993,7 +993,7 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "12/07/2026 20:30 HS",
+                "fecha": "12/07/2026 HS Postergado",
                 "local": "BLO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png",
@@ -1003,17 +1003,7 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "13/07/2026 16:00 HS",
-                "local": "TIN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png",
-                "visitante": "RPO",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/233.png"
-            },
-            {
-                "fecha_torneo": "Fecha 13",
-                "fecha": "13/07/2026 19:00 HS",
+                "fecha": "13/07/2026 HS Postergado",
                 "local": "VSJ",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png",
@@ -1023,7 +1013,17 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "13/07/2026 21:00 HS",
+                "fecha": "13/07/2026 HS Postergado",
+                "local": "TIN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png",
+                "visitante": "RPO",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/233.png"
+            },
+            {
+                "fecha_torneo": "Fecha 13",
+                "fecha": "13/07/2026 HS Postergado",
                 "local": "IPE",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3319.png",
@@ -1033,7 +1033,7 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "14/07/2026 20:00 HS",
+                "fecha": "14/07/2026 HS Postergado",
                 "local": "CDG",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/938.png",
