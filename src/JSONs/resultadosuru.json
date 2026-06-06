@@ -403,12 +403,12 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 4",
-                "fecha": "05/06/2026 19:00 HS",
+                "fecha": "05/06/2026 19:00 HS Finalizado",
                 "local": "WAN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/200.png",
                 "visitante": "DAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/72.png"
             },
             {
@@ -601,6 +601,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
+                "equipo": "Wanderers",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "1",
+                "pe": "3",
+                "pp": "0",
+                "gf": 6,
+                "gc": 3,
+                "dg": 3
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "equipo": "Peñarol",
                 "puntos": "6",
@@ -613,7 +626,7 @@
                 "dg": 2
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "equipo": "MC Torque",
                 "puntos": "6",
@@ -626,7 +639,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png",
                 "equipo": "Central Español",
                 "puntos": "6",
@@ -639,7 +652,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
                 "equipo": "Nacional",
                 "puntos": "6",
@@ -650,19 +663,6 @@
                 "gf": 3,
                 "gc": 4,
                 "dg": -1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
-                "equipo": "Wanderers",
-                "puntos": "5",
-                "pj": "3",
-                "pg": "1",
-                "pe": "2",
-                "pp": "0",
-                "gf": 6,
-                "gc": 3,
-                "dg": 3
             },
             {
                 "posicion": "8",
@@ -757,6 +757,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
+                "equipo": "Danubio",
+                "puntos": "1",
+                "pj": "3",
+                "pg": "0",
+                "pe": "1",
+                "pp": "2",
+                "gf": 2,
+                "gc": 5,
+                "dg": -3
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png",
                 "equipo": "Defensor Sporting",
                 "puntos": "1",
@@ -766,19 +779,6 @@
                 "pp": "2",
                 "gf": 1,
                 "gc": 4,
-                "dg": -3
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png",
-                "equipo": "Danubio",
-                "puntos": "0",
-                "pj": "2",
-                "pg": "0",
-                "pe": "0",
-                "pp": "2",
-                "gf": 2,
-                "gc": 5,
                 "dg": -3
             }
         ],

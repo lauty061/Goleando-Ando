@@ -2883,12 +2883,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "05/06/2026 21:30 HS",
+                "fecha": "05/06/2026 21:30 HS Finalizado",
                 "local": "GYT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/865.png",
                 "visitante": "MID",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/785.png"
             },
             {
@@ -6779,13 +6779,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/785.png",
                 "equipo": "Midland",
                 "puntos": "25",
-                "pj": "15",
+                "pj": "16",
                 "pg": "7",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 17,
-                "gc": 10,
-                "dg": 7
+                "gc": 11,
+                "dg": 6
             },
             {
                 "zona": "Posiciones",
@@ -6930,6 +6930,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/865.png",
+                "equipo": "Gimnasia y Tiro",
+                "puntos": "20",
+                "pj": "16",
+                "pg": "5",
+                "pe": "5",
+                "pp": "6",
+                "gf": 16,
+                "gc": 18,
+                "dg": -2
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png",
                 "equipo": "Temperley",
                 "puntos": "20",
@@ -6943,7 +6957,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/138.png",
                 "equipo": "Def. de Belgrano",
                 "puntos": "19",
@@ -6957,7 +6971,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "19",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/663.png",
                 "equipo": "Estudiantes (BA)",
                 "puntos": "19",
@@ -6971,7 +6985,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "20",
+                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png",
                 "equipo": "San Miguel",
                 "puntos": "19",
@@ -6985,7 +6999,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "21",
+                "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/128.png",
                 "equipo": "Nueva Chicago",
                 "puntos": "18",
@@ -6999,7 +7013,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "22",
+                "posicion": "23",
                 "escudo": "https://statics-files.tycsports.com/escudos/127.png",
                 "equipo": "Chacarita",
                 "puntos": "18",
@@ -7013,7 +7027,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "23",
+                "posicion": "24",
                 "escudo": "https://statics-files.tycsports.com/escudos/869.png",
                 "equipo": "Patronato",
                 "puntos": "18",
@@ -7027,7 +7041,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "24",
+                "posicion": "25",
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png",
                 "equipo": "Quilmes",
                 "puntos": "17",
@@ -7041,7 +7055,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "25",
+                "posicion": "26",
                 "escudo": "https://statics-files.tycsports.com/escudos/1890.png",
                 "equipo": "Mitre (SE)",
                 "puntos": "17",
@@ -7052,20 +7066,6 @@
                 "gf": 16,
                 "gc": 15,
                 "dg": 1
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "26",
-                "escudo": "https://statics-files.tycsports.com/escudos/865.png",
-                "equipo": "Gimnasia y Tiro",
-                "puntos": "17",
-                "pj": "15",
-                "pg": "4",
-                "pe": "5",
-                "pp": "6",
-                "gf": 15,
-                "gc": 18,
-                "dg": -3
             },
             {
                 "zona": "Posiciones",
@@ -7210,6 +7210,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Lautaro Gordillo",
+                "equipo": "Gimnasia y Tiro",
+                "escudo": "https://statics-files.tycsports.com/escudos/865.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Franco Fagundez",
                 "equipo": "Dep. Morón",
                 "escudo": "https://statics-files.tycsports.com/escudos/679.png",
@@ -7225,12 +7231,6 @@
                 "nombre": "Martín Pino",
                 "equipo": "Godoy Cruz",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Lautaro Gordillo",
-                "equipo": "Gimnasia y Tiro",
-                "escudo": "https://statics-files.tycsports.com/escudos/865.png",
                 "goles": 6
             },
             {

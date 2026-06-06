@@ -1983,22 +1983,22 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "05/06/2026 18:00 HS",
+                "fecha": "05/06/2026 18:00 HS Finalizado",
                 "local": "ITU",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/781.png",
                 "visitante": "PIL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7234.png"
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "05/06/2026 20:00 HS",
+                "fecha": "05/06/2026 20:00 HS Finalizado",
                 "local": "TRE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/681.png",
                 "visitante": "MER",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/678.png"
             },
             {
@@ -4775,6 +4775,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/681.png",
+                "equipo": "Talleres (RE)",
+                "puntos": "37",
+                "pj": "19",
+                "pg": "11",
+                "pe": "4",
+                "pp": "4",
+                "gf": 21,
+                "gc": 9,
+                "dg": 12
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/689.png",
                 "equipo": "Excursionistas",
                 "puntos": "35",
@@ -4787,7 +4800,7 @@
                 "dg": 13
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/3.png",
                 "equipo": "Arsenal",
                 "puntos": "34",
@@ -4798,19 +4811,6 @@
                 "gf": 24,
                 "gc": 10,
                 "dg": 14
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/681.png",
-                "equipo": "Talleres (RE)",
-                "puntos": "34",
-                "pj": "18",
-                "pg": "10",
-                "pe": "4",
-                "pp": "4",
-                "gf": 19,
-                "gc": 9,
-                "dg": 10
             },
             {
                 "posicion": "4",
@@ -4856,13 +4856,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/678.png",
                 "equipo": "Dep. Merlo",
                 "puntos": "30",
-                "pj": "18",
+                "pj": "19",
                 "pg": "8",
                 "pe": "6",
-                "pp": "4",
+                "pp": "5",
                 "gf": 22,
-                "gc": 20,
-                "dg": 2
+                "gc": 22,
+                "dg": 0
             },
             {
                 "posicion": "8",
@@ -4882,13 +4882,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7234.png",
                 "equipo": "Real Pilar",
                 "puntos": "28",
-                "pj": "18",
+                "pj": "19",
                 "pg": "8",
                 "pe": "4",
-                "pp": "6",
+                "pp": "7",
                 "gf": 22,
-                "gc": 20,
-                "dg": 2
+                "gc": 22,
+                "dg": 0
             },
             {
                 "posicion": "10",
@@ -5050,14 +5050,14 @@
                 "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png",
                 "equipo": "Ituzaingó",
-                "puntos": "5",
-                "pj": "18",
-                "pg": "0",
+                "puntos": "8",
+                "pj": "19",
+                "pg": "1",
                 "pe": "5",
                 "pp": "13",
-                "gf": 10,
+                "gf": 12,
                 "gc": 32,
-                "dg": -22
+                "dg": -20
             }
         ],
         "goleadores": [
