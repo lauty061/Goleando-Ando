@@ -153,12 +153,12 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 4",
-                "fecha": "08/06/2026 19:00 HS",
+                "fecha": "08/06/2026 19:00 HS Finalizado",
                 "local": "LIV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/191.png",
                 "visitante": "CLA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/958.png"
             },
             {
@@ -614,6 +614,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png",
+                "equipo": "Cerro Largo",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 5,
+                "gc": 1,
+                "dg": 4
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png",
                 "equipo": "Central Español",
                 "puntos": "7",
@@ -624,19 +637,6 @@
                 "gf": 4,
                 "gc": 3,
                 "dg": 1
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png",
-                "equipo": "Cerro Largo",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 5,
-                "gc": 1,
-                "dg": 4
             },
             {
                 "posicion": "6",
@@ -681,10 +681,10 @@
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "equipo": "Liverpool (U)",
-                "puntos": "4",
-                "pj": "3",
+                "puntos": "5",
+                "pj": "4",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "1",
                 "gf": 2,
                 "gc": 2,
