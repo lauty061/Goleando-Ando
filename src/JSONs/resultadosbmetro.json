@@ -2093,12 +2093,12 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "12/06/2026 20:00 HS",
+                "fecha": "12/06/2026 20:15 HS Finalizado",
                 "local": "SMB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/697.png?v=5",
                 "visitante": "DAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/700.png?v=5"
             },
             {
@@ -4788,6 +4788,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=5",
+                "equipo": "Villa Dálmine",
+                "puntos": "37",
+                "pj": "20",
+                "pg": "10",
+                "pe": "7",
+                "pp": "3",
+                "gf": 24,
+                "gc": 10,
+                "dg": 14
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=5",
                 "equipo": "Talleres (RE)",
                 "puntos": "37",
@@ -4800,7 +4813,7 @@
                 "dg": 12
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=5",
                 "equipo": "Arsenal",
                 "puntos": "34",
@@ -4810,19 +4823,6 @@
                 "pp": "3",
                 "gf": 25,
                 "gc": 13,
-                "dg": 12
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=5",
-                "equipo": "Villa Dálmine",
-                "puntos": "34",
-                "pj": "19",
-                "pg": "9",
-                "pe": "7",
-                "pp": "3",
-                "gf": 22,
-                "gc": 10,
                 "dg": 12
             },
             {
@@ -4882,13 +4882,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/697.png?v=5",
                 "equipo": "S. Martín B.",
                 "puntos": "28",
-                "pj": "19",
+                "pj": "20",
                 "pg": "7",
                 "pe": "7",
-                "pp": "5",
+                "pp": "6",
                 "gf": 22,
-                "gc": 17,
-                "dg": 5
+                "gc": 19,
+                "dg": 3
             },
             {
                 "posicion": "10",
