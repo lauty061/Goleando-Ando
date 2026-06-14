@@ -643,23 +643,13 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "13/06/2026 11:00 HS",
+                "fecha": "13/06/2026 11:00 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12384.png?v=5",
                 "visitante": "LAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8138.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 9",
-                "fecha": "13/06/2026 14:00 HS",
-                "local": "SAT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png?v=5",
-                "visitante": "SLU",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 9",
@@ -680,6 +670,16 @@
                 "visitante": "NOB",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11275.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "14/06/2026 15:00 HS",
+                "local": "SAT",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png?v=5",
+                "visitante": "SLU",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 9",
@@ -1374,6 +1374,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/8138.png?v=5",
+                "equipo": "Lanús",
+                "puntos": "7",
+                "pj": "9",
+                "pg": "2",
+                "pe": "1",
+                "pp": "6",
+                "gf": 4,
+                "gc": 18,
+                "dg": -14
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png?v=5",
                 "equipo": "Newell`s",
                 "puntos": "5",
@@ -1386,30 +1399,17 @@
                 "dg": -11
             },
             {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/8138.png?v=5",
-                "equipo": "Lanús",
-                "puntos": "4",
-                "pj": "8",
-                "pg": "1",
-                "pe": "1",
-                "pp": "6",
-                "gf": 3,
-                "gc": 18,
-                "dg": -15
-            },
-            {
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png?v=5",
                 "equipo": "Unión",
                 "puntos": "2",
-                "pj": "8",
+                "pj": "9",
                 "pg": "0",
                 "pe": "2",
-                "pp": "6",
+                "pp": "7",
                 "gf": 6,
-                "gc": 22,
-                "dg": -16
+                "gc": 23,
+                "dg": -17
             }
         ],
         "goleadores": [
