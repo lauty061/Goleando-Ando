@@ -1173,32 +1173,32 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "14/06/2026 13:30 HS",
+                "fecha": "14/06/2026 13:30 HS Finalizado",
                 "local": "CON",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/146.png?v=5",
                 "visitante": "LIM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "14/06/2026 16:00 HS",
+                "fecha": "14/06/2026 16:00 HS Finalizado",
                 "local": "ULC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/945.png?v=5",
                 "visitante": "UCH",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "14/06/2026 18:30 HS",
+                "fecha": "14/06/2026 18:30 HS Finalizado",
                 "local": "UCA",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/120.png?v=5",
                 "visitante": "UDC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png?v=5"
             },
             {
@@ -2418,6 +2418,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=5",
+                "equipo": "U. Católica",
+                "puntos": "26",
+                "pj": "15",
+                "pg": "8",
+                "pe": "2",
+                "pp": "5",
+                "gf": 35,
+                "gc": 20,
+                "dg": 15
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=5",
                 "equipo": "Coquimbo Unido",
                 "puntos": "24",
@@ -2430,7 +2443,7 @@
                 "dg": 4
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=5",
                 "equipo": "Palestino",
                 "puntos": "24",
@@ -2441,19 +2454,6 @@
                 "gf": 23,
                 "gc": 21,
                 "dg": 2
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=5",
-                "equipo": "U. Católica",
-                "puntos": "23",
-                "pj": "14",
-                "pg": "7",
-                "pe": "2",
-                "pp": "5",
-                "gf": 30,
-                "gc": 19,
-                "dg": 11
             },
             {
                 "posicion": "5",
@@ -2499,25 +2499,25 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=5",
                 "equipo": "Deportes Limache",
                 "puntos": "21",
-                "pj": "14",
+                "pj": "15",
                 "pg": "6",
                 "pe": "3",
-                "pp": "5",
-                "gf": 28,
-                "gc": 20,
-                "dg": 8
+                "pp": "6",
+                "gf": 30,
+                "gc": 23,
+                "dg": 7
             },
             {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=5",
                 "equipo": "U. de Chile",
-                "puntos": "20",
-                "pj": "13",
+                "puntos": "21",
+                "pj": "14",
                 "pg": "5",
-                "pe": "5",
+                "pe": "6",
                 "pp": "3",
-                "gf": 13,
-                "gc": 8,
+                "gf": 15,
+                "gc": 10,
                 "dg": 5
             },
             {
@@ -2538,13 +2538,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=5",
                 "equipo": "U. Concepción",
                 "puntos": "19",
-                "pj": "14",
+                "pj": "15",
                 "pg": "5",
                 "pe": "4",
-                "pp": "5",
-                "gf": 12,
-                "gc": 21,
-                "dg": -9
+                "pp": "6",
+                "gf": 13,
+                "gc": 26,
+                "dg": -13
             },
             {
                 "posicion": "12",
@@ -2574,6 +2574,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=5",
+                "equipo": "D. Concepción",
+                "puntos": "14",
+                "pj": "15",
+                "pg": "4",
+                "pe": "2",
+                "pp": "9",
+                "gf": 14,
+                "gc": 23,
+                "dg": -9
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=5",
                 "equipo": "Cobresal",
                 "puntos": "13",
@@ -2586,29 +2599,16 @@
                 "dg": -10
             },
             {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=5",
-                "equipo": "D. Concepción",
-                "puntos": "11",
-                "pj": "14",
-                "pg": "3",
-                "pe": "2",
-                "pp": "9",
-                "gf": 11,
-                "gc": 21,
-                "dg": -10
-            },
-            {
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png?v=5",
                 "equipo": "U. La Calera",
-                "puntos": "11",
-                "pj": "14",
+                "puntos": "12",
+                "pj": "15",
                 "pg": "3",
-                "pe": "2",
+                "pe": "3",
                 "pp": "9",
-                "gf": 12,
-                "gc": 26,
+                "gf": 14,
+                "gc": 28,
                 "dg": -14
             }
         ],
@@ -2617,7 +2617,13 @@
                 "nombre": "Fernando Zampedri",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 12
+                "goles": 15
+            },
+            {
+                "nombre": "Justo Giani",
+                "equipo": "U. Católica",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
+                "goles": 8
             },
             {
                 "nombre": "Javier Correa",
@@ -2632,15 +2638,15 @@
                 "goles": 8
             },
             {
-                "nombre": "Justo Giani",
-                "equipo": "U. Católica",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 7
-            },
-            {
                 "nombre": "Nelson Da Silva",
                 "equipo": "Palestino",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
+                "goles": 7
+            },
+            {
+                "nombre": "Sebastián Sáez",
+                "equipo": "U. La Calera",
+                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "goles": 7
             },
             {
@@ -2656,27 +2662,21 @@
                 "goles": 6
             },
             {
-                "nombre": "Sebastián Sáez",
-                "equipo": "U. La Calera",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "goles": 6
-            },
-            {
                 "nombre": "Nicolás Johansen",
                 "equipo": "Coquimbo Unido",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "goles": 5
             },
             {
-                "nombre": "Francisco González",
-                "equipo": "O'Higgins",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
+                "nombre": "Jean Meneses",
+                "equipo": "Deportes Limache",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
                 "goles": 5
             },
             {
-                "nombre": "Jeisson Vargas",
-                "equipo": "D. La Serena",
-                "escudo": "https://statics-files.tycsports.com/escudos/150.png",
+                "nombre": "Francisco González",
+                "equipo": "O'Higgins",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "goles": 5
             }
         ]

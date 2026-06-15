@@ -2173,32 +2173,32 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "14/06/2026 14:00 HS",
+                "fecha": "14/06/2026 14:00 HS Finalizado",
                 "local": "ADQ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/773.png?v=5",
                 "visitante": "ARM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/669.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "14/06/2026 15:30 HS",
+                "fecha": "14/06/2026 15:30 HS Finalizado",
                 "local": "LIN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/783.png?v=5",
                 "visitante": "PIL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7234.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "14/06/2026 19:00 HS",
+                "fecha": "14/06/2026 19:00 HS Finalizado",
                 "local": "MER",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/678.png?v=5",
                 "visitante": "ME",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/683.png?v=5"
             },
             {
@@ -4853,6 +4853,32 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/7234.png?v=5",
+                "equipo": "Real Pilar",
+                "puntos": "31",
+                "pj": "20",
+                "pg": "9",
+                "pe": "4",
+                "pp": "7",
+                "gf": 23,
+                "gc": 22,
+                "dg": 1
+            },
+            {
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/678.png?v=5",
+                "equipo": "Dep. Merlo",
+                "puntos": "31",
+                "pj": "20",
+                "pg": "8",
+                "pe": "7",
+                "pp": "5",
+                "gf": 24,
+                "gc": 24,
+                "dg": 0
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/673.png?v=5",
                 "equipo": "Comunicaciones",
                 "puntos": "30",
@@ -4865,20 +4891,7 @@
                 "dg": 3
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/678.png?v=5",
-                "equipo": "Dep. Merlo",
-                "puntos": "30",
-                "pj": "19",
-                "pg": "8",
-                "pe": "6",
-                "pp": "5",
-                "gf": 22,
-                "gc": 22,
-                "dg": 0
-            },
-            {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/697.png?v=5",
                 "equipo": "S. Martín B.",
                 "puntos": "28",
@@ -4891,33 +4904,33 @@
                 "dg": 3
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/7234.png?v=5",
-                "equipo": "Real Pilar",
-                "puntos": "28",
-                "pj": "19",
-                "pg": "8",
-                "pe": "4",
-                "pp": "7",
-                "gf": 22,
-                "gc": 22,
-                "dg": 0
-            },
-            {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png?v=5",
                 "equipo": "Dep. Armenio",
-                "puntos": "24",
-                "pj": "19",
+                "puntos": "25",
+                "pj": "20",
                 "pg": "7",
-                "pe": "3",
+                "pe": "4",
                 "pp": "9",
-                "gf": 20,
-                "gc": 24,
+                "gf": 21,
+                "gc": 25,
                 "dg": -4
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/683.png?v=5",
+                "equipo": "Argentino de M.",
+                "puntos": "24",
+                "pj": "20",
+                "pg": "6",
+                "pe": "6",
+                "pp": "8",
+                "gf": 14,
+                "gc": 17,
+                "dg": -3
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png?v=5",
                 "equipo": "Laferrere",
                 "puntos": "24",
@@ -4930,7 +4943,7 @@
                 "dg": -6
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=5",
                 "equipo": "Dock Sud",
                 "puntos": "23",
@@ -4943,7 +4956,20 @@
                 "dg": 2
             },
             {
-                "posicion": "14",
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=5",
+                "equipo": "Arg. de Quilmes",
+                "puntos": "23",
+                "pj": "20",
+                "pg": "5",
+                "pe": "8",
+                "pp": "7",
+                "gf": 19,
+                "gc": 19,
+                "dg": 0
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=5",
                 "equipo": "Def. Unidos",
                 "puntos": "23",
@@ -4956,43 +4982,17 @@
                 "dg": -3
             },
             {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/683.png?v=5",
-                "equipo": "Argentino de M.",
-                "puntos": "23",
-                "pj": "19",
-                "pg": "6",
-                "pe": "5",
-                "pp": "8",
-                "gf": 12,
-                "gc": 15,
-                "dg": -3
-            },
-            {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/783.png?v=5",
                 "equipo": "Liniers",
                 "puntos": "23",
-                "pj": "19",
+                "pj": "20",
                 "pg": "6",
                 "pe": "5",
-                "pp": "8",
+                "pp": "9",
                 "gf": 13,
-                "gc": 19,
-                "dg": -6
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=5",
-                "equipo": "Arg. de Quilmes",
-                "puntos": "22",
-                "pj": "19",
-                "pg": "5",
-                "pe": "7",
-                "pp": "7",
-                "gf": 18,
-                "gc": 18,
-                "dg": 0
+                "gc": 20,
+                "dg": -7
             },
             {
                 "posicion": "18",
@@ -5077,7 +5077,7 @@
                 "nombre": "Gonzalo Figueroa",
                 "equipo": "Dep. Armenio",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png",
-                "goles": 8
+                "goles": 9
             },
             {
                 "nombre": "Máximo Blanco",
