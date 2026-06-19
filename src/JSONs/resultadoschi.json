@@ -1033,12 +1033,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "18/06/2026 21:00 HS",
+                "fecha": "18/06/2026 21:00 HS Finalizado",
                 "local": "UCH",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/76.png?v=5",
                 "visitante": "OHI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png?v=5"
             },
             {
@@ -2431,6 +2431,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=5",
+                "equipo": "U. de Chile",
+                "puntos": "24",
+                "pj": "15",
+                "pg": "6",
+                "pe": "6",
+                "pp": "3",
+                "gf": 17,
+                "gc": 10,
+                "dg": 7
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=5",
                 "equipo": "Coquimbo Unido",
                 "puntos": "24",
@@ -2443,7 +2456,7 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=5",
                 "equipo": "Palestino",
                 "puntos": "24",
@@ -2456,7 +2469,7 @@
                 "dg": 2
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=5",
                 "equipo": "Huachipato",
                 "puntos": "23",
@@ -2469,7 +2482,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=5",
                 "equipo": "Everton",
                 "puntos": "22",
@@ -2482,7 +2495,7 @@
                 "dg": 4
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=5",
                 "equipo": "Ñublense",
                 "puntos": "22",
@@ -2495,7 +2508,7 @@
                 "dg": -1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=5",
                 "equipo": "Deportes Limache",
                 "puntos": "21",
@@ -2508,30 +2521,17 @@
                 "dg": 7
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=5",
-                "equipo": "U. de Chile",
-                "puntos": "21",
-                "pj": "14",
-                "pg": "5",
-                "pe": "6",
-                "pp": "3",
-                "gf": 15,
-                "gc": 10,
-                "dg": 5
-            },
-            {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=5",
                 "equipo": "O'Higgins",
                 "puntos": "20",
-                "pj": "14",
+                "pj": "15",
                 "pg": "6",
                 "pe": "2",
-                "pp": "6",
+                "pp": "7",
                 "gf": 19,
-                "gc": 20,
-                "dg": -1
+                "gc": 22,
+                "dg": -3
             },
             {
                 "posicion": "11",
