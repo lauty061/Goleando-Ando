@@ -2203,12 +2203,12 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "19/06/2026 19:00 HS",
+                "fecha": "19/06/2026 19:00 HS Finalizado",
                 "local": "ITU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/781.png?v=5",
                 "visitante": "LIN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/783.png?v=5"
             },
             {
@@ -4944,6 +4944,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/783.png?v=5",
+                "equipo": "Liniers",
+                "puntos": "24",
+                "pj": "21",
+                "pg": "6",
+                "pe": "6",
+                "pp": "9",
+                "gf": 14,
+                "gc": 21,
+                "dg": -7
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=5",
                 "equipo": "Dock Sud",
                 "puntos": "23",
@@ -4956,7 +4969,7 @@
                 "dg": 2
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=5",
                 "equipo": "Arg. de Quilmes",
                 "puntos": "23",
@@ -4969,7 +4982,7 @@
                 "dg": 0
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=5",
                 "equipo": "Def. Unidos",
                 "puntos": "23",
@@ -4980,19 +4993,6 @@
                 "gf": 18,
                 "gc": 21,
                 "dg": -3
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/783.png?v=5",
-                "equipo": "Liniers",
-                "puntos": "23",
-                "pj": "20",
-                "pg": "6",
-                "pe": "5",
-                "pp": "9",
-                "gf": 13,
-                "gc": 20,
-                "dg": -7
             },
             {
                 "posicion": "18",
@@ -5050,13 +5050,13 @@
                 "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png?v=5",
                 "equipo": "Ituzaingó",
-                "puntos": "8",
-                "pj": "20",
+                "puntos": "9",
+                "pj": "21",
                 "pg": "1",
-                "pe": "5",
+                "pe": "6",
                 "pp": "14",
-                "gf": 14,
-                "gc": 35,
+                "gf": 15,
+                "gc": 36,
                 "dg": -21
             }
         ],
