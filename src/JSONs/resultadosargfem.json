@@ -793,12 +793,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "22/06/2026 19:00 HS",
+                "fecha": "22/06/2026 19:00 HS Finalizado",
                 "local": "TAL",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11974.png?v=5",
                 "visitante": "HUR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6138.png?v=5"
             },
             {
@@ -1257,6 +1257,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=5",
+                "equipo": "Talleres",
+                "puntos": "17",
+                "pj": "10",
+                "pg": "4",
+                "pe": "5",
+                "pp": "1",
+                "gf": 14,
+                "gc": 6,
+                "dg": 8
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png?v=5",
                 "equipo": "Gimnasia",
                 "puntos": "15",
@@ -1269,7 +1282,7 @@
                 "dg": -2
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=5",
                 "equipo": "SATSAID",
                 "puntos": "14",
@@ -1279,19 +1292,6 @@
                 "pp": "2",
                 "gf": 14,
                 "gc": 10,
-                "dg": 4
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=5",
-                "equipo": "Talleres",
-                "puntos": "14",
-                "pj": "9",
-                "pg": "3",
-                "pe": "5",
-                "pp": "1",
-                "gf": 10,
-                "gc": 6,
                 "dg": 4
             },
             {
@@ -1351,13 +1351,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png?v=5",
                 "equipo": "Huracán",
                 "puntos": "11",
-                "pj": "9",
+                "pj": "10",
                 "pg": "2",
                 "pe": "5",
-                "pp": "2",
+                "pp": "3",
                 "gf": 5,
-                "gc": 6,
-                "dg": -1
+                "gc": 10,
+                "dg": -5
             },
             {
                 "posicion": "13",

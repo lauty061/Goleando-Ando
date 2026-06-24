@@ -713,12 +713,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/06/2026 18:30 HS",
+                "fecha": "23/06/2026 18:30 HS Finalizado",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/128.png?v=5",
                 "visitante": "RAF",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/99.png?v=5"
             },
             {
@@ -6832,6 +6832,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=5",
+                "equipo": "Atlético Rafaela",
+                "puntos": "27",
+                "pj": "18",
+                "pg": "7",
+                "pe": "6",
+                "pp": "5",
+                "gf": 14,
+                "gc": 12,
+                "dg": 2
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png?v=5",
                 "equipo": "Temperley",
                 "puntos": "27",
@@ -6845,7 +6859,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/785.png?v=5",
                 "equipo": "Midland",
                 "puntos": "26",
@@ -6856,20 +6870,6 @@
                 "gf": 19,
                 "gc": 14,
                 "dg": 5
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=5",
-                "equipo": "Atlético Rafaela",
-                "puntos": "26",
-                "pj": "17",
-                "pg": "7",
-                "pe": "5",
-                "pp": "5",
-                "gf": 14,
-                "gc": 12,
-                "dg": 2
             },
             {
                 "zona": "Posiciones",
@@ -6986,6 +6986,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "21",
+                "escudo": "https://statics-files.tycsports.com/escudos/128.png?v=5",
+                "equipo": "Nueva Chicago",
+                "puntos": "22",
+                "pj": "17",
+                "pg": "5",
+                "pe": "7",
+                "pp": "5",
+                "gf": 15,
+                "gc": 16,
+                "dg": -1
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/1.png?v=5",
                 "equipo": "Almagro",
                 "puntos": "22",
@@ -6999,7 +7013,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "22",
+                "posicion": "23",
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png?v=5",
                 "equipo": "Quilmes",
                 "puntos": "21",
@@ -7010,20 +7024,6 @@
                 "gf": 16,
                 "gc": 14,
                 "dg": 2
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "23",
-                "escudo": "https://statics-files.tycsports.com/escudos/128.png?v=5",
-                "equipo": "Nueva Chicago",
-                "puntos": "21",
-                "pj": "16",
-                "pg": "5",
-                "pe": "6",
-                "pp": "5",
-                "gf": 15,
-                "gc": 16,
-                "dg": -1
             },
             {
                 "zona": "Posiciones",
