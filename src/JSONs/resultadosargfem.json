@@ -833,22 +833,22 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "27/06/2026 11:00 HS",
+                "fecha": "27/06/2026 11:00 HS Finalizado",
                 "local": "SAT",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png?v=5",
                 "visitante": "LAN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8138.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "27/06/2026 15:00 HS",
+                "fecha": "27/06/2026 15:00 HS Primer Tiempo",
                 "local": "BAN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png?v=5",
                 "visitante": "CGE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8137.png?v=5"
             },
             {
@@ -1286,13 +1286,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=5",
                 "equipo": "SATSAID",
                 "puntos": "14",
-                "pj": "10",
+                "pj": "11",
                 "pg": "3",
                 "pe": "5",
-                "pp": "2",
+                "pp": "3",
                 "gf": 14,
-                "gc": 10,
-                "dg": 4
+                "gc": 12,
+                "dg": 2
             },
             {
                 "posicion": "8",
@@ -1361,6 +1361,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/8138.png?v=5",
+                "equipo": "Lanús",
+                "puntos": "11",
+                "pj": "11",
+                "pg": "3",
+                "pe": "2",
+                "pp": "6",
+                "gf": 7,
+                "gc": 19,
+                "dg": -12
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/6142.png?v=5",
                 "equipo": "Independiente",
                 "puntos": "10",
@@ -1371,19 +1384,6 @@
                 "gf": 8,
                 "gc": 18,
                 "dg": -10
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/8138.png?v=5",
-                "equipo": "Lanús",
-                "puntos": "8",
-                "pj": "10",
-                "pg": "2",
-                "pe": "2",
-                "pp": "6",
-                "gf": 5,
-                "gc": 19,
-                "dg": -14
             },
             {
                 "posicion": "15",
@@ -1444,6 +1444,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Brenda Varela",
+                "equipo": "Lanús",
+                "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Azul Luduena",
                 "equipo": "Talleres",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
@@ -1471,12 +1477,6 @@
                 "nombre": "Delfina Pafundi",
                 "equipo": "San Lorenzo",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Victoria Vázquez",
-                "equipo": "San Luis FC",
-                "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "goles": 4
             }
         ]
