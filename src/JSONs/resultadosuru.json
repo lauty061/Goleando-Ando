@@ -343,16 +343,6 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 2",
-                "fecha": "23/05/2026 HS Postergado",
-                "local": "DAN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/72.png?v=5",
-                "visitante": "JUV",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/771.png?v=5"
-            },
-            {
-                "fecha_torneo": "Grupo B - Fecha 2",
                 "fecha": "24/05/2026 15:00 HS Finalizado",
                 "local": "WAN",
                 "goles_local": "1",
@@ -360,6 +350,16 @@
                 "visitante": "MAL",
                 "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/959.png?v=5"
+            },
+            {
+                "fecha_torneo": "Grupo B - Fecha 2",
+                "fecha": "05/07/2026 14:00 HS Finalizado",
+                "local": "DAN",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/72.png?v=5",
+                "visitante": "JUV",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/771.png?v=5"
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 3",
@@ -720,13 +720,13 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=5",
                 "equipo": "Juventud",
-                "puntos": "3",
-                "pj": "3",
+                "puntos": "4",
+                "pj": "4",
                 "pg": "1",
-                "pe": "0",
+                "pe": "1",
                 "pp": "2",
-                "gf": 5,
-                "gc": 7,
+                "gf": 6,
+                "gc": 8,
                 "dg": -2
             },
             {
@@ -744,6 +744,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=5",
+                "equipo": "Danubio",
+                "puntos": "2",
+                "pj": "4",
+                "pg": "0",
+                "pe": "2",
+                "pp": "2",
+                "gf": 3,
+                "gc": 6,
+                "dg": -3
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=5",
                 "equipo": "Defensor Sporting",
                 "puntos": "2",
@@ -756,7 +769,7 @@
                 "dg": -3
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=5",
                 "equipo": "Cerro",
                 "puntos": "2",
@@ -767,19 +780,6 @@
                 "gf": 2,
                 "gc": 7,
                 "dg": -5
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=5",
-                "equipo": "Danubio",
-                "puntos": "1",
-                "pj": "3",
-                "pg": "0",
-                "pe": "1",
-                "pp": "2",
-                "gf": 2,
-                "gc": 5,
-                "dg": -3
             }
         ],
         "goleadores": [
