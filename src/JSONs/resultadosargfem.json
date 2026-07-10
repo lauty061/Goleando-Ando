@@ -1033,12 +1033,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "09/07/2026 15:00 HS",
+                "fecha": "09/07/2026 15:00 HS Finalizado",
                 "local": "IND",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6142.png?v=5",
                 "visitante": "RAC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8139.png?v=5"
             },
             {
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/8139.png?v=5",
+                "equipo": "Racing",
+                "puntos": "32",
+                "pj": "13",
+                "pg": "10",
+                "pe": "2",
+                "pp": "1",
+                "gf": 31,
+                "gc": 8,
+                "dg": 23
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png?v=5",
                 "equipo": "San Lorenzo",
                 "puntos": "32",
@@ -1214,19 +1227,6 @@
                 "pp": "1",
                 "gf": 26,
                 "gc": 5,
-                "dg": 21
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/8139.png?v=5",
-                "equipo": "Racing",
-                "puntos": "29",
-                "pj": "12",
-                "pg": "9",
-                "pe": "2",
-                "pp": "1",
-                "gf": 28,
-                "gc": 7,
                 "dg": 21
             },
             {
@@ -1377,13 +1377,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6142.png?v=5",
                 "equipo": "Independiente",
                 "puntos": "10",
-                "pj": "12",
+                "pj": "13",
                 "pg": "3",
                 "pe": "1",
-                "pp": "8",
-                "gf": 8,
-                "gc": 20,
-                "dg": -12
+                "pp": "9",
+                "gf": 9,
+                "gc": 23,
+                "dg": -14
             },
             {
                 "posicion": "15",
@@ -1423,13 +1423,13 @@
                 "nombre": "Marleidy Cossio",
                 "equipo": "Racing",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
-                "goles": 6
+                "goles": 7
             },
             {
                 "nombre": "Agostina Holzheier",
                 "equipo": "Racing",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
-                "goles": 6
+                "goles": 7
             },
             {
                 "nombre": "Victoria Vázquez",
