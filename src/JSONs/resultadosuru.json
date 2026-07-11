@@ -443,12 +443,12 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 5",
-                "fecha": "10/07/2026 19:00 HS",
+                "fecha": "10/07/2026 19:00 HS Finalizado",
                 "local": "MAL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/959.png?v=5",
                 "visitante": "ALB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7557.png?v=5"
             },
             {
@@ -577,13 +577,13 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=5",
                 "equipo": "Maldonado",
-                "puntos": "10",
-                "pj": "4",
+                "puntos": "11",
+                "pj": "5",
                 "pg": "3",
-                "pe": "1",
+                "pe": "2",
                 "pp": "0",
-                "gf": 11,
-                "gc": 4,
+                "gf": 12,
+                "gc": 5,
                 "dg": 7
             },
             {
@@ -692,6 +692,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=5",
+                "equipo": "Albion",
+                "puntos": "5",
+                "pj": "5",
+                "pg": "1",
+                "pe": "2",
+                "pp": "2",
+                "gf": 4,
+                "gc": 5,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png?v=5",
                 "equipo": "Boston River",
                 "puntos": "4",
@@ -701,19 +714,6 @@
                 "pp": "2",
                 "gf": 5,
                 "gc": 6,
-                "dg": -1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=5",
-                "equipo": "Albion",
-                "puntos": "4",
-                "pj": "4",
-                "pg": "1",
-                "pe": "1",
-                "pp": "2",
-                "gf": 3,
-                "gc": 4,
                 "dg": -1
             },
             {
