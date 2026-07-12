@@ -763,12 +763,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "11/07/2026 16:00 HS",
+                "fecha": "11/07/2026 16:00 HS Finalizado",
                 "local": "TRO",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
                 "visitante": "VSJ",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11268.png?v=5"
             },
             {
@@ -2496,6 +2496,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
+                "equipo": "Totora Real Oruro",
+                "puntos": "11",
+                "pj": "8",
+                "pg": "3",
+                "pe": "2",
+                "pp": "3",
+                "gf": 17,
+                "gc": 16,
+                "dg": 1
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=5",
                 "equipo": "Guabirá",
                 "puntos": "11",
@@ -2508,7 +2521,7 @@
                 "dg": -6
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=5",
                 "equipo": "U. de Vinto",
                 "puntos": "10",
@@ -2521,7 +2534,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=5",
                 "equipo": "Oriente Petrolero",
                 "puntos": "10",
@@ -2534,7 +2547,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=5",
                 "equipo": "Real Potosí",
                 "puntos": "9",
@@ -2547,7 +2560,7 @@
                 "dg": 2
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png?v=5",
                 "equipo": "ABB",
                 "puntos": "9",
@@ -2558,19 +2571,6 @@
                 "gf": 13,
                 "gc": 20,
                 "dg": -7
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
-                "equipo": "Totora Real Oruro",
-                "puntos": "8",
-                "pj": "7",
-                "pg": "2",
-                "pe": "2",
-                "pp": "3",
-                "gf": 14,
-                "gc": 15,
-                "dg": -1
             },
             {
                 "posicion": "14",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
                 "equipo": "GV San José",
                 "puntos": "5",
-                "pj": "7",
+                "pj": "8",
                 "pg": "1",
                 "pe": "2",
-                "pp": "4",
-                "gf": 8,
-                "gc": 13,
-                "dg": -5
+                "pp": "5",
+                "gf": 9,
+                "gc": 16,
+                "dg": -7
             },
             {
                 "posicion": "16",
@@ -2626,6 +2626,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Daniel Porozo",
+                "equipo": "Totora Real Oruro",
+                "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Martín Cauteruccio",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
@@ -2641,12 +2647,6 @@
                 "nombre": "Bayron Garcés",
                 "equipo": "Blooming",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Daniel Porozo",
-                "equipo": "Totora Real Oruro",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
                 "goles": 4
             },
             {
