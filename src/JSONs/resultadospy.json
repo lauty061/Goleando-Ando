@@ -3,7 +3,17 @@
         "fixture": [
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 HS",
+                "fecha": "24/07/2026 16:00 HS",
+                "local": "2MA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/269.png?v=5",
+                "visitante": "RÑU",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1029.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "24/07/2026 18:30 HS",
                 "local": "CER",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/77.png?v=5",
@@ -13,17 +23,7 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 HS",
-                "local": "GUA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/115.png?v=5",
-                "visitante": "LUQ",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/213.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 HS",
+                "fecha": "25/07/2026 16:00 HS",
                 "local": "REC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
@@ -33,17 +33,7 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 HS",
-                "local": "OLI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/215.png?v=5",
-                "visitante": "LIB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 HS",
+                "fecha": "25/07/2026 18:30 HS",
                 "local": "AME",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
@@ -53,27 +43,27 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 HS",
-                "local": "2MA",
+                "fecha": "26/07/2026 16:00 HS",
+                "local": "OLI",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/269.png?v=5",
-                "visitante": "RÑU",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/215.png?v=5",
+                "visitante": "LIB",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1029.png?v=5"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 1",
+                "fecha": "26/07/2026 18:30 HS",
+                "local": "GUA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/115.png?v=5",
+                "visitante": "LUQ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/213.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "31/07/2026 HS",
-                "local": "2MA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/269.png?v=5",
-                "visitante": "CER",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 2",
-                "fecha": "31/07/2026 HS",
+                "fecha": "28/07/2026 16:00 HS",
                 "local": "RÑU",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png?v=5",
@@ -83,7 +73,27 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "31/07/2026 HS",
+                "fecha": "28/07/2026 18:30 HS",
+                "local": "2MA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/269.png?v=5",
+                "visitante": "CER",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "29/07/2026 16:00 HS",
+                "local": "LUQ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/213.png?v=5",
+                "visitante": "TRI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 2",
+                "fecha": "29/07/2026 18:30 HS",
                 "local": "NAC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/214.png?v=5",
@@ -93,17 +103,7 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "31/07/2026 HS",
-                "local": "LIB",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/69.png?v=5",
-                "visitante": "REC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 2",
-                "fecha": "31/07/2026 HS",
+                "fecha": "30/07/2026 16:00 HS",
                 "local": "SLO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2119.png?v=5",
@@ -113,17 +113,27 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "31/07/2026 HS",
-                "local": "LUQ",
+                "fecha": "30/07/2026 18:30 HS",
+                "local": "LIB",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/213.png?v=5",
-                "visitante": "TRI",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/69.png?v=5",
+                "visitante": "REC",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png?v=5"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "07/08/2026 HS",
+                "fecha": "01/08/2026 16:00 HS",
+                "local": "AME",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
+                "visitante": "2MA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "01/08/2026 18:30 HS",
                 "local": "CER",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/77.png?v=5",
@@ -133,37 +143,7 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "07/08/2026 HS",
-                "local": "TRI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/605.png?v=5",
-                "visitante": "SLO",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/2119.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 3",
-                "fecha": "07/08/2026 HS",
-                "local": "GUA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/115.png?v=5",
-                "visitante": "LIB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 3",
-                "fecha": "07/08/2026 HS",
-                "local": "REC",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
-                "visitante": "NAC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png?v=5"
-            },
-            {
-                "fecha_torneo": "Fecha 3",
-                "fecha": "07/08/2026 HS",
+                "fecha": "02/08/2026 16:00 HS",
                 "local": "OLI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/215.png?v=5",
@@ -173,13 +153,33 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "07/08/2026 HS",
-                "local": "AME",
+                "fecha": "02/08/2026 18:30 HS",
+                "local": "GUA",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
-                "visitante": "2MA",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/115.png?v=5",
+                "visitante": "LIB",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png?v=5"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "03/08/2026 16:00 HS",
+                "local": "TRI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/605.png?v=5",
+                "visitante": "SLO",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/2119.png?v=5"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "03/08/2026 18:30 HS",
+                "local": "REC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
+                "visitante": "NAC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 4",

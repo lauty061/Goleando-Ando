@@ -193,12 +193,12 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 5",
-                "fecha": "13/07/2026 19:00 HS",
+                "fecha": "13/07/2026 19:00 HS Finalizado",
                 "local": "CLA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/958.png?v=5",
                 "visitante": "DEF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/110.png?v=5"
             },
             {
@@ -640,6 +640,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=5",
+                "equipo": "Cerro Largo",
+                "puntos": "8",
+                "pj": "5",
+                "pg": "2",
+                "pe": "2",
+                "pp": "1",
+                "gf": 6,
+                "gc": 2,
+                "dg": 4
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png?v=5",
                 "equipo": "Central Español",
                 "puntos": "8",
@@ -650,19 +663,6 @@
                 "gf": 4,
                 "gc": 3,
                 "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=5",
-                "equipo": "Cerro Largo",
-                "puntos": "7",
-                "pj": "4",
-                "pg": "2",
-                "pe": "1",
-                "pp": "1",
-                "gf": 5,
-                "gc": 1,
-                "dg": 4
             },
             {
                 "posicion": "8",
@@ -757,6 +757,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=5",
+                "equipo": "Defensor Sporting",
+                "puntos": "3",
+                "pj": "5",
+                "pg": "0",
+                "pe": "3",
+                "pp": "2",
+                "gf": 3,
+                "gc": 6,
+                "dg": -3
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png?v=5",
                 "equipo": "Progreso",
                 "puntos": "3",
@@ -767,19 +780,6 @@
                 "gf": 4,
                 "gc": 9,
                 "dg": -5
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=5",
-                "equipo": "Defensor Sporting",
-                "puntos": "2",
-                "pj": "4",
-                "pg": "0",
-                "pe": "2",
-                "pp": "2",
-                "gf": 2,
-                "gc": 5,
-                "dg": -3
             }
         ],
         "goleadores": [
