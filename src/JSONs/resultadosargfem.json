@@ -1093,12 +1093,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "13/07/2026 15:00 HS",
+                "fecha": "13/07/2026 15:00 HS Finalizado",
                 "local": "CGE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png?v=5",
                 "visitante": "HUR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6138.png?v=5"
             },
             {
@@ -1283,6 +1283,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/8137.png?v=5",
+                "equipo": "Gimnasia",
+                "puntos": "22",
+                "pj": "14",
+                "pg": "6",
+                "pe": "4",
+                "pp": "4",
+                "gf": 24,
+                "gc": 24,
+                "dg": 0
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=5",
                 "equipo": "Ferro",
                 "puntos": "19",
@@ -1293,19 +1306,6 @@
                 "gf": 14,
                 "gc": 12,
                 "dg": 2
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/8137.png?v=5",
-                "equipo": "Gimnasia",
-                "puntos": "19",
-                "pj": "13",
-                "pg": "5",
-                "pe": "4",
-                "pp": "4",
-                "gf": 22,
-                "gc": 23,
-                "dg": -1
             },
             {
                 "posicion": "9",
@@ -1351,13 +1351,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png?v=5",
                 "equipo": "Huracán",
                 "puntos": "14",
-                "pj": "13",
+                "pj": "14",
                 "pg": "3",
                 "pe": "5",
-                "pp": "5",
-                "gf": 7,
-                "gc": 13,
-                "dg": -6
+                "pp": "6",
+                "gf": 8,
+                "gc": 15,
+                "dg": -7
             },
             {
                 "posicion": "13",

@@ -593,22 +593,22 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "14/07/2026 19:00 HS",
+                "fecha": "14/07/2026 19:00 HS Finalizado",
                 "local": "TRO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
                 "visitante": "ALW",
-                "goles_visita": "-",
+                "goles_visita": "6",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3254.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "14/07/2026 21:00 HS",
+                "fecha": "14/07/2026 21:00 HS Finalizado",
                 "local": "BLO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png?v=5",
                 "visitante": "VSJ",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11268.png?v=5"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=5",
+                "equipo": "Always Ready",
+                "puntos": "20",
+                "pj": "9",
+                "pg": "6",
+                "pe": "2",
+                "pp": "1",
+                "gf": 20,
+                "gc": 5,
+                "dg": 15
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png?v=5",
                 "equipo": "The Strongest",
                 "puntos": "18",
@@ -2415,19 +2428,6 @@
                 "gf": 13,
                 "gc": 7,
                 "dg": 6
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=5",
-                "equipo": "Always Ready",
-                "puntos": "17",
-                "pj": "8",
-                "pg": "5",
-                "pe": "2",
-                "pp": "1",
-                "gf": 14,
-                "gc": 5,
-                "dg": 9
             },
             {
                 "posicion": "3",
@@ -2459,13 +2459,13 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=5",
                 "equipo": "Blooming",
-                "puntos": "12",
-                "pj": "8",
+                "puntos": "13",
+                "pj": "9",
                 "pg": "3",
-                "pe": "3",
+                "pe": "4",
                 "pp": "2",
-                "gf": 14,
-                "gc": 10,
+                "gf": 15,
+                "gc": 11,
                 "dg": 4
             },
             {
@@ -2499,13 +2499,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
                 "equipo": "Totora Real Oruro",
                 "puntos": "11",
-                "pj": "8",
+                "pj": "9",
                 "pg": "3",
                 "pe": "2",
-                "pp": "3",
+                "pp": "4",
                 "gf": 17,
-                "gc": 16,
-                "dg": 1
+                "gc": 22,
+                "dg": -5
             },
             {
                 "posicion": "9",
@@ -2602,13 +2602,13 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
                 "equipo": "GV San José",
-                "puntos": "5",
-                "pj": "8",
+                "puntos": "6",
+                "pj": "9",
                 "pg": "1",
-                "pe": "2",
+                "pe": "3",
                 "pp": "5",
-                "gf": 9,
-                "gc": 16,
+                "gf": 10,
+                "gc": 17,
                 "dg": -7
             }
         ],
@@ -2650,6 +2650,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Fernando Nava",
+                "equipo": "Always Ready",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Enrique Triverio",
                 "equipo": "Always Ready",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "Hernán Rodríguez",
                 "equipo": "Universitario de Vinto",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png",
-                "goles": 3
-            },
-            {
-                "nombre": "César Menacho",
-                "equipo": "Blooming",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "goles": 3
             }
         ]
