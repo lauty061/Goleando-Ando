@@ -2203,42 +2203,32 @@
             },
             {
                 "fecha_torneo": "Semana 14",
-                "fecha": "16/07/2026 20:30 HS",
+                "fecha": "16/07/2026 20:30 HS Finalizado",
                 "local": "MTL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1298.png?v=5",
                 "visitante": "TOR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1779.png?v=5"
             },
             {
                 "fecha_torneo": "Semana 14",
-                "fecha": "16/07/2026 21:30 HS",
+                "fecha": "16/07/2026 21:30 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10774.png?v=5",
                 "visitante": "SKC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3203.png?v=5"
             },
             {
                 "fecha_torneo": "Semana 14",
-                "fecha": "16/07/2026 21:30 HS",
-                "local": "CHI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1688.png?v=5",
-                "visitante": "VAN",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3204.png?v=5"
-            },
-            {
-                "fecha_torneo": "Semana 14",
-                "fecha": "16/07/2026 23:30 HS",
+                "fecha": "16/07/2026 23:30 HS Finalizado",
                 "local": "SEA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2115.png?v=5",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "5",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2127.png?v=5"
             },
             {
@@ -2260,6 +2250,16 @@
                 "visitante": "LAF",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7548.png?v=5"
+            },
+            {
+                "fecha_torneo": "Semana 14",
+                "fecha": "06/10/2026 HS",
+                "local": "CHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1688.png?v=5",
+                "visitante": "VAN",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3204.png?v=5"
             },
             {
                 "fecha_torneo": "Semana 15",
@@ -5498,10 +5498,10 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1298.png?v=5",
                 "equipo": "CF Montréal",
-                "puntos": "14",
-                "pj": "14",
+                "puntos": "15",
+                "pj": "15",
                 "pg": "4",
-                "pe": "2",
+                "pe": "3",
                 "pp": "8",
                 "gf": 22,
                 "gc": 31,
@@ -5510,6 +5510,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/1779.png?v=5",
+                "equipo": "Toronto FC",
+                "puntos": "15",
+                "pj": "15",
+                "pg": "3",
+                "pe": "6",
+                "pp": "6",
+                "gf": 22,
+                "gc": 29,
+                "dg": -7
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/4384.png?v=5",
                 "equipo": "Orlando City SC",
                 "puntos": "14",
@@ -5520,20 +5534,6 @@
                 "gf": 23,
                 "gc": 44,
                 "dg": -21
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/1779.png?v=5",
-                "equipo": "Toronto FC",
-                "puntos": "14",
-                "pj": "14",
-                "pg": "3",
-                "pe": "5",
-                "pp": "6",
-                "gf": 22,
-                "gc": 29,
-                "dg": -7
             },
             {
                 "zona": "Grupo Este",
@@ -5639,13 +5639,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2115.png?v=5",
                 "equipo": "Seattle Sounders",
                 "puntos": "24",
-                "pj": "13",
+                "pj": "14",
                 "pg": "7",
                 "pe": "3",
-                "pp": "3",
-                "gf": 17,
-                "gc": 11,
-                "dg": 6
+                "pp": "4",
+                "gf": 18,
+                "gc": 16,
+                "dg": 2
             },
             {
                 "zona": "Grupo Oeste",
@@ -5692,6 +5692,34 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/10774.png?v=5",
+                "equipo": "St. Louis City",
+                "puntos": "19",
+                "pj": "15",
+                "pg": "5",
+                "pe": "4",
+                "pp": "6",
+                "gf": 19,
+                "gc": 22,
+                "dg": -3
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/2127.png?v=5",
+                "equipo": "Portland Timbers",
+                "puntos": "17",
+                "pj": "15",
+                "pg": "5",
+                "pe": "2",
+                "pp": "8",
+                "gf": 27,
+                "gc": 29,
+                "dg": -2
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11968.png?v=5",
                 "equipo": "San Diego FC",
                 "puntos": "17",
@@ -5705,7 +5733,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "11",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/2110.png?v=5",
                 "equipo": "Colorado Rapids",
                 "puntos": "16",
@@ -5716,34 +5744,6 @@
                 "gf": 25,
                 "gc": 24,
                 "dg": 1
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/10774.png?v=5",
-                "equipo": "St. Louis City",
-                "puntos": "16",
-                "pj": "14",
-                "pg": "4",
-                "pe": "4",
-                "pp": "6",
-                "gf": 16,
-                "gc": 20,
-                "dg": -4
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/2127.png?v=5",
-                "equipo": "Portland Timbers",
-                "puntos": "14",
-                "pj": "14",
-                "pg": "4",
-                "pe": "2",
-                "pp": "8",
-                "gf": 22,
-                "gc": 28,
-                "dg": -6
             },
             {
                 "zona": "Grupo Oeste",
@@ -5765,13 +5765,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3203.png?v=5",
                 "equipo": "Sporting KC",
                 "puntos": "11",
-                "pj": "14",
+                "pj": "15",
                 "pg": "3",
                 "pe": "2",
-                "pp": "9",
-                "gf": 14,
-                "gc": 36,
-                "dg": -22
+                "pp": "10",
+                "gf": 16,
+                "gc": 39,
+                "dg": -23
             }
         ],
         "goleadores": [
