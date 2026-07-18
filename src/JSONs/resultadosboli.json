@@ -643,12 +643,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "17/07/2026 21:00 HS",
+                "fecha": "17/07/2026 21:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png?v=5",
                 "visitante": "CDG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png?v=5"
             },
             {
@@ -2431,6 +2431,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png?v=5",
+                "equipo": "Bolívar",
+                "puntos": "18",
+                "pj": "10",
+                "pg": "5",
+                "pe": "3",
+                "pp": "2",
+                "gf": 24,
+                "gc": 10,
+                "dg": 14
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=5",
                 "equipo": "Aurora",
                 "puntos": "16",
@@ -2441,19 +2454,6 @@
                 "gf": 14,
                 "gc": 9,
                 "dg": 5
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png?v=5",
-                "equipo": "Bolívar",
-                "puntos": "15",
-                "pj": "9",
-                "pg": "4",
-                "pe": "3",
-                "pp": "2",
-                "gf": 20,
-                "gc": 10,
-                "dg": 10
             },
             {
                 "posicion": "5",
@@ -2538,13 +2538,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=5",
                 "equipo": "Guabirá",
                 "puntos": "11",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 14,
-                "gc": 20,
-                "dg": -6
+                "gc": 24,
+                "dg": -10
             },
             {
                 "posicion": "12",
@@ -2617,7 +2617,7 @@
                 "nombre": "Martín Cauteruccio",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 6
+                "goles": 8
             },
             {
                 "nombre": "Marcelo Moreno Martins",

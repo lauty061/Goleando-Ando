@@ -2233,22 +2233,22 @@
             },
             {
                 "fecha_torneo": "Semana 14",
-                "fecha": "17/07/2026 21:10 HS",
+                "fecha": "17/07/2026 21:10 HS Finalizado",
                 "local": "NAS",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7917.png?v=5",
                 "visitante": "ATL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6751.png?v=5"
             },
             {
                 "fecha_torneo": "Semana 14",
-                "fecha": "17/07/2026 23:25 HS",
+                "fecha": "17/07/2026 23:25 HS Finalizado",
                 "local": "LAG",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2112.png?v=5",
                 "visitante": "LAF",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7548.png?v=5"
             },
             {
@@ -5358,14 +5358,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/7917.png?v=5",
                 "equipo": "Nashville SC",
-                "puntos": "33",
-                "pj": "14",
-                "pg": "10",
+                "puntos": "36",
+                "pj": "15",
+                "pg": "11",
                 "pe": "3",
                 "pp": "1",
-                "gf": 31,
+                "gf": 32,
                 "gc": 11,
-                "dg": 20
+                "dg": 21
             },
             {
                 "zona": "Grupo Este",
@@ -5541,13 +5541,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6751.png?v=5",
                 "equipo": "Atlanta United",
                 "puntos": "11",
-                "pj": "14",
+                "pj": "15",
                 "pg": "3",
                 "pe": "2",
-                "pp": "9",
+                "pp": "10",
                 "gf": 14,
-                "gc": 23,
-                "dg": -9
+                "gc": 24,
+                "dg": -10
             },
             {
                 "zona": "Grupo Este",
@@ -5594,6 +5594,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/7548.png?v=5",
+                "equipo": "Los Angeles FC",
+                "puntos": "27",
+                "pj": "16",
+                "pg": "8",
+                "pe": "3",
+                "pp": "5",
+                "gf": 27,
+                "gc": 17,
+                "dg": 10
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/2113.png?v=5",
                 "equipo": "Real Salt Lake",
                 "puntos": "26",
@@ -5607,7 +5621,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/2111.png?v=5",
                 "equipo": "FC Dallas",
                 "puntos": "25",
@@ -5618,20 +5632,6 @@
                 "gf": 30,
                 "gc": 22,
                 "dg": 8
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/7548.png?v=5",
-                "equipo": "Los Angeles FC",
-                "puntos": "24",
-                "pj": "15",
-                "pg": "7",
-                "pe": "3",
-                "pp": "5",
-                "gf": 24,
-                "gc": 17,
-                "dg": 7
             },
             {
                 "zona": "Grupo Oeste",
@@ -5681,13 +5681,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2112.png?v=5",
                 "equipo": "LA Galaxy",
                 "puntos": "20",
-                "pj": "15",
+                "pj": "16",
                 "pg": "5",
                 "pe": "5",
-                "pp": "5",
+                "pp": "6",
                 "gf": 22,
-                "gc": 22,
-                "dg": 0
+                "gc": 25,
+                "dg": -3
             },
             {
                 "zona": "Grupo Oeste",
