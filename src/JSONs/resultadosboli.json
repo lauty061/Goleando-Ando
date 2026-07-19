@@ -653,22 +653,22 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "18/07/2026 16:00 HS",
+                "fecha": "18/07/2026 16:00 HS Finalizado",
                 "local": "ALW",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png?v=5",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "18/07/2026 21:30 HS",
+                "fecha": "18/07/2026 21:30 HS Finalizado",
                 "local": "AUR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/228.png?v=5",
                 "visitante": "ORI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/97.png?v=5"
             },
             {
@@ -2405,6 +2405,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=5",
+                "equipo": "Always Ready",
+                "puntos": "23",
+                "pj": "10",
+                "pg": "7",
+                "pe": "2",
+                "pp": "1",
+                "gf": 24,
+                "gc": 5,
+                "dg": 19
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png?v=5",
                 "equipo": "The Strongest",
                 "puntos": "21",
@@ -2415,19 +2428,6 @@
                 "gf": 15,
                 "gc": 8,
                 "dg": 7
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=5",
-                "equipo": "Always Ready",
-                "puntos": "20",
-                "pj": "9",
-                "pg": "6",
-                "pe": "2",
-                "pp": "1",
-                "gf": 20,
-                "gc": 5,
-                "dg": 15
             },
             {
                 "posicion": "3",
@@ -2446,13 +2446,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=5",
                 "equipo": "Aurora",
-                "puntos": "16",
-                "pj": "9",
+                "puntos": "17",
+                "pj": "10",
                 "pg": "4",
-                "pe": "4",
+                "pe": "5",
                 "pp": "1",
-                "gf": 14,
-                "gc": 9,
+                "gf": 16,
+                "gc": 11,
                 "dg": 5
             },
             {
@@ -2522,6 +2522,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=5",
+                "equipo": "Oriente Petrolero",
+                "puntos": "11",
+                "pj": "10",
+                "pg": "3",
+                "pe": "2",
+                "pp": "5",
+                "gf": 13,
+                "gc": 15,
+                "dg": -2
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
                 "equipo": "Totora Real Oruro",
                 "puntos": "11",
@@ -2534,7 +2547,7 @@
                 "dg": -5
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=5",
                 "equipo": "Guabirá",
                 "puntos": "11",
@@ -2547,30 +2560,17 @@
                 "dg": -10
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=5",
                 "equipo": "U. de Vinto",
                 "puntos": "10",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "1",
-                "pp": "5",
+                "pp": "6",
                 "gf": 15,
-                "gc": 16,
-                "dg": -1
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=5",
-                "equipo": "Oriente Petrolero",
-                "puntos": "10",
-                "pj": "9",
-                "pg": "3",
-                "pe": "1",
-                "pp": "5",
-                "gf": 11,
-                "gc": 13,
-                "dg": -2
+                "gc": 20,
+                "dg": -5
             },
             {
                 "posicion": "14",
@@ -2644,6 +2644,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Enrique Triverio",
+                "equipo": "Always Ready",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Darwin Lom",
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
@@ -2669,12 +2675,6 @@
             },
             {
                 "nombre": "Fernando Nava",
-                "equipo": "Always Ready",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Enrique Triverio",
                 "equipo": "Always Ready",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "goles": 4

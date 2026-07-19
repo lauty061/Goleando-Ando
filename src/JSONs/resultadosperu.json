@@ -1563,42 +1563,42 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "18/07/2026 13:00 HS",
+                "fecha": "18/07/2026 13:00 HS Finalizado",
                 "local": "CVM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11322.png?v=5",
                 "visitante": "CUN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4950.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "18/07/2026 15:15 HS",
+                "fecha": "18/07/2026 15:15 HS Finalizado",
                 "local": "ADT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10029.png?v=5",
                 "visitante": "UNI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/121.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "18/07/2026 17:30 HS",
+                "fecha": "18/07/2026 17:30 HS Finalizado",
                 "local": "GRA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png?v=5",
                 "visitante": "UTC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1007.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "18/07/2026 20:30 HS",
+                "fecha": "18/07/2026 20:30 HS Finalizado",
                 "local": "CUS",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3685.png?v=5",
                 "visitante": "AAT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png?v=5"
             },
             {
@@ -3384,6 +3384,18 @@
                 "goles": 9
             },
             {
+                "nombre": "Alex Valera",
+                "equipo": "Universitario",
+                "escudo": "https://statics-files.tycsports.com/escudos/121.png",
+                "goles": 9
+            },
+            {
+                "nombre": "Facundo Callejo",
+                "equipo": "Cusco FC",
+                "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Bernardo Cuesta",
                 "equipo": "Melgar",
                 "escudo": "https://statics-files.tycsports.com/escudos/203.png",
@@ -3396,22 +3408,10 @@
                 "goles": 8
             },
             {
-                "nombre": "Alex Valera",
-                "equipo": "Universitario",
-                "escudo": "https://statics-files.tycsports.com/escudos/121.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Facundo Callejo",
-                "equipo": "Cusco FC",
-                "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Neri Bandiera",
-                "equipo": "Cienciano",
-                "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 6
+                "nombre": "Edgar Lastre",
+                "equipo": "Deportivo Moquegua",
+                "escudo": "https://statics-files.tycsports.com/escudos/11322.png",
+                "goles": 7
             }
         ]
     }
