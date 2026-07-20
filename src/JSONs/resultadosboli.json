@@ -673,22 +673,22 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "19/07/2026 12:00 HS",
+                "fecha": "19/07/2026 12:00 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
                 "visitante": "STR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "19/07/2026 21:30 HS",
+                "fecha": "19/07/2026 21:30 HS Finalizado",
                 "local": "BLO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png?v=5",
                 "visitante": "TOM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10529.png?v=5"
             },
             {
@@ -2420,10 +2420,10 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png?v=5",
                 "equipo": "The Strongest",
-                "puntos": "21",
-                "pj": "9",
+                "puntos": "22",
+                "pj": "10",
                 "pg": "6",
-                "pe": "3",
+                "pe": "4",
                 "pp": "0",
                 "gf": 15,
                 "gc": 8,
@@ -2457,6 +2457,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=5",
+                "equipo": "Blooming",
+                "puntos": "16",
+                "pj": "10",
+                "pg": "4",
+                "pe": "4",
+                "pp": "2",
+                "gf": 16,
+                "gc": 11,
+                "dg": 5
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=5",
                 "equipo": "Real Potosí",
                 "puntos": "13",
@@ -2467,19 +2480,6 @@
                 "gf": 14,
                 "gc": 7,
                 "dg": 7
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=5",
-                "equipo": "Blooming",
-                "puntos": "13",
-                "pj": "9",
-                "pg": "3",
-                "pe": "4",
-                "pp": "2",
-                "gf": 15,
-                "gc": 11,
-                "dg": 4
             },
             {
                 "posicion": "7",
@@ -2577,16 +2577,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=5",
                 "equipo": "Real Tomayapo",
                 "puntos": "8",
-                "pj": "9",
+                "pj": "10",
                 "pg": "2",
                 "pe": "2",
-                "pp": "5",
+                "pp": "6",
                 "gf": 7,
-                "gc": 20,
-                "dg": -13
+                "gc": 21,
+                "dg": -14
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
+                "equipo": "GV San José",
+                "puntos": "7",
+                "pj": "10",
+                "pg": "1",
+                "pe": "4",
+                "pp": "5",
+                "gf": 10,
+                "gc": 17,
+                "dg": -7
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=5",
                 "equipo": "San Antonio",
                 "puntos": "7",
@@ -2597,19 +2610,6 @@
                 "gf": 10,
                 "gc": 19,
                 "dg": -9
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
-                "equipo": "GV San José",
-                "puntos": "6",
-                "pj": "9",
-                "pg": "1",
-                "pe": "3",
-                "pp": "5",
-                "gf": 10,
-                "gc": 17,
-                "dg": -7
             }
         ],
         "goleadores": [
@@ -2629,6 +2629,12 @@
                 "nombre": "Willie Barbosa",
                 "equipo": "Independiente Petrolero",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Bayron Garcés",
+                "equipo": "Blooming",
+                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "goles": 5
             },
             {
@@ -2665,12 +2671,6 @@
                 "nombre": "Rafael Menacho",
                 "equipo": "San Antonio Bulo Bulo",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Bayron Garcés",
-                "equipo": "Blooming",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "goles": 4
             },
             {
