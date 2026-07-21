@@ -693,22 +693,22 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "20/07/2026 16:00 HS",
+                "fecha": "20/07/2026 16:00 HS Finalizado",
                 "local": "SAB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11267.png?v=5",
                 "visitante": "ABB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12012.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "20/07/2026 20:00 HS",
+                "fecha": "20/07/2026 20:00 HS Finalizado",
                 "local": "NAP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png?v=5",
                 "visitante": "TRO",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12013.png?v=5"
             },
             {
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
+                "equipo": "Totora Real Oruro",
+                "puntos": "14",
+                "pj": "10",
+                "pg": "4",
+                "pe": "2",
+                "pp": "4",
+                "gf": 21,
+                "gc": 23,
+                "dg": -2
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=5",
                 "equipo": "Real Potosí",
                 "puntos": "13",
@@ -2482,20 +2495,20 @@
                 "dg": 7
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=5",
                 "equipo": "Nacional Potosí",
                 "puntos": "12",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "3",
-                "pp": "3",
-                "gf": 12,
-                "gc": 10,
-                "dg": 2
+                "pp": "4",
+                "gf": 13,
+                "gc": 14,
+                "dg": -1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=5",
                 "equipo": "Independiente",
                 "puntos": "12",
@@ -2508,20 +2521,20 @@
                 "dg": -2
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png?v=5",
                 "equipo": "ABB",
                 "puntos": "12",
-                "pj": "9",
+                "pj": "10",
                 "pg": "4",
                 "pe": "0",
-                "pp": "5",
-                "gf": 16,
-                "gc": 21,
-                "dg": -5
+                "pp": "6",
+                "gf": 17,
+                "gc": 23,
+                "dg": -6
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=5",
                 "equipo": "Oriente Petrolero",
                 "puntos": "11",
@@ -2532,19 +2545,6 @@
                 "gf": 13,
                 "gc": 15,
                 "dg": -2
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=5",
-                "equipo": "Totora Real Oruro",
-                "puntos": "11",
-                "pj": "9",
-                "pg": "3",
-                "pe": "2",
-                "pp": "4",
-                "gf": 17,
-                "gc": 22,
-                "dg": -5
             },
             {
                 "posicion": "12",
@@ -2574,6 +2574,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=5",
+                "equipo": "San Antonio",
+                "puntos": "10",
+                "pj": "10",
+                "pg": "3",
+                "pe": "1",
+                "pp": "6",
+                "gf": 12,
+                "gc": 20,
+                "dg": -8
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=5",
                 "equipo": "Real Tomayapo",
                 "puntos": "8",
@@ -2586,7 +2599,7 @@
                 "dg": -14
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
                 "equipo": "GV San José",
                 "puntos": "7",
@@ -2597,19 +2610,6 @@
                 "gf": 10,
                 "gc": 17,
                 "dg": -7
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=5",
-                "equipo": "San Antonio",
-                "puntos": "7",
-                "pj": "9",
-                "pg": "2",
-                "pe": "1",
-                "pp": "6",
-                "gf": 10,
-                "gc": 19,
-                "dg": -9
             }
         ],
         "goleadores": [
@@ -2618,6 +2618,12 @@
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "goles": 8
+            },
+            {
+                "nombre": "Juan Fajardo",
+                "equipo": "ABB",
+                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
+                "goles": 6
             },
             {
                 "nombre": "Marcelo Moreno Martins",
@@ -2635,12 +2641,6 @@
                 "nombre": "Bayron Garcés",
                 "equipo": "Blooming",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Juan Fajardo",
-                "equipo": "ABB",
-                "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
                 "goles": 5
             },
             {
