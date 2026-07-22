@@ -1843,12 +1843,12 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "21/07/2026 19:30 HS",
+                "fecha": "21/07/2026 19:30 HS Finalizado",
                 "local": "MIN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/624.png?v=5",
                 "visitante": "BAH",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/991.png?v=5"
             },
             {
@@ -3872,13 +3872,13 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/991.png?v=5",
                 "equipo": "Bahia",
-                "puntos": "29",
-                "pj": "18",
+                "puntos": "30",
+                "pj": "19",
                 "pg": "8",
-                "pe": "5",
+                "pe": "6",
                 "pp": "5",
-                "gf": 27,
-                "gc": 23,
+                "gf": 28,
+                "gc": 24,
                 "dg": 4
             },
             {
@@ -3922,6 +3922,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=5",
+                "equipo": "Atlético Mineiro",
+                "puntos": "25",
+                "pj": "19",
+                "pg": "7",
+                "pe": "4",
+                "pp": "8",
+                "gf": 23,
+                "gc": 24,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/988.png?v=5",
                 "equipo": "Vitória",
                 "puntos": "25",
@@ -3932,19 +3945,6 @@
                 "gf": 22,
                 "gc": 25,
                 "dg": -3
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=5",
-                "equipo": "Atlético Mineiro",
-                "puntos": "24",
-                "pj": "18",
-                "pg": "7",
-                "pe": "3",
-                "pp": "8",
-                "gf": 22,
-                "gc": 23,
-                "dg": -1
             },
             {
                 "posicion": "12",
