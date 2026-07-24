@@ -3,32 +3,32 @@
         "fixture": [
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "23/07/2026 19:30 HS",
+                "fecha": "23/07/2026 19:30 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/124.png?v=5",
                 "visitante": "ROS",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/18.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "23/07/2026 19:30 HS",
+                "fecha": "23/07/2026 19:30 HS Finalizado",
                 "local": "SAR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/142.png?v=5",
                 "visitante": "ARG",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "23/07/2026 21:45 HS",
+                "fecha": "23/07/2026 21:45 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/129.png?v=5",
                 "visitante": "ALD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/122.png?v=5"
             },
             {
@@ -2584,8 +2584,8 @@
             {
                 "zona": "Grupo A",
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/129.png?v=5",
-                "equipo": "Defensa",
+                "escudo": "https://statics-files.tycsports.com/escudos/788.png?v=5",
+                "equipo": "Dep. Riestra",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2598,8 +2598,8 @@
             {
                 "zona": "Grupo A",
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/788.png?v=5",
-                "equipo": "Dep. Riestra",
+                "escudo": "https://statics-files.tycsports.com/escudos/129.png?v=5",
+                "equipo": "Defensa",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2640,8 +2640,8 @@
             {
                 "zona": "Grupo A",
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/10.png?v=5",
-                "equipo": "Independiente",
+                "escudo": "https://statics-files.tycsports.com/escudos/11.png?v=5",
+                "equipo": "Instituto",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2654,8 +2654,8 @@
             {
                 "zona": "Grupo A",
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/11.png?v=5",
-                "equipo": "Instituto",
+                "escudo": "https://statics-files.tycsports.com/escudos/10.png?v=5",
+                "equipo": "Independiente",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2766,6 +2766,34 @@
             {
                 "zona": "Grupo B",
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/2.png?v=5",
+                "equipo": "Argentinos",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 3,
+                "gc": 2,
+                "dg": 1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/124.png?v=5",
+                "equipo": "Belgrano",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/122.png?v=5",
                 "equipo": "Aldosivi",
                 "puntos": "0",
@@ -2779,37 +2807,9 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/2.png?v=5",
-                "equipo": "Argentinos",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/815.png?v=5",
                 "equipo": "Atl. Tucumán",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/4.png?v=5",
-                "equipo": "Banfield",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2836,8 +2836,8 @@
             {
                 "zona": "Grupo B",
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/124.png?v=5",
-                "equipo": "Belgrano",
+                "escudo": "https://statics-files.tycsports.com/escudos/4.png?v=5",
+                "equipo": "Banfield",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2934,8 +2934,8 @@
             {
                 "zona": "Grupo B",
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/18.png?v=5",
-                "equipo": "Rosario Central",
+                "escudo": "https://statics-files.tycsports.com/escudos/136.png?v=5",
+                "equipo": "Tigre",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2951,29 +2951,90 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png?v=5",
                 "equipo": "Sarmiento",
                 "puntos": "0",
-                "pj": "0",
+                "pj": "1",
                 "pg": "0",
                 "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "pp": "1",
+                "gf": 2,
+                "gc": 3,
+                "dg": -1
             },
             {
                 "zona": "Grupo B",
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/136.png?v=5",
-                "equipo": "Tigre",
+                "escudo": "https://statics-files.tycsports.com/escudos/18.png?v=5",
+                "equipo": "Rosario Central",
                 "puntos": "0",
-                "pj": "0",
+                "pj": "1",
                 "pg": "0",
                 "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "pp": "1",
+                "gf": 1,
+                "gc": 2,
+                "dg": -1
             }
         ],
-        "goleadores": []
+        "goleadores": [
+            {
+                "nombre": "David Barbona",
+                "equipo": "Defensa y Justicia",
+                "escudo": "https://statics-files.tycsports.com/escudos/129.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Renzo Orihuela",
+                "equipo": "Sarmiento",
+                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Nicolás Cordero",
+                "equipo": "Aldosivi",
+                "escudo": "https://statics-files.tycsports.com/escudos/122.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Nicolás Fernández",
+                "equipo": "Belgrano",
+                "escudo": "https://statics-files.tycsports.com/escudos/124.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Julián Fernández",
+                "equipo": "Rosario Central",
+                "escudo": "https://statics-files.tycsports.com/escudos/18.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Francisco González Metilli",
+                "equipo": "Belgrano",
+                "escudo": "https://statics-files.tycsports.com/escudos/124.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Alan Lescano",
+                "equipo": "Argentinos Juniors",
+                "escudo": "https://statics-files.tycsports.com/escudos/2.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Junior Marabel",
+                "equipo": "Sarmiento",
+                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Diego Porcel",
+                "equipo": "Argentinos Juniors",
+                "escudo": "https://statics-files.tycsports.com/escudos/2.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Sebastián Prieto",
+                "equipo": "Argentinos Juniors",
+                "escudo": "https://statics-files.tycsports.com/escudos/2.png",
+                "goles": 1
+            }
+        ]
     }
 }
