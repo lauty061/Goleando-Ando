@@ -513,12 +513,12 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 6",
-                "fecha": "24/07/2026 19:00 HS",
+                "fecha": "24/07/2026 19:00 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png?v=5",
                 "visitante": "DAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/72.png?v=5"
             },
             {
@@ -601,6 +601,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=5",
+                "equipo": "MC Torque",
+                "puntos": "12",
+                "pj": "6",
+                "pg": "4",
+                "pe": "0",
+                "pp": "2",
+                "gf": 11,
+                "gc": 9,
+                "dg": 2
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=5",
                 "equipo": "Maldonado",
                 "puntos": "11",
@@ -613,7 +626,7 @@
                 "dg": 6
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=5",
                 "equipo": "Nacional",
                 "puntos": "10",
@@ -624,19 +637,6 @@
                 "gf": 6,
                 "gc": 7,
                 "dg": -1
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=5",
-                "equipo": "MC Torque",
-                "puntos": "9",
-                "pj": "5",
-                "pg": "3",
-                "pe": "0",
-                "pp": "2",
-                "gf": 10,
-                "gc": 9,
-                "dg": 1
             },
             {
                 "posicion": "6",
@@ -757,8 +757,8 @@
             },
             {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=5",
-                "equipo": "Danubio",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=5",
+                "equipo": "Defensor Sporting",
                 "puntos": "3",
                 "pj": "5",
                 "pg": "0",
@@ -770,16 +770,16 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=5",
-                "equipo": "Defensor Sporting",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=5",
+                "equipo": "Danubio",
                 "puntos": "3",
-                "pj": "5",
+                "pj": "6",
                 "pg": "0",
                 "pe": "3",
-                "pp": "2",
+                "pp": "3",
                 "gf": 3,
-                "gc": 6,
-                "dg": -3
+                "gc": 7,
+                "dg": -4
             }
         ],
         "goleadores": [
@@ -787,7 +787,7 @@
                 "nombre": "Salomón Rodríguez",
                 "equipo": "MC Torque",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
-                "goles": 3
+                "goles": 4
             },
             {
                 "nombre": "Santiago Ramírez",

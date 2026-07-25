@@ -3,22 +3,22 @@
         "fixture": [
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 16:00 HS",
+                "fecha": "24/07/2026 16:00 HS Finalizado",
                 "local": "2MA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/269.png?v=5",
                 "visitante": "RÑU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1029.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "24/07/2026 18:30 HS",
+                "fecha": "24/07/2026 18:30 HS Finalizado",
                 "local": "CER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/77.png?v=5",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png?v=5"
             },
             {
@@ -1325,34 +1325,34 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=5",
-                "equipo": "2 de Mayo",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=5",
+                "equipo": "Trinidense",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
                 "pe": "0",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=5",
-                "equipo": "Cerro Porteño",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=5",
+                "equipo": "2 de Mayo",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
                 "pe": "0",
                 "pp": "0",
-                "gf": 0,
+                "gf": 1,
                 "gc": 0,
-                "dg": 0
+                "dg": 1
             },
             {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
-                "equipo": "D. Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
+                "equipo": "Sp. Ameliano",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1364,8 +1364,8 @@
             },
             {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=5",
-                "equipo": "Guaraní",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
+                "equipo": "D. Recoleta",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1390,19 +1390,6 @@
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=5",
-                "equipo": "Nacional (P)",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=5",
                 "equipo": "Olimpia",
                 "puntos": "0",
@@ -1415,9 +1402,22 @@
                 "dg": 0
             },
             {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=5",
+                "equipo": "Nacional (P)",
+                "puntos": "0",
+                "pj": "0",
+                "pg": "0",
+                "pe": "0",
+                "pp": "0",
+                "gf": 0,
+                "gc": 0,
+                "dg": 0
+            },
+            {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=5",
-                "equipo": "Rubio Ñu",
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=5",
+                "equipo": "Sportivo Luqueño",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1442,8 +1442,8 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
-                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=5",
+                "equipo": "Guaraní",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1455,31 +1455,56 @@
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=5",
-                "equipo": "Sportivo Luqueño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=5",
+                "equipo": "Cerro Porteño",
                 "puntos": "0",
-                "pj": "0",
+                "pj": "1",
                 "pg": "0",
                 "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "pp": "1",
+                "gf": 1,
+                "gc": 2,
+                "dg": -1
             },
             {
                 "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=5",
-                "equipo": "Trinidense",
+                "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=5",
+                "equipo": "Rubio Ñu",
                 "puntos": "0",
-                "pj": "0",
+                "pj": "1",
                 "pg": "0",
                 "pe": "0",
-                "pp": "0",
+                "pp": "1",
                 "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "gc": 1,
+                "dg": -1
             }
         ],
-        "goleadores": []
+        "goleadores": [
+            {
+                "nombre": "Axel Cañete",
+                "equipo": "Trinidense",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Luis Abreu",
+                "equipo": "Trinidense",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Matías Cáceres",
+                "equipo": "2 de Mayo",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Iván Ramírez",
+                "equipo": "Cerro Porteño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
+                "goles": 1
+            }
+        ]
     }
 }
