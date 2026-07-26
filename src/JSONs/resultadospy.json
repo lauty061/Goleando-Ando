@@ -23,22 +23,22 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "25/07/2026 16:00 HS",
+                "fecha": "25/07/2026 16:00 HS Finalizado",
                 "local": "REC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
                 "visitante": "SLO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2119.png?v=5"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "25/07/2026 18:30 HS",
+                "fecha": "25/07/2026 18:30 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
                 "visitante": "NAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png?v=5"
             },
             {
@@ -1351,32 +1351,58 @@
             },
             {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
-                "equipo": "Sp. Ameliano",
-                "puntos": "0",
-                "pj": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=5",
+                "equipo": "Nacional (P)",
+                "puntos": "1",
+                "pj": "1",
                 "pg": "0",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 1,
+                "gc": 1,
                 "dg": 0
             },
             {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
-                "equipo": "D. Recoleta",
-                "puntos": "0",
-                "pj": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=5",
+                "equipo": "Sp. Ameliano",
+                "puntos": "1",
+                "pj": "1",
                 "pg": "0",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 1,
+                "gc": 1,
                 "dg": 0
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=5",
+                "equipo": "D. Recoleta",
+                "puntos": "1",
+                "pj": "1",
+                "pg": "0",
+                "pe": "1",
+                "pp": "0",
+                "gf": 1,
+                "gc": 1,
+                "dg": 0
+            },
+            {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/2119.png?v=5",
+                "equipo": "San Lorenzo",
+                "puntos": "1",
+                "pj": "1",
+                "pg": "0",
+                "pe": "1",
+                "pp": "0",
+                "gf": 1,
+                "gc": 1,
+                "dg": 0
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=5",
                 "equipo": "Libertad",
                 "puntos": "0",
@@ -1389,7 +1415,7 @@
                 "dg": 0
             },
             {
-                "posicion": "6",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=5",
                 "equipo": "Olimpia",
                 "puntos": "0",
@@ -1402,35 +1428,9 @@
                 "dg": 0
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=5",
-                "equipo": "Nacional (P)",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=5",
                 "equipo": "Sportivo Luqueño",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/2119.png?v=5",
-                "equipo": "San Lorenzo",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1488,9 +1488,21 @@
                 "goles": 1
             },
             {
+                "nombre": "Richard Torales",
+                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Luis Abreu",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Hugo Adrián Benítez",
+                "equipo": "Nacional (P)",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "goles": 1
             },
             {
@@ -1500,9 +1512,21 @@
                 "goles": 1
             },
             {
+                "nombre": "Aldo González",
+                "equipo": "Deportivo Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Iván Ramírez",
                 "equipo": "Cerro Porteño",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Alex Álvarez",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/2119.png",
                 "goles": 1
             }
         ]
