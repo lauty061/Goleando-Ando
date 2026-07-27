@@ -2963,12 +2963,12 @@
             },
             {
                 "fecha_torneo": "Fecha 27",
-                "fecha": "26/07/2026 15:00 HS",
+                "fecha": "26/07/2026 15:00 HS Finalizado",
                 "local": "LAF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/694.png?v=5",
                 "visitante": "TRE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/681.png?v=5"
             },
             {
@@ -4775,6 +4775,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=5",
+                "equipo": "Talleres (RE)",
+                "puntos": "52",
+                "pj": "27",
+                "pg": "15",
+                "pe": "7",
+                "pp": "5",
+                "gf": 31,
+                "gc": 13,
+                "dg": 18
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=5",
                 "equipo": "Arsenal",
                 "puntos": "51",
@@ -4787,7 +4800,7 @@
                 "dg": 18
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=5",
                 "equipo": "Excursionistas",
                 "puntos": "50",
@@ -4800,7 +4813,7 @@
                 "dg": 20
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=5",
                 "equipo": "Camioneros",
                 "puntos": "50",
@@ -4813,7 +4826,7 @@
                 "dg": 16
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=5",
                 "equipo": "Villa Dálmine",
                 "puntos": "49",
@@ -4823,19 +4836,6 @@
                 "pp": "4",
                 "gf": 30,
                 "gc": 14,
-                "dg": 16
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=5",
-                "equipo": "Talleres (RE)",
-                "puntos": "49",
-                "pj": "26",
-                "pg": "14",
-                "pe": "7",
-                "pp": "5",
-                "gf": 29,
-                "gc": 13,
                 "dg": 16
             },
             {
@@ -4895,13 +4895,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png?v=5",
                 "equipo": "Laferrere",
                 "puntos": "38",
-                "pj": "26",
+                "pj": "27",
                 "pg": "10",
                 "pe": "8",
-                "pp": "8",
+                "pp": "9",
                 "gf": 29,
-                "gc": 30,
-                "dg": -1
+                "gc": 32,
+                "dg": -3
             },
             {
                 "posicion": "11",

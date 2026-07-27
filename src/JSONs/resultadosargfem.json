@@ -13,12 +13,12 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "26/07/2026 11:00 HS",
+                "fecha": "26/07/2026 11:00 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png?v=5",
                 "visitante": "SAT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8142.png?v=5"
             },
             {
@@ -1228,16 +1228,16 @@
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/10937.png?v=5",
-                "equipo": "Belgrano (Cba.)",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=5",
+                "equipo": "SATSAID",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
                 "pe": "0",
                 "pp": "0",
-                "gf": 0,
+                "gf": 1,
                 "gc": 0,
-                "dg": 0
+                "dg": 1
             },
             {
                 "posicion": "3",
@@ -1345,19 +1345,6 @@
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=5",
-                "equipo": "SATSAID",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png?v=5",
                 "equipo": "San Lorenzo",
                 "puntos": "0",
@@ -1370,7 +1357,7 @@
                 "dg": 0
             },
             {
-                "posicion": "13",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png?v=5",
                 "equipo": "San Luis FC",
                 "puntos": "0",
@@ -1383,7 +1370,7 @@
                 "dg": 0
             },
             {
-                "posicion": "14",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=5",
                 "equipo": "Talleres",
                 "puntos": "0",
@@ -1396,7 +1383,7 @@
                 "dg": 0
             },
             {
-                "posicion": "15",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png?v=5",
                 "equipo": "Unión",
                 "puntos": "0",
@@ -1407,6 +1394,19 @@
                 "gf": 0,
                 "gc": 0,
                 "dg": 0
+            },
+            {
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/10937.png?v=5",
+                "equipo": "Belgrano (Cba.)",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 0,
+                "gc": 1,
+                "dg": -1
             },
             {
                 "posicion": "16",
@@ -1428,6 +1428,12 @@
                 "equipo": "Banfield",
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "goles": 2
+            },
+            {
+                "nombre": "Dahiana Miño",
+                "equipo": "SATSAID",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "goles": 1
             },
             {
                 "nombre": "Tatiana Sarmiento",
