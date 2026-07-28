@@ -873,12 +873,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "27/07/2026 16:00 HS",
+                "fecha": "27/07/2026 16:00 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png?v=5"
             },
             {
@@ -2564,16 +2564,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=5",
                 "equipo": "U. de Vinto",
                 "puntos": "10",
-                "pj": "10",
+                "pj": "11",
                 "pg": "3",
                 "pe": "1",
-                "pp": "6",
-                "gf": 15,
-                "gc": 20,
-                "dg": -5
+                "pp": "7",
+                "gf": 16,
+                "gc": 22,
+                "dg": -6
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
+                "equipo": "GV San José",
+                "puntos": "10",
+                "pj": "11",
+                "pg": "2",
+                "pe": "4",
+                "pp": "5",
+                "gf": 12,
+                "gc": 18,
+                "dg": -6
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=5",
                 "equipo": "San Antonio",
                 "puntos": "10",
@@ -2586,7 +2599,7 @@
                 "dg": -10
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=5",
                 "equipo": "Real Tomayapo",
                 "puntos": "8",
@@ -2597,19 +2610,6 @@
                 "gf": 8,
                 "gc": 25,
                 "dg": -17
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=5",
-                "equipo": "GV San José",
-                "puntos": "7",
-                "pj": "10",
-                "pg": "1",
-                "pe": "4",
-                "pp": "5",
-                "gf": 10,
-                "gc": 17,
-                "dg": -7
             }
         ],
         "goleadores": [
