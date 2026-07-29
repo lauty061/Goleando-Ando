@@ -73,12 +73,12 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "28/07/2026 11:00 HS",
+                "fecha": "28/07/2026 11:00 HS Finalizado",
                 "local": "HUR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6138.png?v=5",
                 "visitante": "RIV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6141.png?v=5"
             },
             {
@@ -1466,6 +1466,12 @@
                 "goles": 1
             },
             {
+                "nombre": "Patricia Leguizamón",
+                "equipo": "Huracán",
+                "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Camila Mansilla",
                 "equipo": "Newell`s",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png",
@@ -1481,12 +1487,6 @@
                 "nombre": "Delfina Pafundi",
                 "equipo": "San Lorenzo",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Tatiana Sarmiento",
-                "equipo": "Banfield",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "goles": 1
             }
         ]
