@@ -2043,22 +2043,22 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "30/07/2026 19:30 HS",
+                "fecha": "30/07/2026 19:30 HS Finalizado",
                 "local": "COR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/107.png?v=6",
                 "visitante": "ATP",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/68.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "30/07/2026 21:30 HS",
+                "fecha": "30/07/2026 21:30 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "visitante": "CRU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/108.png?v=6"
             },
             {
@@ -3833,10 +3833,10 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/68.png?v=6",
                 "equipo": "Paranaense",
-                "puntos": "36",
-                "pj": "20",
+                "puntos": "37",
+                "pj": "21",
                 "pg": "11",
-                "pe": "3",
+                "pe": "4",
                 "pp": "6",
                 "gf": 28,
                 "gc": 19,
@@ -3883,6 +3883,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/108.png?v=6",
+                "equipo": "Cruzeiro",
+                "puntos": "30",
+                "pj": "21",
+                "pg": "8",
+                "pe": "6",
+                "pp": "7",
+                "gf": 27,
+                "gc": 30,
+                "dg": -3
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png?v=6",
                 "equipo": "Botafogo",
                 "puntos": "29",
@@ -3895,7 +3908,20 @@
                 "dg": 2
             },
             {
-                "posicion": "8",
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
+                "equipo": "Corinthians",
+                "puntos": "29",
+                "pj": "21",
+                "pg": "7",
+                "pe": "8",
+                "pp": "6",
+                "gf": 22,
+                "gc": 20,
+                "dg": 2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
                 "equipo": "Atlético Mineiro",
                 "puntos": "28",
@@ -3908,43 +3934,17 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
-                "equipo": "Corinthians",
-                "puntos": "28",
-                "pj": "20",
-                "pg": "7",
-                "pe": "7",
-                "pp": "6",
-                "gf": 22,
-                "gc": 20,
-                "dg": 2
-            },
-            {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "equipo": "Coritiba",
                 "puntos": "27",
-                "pj": "20",
+                "pj": "21",
                 "pg": "7",
                 "pe": "6",
-                "pp": "7",
+                "pp": "8",
                 "gf": 25,
-                "gc": 27,
-                "dg": -2
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/108.png?v=6",
-                "equipo": "Cruzeiro",
-                "puntos": "27",
-                "pj": "20",
-                "pg": "7",
-                "pe": "6",
-                "pp": "7",
-                "gf": 26,
-                "gc": 30,
-                "dg": -4
+                "gc": 28,
+                "dg": -3
             },
             {
                 "posicion": "12",

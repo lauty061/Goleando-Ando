@@ -103,12 +103,12 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "30/07/2026 22:00 HS",
+                "fecha": "30/07/2026 22:00 HS Finalizado",
                 "local": "BUC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "visitante": "LLA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/880.png?v=6"
             },
             {
@@ -2165,6 +2165,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
+                "equipo": "Bucaramanga",
+                "puntos": "4",
+                "pj": "2",
+                "pg": "1",
+                "pe": "1",
+                "pp": "0",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
+                "equipo": "Llaneros FC",
+                "puntos": "4",
+                "pj": "2",
+                "pg": "1",
+                "pe": "1",
+                "pp": "0",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "equipo": "Once Caldas",
                 "puntos": "3",
@@ -2177,7 +2203,7 @@
                 "dg": 4
             },
             {
-                "posicion": "2",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/66.png?v=6",
                 "equipo": "América de Cali",
                 "puntos": "3",
@@ -2190,7 +2216,7 @@
                 "dg": 2
             },
             {
-                "posicion": "3",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
                 "puntos": "3",
@@ -2203,7 +2229,7 @@
                 "dg": 2
             },
             {
-                "posicion": "4",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
                 "equipo": "Indep. Medellín",
                 "puntos": "3",
@@ -2216,7 +2242,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
                 "equipo": "Tolima",
                 "puntos": "3",
@@ -2229,7 +2255,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "equipo": "Águilas Doradas",
                 "puntos": "3",
@@ -2239,32 +2265,6 @@
                 "pp": "0",
                 "gf": 2,
                 "gc": 1,
-                "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
-                "equipo": "Bucaramanga",
-                "puntos": "3",
-                "pj": "1",
-                "pg": "1",
-                "pe": "0",
-                "pp": "0",
-                "gf": 1,
-                "gc": 0,
-                "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
-                "equipo": "Llaneros FC",
-                "puntos": "3",
-                "pj": "1",
-                "pg": "1",
-                "pe": "0",
-                "pp": "0",
-                "gf": 1,
-                "gc": 0,
                 "dg": 1
             },
             {
