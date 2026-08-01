@@ -3,17 +3,17 @@
         "fixture": [
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "31/07/2026 18:00 HS",
+                "fecha": "31/07/2026 18:00 HS Finalizado",
                 "local": "POR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/494.png?v=6",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/223.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "31/07/2026 19:30 HS",
+                "fecha": "31/07/2026 19:30 HS Postergado",
                 "local": "AFC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
@@ -1185,6 +1185,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png?v=6",
+                "equipo": "Portuguesa",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 1,
+                "gc": 0,
+                "dg": 1
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png?v=6",
                 "equipo": "Rayo Zuliano",
                 "puntos": "0",
@@ -1197,7 +1210,7 @@
                 "dg": 0
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/85.png?v=6",
                 "equipo": "Caracas",
                 "puntos": "0",
@@ -1210,7 +1223,7 @@
                 "dg": 0
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/79.png?v=6",
                 "equipo": "Táchira",
                 "puntos": "0",
@@ -1223,7 +1236,7 @@
                 "dg": 0
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/5732.png?v=6",
                 "equipo": "Puerto Cabello",
                 "puntos": "0",
@@ -1236,22 +1249,9 @@
                 "dg": 0
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/495.png?v=6",
                 "equipo": "Zamora",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/494.png?v=6",
-                "equipo": "Portuguesa",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1302,19 +1302,6 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/223.png?v=6",
-                "equipo": "Carabobo",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png?v=6",
                 "equipo": "UCV",
                 "puntos": "0",
@@ -1327,7 +1314,7 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png?v=6",
                 "equipo": "Dep. La Guaira",
                 "puntos": "0",
@@ -1340,7 +1327,7 @@
                 "dg": 0
             },
             {
-                "posicion": "13",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
                 "equipo": "Anzoátegui FC",
                 "puntos": "0",
@@ -1353,7 +1340,7 @@
                 "dg": 0
             },
             {
-                "posicion": "14",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png?v=6",
                 "equipo": "Trujillanos",
                 "puntos": "0",
@@ -1364,8 +1351,28 @@
                 "gf": 0,
                 "gc": 0,
                 "dg": 0
+            },
+            {
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/223.png?v=6",
+                "equipo": "Carabobo",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 0,
+                "gc": 1,
+                "dg": -1
             }
         ],
-        "goleadores": []
+        "goleadores": [
+            {
+                "nombre": "Jose Perez",
+                "equipo": "Portuguesa",
+                "escudo": "https://statics-files.tycsports.com/escudos/494.png",
+                "goles": 1
+            }
+        ]
     }
 }

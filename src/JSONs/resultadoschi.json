@@ -1283,12 +1283,12 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "31/07/2026 21:00 HS",
+                "fecha": "31/07/2026 21:00 HS Finalizado",
                 "local": "UDC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "visitante": "AUD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png?v=6"
             },
             {
@@ -2535,6 +2535,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
+                "equipo": "Audax Italiano",
+                "puntos": "19",
+                "pj": "17",
+                "pg": "5",
+                "pe": "4",
+                "pp": "8",
+                "gf": 20,
+                "gc": 23,
+                "dg": -3
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "equipo": "D. La Serena",
                 "puntos": "19",
@@ -2547,20 +2560,20 @@
                 "dg": -4
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
                 "puntos": "19",
-                "pj": "15",
+                "pj": "16",
                 "pg": "5",
                 "pe": "4",
-                "pp": "6",
+                "pp": "7",
                 "gf": 13,
-                "gc": 26,
-                "dg": -13
+                "gc": 27,
+                "dg": -14
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "equipo": "D. Concepción",
                 "puntos": "17",
@@ -2571,19 +2584,6 @@
                 "gf": 16,
                 "gc": 23,
                 "dg": -7
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
-                "equipo": "Audax Italiano",
-                "puntos": "16",
-                "pj": "16",
-                "pg": "4",
-                "pe": "4",
-                "pp": "8",
-                "gf": 19,
-                "gc": 23,
-                "dg": -4
             },
             {
                 "posicion": "15",

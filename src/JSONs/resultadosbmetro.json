@@ -2973,22 +2973,22 @@
             },
             {
                 "fecha_torneo": "Fecha 28",
-                "fecha": "31/07/2026 15:00 HS",
+                "fecha": "31/07/2026 15:00 HS Finalizado",
                 "local": "ASL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3.png?v=6",
                 "visitante": "BRW",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/671.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 28",
-                "fecha": "31/07/2026 20:00 HS",
+                "fecha": "31/07/2026 20:00 HS Finalizado",
                 "local": "EXC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/689.png?v=6",
                 "visitante": "ARM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/669.png?v=6"
             },
             {
@@ -4775,6 +4775,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
+                "equipo": "Excursionistas",
+                "puntos": "53",
+                "pj": "28",
+                "pg": "15",
+                "pe": "8",
+                "pp": "5",
+                "gf": 40,
+                "gc": 19,
+                "dg": 21
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=6",
+                "equipo": "Arsenal",
+                "puntos": "52",
+                "pj": "28",
+                "pg": "14",
+                "pe": "10",
+                "pp": "4",
+                "gf": 38,
+                "gc": 20,
+                "dg": 18
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "equipo": "Talleres (RE)",
                 "puntos": "52",
@@ -4785,32 +4811,6 @@
                 "gf": 31,
                 "gc": 13,
                 "dg": 18
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=6",
-                "equipo": "Arsenal",
-                "puntos": "51",
-                "pj": "27",
-                "pg": "14",
-                "pe": "9",
-                "pp": "4",
-                "gf": 37,
-                "gc": 19,
-                "dg": 18
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
-                "equipo": "Excursionistas",
-                "puntos": "50",
-                "pj": "27",
-                "pg": "14",
-                "pe": "8",
-                "pp": "5",
-                "gf": 38,
-                "gc": 18,
-                "dg": 20
             },
             {
                 "posicion": "4",
@@ -4882,13 +4882,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png?v=6",
                 "equipo": "Dep. Armenio",
                 "puntos": "38",
-                "pj": "27",
+                "pj": "28",
                 "pg": "10",
                 "pe": "8",
-                "pp": "9",
-                "gf": 30,
-                "gc": 31,
-                "dg": -1
+                "pp": "10",
+                "gf": 31,
+                "gc": 33,
+                "dg": -2
             },
             {
                 "posicion": "10",
@@ -4983,6 +4983,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
+                "equipo": "Brown (Adrogué)",
+                "puntos": "28",
+                "pj": "28",
+                "pg": "6",
+                "pe": "10",
+                "pp": "12",
+                "gf": 18,
+                "gc": 30,
+                "dg": -12
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
                 "equipo": "Flandria",
                 "puntos": "27",
@@ -4992,19 +5005,6 @@
                 "pp": "14",
                 "gf": 21,
                 "gc": 33,
-                "dg": -12
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
-                "equipo": "Brown (Adrogué)",
-                "puntos": "27",
-                "pj": "27",
-                "pg": "6",
-                "pe": "9",
-                "pp": "12",
-                "gf": 17,
-                "gc": 29,
                 "dg": -12
             },
             {

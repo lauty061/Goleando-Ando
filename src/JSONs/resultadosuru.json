@@ -523,12 +523,12 @@
             },
             {
                 "fecha_torneo": "Grupo B - Fecha 7",
-                "fecha": "31/07/2026 19:00 HS",
+                "fecha": "31/07/2026 19:00 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "visitante": "WAN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/200.png?v=6"
             },
             {
@@ -575,6 +575,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
+                "equipo": "Wanderers",
+                "puntos": "15",
+                "pj": "7",
+                "pg": "4",
+                "pe": "3",
+                "pp": "0",
+                "gf": 12,
+                "gc": 4,
+                "dg": 8
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "equipo": "Peñarol",
                 "puntos": "13",
@@ -587,30 +600,17 @@
                 "dg": 6
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
-                "equipo": "Wanderers",
-                "puntos": "12",
-                "pj": "6",
-                "pg": "3",
-                "pe": "3",
-                "pp": "0",
-                "gf": 10,
-                "gc": 4,
-                "dg": 6
-            },
-            {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "equipo": "MC Torque",
                 "puntos": "12",
-                "pj": "6",
+                "pj": "7",
                 "pg": "4",
                 "pe": "0",
-                "pp": "2",
+                "pp": "3",
                 "gf": 11,
-                "gc": 9,
-                "dg": 2
+                "gc": 11,
+                "dg": 0
             },
             {
                 "posicion": "4",
@@ -790,6 +790,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Luciano Cosentino",
+                "equipo": "Wanderers",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Santiago Ramírez",
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
@@ -823,12 +829,6 @@
                 "nombre": "Luciano Boggio",
                 "equipo": "Nacional",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Luciano Cosentino",
-                "equipo": "Wanderers",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "goles": 2
             },
             {
