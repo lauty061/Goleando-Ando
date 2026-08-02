@@ -1723,42 +1723,42 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "01/08/2026 15:00 HS",
+                "fecha": "01/08/2026 15:00 HS Finalizado",
                 "local": "FCC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12382.png?v=6",
                 "visitante": "DSH",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1659.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "01/08/2026 17:30 HS",
+                "fecha": "01/08/2026 17:30 HS Finalizado",
                 "local": "GRA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7569.png?v=6",
                 "visitante": "SPB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/205.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "01/08/2026 20:00 HS",
+                "fecha": "01/08/2026 20:00 HS Finalizado",
                 "local": "CUS",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3685.png?v=6",
                 "visitante": "UTC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1007.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "01/08/2026 22:30 HS",
+                "fecha": "01/08/2026 22:30 HS Finalizado",
                 "local": "ALI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/84.png?v=6",
                 "visitante": "AAT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/103.png?v=6"
             },
             {
@@ -3363,7 +3363,13 @@
                 "nombre": "Erick Castillo",
                 "equipo": "Alianza Lima",
                 "escudo": "https://statics-files.tycsports.com/escudos/84.png",
-                "goles": 13
+                "goles": 15
+            },
+            {
+                "nombre": "Facundo Callejo",
+                "equipo": "Cusco FC",
+                "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
+                "goles": 12
             },
             {
                 "nombre": "Alejandro Hohberg",
@@ -3381,12 +3387,6 @@
                 "nombre": "Alex Valera",
                 "equipo": "Universitario",
                 "escudo": "https://statics-files.tycsports.com/escudos/121.png",
-                "goles": 10
-            },
-            {
-                "nombre": "Facundo Callejo",
-                "equipo": "Cusco FC",
-                "escudo": "https://statics-files.tycsports.com/escudos/3685.png",
                 "goles": 10
             },
             {
