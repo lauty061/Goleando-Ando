@@ -3063,22 +3063,22 @@
             },
             {
                 "fecha_torneo": "Fecha 28",
-                "fecha": "02/08/2026 15:00 HS",
+                "fecha": "02/08/2026 15:00 HS Finalizado",
                 "local": "VSC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/701.png?v=6",
                 "visitante": "DSU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/688.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 28",
-                "fecha": "02/08/2026 15:00 HS",
+                "fecha": "02/08/2026 15:00 HS Finalizado",
                 "local": "SMB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/697.png?v=6",
                 "visitante": "MER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/678.png?v=6"
             },
             {
@@ -4907,26 +4907,26 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/678.png?v=6",
                 "equipo": "Dep. Merlo",
-                "puntos": "36",
-                "pj": "27",
+                "puntos": "37",
+                "pj": "28",
                 "pg": "9",
-                "pe": "9",
+                "pe": "10",
                 "pp": "9",
-                "gf": 32,
-                "gc": 40,
+                "gf": 33,
+                "gc": 41,
                 "dg": -8
             },
             {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/697.png?v=6",
                 "equipo": "S. Martín B.",
-                "puntos": "35",
-                "pj": "27",
+                "puntos": "36",
+                "pj": "28",
                 "pg": "8",
-                "pe": "11",
+                "pe": "12",
                 "pp": "8",
-                "gf": 26,
-                "gc": 25,
+                "gf": 27,
+                "gc": 26,
                 "dg": 1
             },
             {
@@ -4944,6 +4944,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
+                "equipo": "Dock Sud",
+                "puntos": "33",
+                "pj": "28",
+                "pg": "7",
+                "pe": "12",
+                "pp": "9",
+                "gf": 28,
+                "gc": 26,
+                "dg": 2
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=6",
                 "equipo": "Arg. de Quilmes",
                 "puntos": "33",
@@ -4954,19 +4967,6 @@
                 "gf": 25,
                 "gc": 28,
                 "dg": -3
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
-                "equipo": "Dock Sud",
-                "puntos": "32",
-                "pj": "27",
-                "pg": "7",
-                "pe": "11",
-                "pp": "9",
-                "gf": 27,
-                "gc": 25,
-                "dg": 2
             },
             {
                 "posicion": "16",
@@ -5009,6 +5009,19 @@
             },
             {
                 "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/701.png?v=6",
+                "equipo": "Villa San Carlos",
+                "puntos": "26",
+                "pj": "28",
+                "pg": "5",
+                "pe": "11",
+                "pp": "12",
+                "gf": 27,
+                "gc": 35,
+                "dg": -8
+            },
+            {
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=6",
                 "equipo": "Def. Unidos",
                 "puntos": "26",
@@ -5021,7 +5034,7 @@
                 "dg": -10
             },
             {
-                "posicion": "20",
+                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "equipo": "UAI Urquiza",
                 "puntos": "26",
@@ -5032,19 +5045,6 @@
                 "gf": 13,
                 "gc": 23,
                 "dg": -10
-            },
-            {
-                "posicion": "21",
-                "escudo": "https://statics-files.tycsports.com/escudos/701.png?v=6",
-                "equipo": "Villa San Carlos",
-                "puntos": "25",
-                "pj": "27",
-                "pg": "5",
-                "pe": "10",
-                "pp": "12",
-                "gf": 26,
-                "gc": 34,
-                "dg": -8
             },
             {
                 "posicion": "22",
@@ -5104,15 +5104,15 @@
                 "goles": 9
             },
             {
-                "nombre": "Máximo Guzmán",
-                "equipo": "Sp. Italiano",
-                "escudo": "https://statics-files.tycsports.com/escudos/677.png",
-                "goles": 8
-            },
-            {
                 "nombre": "Iván Sandoval",
                 "equipo": "Dep. Merlo",
                 "escudo": "https://statics-files.tycsports.com/escudos/678.png",
+                "goles": 9
+            },
+            {
+                "nombre": "Máximo Guzmán",
+                "equipo": "Sp. Italiano",
+                "escudo": "https://statics-files.tycsports.com/escudos/677.png",
                 "goles": 8
             },
             {

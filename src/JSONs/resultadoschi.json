@@ -1333,32 +1333,32 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "02/08/2026 13:30 HS",
+                "fecha": "02/08/2026 13:30 HS Finalizado",
                 "local": "CON",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "visitante": "UCA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "02/08/2026 16:00 HS",
+                "fecha": "02/08/2026 16:00 HS Finalizado",
                 "local": "LSE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "visitante": "OHI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "02/08/2026 18:30 HS",
+                "fecha": "02/08/2026 18:30 HS Finalizado",
                 "local": "UCH",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "visitante": "HUA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png?v=6"
             },
             {
@@ -2418,29 +2418,29 @@
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
-                "equipo": "U. Católica",
-                "puntos": "27",
-                "pj": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
+                "equipo": "U. de Chile",
+                "puntos": "30",
+                "pj": "17",
                 "pg": "8",
-                "pe": "3",
-                "pp": "5",
-                "gf": 38,
-                "gc": 23,
-                "dg": 15
+                "pe": "6",
+                "pp": "3",
+                "gf": 21,
+                "gc": 11,
+                "dg": 10
             },
             {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
-                "equipo": "U. de Chile",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
+                "equipo": "U. Católica",
                 "puntos": "27",
-                "pj": "16",
-                "pg": "7",
-                "pe": "6",
-                "pp": "3",
-                "gf": 19,
-                "gc": 11,
-                "dg": 8
+                "pj": "17",
+                "pg": "8",
+                "pe": "3",
+                "pp": "6",
+                "gf": 38,
+                "gc": 26,
+                "dg": 12
             },
             {
                 "posicion": "4",
@@ -2486,13 +2486,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "equipo": "Huachipato",
                 "puntos": "24",
-                "pj": "16",
+                "pj": "17",
                 "pg": "7",
                 "pe": "3",
-                "pp": "6",
+                "pp": "7",
                 "gf": 26,
-                "gc": 25,
-                "dg": 1
+                "gc": 27,
+                "dg": -1
             },
             {
                 "posicion": "8",
@@ -2509,6 +2509,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
+                "equipo": "O'Higgins",
+                "puntos": "23",
+                "pj": "17",
+                "pg": "7",
+                "pe": "2",
+                "pp": "8",
+                "gf": 21,
+                "gc": 25,
+                "dg": -4
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "equipo": "Deportes Limache",
                 "puntos": "21",
@@ -2521,20 +2534,20 @@
                 "dg": 5
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
-                "equipo": "O'Higgins",
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
+                "equipo": "D. Concepción",
                 "puntos": "20",
-                "pj": "16",
+                "pj": "17",
                 "pg": "6",
                 "pe": "2",
-                "pp": "8",
+                "pp": "9",
                 "gf": 19,
-                "gc": 24,
-                "dg": -5
+                "gc": 23,
+                "dg": -4
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
                 "puntos": "19",
@@ -2547,20 +2560,20 @@
                 "dg": -3
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "equipo": "D. La Serena",
                 "puntos": "19",
-                "pj": "16",
+                "pj": "17",
                 "pg": "4",
                 "pe": "7",
-                "pp": "5",
-                "gf": 24,
-                "gc": 28,
-                "dg": -4
+                "pp": "6",
+                "gf": 25,
+                "gc": 30,
+                "dg": -5
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
                 "puntos": "19",
@@ -2573,7 +2586,7 @@
                 "dg": -14
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "equipo": "Cobresal",
                 "puntos": "17",
@@ -2584,19 +2597,6 @@
                 "gf": 26,
                 "gc": 32,
                 "dg": -6
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
-                "equipo": "D. Concepción",
-                "puntos": "17",
-                "pj": "16",
-                "pg": "5",
-                "pe": "2",
-                "pp": "9",
-                "gf": 16,
-                "gc": 23,
-                "dg": -7
             },
             {
                 "posicion": "16",
@@ -2656,6 +2656,12 @@
                 "goles": 7
             },
             {
+                "nombre": "Eduardo Vargas",
+                "equipo": "Universidad de Chile",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Maximiliano Romero",
                 "equipo": "Colo Colo",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "Nicolás Johansen",
                 "equipo": "Coquimbo Unido",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Eduardo Vargas",
-                "equipo": "Universidad de Chile",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "goles": 6
             }
         ]
