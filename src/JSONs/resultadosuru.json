@@ -273,12 +273,12 @@
             },
             {
                 "fecha_torneo": "Grupo A - Fecha 7",
-                "fecha": "03/08/2026 19:00 HS",
+                "fecha": "03/08/2026 19:00 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/110.png?v=6",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/188.png?v=6"
             },
             {
@@ -563,7 +563,7 @@
             },
             {
                 "fecha_torneo": "Final",
-                "fecha": "05/08/2026 HS",
+                "fecha": "05/08/2026 20:00 HS",
                 "local": "PEÑ",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/98.png?v=6",
@@ -708,13 +708,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
                 "equipo": "Cerro",
                 "puntos": "8",
-                "pj": "6",
+                "pj": "7",
                 "pg": "3",
                 "pe": "0",
-                "pp": "3",
-                "gf": 5,
-                "gc": 8,
-                "dg": -3
+                "pp": "4",
+                "gf": 6,
+                "gc": 10,
+                "dg": -4
             },
             {
                 "posicion": "12",
@@ -731,6 +731,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=6",
+                "equipo": "Defensor Sporting",
+                "puntos": "6",
+                "pj": "7",
+                "pg": "1",
+                "pe": "3",
+                "pp": "3",
+                "gf": 6,
+                "gc": 9,
+                "dg": -3
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png?v=6",
                 "equipo": "Progreso",
                 "puntos": "6",
@@ -743,7 +756,7 @@
                 "dg": -5
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png?v=6",
                 "equipo": "Boston River",
                 "puntos": "5",
@@ -756,7 +769,7 @@
                 "dg": -5
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=6",
                 "equipo": "Danubio",
                 "puntos": "4",
@@ -766,19 +779,6 @@
                 "pp": "3",
                 "gf": 5,
                 "gc": 9,
-                "dg": -4
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=6",
-                "equipo": "Defensor Sporting",
-                "puntos": "3",
-                "pj": "6",
-                "pg": "0",
-                "pe": "3",
-                "pp": "3",
-                "gf": 4,
-                "gc": 8,
                 "dg": -4
             }
         ],
@@ -838,15 +838,15 @@
                 "goles": 2
             },
             {
-                "nombre": "Rubén Bentancourt",
-                "equipo": "Liverpool (U)",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
+                "nombre": "Jairo Amaro",
+                "equipo": "Cerro",
+                "escudo": "https://statics-files.tycsports.com/escudos/188.png",
                 "goles": 2
             },
             {
-                "nombre": "Luciano Boggio",
-                "equipo": "Nacional",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png",
+                "nombre": "Rubén Bentancourt",
+                "equipo": "Liverpool (U)",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "goles": 2
             }
         ]

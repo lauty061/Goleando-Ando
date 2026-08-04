@@ -63,12 +63,12 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "03/08/2026 19:30 HS",
+                "fecha": "03/08/2026 19:30 HS Finalizado",
                 "local": "CAR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/85.png?v=6",
                 "visitante": "EST",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/224.png?v=6"
             },
             {
@@ -1250,34 +1250,34 @@
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/85.png?v=6",
-                "equipo": "Caracas",
-                "puntos": "0",
-                "pj": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/224.png?v=6",
+                "equipo": "Estudiantes",
+                "puntos": "1",
+                "pj": "1",
                 "pg": "0",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 2,
+                "gc": 2,
                 "dg": 0
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png?v=6",
-                "equipo": "Táchira",
-                "puntos": "0",
-                "pj": "0",
+                "escudo": "https://statics-files.tycsports.com/escudos/85.png?v=6",
+                "equipo": "Caracas",
+                "puntos": "1",
+                "pj": "1",
                 "pg": "0",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 2,
+                "gc": 2,
                 "dg": 0
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/224.png?v=6",
-                "equipo": "Estudiantes",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png?v=6",
+                "equipo": "Táchira",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1374,6 +1374,12 @@
                 "goles": 1
             },
             {
+                "nombre": "Jesús Yéndis",
+                "equipo": "Caracas",
+                "escudo": "https://statics-files.tycsports.com/escudos/85.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Enderson Abreu",
                 "equipo": "Trujillanos",
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png",
@@ -1386,9 +1392,21 @@
                 "goles": 1
             },
             {
+                "nombre": "Jeriel De Santis",
+                "equipo": "Caracas",
+                "escudo": "https://statics-files.tycsports.com/escudos/85.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Ezequiel Gnemmi",
                 "equipo": "Trujillanos",
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Romeesh Ivey",
+                "equipo": "Estudiantes Mérida",
+                "escudo": "https://statics-files.tycsports.com/escudos/224.png",
                 "goles": 1
             },
             {
@@ -1413,24 +1431,6 @@
                 "nombre": "Jose Perez",
                 "equipo": "Portuguesa",
                 "escudo": "https://statics-files.tycsports.com/escudos/494.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Daniel Saggiomo",
-                "equipo": "Puerto Cabello",
-                "escudo": "https://statics-files.tycsports.com/escudos/5732.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Juan Manuel Valencia",
-                "equipo": "Zamora",
-                "escudo": "https://statics-files.tycsports.com/escudos/495.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Isai Valladares",
-                "equipo": "Zamora",
-                "escudo": "https://statics-files.tycsports.com/escudos/495.png",
                 "goles": 1
             }
         ]

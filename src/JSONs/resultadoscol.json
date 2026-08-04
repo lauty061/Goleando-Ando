@@ -203,12 +203,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "03/08/2026 22:00 HS",
+                "fecha": "03/08/2026 22:00 HS Finalizado",
                 "local": "BUC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "visitante": "CUC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/266.png?v=6"
             },
             {
@@ -2217,6 +2217,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
+                "equipo": "Bucaramanga",
+                "puntos": "5",
+                "pj": "3",
+                "pg": "1",
+                "pe": "2",
+                "pp": "0",
+                "gf": 3,
+                "gc": 2,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "equipo": "Once Caldas",
                 "puntos": "4",
@@ -2227,19 +2240,6 @@
                 "gf": 7,
                 "gc": 3,
                 "dg": 4
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
-                "equipo": "Bucaramanga",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 2,
-                "gc": 1,
-                "dg": 1
             },
             {
                 "posicion": "7",
@@ -2347,6 +2347,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
+                "equipo": "Cúcuta",
+                "puntos": "1",
+                "pj": "2",
+                "pg": "0",
+                "pe": "1",
+                "pp": "1",
+                "gf": 2,
+                "gc": 6,
+                "dg": -4
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "equipo": "Pasto",
                 "puntos": "0",
@@ -2359,7 +2372,7 @@
                 "dg": -2
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
                 "equipo": "Junior",
                 "puntos": "0",
@@ -2372,7 +2385,7 @@
                 "dg": -2
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "equipo": "Int. de Bogotá",
                 "puntos": "0",
@@ -2383,19 +2396,6 @@
                 "gf": 0,
                 "gc": 2,
                 "dg": -2
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
-                "equipo": "Cúcuta",
-                "puntos": "0",
-                "pj": "1",
-                "pg": "0",
-                "pe": "0",
-                "pp": "1",
-                "gf": 1,
-                "gc": 5,
-                "dg": -4
             },
             {
                 "posicion": "19",
