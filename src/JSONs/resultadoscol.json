@@ -213,32 +213,32 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "04/08/2026 18:10 HS",
+                "fecha": "04/08/2026 18:10 HS Finalizado",
                 "local": "LLA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/880.png?v=6",
                 "visitante": "FOR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3209.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "04/08/2026 20:15 HS",
+                "fecha": "04/08/2026 20:15 HS Finalizado",
                 "local": "TOL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/179.png?v=6",
                 "visitante": "DIM",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/67.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "04/08/2026 22:20 HS",
+                "fecha": "04/08/2026 22:20 HS Finalizado",
                 "local": "MIL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/184.png?v=6",
                 "visitante": "PAS",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png?v=6"
             },
             {
@@ -303,6 +303,16 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
+                "fecha": "08/08/2026 16:00 HS",
+                "local": "SFE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/183.png?v=6",
+                "visitante": "BOY",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/177.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
                 "fecha": "08/08/2026 18:20 HS",
                 "local": "FOR",
                 "goles_local": "-",
@@ -333,17 +343,7 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "09/08/2026 16:00 HS",
-                "local": "SFE",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/183.png?v=6",
-                "visitante": "BOY",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/177.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 4",
-                "fecha": "09/08/2026 16:05 HS",
+                "fecha": "09/08/2026 18:05 HS",
                 "local": "AFC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/921.png?v=6",
@@ -383,6 +383,16 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
+                "fecha": "10/08/2026 20:00 HS",
+                "local": "DIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png?v=6",
+                "visitante": "MIL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/184.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 4",
                 "fecha": "10/08/2026 22:05 HS",
                 "local": "JUN",
                 "goles_local": "-",
@@ -390,16 +400,6 @@
                 "visitante": "PER",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 4",
-                "fecha": "11/08/2026 22:00 HS",
-                "local": "DIM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png?v=6",
-                "visitante": "MIL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/184.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
@@ -2165,6 +2165,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
+                "equipo": "Indep. Medellín",
+                "puntos": "9",
+                "pj": "3",
+                "pg": "3",
+                "pe": "0",
+                "pp": "0",
+                "gf": 7,
+                "gc": 4,
+                "dg": 3
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
+                "equipo": "Llaneros FC",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
+                "pe": "1",
+                "pp": "0",
+                "gf": 5,
+                "gc": 2,
+                "dg": 3
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/66.png?v=6",
                 "equipo": "América de Cali",
                 "puntos": "6",
@@ -2177,20 +2203,7 @@
                 "dg": 9
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
-                "equipo": "Tolima",
-                "puntos": "6",
-                "pj": "2",
-                "pg": "2",
-                "pe": "0",
-                "pp": "0",
-                "gf": 4,
-                "gc": 2,
-                "dg": 2
-            },
-            {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "equipo": "Águilas Doradas",
                 "puntos": "6",
@@ -2203,20 +2216,33 @@
                 "dg": 2
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
-                "equipo": "Indep. Medellín",
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
+                "equipo": "Millonarios",
                 "puntos": "6",
-                "pj": "2",
+                "pj": "3",
                 "pg": "2",
                 "pe": "0",
-                "pp": "0",
-                "gf": 4,
-                "gc": 2,
+                "pp": "1",
+                "gf": 3,
+                "gc": 1,
                 "dg": 2
             },
             {
-                "posicion": "5",
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
+                "equipo": "Tolima",
+                "puntos": "6",
+                "pj": "3",
+                "pg": "2",
+                "pe": "0",
+                "pp": "1",
+                "gf": 6,
+                "gc": 5,
+                "dg": 1
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "equipo": "Bucaramanga",
                 "puntos": "5",
@@ -2229,7 +2255,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "equipo": "Once Caldas",
                 "puntos": "4",
@@ -2242,20 +2268,7 @@
                 "dg": 4
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
-                "equipo": "Llaneros FC",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 2,
-                "gc": 1,
-                "dg": 1
-            },
-            {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "equipo": "At. Nacional",
                 "puntos": "3",
@@ -2268,7 +2281,7 @@
                 "dg": 3
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
                 "puntos": "3",
@@ -2281,30 +2294,17 @@
                 "dg": 1
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
-                "equipo": "Millonarios",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 1,
-                "gc": 1,
-                "dg": 0
-            },
-            {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png?v=6",
                 "equipo": "Fortaleza FC",
                 "puntos": "2",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "2",
-                "pp": "0",
-                "gf": 1,
-                "gc": 1,
-                "dg": 0
+                "pp": "1",
+                "gf": 2,
+                "gc": 4,
+                "dg": -2
             },
             {
                 "posicion": "12",
@@ -2360,19 +2360,6 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
-                "equipo": "Pasto",
-                "puntos": "0",
-                "pj": "2",
-                "pg": "0",
-                "pe": "0",
-                "pp": "2",
-                "gf": 3,
-                "gc": 5,
-                "dg": -2
-            },
-            {
-                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
                 "equipo": "Junior",
                 "puntos": "0",
@@ -2385,7 +2372,7 @@
                 "dg": -2
             },
             {
-                "posicion": "18",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "equipo": "Int. de Bogotá",
                 "puntos": "0",
@@ -2396,6 +2383,19 @@
                 "gf": 0,
                 "gc": 2,
                 "dg": -2
+            },
+            {
+                "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
+                "equipo": "Pasto",
+                "puntos": "0",
+                "pj": "3",
+                "pg": "0",
+                "pe": "0",
+                "pp": "3",
+                "gf": 3,
+                "gc": 7,
+                "dg": -4
             },
             {
                 "posicion": "19",
