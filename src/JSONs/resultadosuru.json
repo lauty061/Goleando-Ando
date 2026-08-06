@@ -563,12 +563,12 @@
             },
             {
                 "fecha_torneo": "Final",
-                "fecha": "05/08/2026 20:00 HS",
+                "fecha": "05/08/2026 20:00 HS Finalizado",
                 "local": "PEÑ",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "visitante": "WAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/200.png?v=6"
             }
         ],
@@ -784,27 +784,27 @@
         ],
         "goleadores": [
             {
+                "nombre": "Abel Hernández",
+                "equipo": "Peñarol",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Luciano Cosentino",
+                "equipo": "Wanderers",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Salomón Rodríguez",
                 "equipo": "MC Torque",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "goles": 4
             },
             {
-                "nombre": "Abel Hernández",
-                "equipo": "Peñarol",
-                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Maxi Gómez",
                 "equipo": "Nacional",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Luciano Cosentino",
-                "equipo": "Wanderers",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "goles": 3
             },
             {
@@ -817,6 +817,12 @@
                 "nombre": "Christian Tabó",
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Matías Arezo",
+                "equipo": "Peñarol",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
                 "goles": 3
             },
             {
@@ -841,12 +847,6 @@
                 "nombre": "Jairo Amaro",
                 "equipo": "Cerro",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Rubén Bentancourt",
-                "equipo": "Liverpool (U)",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "goles": 2
             }
         ]
