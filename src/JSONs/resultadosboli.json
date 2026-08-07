@@ -1023,22 +1023,22 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "06/08/2026 16:00 HS",
+                "fecha": "06/08/2026 16:00 HS Finalizado",
                 "local": "TIN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "visitante": "RPO",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/233.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "06/08/2026 20:30 HS",
+                "fecha": "06/08/2026 20:30 HS Finalizado",
                 "local": "BLO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png?v=6",
                 "visitante": "ALW",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3254.png?v=6"
             },
             {
@@ -1123,7 +1123,7 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "16/01/2027 HS",
+                "fecha": "14/08/2026 16:00 HS",
                 "local": "TIN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
@@ -1133,7 +1133,7 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "23/01/2027 HS",
+                "fecha": "16/08/2026 18:15 HS",
                 "local": "NAP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
@@ -2407,10 +2407,10 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "equipo": "Always Ready",
-                "puntos": "29",
-                "pj": "12",
+                "puntos": "30",
+                "pj": "13",
                 "pg": "9",
-                "pe": "2",
+                "pe": "3",
                 "pp": "1",
                 "gf": 28,
                 "gc": 6,
@@ -2457,6 +2457,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
+                "equipo": "Real Potosí",
+                "puntos": "20",
+                "pj": "13",
+                "pg": "5",
+                "pe": "5",
+                "pp": "3",
+                "gf": 19,
+                "gc": 10,
+                "dg": 9
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "18",
@@ -2469,7 +2482,20 @@
                 "dg": -4
             },
             {
-                "posicion": "6",
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=6",
+                "equipo": "Blooming",
+                "puntos": "18",
+                "pj": "13",
+                "pg": "4",
+                "pe": "6",
+                "pp": "3",
+                "gf": 17,
+                "gc": 14,
+                "dg": 3
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "equipo": "Oriente Petrolero",
                 "puntos": "17",
@@ -2480,32 +2506,6 @@
                 "gf": 17,
                 "gc": 18,
                 "dg": -1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
-                "equipo": "Real Potosí",
-                "puntos": "17",
-                "pj": "12",
-                "pg": "4",
-                "pe": "5",
-                "pp": "3",
-                "gf": 17,
-                "gc": 10,
-                "dg": 7
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=6",
-                "equipo": "Blooming",
-                "puntos": "17",
-                "pj": "12",
-                "pg": "4",
-                "pe": "5",
-                "pp": "3",
-                "gf": 17,
-                "gc": 14,
-                "dg": 3
             },
             {
                 "posicion": "9",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "equipo": "U. de Vinto",
                 "puntos": "11",
-                "pj": "12",
+                "pj": "13",
                 "pg": "3",
                 "pe": "2",
-                "pp": "7",
+                "pp": "8",
                 "gf": 17,
-                "gc": 23,
-                "dg": -6
+                "gc": 25,
+                "dg": -8
             },
             {
                 "posicion": "16",
@@ -2644,6 +2644,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Luis Alí",
+                "equipo": "Real Potosí",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Bayron Garcés",
                 "equipo": "Blooming",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
@@ -2654,12 +2660,6 @@
                 "equipo": "Oriente Petrolero",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
                 "goles": 6
-            },
-            {
-                "nombre": "Luis Alí",
-                "equipo": "Real Potosí",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
-                "goles": 5
             },
             {
                 "nombre": "Daniel Porozo",
