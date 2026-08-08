@@ -3083,22 +3083,22 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "07/08/2026 19:00 HS",
+                "fecha": "07/08/2026 19:00 HS Finalizado",
                 "local": "ITU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/781.png?v=6",
                 "visitante": "CAM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1602.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "07/08/2026 19:00 HS",
+                "fecha": "07/08/2026 19:00 HS Finalizado",
                 "local": "COM",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/673.png?v=6",
                 "visitante": "VSC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/701.png?v=6"
             },
             {
@@ -4775,6 +4775,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
+                "equipo": "Camioneros",
+                "puntos": "54",
+                "pj": "29",
+                "pg": "15",
+                "pe": "9",
+                "pp": "5",
+                "gf": 35,
+                "gc": 18,
+                "dg": 17
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
                 "equipo": "Excursionistas",
                 "puntos": "53",
@@ -4787,7 +4800,7 @@
                 "dg": 21
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "equipo": "Talleres (RE)",
                 "puntos": "53",
@@ -4800,7 +4813,7 @@
                 "dg": 18
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=6",
                 "equipo": "Arsenal",
                 "puntos": "52",
@@ -4813,7 +4826,7 @@
                 "dg": 18
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=6",
                 "equipo": "Villa Dálmine",
                 "puntos": "52",
@@ -4824,19 +4837,6 @@
                 "gf": 32,
                 "gc": 15,
                 "dg": 17
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
-                "equipo": "Camioneros",
-                "puntos": "51",
-                "pj": "28",
-                "pg": "14",
-                "pe": "9",
-                "pp": "5",
-                "gf": 34,
-                "gc": 18,
-                "dg": 16
             },
             {
                 "posicion": "6",
@@ -4882,13 +4882,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/673.png?v=6",
                 "equipo": "Comunicaciones",
                 "puntos": "39",
-                "pj": "28",
+                "pj": "29",
                 "pg": "10",
                 "pe": "9",
-                "pp": "9",
+                "pp": "10",
                 "gf": 31,
-                "gc": 28,
-                "dg": 3
+                "gc": 29,
+                "dg": 2
             },
             {
                 "posicion": "10",
@@ -4970,6 +4970,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/701.png?v=6",
+                "equipo": "Villa San Carlos",
+                "puntos": "29",
+                "pj": "29",
+                "pg": "6",
+                "pe": "11",
+                "pp": "12",
+                "gf": 28,
+                "gc": 35,
+                "dg": -7
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/783.png?v=6",
                 "equipo": "Liniers",
                 "puntos": "29",
@@ -4982,7 +4995,7 @@
                 "dg": -9
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
                 "equipo": "Brown (Adrogué)",
                 "puntos": "28",
@@ -4995,7 +5008,7 @@
                 "dg": -12
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
                 "equipo": "Flandria",
                 "puntos": "27",
@@ -5006,19 +5019,6 @@
                 "gf": 22,
                 "gc": 35,
                 "dg": -13
-            },
-            {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/701.png?v=6",
-                "equipo": "Villa San Carlos",
-                "puntos": "26",
-                "pj": "28",
-                "pg": "5",
-                "pe": "11",
-                "pp": "12",
-                "gf": 27,
-                "gc": 35,
-                "dg": -8
             },
             {
                 "posicion": "20",
@@ -5051,13 +5051,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png?v=6",
                 "equipo": "Ituzaingó",
                 "puntos": "12",
-                "pj": "28",
+                "pj": "29",
                 "pg": "1",
                 "pe": "9",
-                "pp": "18",
+                "pp": "19",
                 "gf": 18,
-                "gc": 45,
-                "dg": -27
+                "gc": 46,
+                "dg": -28
             }
         ],
         "goleadores": [

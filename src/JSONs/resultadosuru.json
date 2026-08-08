@@ -3,12 +3,12 @@
         "fixture": [
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "07/08/2026 19:00 HS",
+                "fecha": "07/08/2026 19:00 HS Finalizado",
                 "local": "CLA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/958.png?v=6",
                 "visitante": "JUV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/771.png?v=6"
             },
             {
@@ -1205,6 +1205,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
+                "equipo": "Cerro Largo",
+                "puntos": "1",
+                "pj": "1",
+                "pg": "0",
+                "pe": "1",
+                "pp": "0",
+                "gf": 1,
+                "gc": 1,
+                "dg": 0
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
+                "equipo": "Juventud",
+                "puntos": "1",
+                "pj": "1",
+                "pg": "0",
+                "pe": "1",
+                "pp": "0",
+                "gf": 1,
+                "gc": 1,
+                "dg": 0
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "equipo": "Albion",
                 "puntos": "0",
@@ -1217,7 +1243,7 @@
                 "dg": 0
             },
             {
-                "posicion": "2",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png?v=6",
                 "equipo": "Boston River",
                 "puntos": "0",
@@ -1230,7 +1256,7 @@
                 "dg": 0
             },
             {
-                "posicion": "3",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png?v=6",
                 "equipo": "Central Español",
                 "puntos": "0",
@@ -1243,7 +1269,7 @@
                 "dg": 0
             },
             {
-                "posicion": "4",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
                 "equipo": "Cerro",
                 "puntos": "0",
@@ -1256,35 +1282,9 @@
                 "dg": 0
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
-                "equipo": "Cerro Largo",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=6",
                 "equipo": "Danubio",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=6",
-                "equipo": "Defensor Sporting",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1309,8 +1309,8 @@
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
-                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=6",
+                "equipo": "Defensor Sporting",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -1412,6 +1412,19 @@
                 "dg": 0
             }
         ],
-        "goleadores": []
+        "goleadores": [
+            {
+                "nombre": "Axel Pandiani",
+                "equipo": "Cerro Largo",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Gastón Pereiro",
+                "equipo": "Juventud",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png",
+                "goles": 1
+            }
+        ]
     }
 }

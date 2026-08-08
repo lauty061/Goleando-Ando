@@ -183,12 +183,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "07/08/2026 18:30 HS",
+                "fecha": "07/08/2026 18:30 HS Finalizado",
                 "local": "RÑU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "visitante": "REC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png?v=6"
             },
             {
@@ -1351,6 +1351,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
+                "equipo": "D. Recoleta",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 8,
+                "gc": 8,
+                "dg": 0
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
                 "puntos": "6",
@@ -1363,7 +1376,7 @@
                 "dg": 1
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "equipo": "Libertad",
                 "puntos": "6",
@@ -1374,19 +1387,6 @@
                 "gf": 6,
                 "gc": 3,
                 "dg": 3
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
-                "equipo": "D. Recoleta",
-                "puntos": "4",
-                "pj": "3",
-                "pg": "1",
-                "pe": "1",
-                "pp": "1",
-                "gf": 5,
-                "gc": 7,
-                "dg": -2
             },
             {
                 "posicion": "6",
@@ -1471,13 +1471,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "equipo": "Rubio Ñu",
                 "puntos": "1",
-                "pj": "3",
+                "pj": "4",
                 "pg": "0",
                 "pe": "1",
-                "pp": "2",
-                "gf": 1,
-                "gc": 7,
-                "dg": -6
+                "pp": "3",
+                "gf": 2,
+                "gc": 10,
+                "dg": -8
             }
         ],
         "goleadores": [
@@ -1506,6 +1506,12 @@
                 "goles": 2
             },
             {
+                "nombre": "Héctor López",
+                "equipo": "Deportivo Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Estivel Moreira",
                 "equipo": "Sp. Ameliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
@@ -1530,21 +1536,15 @@
                 "goles": 1
             },
             {
+                "nombre": "Kevin Parzajuk",
+                "equipo": "Deportivo Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Braian Romero",
                 "equipo": "Olimpia",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Richard Torales",
-                "equipo": "Sp. Ameliano",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Jonathan  Torres",
-                "equipo": "Cerro Porteño",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "goles": 1
             }
         ]

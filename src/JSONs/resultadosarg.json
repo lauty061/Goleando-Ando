@@ -453,22 +453,22 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "07/08/2026 19:30 HS",
+                "fecha": "07/08/2026 19:30 HS Finalizado",
                 "local": "ROS",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/18.png?v=6",
                 "visitante": "ALD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/122.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "07/08/2026 21:45 HS",
+                "fecha": "07/08/2026 21:45 HS Finalizado",
                 "local": "INM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/664.png?v=6",
                 "visitante": "ERC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/834.png?v=6"
             },
             {
@@ -674,16 +674,6 @@
             {
                 "fecha_torneo": "Fecha 5",
                 "fecha": "16/08/2026 15:00 HS",
-                "local": "CCO",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1485.png?v=6",
-                "visitante": "INS",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 5",
-                "fecha": "16/08/2026 15:00 HS",
                 "local": "SAR",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/142.png?v=6",
@@ -700,6 +690,16 @@
                 "visitante": "ARG",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "16/08/2026 20:15 HS",
+                "local": "CCO",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1485.png?v=6",
+                "visitante": "INS",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
@@ -2543,7 +2543,7 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "13/12/2026  HS",
+                "fecha": "12/12/2026  HS",
                 "local": "",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/0.png?v=6",
@@ -2982,6 +2982,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Alex Arce",
+                "equipo": "Independiente Riv. (M)",
+                "escudo": "https://statics-files.tycsports.com/escudos/664.png",
+                "goles": 3
+            },
+            {
                 "nombre": "David Barbona",
                 "equipo": "Defensa y Justicia",
                 "escudo": "https://statics-files.tycsports.com/escudos/129.png",
@@ -3033,12 +3039,6 @@
                 "nombre": "Mauricio Martínez",
                 "equipo": "Sarmiento",
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Thiago Aguirre",
-                "equipo": "Vélez",
-                "escudo": "https://statics-files.tycsports.com/escudos/20.png",
                 "goles": 1
             }
         ]

@@ -1363,12 +1363,12 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "07/08/2026 21:30 HS",
+                "fecha": "07/08/2026 21:30 HS Finalizado",
                 "local": "UCA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/120.png?v=6",
                 "visitante": "COB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png?v=6"
             },
             {
@@ -1473,6 +1473,16 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
+                "fecha": "16/08/2026 13:30 HS",
+                "local": "ÑUB",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png?v=6",
+                "visitante": "ULC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 19",
                 "fecha": "16/08/2026 16:00 HS",
                 "local": "COB",
                 "goles_local": "-",
@@ -1490,16 +1500,6 @@
                 "visitante": "OHI",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 19",
-                "fecha": "16/08/2026 HS",
-                "local": "ÑUB",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/599.png?v=6",
-                "visitante": "ULC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 19",
@@ -2418,6 +2418,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
+                "equipo": "U. Católica",
+                "puntos": "30",
+                "pj": "18",
+                "pg": "9",
+                "pe": "3",
+                "pp": "6",
+                "gf": 40,
+                "gc": 26,
+                "dg": 14
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "equipo": "U. de Chile",
                 "puntos": "30",
@@ -2428,19 +2441,6 @@
                 "gf": 21,
                 "gc": 11,
                 "dg": 10
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
-                "equipo": "U. Católica",
-                "puntos": "27",
-                "pj": "17",
-                "pg": "8",
-                "pe": "3",
-                "pp": "6",
-                "gf": 38,
-                "gc": 26,
-                "dg": 12
             },
             {
                 "posicion": "4",
@@ -2510,7 +2510,7 @@
             {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
-                "equipo": "O'Higgins",
+                "equipo": "O´Higgins",
                 "puntos": "23",
                 "pj": "17",
                 "pg": "7",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "equipo": "Cobresal",
                 "puntos": "17",
-                "pj": "17",
+                "pj": "18",
                 "pg": "5",
                 "pe": "2",
-                "pp": "10",
+                "pp": "11",
                 "gf": 26,
-                "gc": 32,
-                "dg": -6
+                "gc": 34,
+                "dg": -8
             },
             {
                 "posicion": "16",
@@ -2617,7 +2617,7 @@
                 "nombre": "Fernando Zampedri",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 17
+                "goles": 18
             },
             {
                 "nombre": "Castro Santibáñez, D.",
