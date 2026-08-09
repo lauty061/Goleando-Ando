@@ -2103,42 +2103,42 @@
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "08/08/2026 16:00 HS",
+                "fecha": "08/08/2026 16:00 HS Finalizado",
                 "local": "GRE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/309.png?v=6",
                 "visitante": "SPA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/75.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "08/08/2026 18:30 HS",
+                "fecha": "08/08/2026 18:30 HS Finalizado",
                 "local": "CDR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "visitante": "MIN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/624.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "08/08/2026 20:30 HS",
+                "fecha": "08/08/2026 20:30 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "visitante": "CHA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3694.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "08/08/2026 21:00 HS",
+                "fecha": "08/08/2026 21:00 HS Finalizado",
                 "local": "BOT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/254.png?v=6",
                 "visitante": "FLU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/113.png?v=6"
             },
             {
@@ -3846,13 +3846,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/113.png?v=6",
                 "equipo": "Fluminense",
-                "puntos": "34",
-                "pj": "21",
+                "puntos": "35",
+                "pj": "22",
                 "pg": "9",
-                "pe": "7",
+                "pe": "8",
                 "pp": "5",
-                "gf": 30,
-                "gc": 25,
+                "gf": 31,
+                "gc": 26,
                 "dg": 5
             },
             {
@@ -3883,6 +3883,32 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/254.png?v=6",
+                "equipo": "Botafogo",
+                "puntos": "30",
+                "pj": "21",
+                "pg": "8",
+                "pe": "6",
+                "pp": "7",
+                "gf": 35,
+                "gc": 33,
+                "dg": 2
+            },
+            {
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
+                "equipo": "Coritiba",
+                "puntos": "30",
+                "pj": "22",
+                "pg": "8",
+                "pe": "6",
+                "pp": "8",
+                "gf": 27,
+                "gc": 29,
+                "dg": -2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png?v=6",
                 "equipo": "Cruzeiro",
                 "puntos": "30",
@@ -3895,20 +3921,20 @@
                 "dg": -3
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/254.png?v=6",
-                "equipo": "Botafogo",
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
+                "equipo": "Atlético Mineiro",
                 "puntos": "29",
-                "pj": "20",
+                "pj": "21",
                 "pg": "8",
                 "pe": "5",
-                "pp": "7",
-                "gf": 34,
-                "gc": 32,
-                "dg": 2
+                "pp": "8",
+                "gf": 27,
+                "gc": 27,
+                "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
                 "equipo": "Corinthians",
                 "puntos": "29",
@@ -3921,43 +3947,17 @@
                 "dg": 2
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
-                "equipo": "Atlético Mineiro",
-                "puntos": "28",
-                "pj": "20",
-                "pg": "8",
-                "pe": "4",
-                "pp": "8",
-                "gf": 25,
-                "gc": 25,
-                "dg": 0
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
-                "equipo": "Coritiba",
-                "puntos": "27",
-                "pj": "21",
-                "pg": "7",
-                "pe": "6",
-                "pp": "8",
-                "gf": 25,
-                "gc": 28,
-                "dg": -3
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/75.png?v=6",
                 "equipo": "São Paulo",
                 "puntos": "26",
-                "pj": "20",
+                "pj": "21",
                 "pg": "7",
                 "pe": "5",
-                "pp": "8",
-                "gf": 25,
-                "gc": 23,
-                "dg": 2
+                "pp": "9",
+                "gf": 26,
+                "gc": 25,
+                "dg": 1
             },
             {
                 "posicion": "13",
@@ -3974,6 +3974,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/309.png?v=6",
+                "equipo": "Grêmio",
+                "puntos": "25",
+                "pj": "21",
+                "pg": "6",
+                "pe": "7",
+                "pp": "8",
+                "gf": 24,
+                "gc": 27,
+                "dg": -3
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/884.png?v=6",
                 "equipo": "Mirassol",
                 "puntos": "23",
@@ -3986,7 +3999,7 @@
                 "dg": -4
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/73.png?v=6",
                 "equipo": "Santos",
                 "puntos": "22",
@@ -3999,7 +4012,7 @@
                 "dg": -4
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/116.png?v=6",
                 "equipo": "Internacional",
                 "puntos": "22",
@@ -4012,20 +4025,20 @@
                 "dg": -4
             },
             {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/309.png?v=6",
-                "equipo": "Grêmio",
+                "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
+                "equipo": "Remo",
                 "puntos": "22",
-                "pj": "20",
+                "pj": "22",
                 "pg": "5",
                 "pe": "7",
-                "pp": "8",
-                "gf": 22,
-                "gc": 26,
-                "dg": -4
+                "pp": "10",
+                "gf": 26,
+                "gc": 36,
+                "dg": -10
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/261.png?v=6",
                 "equipo": "Vasco da Gama",
                 "puntos": "21",
@@ -4038,30 +4051,17 @@
                 "dg": -8
             },
             {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
-                "equipo": "Remo",
-                "puntos": "21",
-                "pj": "21",
-                "pg": "5",
-                "pe": "6",
-                "pp": "10",
-                "gf": 24,
-                "gc": 34,
-                "dg": -10
-            },
-            {
                 "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/3694.png?v=6",
                 "equipo": "Chapecoense",
                 "puntos": "10",
-                "pj": "20",
+                "pj": "21",
                 "pg": "1",
                 "pe": "7",
-                "pp": "12",
-                "gf": 19,
-                "gc": 41,
-                "dg": -22
+                "pp": "13",
+                "gf": 20,
+                "gc": 43,
+                "dg": -23
             }
         ],
         "goleadores": [

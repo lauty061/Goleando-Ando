@@ -143,12 +143,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "08/08/2026 17:00 HS",
+                "fecha": "08/08/2026 17:00 HS Finalizado",
                 "local": "MON",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/226.png?v=6",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/223.png?v=6"
             },
             {
@@ -193,23 +193,23 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "14/08/2026 HS",
-                "local": "CAR",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/85.png?v=6",
-                "visitante": "DLG",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 3",
-                "fecha": "14/08/2026 HS",
+                "fecha": "10/08/2026 16:30 HS",
                 "local": "ZUL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/972.png?v=6",
                 "visitante": "EST",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/224.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 3",
+                "fecha": "10/08/2026 19:30 HS",
+                "local": "CAR",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/85.png?v=6",
+                "visitante": "DLG",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1282.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
@@ -1237,19 +1237,6 @@
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/223.png?v=6",
-                "equipo": "Carabobo",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 2,
-                "gc": 1,
-                "dg": 1
-            },
-            {
-                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png?v=6",
                 "equipo": "Dep. La Guaira",
                 "puntos": "3",
@@ -1259,6 +1246,19 @@
                 "pp": "1",
                 "gf": 3,
                 "gc": 3,
+                "dg": 0
+            },
+            {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/223.png?v=6",
+                "equipo": "Carabobo",
+                "puntos": "3",
+                "pj": "3",
+                "pg": "1",
+                "pe": "0",
+                "pp": "2",
+                "gf": 2,
+                "gc": 2,
                 "dg": 0
             },
             {
@@ -1302,6 +1302,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/226.png?v=6",
+                "equipo": "Monagas",
+                "puntos": "3",
+                "pj": "3",
+                "pg": "1",
+                "pe": "0",
+                "pp": "2",
+                "gf": 3,
+                "gc": 4,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png?v=6",
                 "equipo": "UCV",
                 "puntos": "3",
@@ -1314,7 +1327,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
                 "equipo": "Anzoátegui FC",
                 "puntos": "3",
@@ -1327,7 +1340,7 @@
                 "dg": -2
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/85.png?v=6",
                 "equipo": "Caracas",
                 "puntos": "1",
@@ -1337,19 +1350,6 @@
                 "pp": "1",
                 "gf": 3,
                 "gc": 5,
-                "dg": -2
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/226.png?v=6",
-                "equipo": "Monagas",
-                "puntos": "0",
-                "pj": "2",
-                "pg": "0",
-                "pe": "0",
-                "pp": "2",
-                "gf": 2,
-                "gc": 4,
                 "dg": -2
             },
             {

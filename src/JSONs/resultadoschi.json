@@ -1373,22 +1373,22 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "08/08/2026 16:00 HS",
+                "fecha": "08/08/2026 16:00 HS Finalizado",
                 "local": "HUA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "visitante": "EVE",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "08/08/2026 18:30 HS",
+                "fecha": "08/08/2026 18:30 HS Finalizado",
                 "local": "COQ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "visitante": "LSE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png?v=6"
             },
             {
@@ -2457,6 +2457,32 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
+                "equipo": "Everton",
+                "puntos": "26",
+                "pj": "18",
+                "pg": "7",
+                "pe": "5",
+                "pp": "6",
+                "gf": 27,
+                "gc": 21,
+                "dg": 6
+            },
+            {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
+                "equipo": "Coquimbo Unido",
+                "puntos": "25",
+                "pj": "17",
+                "pg": "7",
+                "pe": "4",
+                "pp": "6",
+                "gf": 24,
+                "gc": 21,
+                "dg": 3
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "25",
@@ -2469,43 +2495,17 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
-                "equipo": "Coquimbo Unido",
-                "puntos": "24",
-                "pj": "16",
-                "pg": "7",
-                "pe": "3",
-                "pp": "6",
-                "gf": 23,
-                "gc": 20,
-                "dg": 3
-            },
-            {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "equipo": "Huachipato",
                 "puntos": "24",
-                "pj": "17",
+                "pj": "18",
                 "pg": "7",
                 "pe": "3",
-                "pp": "7",
-                "gf": 26,
-                "gc": 27,
-                "dg": -1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
-                "equipo": "Everton",
-                "puntos": "23",
-                "pj": "17",
-                "pg": "6",
-                "pe": "5",
-                "pp": "6",
-                "gf": 23,
-                "gc": 20,
-                "dg": 3
+                "pp": "8",
+                "gf": 27,
+                "gc": 31,
+                "dg": -4
             },
             {
                 "posicion": "9",
@@ -2548,6 +2548,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
+                "equipo": "D. La Serena",
+                "puntos": "20",
+                "pj": "18",
+                "pg": "4",
+                "pe": "8",
+                "pp": "6",
+                "gf": 26,
+                "gc": 31,
+                "dg": -5
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
                 "puntos": "19",
@@ -2558,19 +2571,6 @@
                 "gf": 20,
                 "gc": 23,
                 "dg": -3
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
-                "equipo": "D. La Serena",
-                "puntos": "19",
-                "pj": "17",
-                "pg": "4",
-                "pe": "7",
-                "pp": "6",
-                "gf": 25,
-                "gc": 30,
-                "dg": -5
             },
             {
                 "posicion": "14",
@@ -2638,6 +2638,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Lionel Altamirano",
+                "equipo": "Huachipato",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Javier Correa",
                 "equipo": "Colo Colo",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
@@ -2647,12 +2653,6 @@
                 "nombre": "Steffan Pino",
                 "equipo": "Cobresal",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Lionel Altamirano",
-                "equipo": "Huachipato",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "goles": 7
             },
             {
@@ -2674,10 +2674,10 @@
                 "goles": 7
             },
             {
-                "nombre": "Nicolás Johansen",
-                "equipo": "Coquimbo Unido",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
-                "goles": 6
+                "nombre": "Alan Medina",
+                "equipo": "Everton",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
+                "goles": 7
             }
         ]
     }

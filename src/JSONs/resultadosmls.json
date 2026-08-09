@@ -443,12 +443,12 @@
             },
             {
                 "fecha_torneo": "Semana 3",
-                "fecha": "08/08/2026 17:30 HS",
+                "fecha": "08/08/2026 17:30 HS Finalizado",
                 "local": "NER",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1300.png?v=6",
                 "visitante": "HOU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1297.png?v=6"
             },
             {
@@ -5387,13 +5387,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1300.png?v=6",
                 "equipo": "NE Revolution",
                 "puntos": "30",
-                "pj": "17",
+                "pj": "18",
                 "pg": "9",
                 "pe": "3",
-                "pp": "5",
+                "pp": "6",
                 "gf": 28,
-                "gc": 21,
-                "dg": 7
+                "gc": 23,
+                "dg": 5
             },
             {
                 "zona": "Grupo Este",
@@ -5610,14 +5610,14 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1297.png?v=6",
                 "equipo": "Houston",
-                "puntos": "29",
-                "pj": "17",
-                "pg": "9",
+                "puntos": "32",
+                "pj": "18",
+                "pg": "10",
                 "pe": "2",
                 "pp": "6",
-                "gf": 25,
+                "gf": 27,
                 "gc": 24,
-                "dg": 1
+                "dg": 3
             },
             {
                 "zona": "Grupo Oeste",
@@ -5800,6 +5800,12 @@
                 "goles": 12
             },
             {
+                "nombre": "Vieira dos Santos, G.",
+                "equipo": "Houston",
+                "escudo": "https://statics-files.tycsports.com/escudos/1297.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Preston Judd",
                 "equipo": "San José Earthquakes",
                 "escudo": "https://statics-files.tycsports.com/escudos/2114.png",
@@ -5833,12 +5839,6 @@
                 "nombre": "Da Silva Ferreira, E.",
                 "equipo": "FC Cincinnati",
                 "escudo": "https://statics-files.tycsports.com/escudos/7819.png",
-                "goles": 11
-            },
-            {
-                "nombre": "Sam Surridge",
-                "equipo": "Nashville SC",
-                "escudo": "https://statics-files.tycsports.com/escudos/7917.png",
                 "goles": 11
             }
         ]

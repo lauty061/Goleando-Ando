@@ -193,22 +193,22 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "08/08/2026 16:00 HS",
+                "fecha": "08/08/2026 16:00 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "08/08/2026 18:30 HS",
+                "fecha": "08/08/2026 18:30 HS Finalizado",
                 "local": "2MA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/269.png?v=6",
                 "visitante": "OLI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/215.png?v=6"
             },
             {
@@ -1325,6 +1325,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
+                "equipo": "2 de Mayo",
+                "puntos": "10",
+                "pj": "4",
+                "pg": "3",
+                "pe": "1",
+                "pp": "0",
+                "gf": 5,
+                "gc": 2,
+                "dg": 3
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
                 "puntos": "9",
@@ -1335,19 +1348,6 @@
                 "gf": 9,
                 "gc": 2,
                 "dg": 7
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
-                "equipo": "2 de Mayo",
-                "puntos": "7",
-                "pj": "3",
-                "pg": "2",
-                "pe": "1",
-                "pp": "0",
-                "gf": 4,
-                "gc": 2,
-                "dg": 2
             },
             {
                 "posicion": "3",
@@ -1377,6 +1377,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
+                "equipo": "Sp. Ameliano",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "1",
+                "pe": "3",
+                "pp": "0",
+                "gf": 4,
+                "gc": 3,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "equipo": "Libertad",
                 "puntos": "6",
@@ -1389,7 +1402,7 @@
                 "dg": 3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "equipo": "Nacional (P)",
                 "puntos": "4",
@@ -1402,43 +1415,30 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "equipo": "Cerro Porteño",
                 "puntos": "3",
-                "pj": "3",
+                "pj": "4",
                 "pg": "1",
                 "pe": "0",
-                "pp": "2",
+                "pp": "3",
                 "gf": 5,
-                "gc": 4,
-                "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
-                "equipo": "Olimpia",
-                "puntos": "3",
-                "pj": "3",
-                "pg": "1",
-                "pe": "0",
-                "pp": "2",
-                "gf": 5,
-                "gc": 3,
-                "dg": 2
+                "gc": 5,
+                "dg": 0
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
-                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
+                "equipo": "Olimpia",
                 "puntos": "3",
-                "pj": "3",
-                "pg": "0",
-                "pe": "3",
-                "pp": "0",
-                "gf": 3,
-                "gc": 3,
-                "dg": 0
+                "pj": "4",
+                "pg": "1",
+                "pe": "0",
+                "pp": "3",
+                "gf": 5,
+                "gc": 4,
+                "dg": 1
             },
             {
                 "posicion": "10",
@@ -1506,6 +1506,12 @@
                 "goles": 2
             },
             {
+                "nombre": "Matías Cáceres",
+                "equipo": "2 de Mayo",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Héctor López",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
@@ -1539,12 +1545,6 @@
                 "nombre": "Kevin Parzajuk",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Braian Romero",
-                "equipo": "Olimpia",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
                 "goles": 1
             }
         ]
