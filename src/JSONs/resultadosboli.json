@@ -1093,32 +1093,32 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "09/08/2026 16:00 HS",
+                "fecha": "09/08/2026 16:00 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
                 "visitante": "ALW",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3254.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "09/08/2026 18:15 HS",
+                "fecha": "09/08/2026 18:15 HS Finalizado",
                 "local": "RPO",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "visitante": "BLO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/229.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "09/08/2026 20:30 HS",
+                "fecha": "09/08/2026 20:30 HS Finalizado",
                 "local": "ORI",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png?v=6"
             },
             {
@@ -2407,14 +2407,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "equipo": "Always Ready",
-                "puntos": "30",
-                "pj": "13",
-                "pg": "9",
+                "puntos": "33",
+                "pj": "14",
+                "pg": "10",
                 "pe": "3",
                 "pp": "1",
-                "gf": 28,
-                "gc": 6,
-                "dg": 22
+                "gf": 31,
+                "gc": 8,
+                "dg": 23
             },
             {
                 "posicion": "2",
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
+                "equipo": "Real Potosí",
+                "puntos": "23",
+                "pj": "14",
+                "pg": "6",
+                "pe": "5",
+                "pp": "3",
+                "gf": 21,
+                "gc": 10,
+                "dg": 11
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=6",
                 "equipo": "Aurora",
                 "puntos": "22",
@@ -2456,7 +2469,7 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "21",
@@ -2469,20 +2482,20 @@
                 "dg": -3
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
-                "equipo": "Real Potosí",
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
+                "equipo": "Oriente Petrolero",
                 "puntos": "20",
-                "pj": "13",
-                "pg": "5",
-                "pe": "5",
-                "pp": "3",
-                "gf": 19,
-                "gc": 10,
-                "dg": 9
+                "pj": "14",
+                "pg": "6",
+                "pe": "2",
+                "pp": "6",
+                "gf": 22,
+                "gc": 18,
+                "dg": 4
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "19",
@@ -2495,30 +2508,17 @@
                 "dg": 0
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=6",
                 "equipo": "Blooming",
                 "puntos": "18",
-                "pj": "13",
+                "pj": "14",
                 "pg": "4",
                 "pe": "6",
-                "pp": "3",
+                "pp": "4",
                 "gf": 17,
-                "gc": 14,
-                "dg": 3
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
-                "equipo": "Oriente Petrolero",
-                "puntos": "17",
-                "pj": "13",
-                "pg": "5",
-                "pe": "2",
-                "pp": "6",
-                "gf": 17,
-                "gc": 18,
-                "dg": -1
+                "gc": 16,
+                "dg": 1
             },
             {
                 "posicion": "10",
@@ -2577,26 +2577,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
                 "equipo": "GV San José",
                 "puntos": "12",
-                "pj": "13",
+                "pj": "14",
                 "pg": "2",
                 "pe": "6",
-                "pp": "5",
-                "gf": 12,
-                "gc": 18,
-                "dg": -6
+                "pp": "6",
+                "gf": 14,
+                "gc": 21,
+                "dg": -7
             },
             {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "equipo": "U. de Vinto",
                 "puntos": "11",
-                "pj": "13",
+                "pj": "14",
                 "pg": "3",
                 "pe": "2",
-                "pp": "8",
+                "pp": "9",
                 "gf": 17,
-                "gc": 25,
-                "dg": -8
+                "gc": 30,
+                "dg": -13
             },
             {
                 "posicion": "16",

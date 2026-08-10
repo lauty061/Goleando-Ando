@@ -213,22 +213,22 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "09/08/2026 16:00 HS",
+                "fecha": "09/08/2026 16:00 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "visitante": "LUQ",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/213.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "09/08/2026 18:30 HS",
+                "fecha": "09/08/2026 18:30 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "visitante": "GUA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/115.png?v=6"
             },
             {
@@ -1351,6 +1351,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
+                "equipo": "Guaraní",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 4,
+                "gc": 3,
+                "dg": 1
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "equipo": "D. Recoleta",
                 "puntos": "7",
@@ -1363,33 +1376,7 @@
                 "dg": 0
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
-                "equipo": "Guaraní",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 4,
-                "gc": 3,
-                "dg": 1
-            },
-            {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
-                "equipo": "Sp. Ameliano",
-                "puntos": "6",
-                "pj": "4",
-                "pg": "1",
-                "pe": "3",
-                "pp": "0",
-                "gf": 4,
-                "gc": 3,
-                "dg": 1
-            },
-            {
-                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "equipo": "Libertad",
                 "puntos": "6",
@@ -1402,30 +1389,43 @@
                 "dg": 3
             },
             {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
+                "equipo": "Sp. Ameliano",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "1",
+                "pe": "3",
+                "pp": "0",
+                "gf": 4,
+                "gc": 3,
+                "dg": 1
+            },
+            {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
+                "equipo": "Sportivo Luqueño",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "2",
+                "pe": "0",
+                "pp": "2",
+                "gf": 5,
+                "gc": 8,
+                "dg": -3
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "equipo": "Nacional (P)",
-                "puntos": "4",
-                "pj": "3",
+                "puntos": "5",
+                "pj": "4",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "1",
                 "gf": 5,
                 "gc": 4,
                 "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
-                "equipo": "Cerro Porteño",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 5,
-                "gc": 5,
-                "dg": 0
             },
             {
                 "posicion": "9",
@@ -1442,29 +1442,29 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
-                "equipo": "Sportivo Luqueño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
+                "equipo": "Cerro Porteño",
                 "puntos": "3",
-                "pj": "3",
+                "pj": "4",
                 "pg": "1",
                 "pe": "0",
-                "pp": "2",
-                "gf": 3,
-                "gc": 8,
-                "dg": -5
+                "pp": "3",
+                "gf": 5,
+                "gc": 5,
+                "dg": 0
             },
             {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "1",
-                "pj": "3",
+                "pj": "4",
                 "pg": "0",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 1,
-                "gc": 5,
-                "dg": -4
+                "gc": 7,
+                "dg": -6
             },
             {
                 "posicion": "12",

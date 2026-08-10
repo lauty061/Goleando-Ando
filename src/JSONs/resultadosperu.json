@@ -1873,22 +1873,22 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "09/08/2026 15:00 HS",
+                "fecha": "09/08/2026 15:00 HS Finalizado",
                 "local": "DEG",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10929.png?v=6",
                 "visitante": "CVM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11322.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "09/08/2026 17:30 HS",
+                "fecha": "09/08/2026 17:30 HS Finalizado",
                 "local": "MEL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/203.png?v=6",
                 "visitante": "FCC",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12382.png?v=6"
             },
             {
@@ -3384,6 +3384,12 @@
                 "goles": 11
             },
             {
+                "nombre": "Jhonny Vidales",
+                "equipo": "Melgar",
+                "escudo": "https://statics-files.tycsports.com/escudos/203.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Hernán Barcos",
                 "equipo": "Sporting Cristal",
                 "escudo": "https://statics-files.tycsports.com/escudos/92.png",
@@ -3405,12 +3411,6 @@
                 "nombre": "Franco Torres",
                 "equipo": "Los Chankas",
                 "escudo": "https://statics-files.tycsports.com/escudos/6198.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Jhonny Vidales",
-                "equipo": "Melgar",
-                "escudo": "https://statics-files.tycsports.com/escudos/203.png",
                 "goles": 9
             }
         ]

@@ -3173,22 +3173,22 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "09/08/2026 15:00 HS",
+                "fecha": "09/08/2026 15:00 HS Finalizado",
                 "local": "DSU",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/688.png?v=6",
                 "visitante": "SMB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/697.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "09/08/2026 15:00 HS",
+                "fecha": "09/08/2026 15:00 HS Finalizado",
                 "local": "LAF",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/694.png?v=6",
                 "visitante": "ASL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3.png?v=6"
             },
             {
@@ -4801,6 +4801,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=6",
+                "equipo": "Arsenal",
+                "puntos": "53",
+                "pj": "29",
+                "pg": "14",
+                "pe": "11",
+                "pp": "4",
+                "gf": 39,
+                "gc": 21,
+                "dg": 18
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "equipo": "Talleres (RE)",
                 "puntos": "53",
@@ -4811,19 +4824,6 @@
                 "gf": 32,
                 "gc": 15,
                 "dg": 17
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=6",
-                "equipo": "Arsenal",
-                "puntos": "52",
-                "pj": "28",
-                "pg": "14",
-                "pe": "10",
-                "pp": "4",
-                "gf": 38,
-                "gc": 20,
-                "dg": 18
             },
             {
                 "posicion": "5",
@@ -4868,13 +4868,13 @@
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png?v=6",
                 "equipo": "Laferrere",
-                "puntos": "41",
-                "pj": "28",
+                "puntos": "42",
+                "pj": "29",
                 "pg": "11",
-                "pe": "8",
+                "pe": "9",
                 "pp": "9",
-                "gf": 32,
-                "gc": 33,
+                "gf": 33,
+                "gc": 34,
                 "dg": -1
             },
             {
@@ -4931,19 +4931,32 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/697.png?v=6",
-                "equipo": "S. Martín B.",
+                "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
+                "equipo": "Dock Sud",
                 "puntos": "36",
-                "pj": "28",
+                "pj": "29",
                 "pg": "8",
                 "pe": "12",
-                "pp": "8",
-                "gf": 27,
-                "gc": 26,
-                "dg": 1
+                "pp": "9",
+                "gf": 32,
+                "gc": 27,
+                "dg": 5
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/697.png?v=6",
+                "equipo": "S. Martín B.",
+                "puntos": "36",
+                "pj": "29",
+                "pg": "8",
+                "pe": "12",
+                "pp": "9",
+                "gf": 28,
+                "gc": 30,
+                "dg": -2
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=6",
                 "equipo": "Arg. de Quilmes",
                 "puntos": "34",
@@ -4954,19 +4967,6 @@
                 "gf": 25,
                 "gc": 28,
                 "dg": -3
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
-                "equipo": "Dock Sud",
-                "puntos": "33",
-                "pj": "28",
-                "pg": "7",
-                "pe": "12",
-                "pp": "9",
-                "gf": 28,
-                "gc": 26,
-                "dg": 2
             },
             {
                 "posicion": "16",
@@ -5074,6 +5074,12 @@
                 "goles": 11
             },
             {
+                "nombre": "Franco Romero",
+                "equipo": "Laferrere",
+                "escudo": "https://statics-files.tycsports.com/escudos/694.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Gonzalo Figueroa",
                 "equipo": "Dep. Armenio",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png",
@@ -5086,21 +5092,15 @@
                 "goles": 11
             },
             {
-                "nombre": "Franco Romero",
-                "equipo": "Laferrere",
-                "escudo": "https://statics-files.tycsports.com/escudos/694.png",
+                "nombre": "Matías Sosa",
+                "equipo": "Arsenal",
+                "escudo": "https://statics-files.tycsports.com/escudos/3.png",
                 "goles": 10
             },
             {
                 "nombre": "Máximo Blanco",
                 "equipo": "Excursionistas",
                 "escudo": "https://statics-files.tycsports.com/escudos/689.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Matías Sosa",
-                "equipo": "Arsenal",
-                "escudo": "https://statics-files.tycsports.com/escudos/3.png",
                 "goles": 9
             },
             {
