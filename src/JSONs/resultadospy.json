@@ -233,12 +233,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "10/08/2026 18:30 HS",
+                "fecha": "10/08/2026 18:30 HS Finalizado",
                 "local": "LIB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png?v=6"
             },
             {
@@ -1338,19 +1338,32 @@
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
-                "equipo": "Trinidense",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
+                "equipo": "Libertad",
                 "puntos": "9",
-                "pj": "3",
+                "pj": "4",
                 "pg": "3",
                 "pe": "0",
-                "pp": "0",
-                "gf": 9,
-                "gc": 2,
-                "dg": 7
+                "pp": "1",
+                "gf": 8,
+                "gc": 4,
+                "dg": 4
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
+                "equipo": "Trinidense",
+                "puntos": "9",
+                "pj": "4",
+                "pg": "3",
+                "pe": "0",
+                "pp": "1",
+                "gf": 10,
+                "gc": 4,
+                "dg": 6
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
                 "puntos": "7",
@@ -1363,7 +1376,7 @@
                 "dg": 1
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "equipo": "D. Recoleta",
                 "puntos": "7",
@@ -1374,19 +1387,6 @@
                 "gf": 8,
                 "gc": 8,
                 "dg": 0
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
-                "equipo": "Libertad",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 6,
-                "gc": 3,
-                "dg": 3
             },
             {
                 "posicion": "6",
