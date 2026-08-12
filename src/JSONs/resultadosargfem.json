@@ -233,12 +233,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "11/08/2026 11:00 HS",
+                "fecha": "11/08/2026 11:00 HS Finalizado",
                 "local": "HUR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
                 "visitante": "SAT",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8142.png?v=6"
             },
             {
@@ -1306,16 +1306,16 @@
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
-                "equipo": "SATSAID",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 3,
+                "escudo": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
+                "equipo": "Huracán",
+                "puntos": "6",
+                "pj": "3",
+                "pg": "2",
+                "pe": "0",
+                "pp": "1",
+                "gf": 2,
                 "gc": 2,
-                "dg": 1
+                "dg": 0
             },
             {
                 "posicion": "9",
@@ -1358,6 +1358,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
+                "equipo": "SATSAID",
+                "puntos": "4",
+                "pj": "3",
+                "pg": "1",
+                "pe": "1",
+                "pp": "1",
+                "gf": 3,
+                "gc": 3,
+                "dg": 0
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png?v=6",
                 "equipo": "Racing",
                 "puntos": "3",
@@ -1368,19 +1381,6 @@
                 "gf": 4,
                 "gc": 4,
                 "dg": 0
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
-                "equipo": "Huracán",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 1,
-                "gc": 2,
-                "dg": -1
             },
             {
                 "posicion": "14",

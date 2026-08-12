@@ -1263,12 +1263,12 @@
             },
             {
                 "fecha_torneo": "Octavos de Final",
-                "fecha": "11/08/2026 21:30 HS",
+                "fecha": "11/08/2026 21:30 HS Finalizado",
                 "local": "EST",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7.png?v=6",
                 "visitante": "UCA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png?v=6"
             },
             {
@@ -1323,7 +1323,7 @@
             },
             {
                 "fecha_torneo": "Octavos de Final",
-                "fecha": "11/08/2026 21:30 HS Postergado",
+                "fecha": "18/08/2026 21:30 HS",
                 "local": "TOL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/179.png?v=6",
@@ -1333,7 +1333,7 @@
             },
             {
                 "fecha_torneo": "Octavos de Final",
-                "fecha": "18/08/2026 23:30 HS",
+                "fecha": "25/08/2026 21:30 HS",
                 "local": "IDV",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/980.png?v=6",
@@ -1403,12 +1403,12 @@
             },
             {
                 "fecha_torneo": "Octavos de Final",
-                "fecha": "11/08/2026 19:00 HS",
+                "fecha": "11/08/2026 19:00 HS Finalizado",
                 "local": "FLU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/113.png?v=6",
                 "visitante": "INM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/664.png?v=6"
             },
             {
@@ -2028,6 +2028,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Fernando Zampedri",
+                "equipo": "U. Católica",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Costa Pereira, M.",
                 "equipo": "Cruzeiro",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png",
@@ -2073,12 +2079,6 @@
                 "nombre": "Tiago Palacios",
                 "equipo": "Estudiantes",
                 "escudo": "https://statics-files.tycsports.com/escudos/7.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Fernando Zampedri",
-                "equipo": "U. Católica",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
                 "goles": 3
             },
             {
