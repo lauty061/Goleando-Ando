@@ -4323,22 +4323,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "14/08/2026 15:00 HS",
+                "fecha": "14/08/2026 15:00 HS Finalizado",
                 "local": "ACA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/667.png?v=6",
                 "visitante": "MID",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/785.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "14/08/2026 20:30 HS",
+                "fecha": "14/08/2026 20:30 HS Finalizado",
                 "local": "RAF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/99.png?v=6",
                 "visitante": "DEF",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/138.png?v=6"
             },
             {
@@ -6790,6 +6790,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/785.png?v=6",
+                "equipo": "Midland",
+                "puntos": "38",
+                "pj": "24",
+                "pg": "10",
+                "pe": "8",
+                "pp": "6",
+                "gf": 26,
+                "gc": 17,
+                "dg": 9
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/665.png?v=6",
                 "equipo": "Almirante Brown",
                 "puntos": "38",
@@ -6800,20 +6814,6 @@
                 "gf": 19,
                 "gc": 13,
                 "dg": 6
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/785.png?v=6",
-                "equipo": "Midland",
-                "puntos": "37",
-                "pj": "23",
-                "pg": "10",
-                "pe": "7",
-                "pp": "6",
-                "gf": 25,
-                "gc": 16,
-                "dg": 9
             },
             {
                 "zona": "Posiciones",
@@ -6874,6 +6874,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=6",
+                "equipo": "Atlético Rafaela",
+                "puntos": "35",
+                "pj": "25",
+                "pg": "9",
+                "pe": "8",
+                "pp": "8",
+                "gf": 18,
+                "gc": 19,
+                "dg": -1
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/10612.png?v=6",
                 "equipo": "Ciudad Bolívar",
                 "puntos": "34",
@@ -6884,20 +6898,6 @@
                 "gf": 21,
                 "gc": 21,
                 "dg": 0
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=6",
-                "equipo": "Atlético Rafaela",
-                "puntos": "34",
-                "pj": "24",
-                "pg": "9",
-                "pe": "7",
-                "pp": "8",
-                "gf": 18,
-                "gc": 19,
-                "dg": -1
             },
             {
                 "zona": "Posiciones",
@@ -7056,6 +7056,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "26",
+                "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
+                "equipo": "Def. de Belgrano",
+                "puntos": "26",
+                "pj": "24",
+                "pg": "5",
+                "pe": "11",
+                "pp": "8",
+                "gf": 16,
+                "gc": 21,
+                "dg": -5
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "27",
                 "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
                 "equipo": "Chacarita",
                 "puntos": "26",
@@ -7069,7 +7083,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "27",
+                "posicion": "28",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png?v=6",
                 "equipo": "San Miguel",
                 "puntos": "26",
@@ -7083,7 +7097,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "28",
+                "posicion": "29",
                 "escudo": "https://statics-files.tycsports.com/escudos/3683.png?v=6",
                 "equipo": "Agropecuario",
                 "puntos": "26",
@@ -7094,20 +7108,6 @@
                 "gf": 21,
                 "gc": 28,
                 "dg": -7
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "29",
-                "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
-                "equipo": "Def. de Belgrano",
-                "puntos": "25",
-                "pj": "23",
-                "pg": "5",
-                "pe": "10",
-                "pp": "8",
-                "gf": 16,
-                "gc": 21,
-                "dg": -5
             },
             {
                 "zona": "Posiciones",
@@ -7184,13 +7184,13 @@
                 "posicion": "35",
                 "escudo": "https://statics-files.tycsports.com/escudos/667.png?v=6",
                 "equipo": "Acassuso",
-                "puntos": "21",
-                "pj": "23",
+                "puntos": "22",
+                "pj": "24",
                 "pg": "5",
-                "pe": "6",
+                "pe": "7",
                 "pp": "12",
-                "gf": 17,
-                "gc": 28,
+                "gf": 18,
+                "gc": 29,
                 "dg": -11
             },
             {

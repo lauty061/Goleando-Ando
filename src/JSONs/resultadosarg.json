@@ -603,12 +603,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "14/08/2026 20:30 HS",
+                "fecha": "14/08/2026 20:30 HS Finalizado",
                 "local": "RAC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/16.png?v=6",
                 "visitante": "BAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4.png?v=6"
             },
             {
@@ -2878,6 +2878,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/4.png?v=6",
+                "equipo": "Banfield",
+                "puntos": "7",
+                "pj": "5",
+                "pg": "2",
+                "pe": "1",
+                "pp": "2",
+                "gf": 4,
+                "gc": 5,
+                "dg": -1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png?v=6",
                 "equipo": "Sarmiento",
                 "puntos": "6",
@@ -2891,7 +2905,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/815.png?v=6",
                 "equipo": "Atl. Tucumán",
                 "puntos": "5",
@@ -2905,31 +2919,17 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/16.png?v=6",
                 "equipo": "Racing Club",
                 "puntos": "4",
-                "pj": "4",
+                "pj": "5",
                 "pg": "1",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 4,
-                "gc": 6,
-                "dg": -2
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/4.png?v=6",
-                "equipo": "Banfield",
-                "puntos": "4",
-                "pj": "4",
-                "pg": "1",
-                "pe": "1",
-                "pp": "2",
-                "gf": 3,
-                "gc": 5,
-                "dg": -2
+                "gc": 7,
+                "dg": -3
             },
             {
                 "zona": "Grupo B",

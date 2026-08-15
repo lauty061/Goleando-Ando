@@ -1319,8 +1319,21 @@
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=6",
-                "equipo": "Ferro",
+                "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=6",
+                "equipo": "Talleres",
+                "puntos": "5",
+                "pj": "4",
+                "pg": "1",
+                "pe": "2",
+                "pp": "1",
+                "gf": 5,
+                "gc": 5,
+                "dg": 0
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/8139.png?v=6",
+                "equipo": "Racing",
                 "puntos": "4",
                 "pj": "3",
                 "pg": "1",
@@ -1331,7 +1344,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "4",
@@ -1344,20 +1357,20 @@
                 "dg": 0
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=6",
-                "equipo": "Talleres",
+                "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=6",
+                "equipo": "Ferro",
                 "puntos": "4",
                 "pj": "3",
                 "pg": "1",
                 "pe": "1",
                 "pp": "1",
-                "gf": 4,
-                "gc": 4,
+                "gf": 5,
+                "gc": 5,
                 "dg": 0
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
                 "equipo": "SATSAID",
                 "puntos": "4",
@@ -1367,19 +1380,6 @@
                 "pp": "1",
                 "gf": 3,
                 "gc": 3,
-                "dg": 0
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/8139.png?v=6",
-                "equipo": "Racing",
-                "puntos": "3",
-                "pj": "2",
-                "pg": "1",
-                "pe": "0",
-                "pp": "1",
-                "gf": 4,
-                "gc": 4,
                 "dg": 0
             },
             {
@@ -1442,6 +1442,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Sindy Ramírez",
+                "equipo": "Racing",
+                "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Sarah Mirr",
                 "equipo": "Ferro",
                 "escudo": "https://statics-files.tycsports.com/escudos/10734.png",
@@ -1481,12 +1487,6 @@
                 "nombre": "Brisa Priori",
                 "equipo": "Boca Juniors",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Tatiana Sarmiento",
-                "equipo": "Banfield",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "goles": 2
             }
         ]

@@ -1123,22 +1123,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "14/08/2026 16:00 HS",
+                "fecha": "14/08/2026 16:00 HS Finalizado",
                 "local": "TIN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "visitante": "TOM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10529.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "14/08/2026 21:00 HS",
+                "fecha": "14/08/2026 21:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "visitante": "SAB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png?v=6"
             },
             {
@@ -2420,14 +2420,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "equipo": "Bolívar",
-                "puntos": "27",
-                "pj": "14",
-                "pg": "8",
+                "puntos": "30",
+                "pj": "15",
+                "pg": "9",
                 "pe": "3",
                 "pp": "3",
-                "gf": 32,
-                "gc": 15,
-                "dg": 17
+                "gf": 36,
+                "gc": 16,
+                "dg": 20
             },
             {
                 "posicion": "3",
@@ -2522,19 +2522,6 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
-                "equipo": "San Antonio",
-                "puntos": "17",
-                "pj": "14",
-                "pg": "5",
-                "pe": "2",
-                "pp": "7",
-                "gf": 17,
-                "gc": 24,
-                "dg": -7
-            },
-            {
-                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
                 "equipo": "Totora Real Oruro",
                 "puntos": "17",
@@ -2544,6 +2531,19 @@
                 "pp": "7",
                 "gf": 25,
                 "gc": 35,
+                "dg": -10
+            },
+            {
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
+                "equipo": "San Antonio",
+                "puntos": "17",
+                "pj": "15",
+                "pg": "5",
+                "pe": "2",
+                "pp": "8",
+                "gf": 18,
+                "gc": 28,
                 "dg": -10
             },
             {
@@ -2574,6 +2574,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
+                "equipo": "Real Tomayapo",
+                "puntos": "12",
+                "pj": "15",
+                "pg": "3",
+                "pe": "3",
+                "pp": "9",
+                "gf": 11,
+                "gc": 31,
+                "dg": -20
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
                 "equipo": "GV San José",
                 "puntos": "12",
@@ -2586,44 +2599,31 @@
                 "dg": -7
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "equipo": "U. de Vinto",
                 "puntos": "11",
-                "pj": "14",
+                "pj": "15",
                 "pg": "3",
                 "pe": "2",
-                "pp": "9",
+                "pp": "10",
                 "gf": 17,
-                "gc": 30,
-                "dg": -13
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
-                "equipo": "Real Tomayapo",
-                "puntos": "9",
-                "pj": "14",
-                "pg": "2",
-                "pe": "3",
-                "pp": "9",
-                "gf": 10,
                 "gc": 31,
-                "dg": -21
+                "dg": -14
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Martín Cauteruccio",
+                "equipo": "Bolívar",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "goles": 10
+            },
             {
                 "nombre": "Willie Barbosa",
                 "equipo": "Independiente Petrolero",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
                 "goles": 10
-            },
-            {
-                "nombre": "Martín Cauteruccio",
-                "equipo": "Bolívar",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 9
             },
             {
                 "nombre": "Juan Fajardo",

@@ -1443,12 +1443,12 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "14/08/2026 20:00 HS",
+                "fecha": "14/08/2026 20:00 HS Finalizado",
                 "local": "UDC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "visitante": "LSE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png?v=6"
             },
             {
@@ -2535,8 +2535,21 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
+                "equipo": "D. La Serena",
+                "puntos": "23",
+                "pj": "19",
+                "pg": "5",
+                "pe": "8",
+                "pp": "6",
+                "gf": 28,
+                "gc": 31,
+                "dg": -3
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
-                "equipo": "O`Higgins",
+                "equipo": "O'Higgins",
                 "puntos": "23",
                 "pj": "18",
                 "pg": "7",
@@ -2547,7 +2560,7 @@
                 "dg": -6
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
                 "puntos": "20",
@@ -2560,30 +2573,17 @@
                 "dg": -3
             },
             {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
-                "equipo": "D. La Serena",
-                "puntos": "20",
-                "pj": "18",
-                "pg": "4",
-                "pe": "8",
-                "pp": "6",
-                "gf": 26,
-                "gc": 31,
-                "dg": -5
-            },
-            {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
                 "puntos": "19",
-                "pj": "17",
+                "pj": "18",
                 "pg": "5",
                 "pe": "4",
-                "pp": "8",
+                "pp": "9",
                 "gf": 13,
-                "gc": 28,
-                "dg": -15
+                "gc": 30,
+                "dg": -17
             },
             {
                 "posicion": "15",

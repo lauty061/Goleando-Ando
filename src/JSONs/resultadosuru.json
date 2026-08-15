@@ -83,12 +83,12 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "14/08/2026 19:00 HS",
+                "fecha": "14/08/2026 19:00 HS Finalizado",
                 "local": "BOR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/957.png?v=6",
                 "visitante": "DAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/72.png?v=6"
             },
             {
@@ -1207,10 +1207,10 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png?v=6",
                 "equipo": "Boston River",
-                "puntos": "3",
-                "pj": "1",
+                "puntos": "4",
+                "pj": "2",
                 "pg": "1",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
                 "gf": 2,
                 "gc": 1,
@@ -1322,6 +1322,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=6",
+                "equipo": "Danubio",
+                "puntos": "1",
+                "pj": "2",
+                "pg": "0",
+                "pe": "1",
+                "pp": "1",
+                "gf": 0,
+                "gc": 1,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "equipo": "MC Torque",
                 "puntos": "0",
@@ -1334,7 +1347,7 @@
                 "dg": 0
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "equipo": "Peñarol",
                 "puntos": "0",
@@ -1347,7 +1360,7 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
                 "equipo": "Nacional",
                 "puntos": "0",
@@ -1360,22 +1373,9 @@
                 "dg": -1
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "equipo": "Albion",
-                "puntos": "0",
-                "pj": "1",
-                "pg": "0",
-                "pe": "0",
-                "pp": "1",
-                "gf": 0,
-                "gc": 1,
-                "dg": -1
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=6",
-                "equipo": "Danubio",
                 "puntos": "0",
                 "pj": "1",
                 "pg": "0",
