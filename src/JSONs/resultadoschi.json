@@ -1453,22 +1453,22 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "15/08/2026 18:30 HS",
+                "fecha": "15/08/2026 18:30 HS Finalizado",
                 "local": "LIM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "visitante": "UCH",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "15/08/2026 21:00 HS",
+                "fecha": "15/08/2026 21:00 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "visitante": "AUD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png?v=6"
             },
             {
@@ -2420,14 +2420,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "equipo": "U. de Chile",
-                "puntos": "33",
-                "pj": "18",
-                "pg": "9",
+                "puntos": "36",
+                "pj": "19",
+                "pg": "10",
                 "pe": "6",
                 "pp": "3",
-                "gf": 23,
-                "gc": 12,
-                "dg": 11
+                "gf": 26,
+                "gc": 13,
+                "dg": 13
             },
             {
                 "posicion": "3",
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
+                "equipo": "Everton",
+                "puntos": "27",
+                "pj": "19",
+                "pg": "7",
+                "pe": "6",
+                "pp": "6",
+                "gf": 28,
+                "gc": 22,
+                "dg": 6
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=6",
                 "equipo": "Palestino",
                 "puntos": "27",
@@ -2454,19 +2467,6 @@
                 "gf": 26,
                 "gc": 26,
                 "dg": 0
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
-                "equipo": "Everton",
-                "puntos": "26",
-                "pj": "18",
-                "pg": "7",
-                "pe": "5",
-                "pp": "6",
-                "gf": 27,
-                "gc": 21,
-                "dg": 6
             },
             {
                 "posicion": "6",
@@ -2499,13 +2499,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "equipo": "Deportes Limache",
                 "puntos": "24",
-                "pj": "17",
+                "pj": "18",
                 "pg": "7",
                 "pe": "3",
-                "pp": "7",
-                "gf": 34,
-                "gc": 27,
-                "dg": 7
+                "pp": "8",
+                "gf": 35,
+                "gc": 30,
+                "dg": 5
             },
             {
                 "posicion": "9",
@@ -2563,13 +2563,13 @@
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
-                "puntos": "20",
-                "pj": "18",
+                "puntos": "21",
+                "pj": "19",
                 "pg": "5",
-                "pe": "5",
+                "pe": "6",
                 "pp": "8",
-                "gf": 22,
-                "gc": 25,
+                "gf": 23,
+                "gc": 26,
                 "dg": -3
             },
             {
@@ -2620,15 +2620,15 @@
                 "goles": 18
             },
             {
-                "nombre": "Nelson Da Silva",
-                "equipo": "Palestino",
-                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
-                "goles": 9
-            },
-            {
                 "nombre": "Castro Santibáñez, D.",
                 "equipo": "Deportes Limache",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
+                "goles": 10
+            },
+            {
+                "nombre": "Nelson Da Silva",
+                "equipo": "Palestino",
+                "escudo": "https://statics-files.tycsports.com/escudos/151.png",
                 "goles": 9
             },
             {
