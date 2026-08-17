@@ -1173,32 +1173,32 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "16/08/2026 16:00 HS",
+                "fecha": "16/08/2026 16:00 HS Finalizado",
                 "local": "ALW",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "visitante": "RPO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/233.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "16/08/2026 18:15 HS",
+                "fecha": "16/08/2026 18:15 HS Finalizado",
                 "local": "NAP",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
                 "visitante": "ABB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12012.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "16/08/2026 20:30 HS",
+                "fecha": "16/08/2026 20:30 HS Finalizado",
                 "local": "IPE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
                 "visitante": "VSJ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11268.png?v=6"
             },
             {
@@ -2407,13 +2407,13 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "equipo": "Always Ready",
-                "puntos": "33",
-                "pj": "14",
+                "puntos": "34",
+                "pj": "15",
                 "pg": "10",
-                "pe": "3",
+                "pe": "4",
                 "pp": "1",
-                "gf": 31,
-                "gc": 8,
+                "gf": 32,
+                "gc": 9,
                 "dg": 23
             },
             {
@@ -2457,6 +2457,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
+                "equipo": "Real Potosí",
+                "puntos": "24",
+                "pj": "15",
+                "pg": "6",
+                "pe": "6",
+                "pp": "3",
+                "gf": 22,
+                "gc": 11,
+                "dg": 11
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "equipo": "Oriente Petrolero",
                 "puntos": "23",
@@ -2469,20 +2482,20 @@
                 "dg": 5
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
-                "equipo": "Real Potosí",
-                "puntos": "23",
-                "pj": "14",
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
+                "equipo": "Independiente",
+                "puntos": "22",
+                "pj": "15",
                 "pg": "6",
-                "pe": "5",
-                "pp": "3",
-                "gf": 21,
-                "gc": 10,
-                "dg": 11
+                "pe": "4",
+                "pp": "5",
+                "gf": 22,
+                "gc": 21,
+                "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=6",
                 "equipo": "Aurora",
                 "puntos": "22",
@@ -2495,7 +2508,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=6",
                 "equipo": "Blooming",
                 "puntos": "21",
@@ -2508,20 +2521,20 @@
                 "dg": 4
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
-                "equipo": "Independiente",
-                "puntos": "19",
-                "pj": "14",
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
+                "equipo": "Nacional Potosí",
+                "puntos": "18",
+                "pj": "15",
                 "pg": "5",
-                "pe": "4",
-                "pp": "5",
-                "gf": 21,
+                "pe": "3",
+                "pp": "7",
+                "gf": 22,
                 "gc": 21,
-                "dg": 0
+                "dg": 1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
                 "equipo": "San Antonio",
                 "puntos": "17",
@@ -2534,7 +2547,7 @@
                 "dg": -10
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
                 "equipo": "Totora Real Oruro",
                 "puntos": "17",
@@ -2547,30 +2560,17 @@
                 "dg": -11
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png?v=6",
                 "equipo": "ABB",
                 "puntos": "16",
-                "pj": "14",
+                "pj": "15",
                 "pg": "5",
                 "pe": "1",
-                "pp": "8",
+                "pp": "9",
                 "gf": 24,
-                "gc": 29,
-                "dg": -5
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
-                "equipo": "Nacional Potosí",
-                "puntos": "15",
-                "pj": "14",
-                "pg": "4",
-                "pe": "3",
-                "pp": "7",
-                "gf": 20,
-                "gc": 21,
-                "dg": -1
+                "gc": 31,
+                "dg": -7
             },
             {
                 "posicion": "14",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
                 "equipo": "GV San José",
                 "puntos": "12",
-                "pj": "14",
+                "pj": "15",
                 "pg": "2",
                 "pe": "6",
-                "pp": "6",
+                "pp": "7",
                 "gf": 14,
-                "gc": 21,
-                "dg": -7
+                "gc": 22,
+                "dg": -8
             },
             {
                 "posicion": "16",
@@ -2656,6 +2656,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Enrique Triverio",
+                "equipo": "Always Ready",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Marcelo Moreno Martins",
                 "equipo": "Oriente Petrolero",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "Daniel Porozo",
                 "equipo": "Totora Real Oruro",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Enrique Triverio",
-                "equipo": "Always Ready",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
                 "goles": 5
             }
         ]

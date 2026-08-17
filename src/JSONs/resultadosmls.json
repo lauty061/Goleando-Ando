@@ -2813,7 +2813,7 @@
             },
             {
                 "fecha_torneo": "Semana 17",
-                "fecha": "15/08/2026 23:30 HS Segundo Tiempo",
+                "fecha": "15/08/2026 23:30 HS Finalizado",
                 "local": "LAF",
                 "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7548.png?v=6",
@@ -2823,42 +2823,42 @@
             },
             {
                 "fecha_torneo": "Semana 17",
-                "fecha": "16/08/2026 19:00 HS",
+                "fecha": "16/08/2026 19:00 HS Finalizado",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1688.png?v=6",
                 "visitante": "POR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2127.png?v=6"
             },
             {
                 "fecha_torneo": "Semana 17",
-                "fecha": "16/08/2026 19:00 HS",
+                "fecha": "16/08/2026 19:00 HS Finalizado",
                 "local": "NYC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5469.png?v=6",
                 "visitante": "PHI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2109.png?v=6"
             },
             {
                 "fecha_torneo": "Semana 17",
-                "fecha": "16/08/2026 21:30 HS",
+                "fecha": "16/08/2026 21:30 HS Finalizado",
                 "local": "AUS",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10530.png?v=6",
                 "visitante": "DAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2111.png?v=6"
             },
             {
                 "fecha_torneo": "Semana 17",
-                "fecha": "16/08/2026 23:30 HS",
+                "fecha": "16/08/2026 23:30 HS Finalizado",
                 "local": "SEA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
                 "visitante": "VAN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3204.png?v=6"
             },
             {
@@ -5384,6 +5384,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/1688.png?v=6",
+                "equipo": "Chicago Fire",
+                "puntos": "32",
+                "pj": "18",
+                "pg": "10",
+                "pe": "2",
+                "pp": "6",
+                "gf": 34,
+                "gc": 24,
+                "dg": 10
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1300.png?v=6",
                 "equipo": "NE Revolution",
                 "puntos": "30",
@@ -5394,20 +5408,6 @@
                 "gf": 29,
                 "gc": 25,
                 "dg": 4
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/1688.png?v=6",
-                "equipo": "Chicago Fire",
-                "puntos": "29",
-                "pj": "17",
-                "pg": "9",
-                "pe": "2",
-                "pp": "6",
-                "gf": 32,
-                "gc": 23,
-                "dg": 9
             },
             {
                 "zona": "Grupo Este",
@@ -5443,13 +5443,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/5469.png?v=6",
                 "equipo": "New York City FC",
                 "puntos": "26",
-                "pj": "18",
+                "pj": "19",
                 "pg": "7",
                 "pe": "5",
-                "pp": "6",
-                "gf": 31,
-                "gc": 24,
-                "dg": 7
+                "pp": "7",
+                "gf": 33,
+                "gc": 27,
+                "dg": 6
             },
             {
                 "zona": "Grupo Este",
@@ -5524,6 +5524,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/2109.png?v=6",
+                "equipo": "Philadelphia",
+                "puntos": "19",
+                "pj": "19",
+                "pg": "5",
+                "pe": "4",
+                "pp": "10",
+                "gf": 28,
+                "gc": 35,
+                "dg": -7
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/1298.png?v=6",
                 "equipo": "CF Montréal",
                 "puntos": "17",
@@ -5534,20 +5548,6 @@
                 "gf": 25,
                 "gc": 36,
                 "dg": -11
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/2109.png?v=6",
-                "equipo": "Philadelphia",
-                "puntos": "16",
-                "pj": "18",
-                "pg": "4",
-                "pe": "4",
-                "pp": "10",
-                "gf": 25,
-                "gc": 33,
-                "dg": -8
             },
             {
                 "zona": "Grupo Este",
@@ -5566,6 +5566,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/3204.png?v=6",
+                "equipo": "Vancouver",
+                "puntos": "37",
+                "pj": "18",
+                "pg": "11",
+                "pe": "4",
+                "pp": "3",
+                "gf": 40,
+                "gc": 17,
+                "dg": 23
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1297.png?v=6",
                 "equipo": "Houston",
                 "puntos": "35",
@@ -5576,20 +5590,6 @@
                 "gf": 28,
                 "gc": 24,
                 "dg": 4
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/3204.png?v=6",
-                "equipo": "Vancouver",
-                "puntos": "34",
-                "pj": "17",
-                "pg": "10",
-                "pe": "4",
-                "pp": "3",
-                "gf": 38,
-                "gc": 17,
-                "dg": 21
             },
             {
                 "zona": "Grupo Oeste",
@@ -5622,6 +5622,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/2111.png?v=6",
+                "equipo": "FC Dallas",
+                "puntos": "30",
+                "pj": "19",
+                "pg": "8",
+                "pe": "6",
+                "pp": "5",
+                "gf": 34,
+                "gc": 26,
+                "dg": 8
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/10774.png?v=6",
                 "equipo": "St. Louis City",
                 "puntos": "29",
@@ -5635,7 +5649,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/2113.png?v=6",
                 "equipo": "Real Salt Lake",
                 "puntos": "28",
@@ -5646,20 +5660,6 @@
                 "gf": 30,
                 "gc": 26,
                 "dg": 4
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/2111.png?v=6",
-                "equipo": "FC Dallas",
-                "puntos": "27",
-                "pj": "18",
-                "pg": "7",
-                "pe": "6",
-                "pp": "5",
-                "gf": 32,
-                "gc": 25,
-                "dg": 7
             },
             {
                 "zona": "Grupo Oeste",
@@ -5695,13 +5695,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2127.png?v=6",
                 "equipo": "Portland Timbers",
                 "puntos": "24",
-                "pj": "18",
+                "pj": "19",
                 "pg": "7",
                 "pe": "3",
-                "pp": "8",
-                "gf": 33,
-                "gc": 33,
-                "dg": 0
+                "pp": "9",
+                "gf": 34,
+                "gc": 35,
+                "dg": -1
             },
             {
                 "zona": "Grupo Oeste",
@@ -5709,13 +5709,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
                 "equipo": "Seattle Sounders",
                 "puntos": "24",
-                "pj": "17",
+                "pj": "18",
                 "pg": "7",
                 "pe": "3",
-                "pp": "7",
+                "pp": "8",
                 "gf": 20,
-                "gc": 22,
-                "dg": -2
+                "gc": 24,
+                "dg": -4
             },
             {
                 "zona": "Grupo Oeste",
@@ -5751,13 +5751,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10530.png?v=6",
                 "equipo": "Austin FC",
                 "puntos": "17",
-                "pj": "18",
+                "pj": "19",
                 "pg": "4",
                 "pe": "5",
-                "pp": "9",
-                "gf": 22,
-                "gc": 36,
-                "dg": -14
+                "pp": "10",
+                "gf": 23,
+                "gc": 38,
+                "dg": -15
             },
             {
                 "zona": "Grupo Oeste",
@@ -5776,15 +5776,15 @@
         ],
         "goleadores": [
             {
-                "nombre": "Hugo Cuypers",
-                "equipo": "Chicago Fire",
-                "escudo": "https://statics-files.tycsports.com/escudos/1688.png",
-                "goles": 13
-            },
-            {
                 "nombre": "Petar Musa",
                 "equipo": "FC Dallas",
                 "escudo": "https://statics-files.tycsports.com/escudos/2111.png",
+                "goles": 14
+            },
+            {
+                "nombre": "Hugo Cuypers",
+                "equipo": "Chicago Fire",
+                "escudo": "https://statics-files.tycsports.com/escudos/1688.png",
                 "goles": 13
             },
             {

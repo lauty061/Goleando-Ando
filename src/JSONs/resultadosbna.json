@@ -4433,62 +4433,62 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/08/2026 15:00 HS",
+                "fecha": "16/08/2026 15:00 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/630.png?v=6",
                 "visitante": "ALT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/665.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/08/2026 16:00 HS",
+                "fecha": "16/08/2026 16:00 HS Finalizado",
                 "local": "GEJ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/102.png?v=6",
                 "visitante": "CFE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/853.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/08/2026 17:00 HS",
-                "local": "RAC",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/141.png?v=6",
-                "visitante": "SMS",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/134.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "16/08/2026 17:00 HS",
-                "local": "CNO",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
-                "visitante": "GYT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/865.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "16/08/2026 18:00 HS",
+                "fecha": "16/08/2026 17:00 HS Finalizado",
                 "local": "SMT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/490.png?v=6",
                 "visitante": "MAD",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/874.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/08/2026 18:00 HS",
+                "fecha": "16/08/2026 17:00 HS Finalizado",
+                "local": "RAC",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/141.png?v=6",
+                "visitante": "SMS",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/134.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "16/08/2026 17:00 HS Finalizado",
+                "local": "CNO",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
+                "visitante": "GYT",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/865.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "16/08/2026 18:00 HS Finalizado",
                 "local": "TEM",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/682.png?v=6",
                 "visitante": "AND",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/140.png?v=6"
             },
             {
@@ -6734,6 +6734,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/102.png?v=6",
+                "equipo": "Gimnasia (J)",
+                "puntos": "44",
+                "pj": "25",
+                "pg": "13",
+                "pe": "5",
+                "pp": "7",
+                "gf": 36,
+                "gc": 29,
+                "dg": 7
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/6.png?v=6",
                 "equipo": "Colón",
                 "puntos": "42",
@@ -6747,31 +6761,17 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/102.png?v=6",
-                "equipo": "Gimnasia (J)",
-                "puntos": "41",
-                "pj": "24",
-                "pg": "12",
-                "pe": "5",
-                "pp": "7",
-                "gf": 35,
-                "gc": 29,
-                "dg": 6
-            },
-            {
-                "zona": "Posiciones",
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/630.png?v=6",
                 "equipo": "Tristán Suárez",
-                "puntos": "39",
-                "pj": "22",
-                "pg": "10",
+                "puntos": "42",
+                "pj": "23",
+                "pg": "11",
                 "pe": "9",
                 "pp": "3",
-                "gf": 20,
-                "gc": 11,
-                "dg": 9
+                "gf": 23,
+                "gc": 12,
+                "dg": 11
             },
             {
                 "zona": "Posiciones",
@@ -6804,20 +6804,48 @@
             {
                 "zona": "Posiciones",
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/665.png?v=6",
-                "equipo": "Almirante Brown",
+                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
+                "equipo": "Gimnasia y Tiro",
                 "puntos": "38",
-                "pj": "24",
+                "pj": "25",
                 "pg": "10",
                 "pe": "8",
-                "pp": "6",
-                "gf": 19,
-                "gc": 13,
-                "dg": 6
+                "pp": "7",
+                "gf": 26,
+                "gc": 22,
+                "dg": 4
             },
             {
                 "zona": "Posiciones",
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/665.png?v=6",
+                "equipo": "Almirante Brown",
+                "puntos": "38",
+                "pj": "25",
+                "pg": "10",
+                "pe": "8",
+                "pp": "7",
+                "gf": 20,
+                "gc": 16,
+                "dg": 4
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/874.png?v=6",
+                "equipo": "Dep. Madryn",
+                "puntos": "37",
+                "pj": "24",
+                "pg": "9",
+                "pe": "10",
+                "pp": "5",
+                "gf": 32,
+                "gc": 24,
+                "dg": 8
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png?v=6",
                 "equipo": "Godoy Cruz",
                 "puntos": "37",
@@ -6831,21 +6859,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
-                "equipo": "Gimnasia y Tiro",
-                "puntos": "37",
-                "pj": "24",
-                "pg": "10",
-                "pe": "7",
-                "pp": "7",
-                "gf": 26,
-                "gc": 22,
-                "dg": 4
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png?v=6",
                 "equipo": "Temperley",
                 "puntos": "37",
@@ -6856,20 +6870,6 @@
                 "gf": 24,
                 "gc": 21,
                 "dg": 3
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/874.png?v=6",
-                "equipo": "Dep. Madryn",
-                "puntos": "36",
-                "pj": "23",
-                "pg": "9",
-                "pe": "9",
-                "pp": "5",
-                "gf": 30,
-                "gc": 22,
-                "dg": 8
             },
             {
                 "zona": "Posiciones",
@@ -6960,18 +6960,32 @@
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png?v=6",
                 "equipo": "San Martín (T)",
-                "puntos": "31",
-                "pj": "24",
+                "puntos": "32",
+                "pj": "25",
                 "pg": "7",
-                "pe": "10",
+                "pe": "11",
                 "pp": "7",
-                "gf": 22,
-                "gc": 20,
+                "gf": 24,
+                "gc": 22,
                 "dg": 2
             },
             {
                 "zona": "Posiciones",
                 "posicion": "20",
+                "escudo": "https://statics-files.tycsports.com/escudos/141.png?v=6",
+                "equipo": "Racing (Cba)",
+                "puntos": "31",
+                "pj": "25",
+                "pg": "8",
+                "pe": "7",
+                "pp": "10",
+                "gf": 23,
+                "gc": 28,
+                "dg": -5
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/687.png?v=6",
                 "equipo": "Colegiales",
                 "puntos": "30",
@@ -6982,20 +6996,6 @@
                 "gf": 23,
                 "gc": 25,
                 "dg": -2
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "21",
-                "escudo": "https://statics-files.tycsports.com/escudos/141.png?v=6",
-                "equipo": "Racing (Cba)",
-                "puntos": "30",
-                "pj": "24",
-                "pg": "8",
-                "pe": "6",
-                "pp": "10",
-                "gf": 23,
-                "gc": 28,
-                "dg": -5
             },
             {
                 "zona": "Posiciones",
@@ -7014,6 +7014,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "23",
+                "escudo": "https://statics-files.tycsports.com/escudos/134.png?v=6",
+                "equipo": "San Martín (SJ)",
+                "puntos": "29",
+                "pj": "23",
+                "pg": "7",
+                "pe": "8",
+                "pp": "8",
+                "gf": 23,
+                "gc": 23,
+                "dg": 0
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "24",
                 "escudo": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "equipo": "Nueva Chicago",
                 "puntos": "29",
@@ -7027,7 +7041,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "24",
+                "posicion": "25",
                 "escudo": "https://statics-files.tycsports.com/escudos/1890.png?v=6",
                 "equipo": "Mitre (SE)",
                 "puntos": "29",
@@ -7041,7 +7055,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "25",
+                "posicion": "26",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png?v=6",
                 "equipo": "San Miguel",
                 "puntos": "29",
@@ -7055,7 +7069,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "26",
+                "posicion": "27",
                 "escudo": "https://statics-files.tycsports.com/escudos/3683.png?v=6",
                 "equipo": "Agropecuario",
                 "puntos": "29",
@@ -7066,20 +7080,6 @@
                 "gf": 22,
                 "gc": 28,
                 "dg": -6
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "27",
-                "escudo": "https://statics-files.tycsports.com/escudos/134.png?v=6",
-                "equipo": "San Martín (SJ)",
-                "puntos": "28",
-                "pj": "22",
-                "pg": "7",
-                "pe": "7",
-                "pp": "8",
-                "gf": 23,
-                "gc": 23,
-                "dg": 0
             },
             {
                 "zona": "Posiciones",
@@ -7126,6 +7126,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "31",
+                "escudo": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
+                "equipo": "Central Norte",
+                "puntos": "24",
+                "pj": "24",
+                "pg": "5",
+                "pe": "9",
+                "pp": "10",
+                "gf": 15,
+                "gc": 24,
+                "dg": -9
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "32",
                 "escudo": "https://statics-files.tycsports.com/escudos/668.png?v=6",
                 "equipo": "All Boys",
                 "puntos": "24",
@@ -7139,7 +7153,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "32",
+                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/680.png?v=6",
                 "equipo": "San Telmo",
                 "puntos": "23",
@@ -7153,31 +7167,17 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "33",
-                "escudo": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
-                "equipo": "Central Norte",
-                "puntos": "23",
-                "pj": "23",
-                "pg": "5",
-                "pe": "8",
-                "pp": "10",
-                "gf": 15,
-                "gc": 24,
-                "dg": -9
-            },
-            {
-                "zona": "Posiciones",
                 "posicion": "34",
                 "escudo": "https://statics-files.tycsports.com/escudos/853.png?v=6",
                 "equipo": "Chaco For Ever",
                 "puntos": "22",
-                "pj": "23",
+                "pj": "24",
                 "pg": "5",
                 "pe": "7",
-                "pp": "11",
+                "pp": "12",
                 "gf": 21,
-                "gc": 28,
-                "dg": -7
+                "gc": 29,
+                "dg": -8
             },
             {
                 "zona": "Posiciones",
@@ -7246,15 +7246,15 @@
                 "goles": 9
             },
             {
-                "nombre": "Nazareno Funez",
-                "equipo": "San Martín (SJ)",
-                "escudo": "https://statics-files.tycsports.com/escudos/134.png",
-                "goles": 8
-            },
-            {
                 "nombre": "Luis Silba",
                 "equipo": "Dep. Madryn",
                 "escudo": "https://statics-files.tycsports.com/escudos/874.png",
+                "goles": 9
+            },
+            {
+                "nombre": "Nazareno Funez",
+                "equipo": "San Martín (SJ)",
+                "escudo": "https://statics-files.tycsports.com/escudos/134.png",
                 "goles": 8
             },
             {

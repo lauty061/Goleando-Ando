@@ -253,52 +253,52 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "16/08/2026 11:00 HS",
+                "fecha": "16/08/2026 11:00 HS Finalizado",
                 "local": "RIV",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6141.png?v=6",
                 "visitante": "SLU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "16/08/2026 11:00 HS",
+                "fecha": "16/08/2026 11:00 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png?v=6",
                 "visitante": "UNI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12384.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "16/08/2026 12:00 HS",
+                "fecha": "16/08/2026 12:00 HS Finalizado",
                 "local": "CGE",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png?v=6",
                 "visitante": "BOC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3499.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "16/08/2026 13:00 HS",
+                "fecha": "16/08/2026 13:00 HS Finalizado",
                 "local": "NOB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11275.png?v=6",
                 "visitante": "FER",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10734.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "16/08/2026 15:00 HS",
+                "fecha": "16/08/2026 15:00 HS Finalizado",
                 "local": "BAN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
                 "visitante": "LAN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8138.png?v=6"
             },
             {
@@ -1215,24 +1215,37 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/10937.png?v=6",
-                "equipo": "Belgrano (Cba.)",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/6141.png?v=6",
+                "equipo": "River Plate",
+                "puntos": "9",
+                "pj": "4",
+                "pg": "3",
                 "pe": "0",
                 "pp": "1",
-                "gf": 8,
-                "gc": 1,
-                "dg": 7
+                "gf": 9,
+                "gc": 3,
+                "dg": 6
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
                 "equipo": "Banfield",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
+                "puntos": "9",
+                "pj": "4",
+                "pg": "3",
+                "pe": "0",
+                "pp": "1",
+                "gf": 10,
+                "gc": 5,
+                "dg": 5
+            },
+            {
+                "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/3499.png?v=6",
+                "equipo": "Boca Juniors",
+                "puntos": "9",
+                "pj": "4",
+                "pg": "3",
                 "pe": "0",
                 "pp": "1",
                 "gf": 7,
@@ -1240,68 +1253,55 @@
                 "dg": 4
             },
             {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/11274.png?v=6",
-                "equipo": "San Luis FC",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 7,
-                "gc": 5,
-                "dg": 2
-            },
-            {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/3499.png?v=6",
-                "equipo": "Boca Juniors",
-                "puntos": "6",
-                "pj": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/10937.png?v=6",
+                "equipo": "Belgrano (Cba.)",
+                "puntos": "7",
+                "pj": "4",
                 "pg": "2",
-                "pe": "0",
+                "pe": "1",
                 "pp": "1",
-                "gf": 5,
-                "gc": 3,
-                "dg": 2
+                "gf": 9,
+                "gc": 2,
+                "dg": 7
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png?v=6",
-                "equipo": "River Plate",
+                "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=6",
+                "equipo": "Ferro",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 7,
+                "gc": 6,
+                "dg": 1
+            },
+            {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/12384.png?v=6",
+                "equipo": "Unión",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 6,
+                "gc": 5,
+                "dg": 1
+            },
+            {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/8138.png?v=6",
+                "equipo": "Lanús",
                 "puntos": "6",
                 "pj": "3",
                 "pg": "2",
                 "pe": "0",
                 "pp": "1",
                 "gf": 4,
-                "gc": 2,
-                "dg": 2
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/8138.png?v=6",
-                "equipo": "Lanús",
-                "puntos": "6",
-                "pj": "2",
-                "pg": "2",
-                "pe": "0",
-                "pp": "0",
-                "gf": 2,
-                "gc": 0,
-                "dg": 2
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/12384.png?v=6",
-                "equipo": "Unión",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 5,
-                "gc": 4,
+                "gc": 3,
                 "dg": 1
             },
             {
@@ -1319,6 +1319,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/11274.png?v=6",
+                "equipo": "San Luis FC",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "2",
+                "pe": "0",
+                "pp": "2",
+                "gf": 8,
+                "gc": 10,
+                "dg": -2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=6",
                 "equipo": "Talleres",
                 "puntos": "5",
@@ -1331,7 +1344,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png?v=6",
                 "equipo": "Racing",
                 "puntos": "4",
@@ -1344,22 +1357,9 @@
                 "dg": 0
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png?v=6",
                 "equipo": "San Lorenzo",
-                "puntos": "4",
-                "pj": "3",
-                "pg": "1",
-                "pe": "1",
-                "pp": "1",
-                "gf": 5,
-                "gc": 5,
-                "dg": 0
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=6",
-                "equipo": "Ferro",
                 "puntos": "4",
                 "pj": "3",
                 "pg": "1",
@@ -1387,26 +1387,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8137.png?v=6",
                 "equipo": "Gimnasia",
                 "puntos": "0",
-                "pj": "3",
+                "pj": "4",
                 "pg": "0",
                 "pe": "0",
-                "pp": "3",
+                "pp": "4",
                 "gf": 1,
-                "gc": 5,
-                "dg": -4
+                "gc": 7,
+                "dg": -6
             },
             {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png?v=6",
                 "equipo": "Newell`s",
                 "puntos": "0",
-                "pj": "3",
+                "pj": "4",
                 "pg": "0",
                 "pe": "0",
-                "pp": "3",
-                "gf": 1,
-                "gc": 7,
-                "dg": -6
+                "pp": "4",
+                "gf": 2,
+                "gc": 9,
+                "dg": -7
             },
             {
                 "posicion": "16",
@@ -1423,6 +1423,12 @@
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Mercedes Diz",
+                "equipo": "River Plate",
+                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
+                "goles": 5
+            },
             {
                 "nombre": "Micaela Bulacio",
                 "equipo": "Belgrano (Cba.)",
@@ -1442,6 +1448,24 @@
                 "goles": 3
             },
             {
+                "nombre": "Florencia  Ceballos",
+                "equipo": "Belgrano (Cba.)",
+                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Antonella Estigarribia",
+                "equipo": "Banfield",
+                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Brisa Priori",
+                "equipo": "Boca Juniors",
+                "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Sindy Ramírez",
                 "equipo": "Racing",
                 "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
@@ -1454,39 +1478,15 @@
                 "goles": 2
             },
             {
-                "nombre": "Emilse Albornos",
+                "nombre": "Camila Acevedo",
                 "equipo": "Unión de Santa Fe",
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
                 "goles": 2
             },
             {
-                "nombre": "Florencia  Ceballos",
-                "equipo": "Belgrano (Cba.)",
-                "escudo": "https://statics-files.tycsports.com/escudos/10937.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Mercedes Diz",
-                "equipo": "River Plate",
-                "escudo": "https://statics-files.tycsports.com/escudos/6141.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Antonella Estigarribia",
-                "equipo": "Banfield",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Amalia Peña",
-                "equipo": "Lanús",
-                "escudo": "https://statics-files.tycsports.com/escudos/8138.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Brisa Priori",
-                "equipo": "Boca Juniors",
-                "escudo": "https://statics-files.tycsports.com/escudos/3499.png",
+                "nombre": "Emilse Albornos",
+                "equipo": "Unión de Santa Fe",
+                "escudo": "https://statics-files.tycsports.com/escudos/12384.png",
                 "goles": 2
             }
         ]

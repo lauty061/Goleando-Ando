@@ -273,32 +273,32 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "16/08/2026 10:00 HS",
+                "fecha": "16/08/2026 10:00 HS Finalizado",
                 "local": "CER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "visitante": "SLO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2119.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "16/08/2026 16:00 HS",
+                "fecha": "16/08/2026 16:00 HS Finalizado",
                 "local": "LUQ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/213.png?v=6",
                 "visitante": "LIB",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/69.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "16/08/2026 18:30 HS",
+                "fecha": "16/08/2026 18:30 HS Finalizado",
                 "local": "OLI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/215.png?v=6",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7948.png?v=6"
             },
             {
@@ -1338,6 +1338,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
+                "equipo": "Libertad",
+                "puntos": "12",
+                "pj": "5",
+                "pg": "4",
+                "pe": "0",
+                "pp": "1",
+                "gf": 10,
+                "gc": 5,
+                "dg": 5
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
                 "puntos": "10",
@@ -1348,19 +1361,6 @@
                 "gf": 11,
                 "gc": 5,
                 "dg": 6
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
-                "equipo": "Libertad",
-                "puntos": "9",
-                "pj": "4",
-                "pg": "3",
-                "pe": "0",
-                "pp": "1",
-                "gf": 8,
-                "gc": 4,
-                "dg": 4
             },
             {
                 "posicion": "4",
@@ -1406,29 +1406,55 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
                 "puntos": "6",
-                "pj": "4",
+                "pj": "5",
                 "pg": "1",
                 "pe": "3",
-                "pp": "0",
-                "gf": 4,
-                "gc": 3,
-                "dg": 1
+                "pp": "1",
+                "gf": 5,
+                "gc": 5,
+                "dg": 0
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
-                "equipo": "Sportivo Luqueño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
+                "equipo": "Cerro Porteño",
                 "puntos": "6",
-                "pj": "4",
+                "pj": "5",
                 "pg": "2",
                 "pe": "0",
-                "pp": "2",
-                "gf": 5,
-                "gc": 8,
-                "dg": -3
+                "pp": "3",
+                "gf": 6,
+                "gc": 5,
+                "dg": 1
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
+                "equipo": "Olimpia",
+                "puntos": "6",
+                "pj": "5",
+                "pg": "2",
+                "pe": "0",
+                "pp": "3",
+                "gf": 7,
+                "gc": 5,
+                "dg": 2
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
+                "equipo": "Sportivo Luqueño",
+                "puntos": "6",
+                "pj": "5",
+                "pg": "2",
+                "pe": "0",
+                "pp": "3",
+                "gf": 6,
+                "gc": 10,
+                "dg": -4
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "equipo": "Rubio Ñu",
                 "puntos": "4",
@@ -1441,43 +1467,17 @@
                 "dg": -7
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
-                "equipo": "Olimpia",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 5,
-                "gc": 4,
-                "dg": 1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
-                "equipo": "Cerro Porteño",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 5,
-                "gc": 5,
-                "dg": 0
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "1",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "1",
-                "pp": "3",
+                "pp": "4",
                 "gf": 1,
-                "gc": 7,
-                "dg": -6
+                "gc": 8,
+                "dg": -7
             }
         ],
         "goleadores": [
@@ -1491,6 +1491,12 @@
                 "nombre": "Hugo Adrián Benítez",
                 "equipo": "Nacional (P)",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Estivel Moreira",
+                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "goles": 3
             },
             {
@@ -1521,12 +1527,6 @@
                 "nombre": "Héctor López",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Estivel Moreira",
-                "equipo": "Sp. Ameliano",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "goles": 2
             },
             {
