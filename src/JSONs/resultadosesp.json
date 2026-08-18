@@ -43,12 +43,12 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "17/08/2026 16:00 HS",
+                "fecha": "17/08/2026 16:00 HS Finalizado",
                 "local": "DEP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/33.png?v=6",
                 "visitante": "ELC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4460.png?v=6"
             },
             {
@@ -3872,17 +3872,30 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/4460.png?v=6",
                 "equipo": "Elche",
-                "puntos": "0",
-                "pj": "0",
+                "puntos": "1",
+                "pj": "1",
                 "pg": "0",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
-                "gf": 0,
-                "gc": 0,
+                "gf": 1,
+                "gc": 1,
                 "dg": 0
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/33.png?v=6",
+                "equipo": "Deportivo",
+                "puntos": "1",
+                "pj": "1",
+                "pg": "0",
+                "pe": "1",
+                "pp": "0",
+                "gf": 1,
+                "gc": 1,
+                "dg": 0
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/42.png?v=6",
                 "equipo": "Valencia",
                 "puntos": "0",
@@ -3895,7 +3908,7 @@
                 "dg": 0
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/40.png?v=6",
                 "equipo": "Real Sociedad",
                 "puntos": "0",
@@ -3908,7 +3921,7 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/39.png?v=6",
                 "equipo": "Real Madrid",
                 "puntos": "0",
@@ -3921,22 +3934,9 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/37.png?v=6",
                 "equipo": "Osasuna",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/33.png?v=6",
-                "equipo": "Deportivo",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -4072,9 +4072,21 @@
                 "goles": 2
             },
             {
+                "nombre": "Marc Aguado",
+                "equipo": "Elche",
+                "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Nahuel Tenaglia",
                 "equipo": "Alavés",
                 "escudo": "https://statics-files.tycsports.com/escudos/160.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Pierre Aubameyang",
+                "equipo": "Deportivo",
+                "escudo": "https://statics-files.tycsports.com/escudos/33.png",
                 "goles": 1
             },
             {
@@ -4117,18 +4129,6 @@
                 "nombre": "Mikel Rodríguez",
                 "equipo": "Alavés",
                 "escudo": "https://statics-files.tycsports.com/escudos/160.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Fernández Castellano, G.",
-                "equipo": "Sevilla",
-                "escudo": "https://statics-files.tycsports.com/escudos/41.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Jon Guridi",
-                "equipo": "Sevilla",
-                "escudo": "https://statics-files.tycsports.com/escudos/41.png",
                 "goles": 1
             }
         ]

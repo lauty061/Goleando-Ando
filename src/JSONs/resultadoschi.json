@@ -1503,12 +1503,12 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "17/08/2026 21:30 HS",
+                "fecha": "17/08/2026 21:30 HS Finalizado",
                 "local": "PAL",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/151.png?v=6",
                 "visitante": "HUA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png?v=6"
             },
             {
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=6",
+                "equipo": "Palestino",
+                "puntos": "30",
+                "pj": "19",
+                "pg": "9",
+                "pe": "3",
+                "pp": "7",
+                "gf": 31,
+                "gc": 27,
+                "dg": 4
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "29",
@@ -2456,7 +2469,7 @@
                 "dg": 2
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "equipo": "Everton",
                 "puntos": "27",
@@ -2467,19 +2480,6 @@
                 "gf": 28,
                 "gc": 22,
                 "dg": 6
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=6",
-                "equipo": "Palestino",
-                "puntos": "27",
-                "pj": "18",
-                "pg": "8",
-                "pe": "3",
-                "pp": "7",
-                "gf": 26,
-                "gc": 26,
-                "dg": 0
             },
             {
                 "posicion": "7",
@@ -2522,19 +2522,6 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
-                "equipo": "Huachipato",
-                "puntos": "24",
-                "pj": "18",
-                "pg": "7",
-                "pe": "3",
-                "pp": "8",
-                "gf": 27,
-                "gc": 31,
-                "dg": -4
-            },
-            {
-                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
                 "equipo": "O'Higgins",
                 "puntos": "24",
@@ -2545,6 +2532,19 @@
                 "gf": 24,
                 "gc": 30,
                 "dg": -6
+            },
+            {
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
+                "equipo": "Huachipato",
+                "puntos": "24",
+                "pj": "19",
+                "pg": "7",
+                "pe": "3",
+                "pp": "9",
+                "gf": 28,
+                "gc": 36,
+                "dg": -8
             },
             {
                 "posicion": "12",
@@ -2626,6 +2626,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Lionel Altamirano",
+                "equipo": "Huachipato",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Javier Correa",
                 "equipo": "Colo Colo",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
@@ -2641,12 +2647,6 @@
                 "nombre": "Justo Giani",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Lionel Altamirano",
-                "equipo": "Huachipato",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "goles": 8
             },
             {

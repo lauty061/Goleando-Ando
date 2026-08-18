@@ -2293,12 +2293,12 @@
             },
             {
                 "fecha_torneo": "Fecha 23",
-                "fecha": "17/08/2026 20:00 HS",
+                "fecha": "17/08/2026 20:00 HS Finalizado",
                 "local": "INT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/116.png?v=6",
                 "visitante": "CDR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3698.png?v=6"
             },
             {
@@ -4000,6 +4000,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/116.png?v=6",
+                "equipo": "Internacional",
+                "puntos": "24",
+                "pj": "23",
+                "pg": "5",
+                "pe": "9",
+                "pp": "9",
+                "gf": 24,
+                "gc": 28,
+                "dg": -4
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/884.png?v=6",
                 "equipo": "Mirassol",
                 "puntos": "23",
@@ -4012,29 +4025,16 @@
                 "dg": -10
             },
             {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/116.png?v=6",
-                "equipo": "Internacional",
-                "puntos": "23",
-                "pj": "22",
-                "pg": "5",
-                "pe": "8",
-                "pp": "9",
-                "gf": 23,
-                "gc": 27,
-                "dg": -4
-            },
-            {
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
-                "puntos": "22",
-                "pj": "22",
+                "puntos": "23",
+                "pj": "23",
                 "pg": "5",
-                "pe": "7",
+                "pe": "8",
                 "pp": "10",
-                "gf": 26,
-                "gc": 36,
+                "gf": 27,
+                "gc": 37,
                 "dg": -10
             },
             {
