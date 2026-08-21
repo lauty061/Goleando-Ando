@@ -193,12 +193,12 @@
             },
             {
                 "fecha_torneo": "Fecha 2",
-                "fecha": "02/09/2026 20:20 HS",
+                "fecha": "19/08/2026 20:00 HS Finalizado",
                 "local": "CUC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/266.png?v=6",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/597.png?v=6"
             },
             {
@@ -393,12 +393,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "19/08/2026 18:00 HS",
+                "fecha": "19/08/2026 18:00 HS Finalizado",
                 "local": "AGU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "visitante": "LLA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/880.png?v=6"
             },
             {
@@ -553,6 +553,16 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
+                "fecha": "22/08/2026 22:15 HS",
+                "local": "DIM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png?v=6",
+                "visitante": "CUC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/266.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
                 "fecha": "23/08/2026 16:00 HS",
                 "local": "FOR",
                 "goles_local": "-",
@@ -584,16 +594,6 @@
             {
                 "fecha_torneo": "Fecha 6",
                 "fecha": "23/08/2026 22:15 HS",
-                "local": "DIM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png?v=6",
-                "visitante": "CUC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/266.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 6",
-                "fecha": "23/08/2026 22:15 HS",
                 "local": "JUN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/81.png?v=6",
@@ -603,7 +603,7 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "25/08/2026 22:00 HS",
+                "fecha": "24/08/2026 22:00 HS",
                 "local": "CUC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/266.png?v=6",
@@ -2204,6 +2204,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
+                "equipo": "Llaneros FC",
+                "puntos": "8",
+                "pj": "4",
+                "pg": "2",
+                "pe": "2",
+                "pp": "0",
+                "gf": 6,
+                "gc": 3,
+                "dg": 3
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "equipo": "Bucaramanga",
                 "puntos": "8",
@@ -2216,20 +2229,20 @@
                 "dg": 2
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
-                "equipo": "Llaneros FC",
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
+                "equipo": "Águilas Doradas",
                 "puntos": "7",
                 "pj": "3",
                 "pg": "2",
                 "pe": "1",
                 "pp": "0",
                 "gf": 5,
-                "gc": 2,
-                "dg": 3
+                "gc": 3,
+                "dg": 2
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
                 "puntos": "6",
@@ -2240,19 +2253,6 @@
                 "gf": 4,
                 "gc": 1,
                 "dg": 3
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
-                "equipo": "Águilas Doradas",
-                "puntos": "6",
-                "pj": "2",
-                "pg": "2",
-                "pe": "0",
-                "pp": "0",
-                "gf": 4,
-                "gc": 2,
-                "dg": 2
             },
             {
                 "posicion": "8",
@@ -2308,6 +2308,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
+                "equipo": "Int. de Bogotá",
+                "puntos": "4",
+                "pj": "4",
+                "pg": "1",
+                "pe": "1",
+                "pp": "2",
+                "gf": 3,
+                "gc": 5,
+                "dg": -2
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "equipo": "At. Nacional",
                 "puntos": "3",
@@ -2320,20 +2333,20 @@
                 "dg": 2
             },
             {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
-                "equipo": "Int. de Bogotá",
-                "puntos": "3",
-                "pj": "3",
-                "pg": "1",
-                "pe": "0",
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
+                "equipo": "Cúcuta",
+                "puntos": "2",
+                "pj": "4",
+                "pg": "0",
+                "pe": "2",
                 "pp": "2",
-                "gf": 2,
-                "gc": 4,
-                "dg": -2
+                "gf": 3,
+                "gc": 9,
+                "dg": -6
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "equipo": "Pereira",
                 "puntos": "1",
@@ -2346,7 +2359,7 @@
                 "dg": -1
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
                 "equipo": "Alianza",
                 "puntos": "1",
@@ -2357,19 +2370,6 @@
                 "gf": 4,
                 "gc": 6,
                 "dg": -2
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
-                "equipo": "Cúcuta",
-                "puntos": "1",
-                "pj": "3",
-                "pg": "0",
-                "pe": "1",
-                "pp": "2",
-                "gf": 2,
-                "gc": 8,
-                "dg": -6
             },
             {
                 "posicion": "17",

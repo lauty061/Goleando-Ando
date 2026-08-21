@@ -2933,16 +2933,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "06/06/2026 16:00 HS Suspendido",
-                "local": "SMS",
-                "goles_local": "1",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/134.png?v=6",
-                "visitante": "CHI",
-                "goles_visita": "0",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/128.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "06/06/2026 16:30 HS Finalizado",
                 "local": "RAF",
                 "goles_local": "1",
@@ -3060,6 +3050,16 @@
                 "visitante": "QUI",
                 "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/15.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "26/08/2026 15:00 HS Suspendido",
+                "local": "SMS",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/134.png?v=6",
+                "visitante": "CHI",
+                "goles_visita": "0",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/128.png?v=6"
             },
             {
                 "fecha_torneo": null,
@@ -3684,52 +3684,12 @@
             {
                 "fecha_torneo": null,
                 "fecha": "20/07/2026  HS Postergado",
-                "local": "CNO",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
-                "visitante": "MOR",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/679.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "20/07/2026  HS Postergado",
-                "local": "CFE",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/853.png?v=6",
-                "visitante": "SMI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/698.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "20/07/2026  HS Postergado",
-                "local": "ACA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/667.png?v=6",
-                "visitante": "TEL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/680.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "20/07/2026  HS Postergado",
                 "local": "COL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/687.png?v=6",
                 "visitante": "MID",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/785.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "20/07/2026  HS Postergado",
-                "local": "PAT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/869.png?v=6",
-                "visitante": "ATL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png?v=6"
             },
             {
                 "fecha_torneo": null,
@@ -3763,12 +3723,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "19/08/2026 15:00 HS",
+                "fecha": "19/08/2026 15:00 HS Finalizado",
                 "local": "CHA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/127.png?v=6",
                 "visitante": "GUE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1489.png?v=6"
             },
             {
@@ -3780,6 +3740,46 @@
                 "visitante": "GOD",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/132.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "26/08/2026 15:00 HS",
+                "local": "CFE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/853.png?v=6",
+                "visitante": "SMI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/698.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "26/08/2026 15:00 HS",
+                "local": "ACA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/667.png?v=6",
+                "visitante": "TEL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/680.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "26/08/2026 15:30 HS",
+                "local": "PAT",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/869.png?v=6",
+                "visitante": "ATL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "26/08/2026 21:30 HS",
+                "local": "CNO",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
+                "visitante": "MOR",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/679.png?v=6"
             },
             {
                 "fecha_torneo": null,
@@ -4503,17 +4503,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/08/2026  HS",
-                "local": "MAD",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/874.png?v=6",
-                "visitante": "MIT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1890.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "21/08/2026  HS",
+                "fecha": "21/08/2026 15:00 HS",
                 "local": "ACA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/667.png?v=6",
@@ -4523,7 +4513,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/08/2026  HS",
+                "fecha": "21/08/2026 15:30 HS",
                 "local": "TEL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/680.png?v=6",
@@ -4533,87 +4523,17 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "DEF",
+                "fecha": "21/08/2026 19:00 HS",
+                "local": "MAD",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/138.png?v=6",
-                "visitante": "ALT",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/874.png?v=6",
+                "visitante": "MIT",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/665.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1890.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "CNO",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
-                "visitante": "EST",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/663.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "CFE",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/853.png?v=6",
-                "visitante": "AND",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/140.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "SMI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/698.png?v=6",
-                "visitante": "COL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/6.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "PAT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/869.png?v=6",
-                "visitante": "GEJ",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/102.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "ALM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/1.png?v=6",
-                "visitante": "COL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/687.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "CHI",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/128.png?v=6",
-                "visitante": "ATL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
-                "local": "SMS",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/134.png?v=6",
-                "visitante": "GYT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/865.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "22/08/2026  HS",
+                "fecha": "22/08/2026 15:00 HS",
                 "local": "TRI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/630.png?v=6",
@@ -4623,7 +4543,87 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/08/2026  HS",
+                "fecha": "22/08/2026 15:30 HS",
+                "local": "DEF",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/138.png?v=6",
+                "visitante": "ALT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/665.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "22/08/2026 15:30 HS",
+                "local": "SMI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/698.png?v=6",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/6.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "22/08/2026 15:30 HS",
+                "local": "PAT",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/869.png?v=6",
+                "visitante": "GEJ",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/102.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "22/08/2026 15:30 HS",
+                "local": "ALM",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1.png?v=6",
+                "visitante": "COL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/687.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "22/08/2026 15:30 HS",
+                "local": "CHI",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/128.png?v=6",
+                "visitante": "ATL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "22/08/2026 15:30 HS",
+                "local": "SMS",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/134.png?v=6",
+                "visitante": "GYT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/865.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "22/08/2026 16:00 HS",
+                "local": "CFE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/853.png?v=6",
+                "visitante": "AND",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/140.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "22/08/2026 22:00 HS",
+                "local": "CNO",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
+                "visitante": "EST",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/663.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "23/08/2026 15:30 HS",
                 "local": "BOL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10612.png?v=6",
@@ -4633,7 +4633,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/08/2026  HS",
+                "fecha": "23/08/2026 15:30 HS",
                 "local": "MAI",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/862.png?v=6",
@@ -4643,17 +4643,7 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "23/08/2026  HS",
-                "local": "TEM",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/682.png?v=6",
-                "visitante": "MID",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/785.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "23/08/2026  HS",
+                "fecha": "23/08/2026 15:30 HS",
                 "local": "CHA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/127.png?v=6",
@@ -4663,23 +4653,33 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "24/08/2026  HS",
-                "local": "FCO",
+                "fecha": "23/08/2026 16:00 HS",
+                "local": "TEM",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/131.png?v=6",
-                "visitante": "ALB",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/682.png?v=6",
+                "visitante": "MID",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/668.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/785.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "24/08/2026  HS",
+                "fecha": "24/08/2026 16:00 HS",
                 "local": "GUE",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1489.png?v=6",
                 "visitante": "RAF",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/99.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "24/08/2026 20:00 HS",
+                "local": "FCO",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/131.png?v=6",
+                "visitante": "ALB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/668.png?v=6"
             },
             {
                 "fecha_torneo": null,
@@ -7084,6 +7084,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "28",
+                "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
+                "equipo": "Chacarita",
+                "puntos": "27",
+                "pj": "25",
+                "pg": "7",
+                "pe": "6",
+                "pp": "12",
+                "gf": 18,
+                "gc": 26,
+                "dg": -8
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "29",
                 "escudo": "https://statics-files.tycsports.com/escudos/668.png?v=6",
                 "equipo": "All Boys",
                 "puntos": "27",
@@ -7097,7 +7111,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "29",
+                "posicion": "30",
                 "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
                 "equipo": "Def. de Belgrano",
                 "puntos": "26",
@@ -7108,20 +7122,6 @@
                 "gf": 16,
                 "gc": 21,
                 "dg": -5
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "30",
-                "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
-                "equipo": "Chacarita",
-                "puntos": "26",
-                "pj": "24",
-                "pg": "7",
-                "pe": "5",
-                "pp": "12",
-                "gf": 18,
-                "gc": 26,
-                "dg": -8
             },
             {
                 "zona": "Posiciones",
@@ -7198,10 +7198,10 @@
                 "posicion": "36",
                 "escudo": "https://statics-files.tycsports.com/escudos/1489.png?v=6",
                 "equipo": "Güemes (SE)",
-                "puntos": "20",
-                "pj": "23",
+                "puntos": "21",
+                "pj": "24",
                 "pg": "5",
-                "pe": "5",
+                "pe": "6",
                 "pp": "13",
                 "gf": 20,
                 "gc": 40,
