@@ -3303,32 +3303,32 @@
             },
             {
                 "fecha_torneo": "Fecha 31",
-                "fecha": "21/08/2026 15:30 HS",
+                "fecha": "21/08/2026 15:30 HS Finalizado",
                 "local": "COM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/673.png?v=6",
                 "visitante": "ITA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/677.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 31",
-                "fecha": "21/08/2026 19:00 HS",
+                "fecha": "21/08/2026 19:00 HS Finalizado",
                 "local": "BRW",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/671.png?v=6",
                 "visitante": "UR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/780.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 31",
-                "fecha": "21/08/2026 19:00 HS",
+                "fecha": "21/08/2026 19:00 HS Finalizado",
                 "local": "LAF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/694.png?v=6",
                 "visitante": "DAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/700.png?v=6"
             },
             {
@@ -4775,6 +4775,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=6",
+                "equipo": "Villa Dálmine",
+                "puntos": "58",
+                "pj": "31",
+                "pg": "16",
+                "pe": "10",
+                "pp": "5",
+                "gf": 35,
+                "gc": 16,
+                "dg": 19
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
                 "equipo": "Excursionistas",
                 "puntos": "56",
@@ -4787,7 +4800,7 @@
                 "dg": 22
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "equipo": "Talleres (RE)",
                 "puntos": "56",
@@ -4800,7 +4813,7 @@
                 "dg": 18
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
                 "equipo": "Camioneros",
                 "puntos": "55",
@@ -4810,19 +4823,6 @@
                 "pp": "5",
                 "gf": 35,
                 "gc": 18,
-                "dg": 17
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=6",
-                "equipo": "Villa Dálmine",
-                "puntos": "55",
-                "pj": "30",
-                "pg": "15",
-                "pe": "10",
-                "pp": "5",
-                "gf": 33,
-                "gc": 16,
                 "dg": 17
             },
             {
@@ -4843,13 +4843,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/677.png?v=6",
                 "equipo": "Sp. Italiano",
                 "puntos": "52",
-                "pj": "30",
+                "pj": "31",
                 "pg": "14",
                 "pe": "10",
-                "pp": "6",
+                "pp": "7",
                 "gf": 36,
-                "gc": 22,
-                "dg": 14
+                "gc": 23,
+                "dg": 13
             },
             {
                 "posicion": "7",
@@ -4879,29 +4879,29 @@
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/694.png?v=6",
-                "equipo": "Laferrere",
-                "puntos": "42",
-                "pj": "30",
+                "escudo": "https://statics-files.tycsports.com/escudos/673.png?v=6",
+                "equipo": "Comunicaciones",
+                "puntos": "43",
+                "pj": "31",
                 "pg": "11",
-                "pe": "9",
+                "pe": "10",
                 "pp": "10",
-                "gf": 36,
-                "gc": 39,
-                "dg": -3
+                "gf": 32,
+                "gc": 29,
+                "dg": 3
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/673.png?v=6",
-                "equipo": "Comunicaciones",
-                "puntos": "40",
-                "pj": "30",
-                "pg": "10",
-                "pe": "10",
-                "pp": "10",
-                "gf": 31,
-                "gc": 29,
-                "dg": 2
+                "escudo": "https://statics-files.tycsports.com/escudos/694.png?v=6",
+                "equipo": "Laferrere",
+                "puntos": "42",
+                "pj": "31",
+                "pg": "11",
+                "pe": "9",
+                "pp": "11",
+                "gf": 36,
+                "gc": 41,
+                "dg": -5
             },
             {
                 "posicion": "11",
@@ -4998,13 +4998,13 @@
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
                 "equipo": "Brown (Adrogué)",
-                "puntos": "31",
-                "pj": "30",
+                "puntos": "32",
+                "pj": "31",
                 "pg": "7",
-                "pe": "10",
+                "pe": "11",
                 "pp": "13",
-                "gf": 19,
-                "gc": 31,
+                "gf": 20,
+                "gc": 32,
                 "dg": -12
             },
             {
@@ -5024,13 +5024,13 @@
                 "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "equipo": "UAI Urquiza",
-                "puntos": "27",
-                "pj": "30",
+                "puntos": "28",
+                "pj": "31",
                 "pg": "3",
-                "pe": "18",
+                "pe": "19",
                 "pp": "9",
-                "gf": 14,
-                "gc": 25,
+                "gf": 15,
+                "gc": 26,
                 "dg": -11
             },
             {

@@ -4503,32 +4503,32 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/08/2026 15:00 HS",
+                "fecha": "21/08/2026 15:00 HS Finalizado",
                 "local": "ACA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/667.png?v=6",
                 "visitante": "GOD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/132.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/08/2026 15:30 HS",
+                "fecha": "21/08/2026 15:30 HS Finalizado",
                 "local": "TEL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/680.png?v=6",
                 "visitante": "MOR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/679.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/08/2026 19:00 HS",
+                "fecha": "21/08/2026 19:00 HS Finalizado",
                 "local": "MAD",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/874.png?v=6",
                 "visitante": "MIT",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1890.png?v=6"
             },
             {
@@ -6722,13 +6722,13 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/679.png?v=6",
                 "equipo": "Dep. Morón",
-                "puntos": "44",
-                "pj": "24",
+                "puntos": "45",
+                "pj": "25",
                 "pg": "13",
-                "pe": "5",
+                "pe": "6",
                 "pp": "6",
-                "gf": 39,
-                "gc": 22,
+                "gf": 41,
+                "gc": 24,
                 "dg": 17
             },
             {
@@ -6776,6 +6776,34 @@
             {
                 "zona": "Posiciones",
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/874.png?v=6",
+                "equipo": "Dep. Madryn",
+                "puntos": "40",
+                "pj": "25",
+                "pg": "10",
+                "pe": "10",
+                "pp": "5",
+                "gf": 36,
+                "gc": 24,
+                "dg": 12
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/132.png?v=6",
+                "equipo": "Godoy Cruz",
+                "puntos": "40",
+                "pj": "25",
+                "pg": "11",
+                "pe": "7",
+                "pp": "7",
+                "gf": 29,
+                "gc": 22,
+                "dg": 7
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png?v=6",
                 "equipo": "Temperley",
                 "puntos": "40",
@@ -6789,7 +6817,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "7",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/670.png?v=6",
                 "equipo": "Atlanta",
                 "puntos": "39",
@@ -6803,7 +6831,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "8",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/785.png?v=6",
                 "equipo": "Midland",
                 "puntos": "38",
@@ -6817,7 +6845,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "9",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
                 "equipo": "Gimnasia y Tiro",
                 "puntos": "38",
@@ -6831,7 +6859,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "10",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/665.png?v=6",
                 "equipo": "Almirante Brown",
                 "puntos": "38",
@@ -6842,34 +6870,6 @@
                 "gf": 20,
                 "gc": 16,
                 "dg": 4
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/874.png?v=6",
-                "equipo": "Dep. Madryn",
-                "puntos": "37",
-                "pj": "24",
-                "pg": "9",
-                "pe": "10",
-                "pp": "5",
-                "gf": 32,
-                "gc": 24,
-                "dg": 8
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/132.png?v=6",
-                "equipo": "Godoy Cruz",
-                "puntos": "37",
-                "pj": "24",
-                "pg": "10",
-                "pe": "7",
-                "pp": "7",
-                "gf": 28,
-                "gc": 22,
-                "dg": 6
             },
             {
                 "zona": "Posiciones",
@@ -7042,20 +7042,6 @@
             {
                 "zona": "Posiciones",
                 "posicion": "25",
-                "escudo": "https://statics-files.tycsports.com/escudos/1890.png?v=6",
-                "equipo": "Mitre (SE)",
-                "puntos": "29",
-                "pj": "25",
-                "pg": "6",
-                "pe": "11",
-                "pp": "8",
-                "gf": 25,
-                "gc": 29,
-                "dg": -4
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "26",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png?v=6",
                 "equipo": "San Miguel",
                 "puntos": "29",
@@ -7069,7 +7055,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "27",
+                "posicion": "26",
                 "escudo": "https://statics-files.tycsports.com/escudos/3683.png?v=6",
                 "equipo": "Agropecuario",
                 "puntos": "29",
@@ -7080,6 +7066,20 @@
                 "gf": 22,
                 "gc": 28,
                 "dg": -6
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "27",
+                "escudo": "https://statics-files.tycsports.com/escudos/1890.png?v=6",
+                "equipo": "Mitre (SE)",
+                "puntos": "29",
+                "pj": "26",
+                "pg": "6",
+                "pe": "11",
+                "pp": "9",
+                "gf": 25,
+                "gc": 33,
+                "dg": -8
             },
             {
                 "zona": "Posiciones",
@@ -7140,6 +7140,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "32",
+                "escudo": "https://statics-files.tycsports.com/escudos/680.png?v=6",
+                "equipo": "San Telmo",
+                "puntos": "24",
+                "pj": "25",
+                "pg": "5",
+                "pe": "9",
+                "pp": "11",
+                "gf": 20,
+                "gc": 29,
+                "dg": -9
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
                 "equipo": "Central Norte",
                 "puntos": "24",
@@ -7149,20 +7163,6 @@
                 "pp": "10",
                 "gf": 15,
                 "gc": 24,
-                "dg": -9
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "33",
-                "escudo": "https://statics-files.tycsports.com/escudos/680.png?v=6",
-                "equipo": "San Telmo",
-                "puntos": "23",
-                "pj": "24",
-                "pg": "5",
-                "pe": "8",
-                "pp": "11",
-                "gf": 18,
-                "gc": 27,
                 "dg": -9
             },
             {
@@ -7185,13 +7185,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/667.png?v=6",
                 "equipo": "Acassuso",
                 "puntos": "22",
-                "pj": "24",
+                "pj": "25",
                 "pg": "5",
                 "pe": "7",
-                "pp": "12",
+                "pp": "13",
                 "gf": 18,
-                "gc": 29,
-                "dg": -11
+                "gc": 30,
+                "dg": -12
             },
             {
                 "zona": "Posiciones",
@@ -7210,6 +7210,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Franco Fagundez",
+                "equipo": "Dep. Morón",
+                "escudo": "https://statics-files.tycsports.com/escudos/679.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Lautaro Gordillo",
                 "equipo": "Gimnasia y Tiro",
                 "escudo": "https://statics-files.tycsports.com/escudos/865.png",
@@ -7225,12 +7231,6 @@
                 "nombre": "Marcos Machado",
                 "equipo": "Mitre (SE)",
                 "escudo": "https://statics-files.tycsports.com/escudos/1890.png",
-                "goles": 10
-            },
-            {
-                "nombre": "Franco Fagundez",
-                "equipo": "Dep. Morón",
-                "escudo": "https://statics-files.tycsports.com/escudos/679.png",
                 "goles": 10
             },
             {

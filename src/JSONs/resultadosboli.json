@@ -1203,22 +1203,22 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "21/08/2026 19:30 HS",
+                "fecha": "21/08/2026 19:30 HS Finalizado",
                 "local": "STR",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/74.png?v=6",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "21/08/2026 21:30 HS",
+                "fecha": "21/08/2026 21:30 HS Finalizado",
                 "local": "ORI",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "visitante": "SAB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png?v=6"
             },
             {
@@ -2433,17 +2433,30 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png?v=6",
                 "equipo": "The Strongest",
-                "puntos": "27",
-                "pj": "15",
-                "pg": "7",
+                "puntos": "30",
+                "pj": "16",
+                "pg": "8",
                 "pe": "6",
                 "pp": "2",
-                "gf": 22,
-                "gc": 17,
-                "dg": 5
+                "gf": 26,
+                "gc": 20,
+                "dg": 6
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
+                "equipo": "Oriente Petrolero",
+                "puntos": "26",
+                "pj": "16",
+                "pg": "8",
+                "pe": "2",
+                "pp": "6",
+                "gf": 29,
+                "gc": 20,
+                "dg": 9
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "24",
@@ -2456,7 +2469,7 @@
                 "dg": -1
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "equipo": "Real Potosí",
                 "puntos": "24",
@@ -2467,19 +2480,6 @@
                 "gf": 22,
                 "gc": 11,
                 "dg": 11
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
-                "equipo": "Oriente Petrolero",
-                "puntos": "23",
-                "pj": "15",
-                "pg": "7",
-                "pe": "2",
-                "pp": "6",
-                "gf": 25,
-                "gc": 20,
-                "dg": 5
             },
             {
                 "posicion": "7",
@@ -2535,19 +2535,6 @@
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
-                "equipo": "San Antonio",
-                "puntos": "17",
-                "pj": "15",
-                "pg": "5",
-                "pe": "2",
-                "pp": "8",
-                "gf": 18,
-                "gc": 28,
-                "dg": -10
-            },
-            {
-                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
                 "equipo": "Totora Real Oruro",
                 "puntos": "17",
@@ -2558,6 +2545,19 @@
                 "gf": 27,
                 "gc": 38,
                 "dg": -11
+            },
+            {
+                "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
+                "equipo": "San Antonio",
+                "puntos": "17",
+                "pj": "16",
+                "pg": "5",
+                "pe": "2",
+                "pp": "9",
+                "gf": 18,
+                "gc": 32,
+                "dg": -14
             },
             {
                 "posicion": "13",
@@ -2603,13 +2603,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "equipo": "U. de Vinto",
                 "puntos": "11",
-                "pj": "15",
+                "pj": "16",
                 "pg": "3",
                 "pe": "2",
-                "pp": "10",
-                "gf": 17,
-                "gc": 31,
-                "dg": -14
+                "pp": "11",
+                "gf": 20,
+                "gc": 35,
+                "dg": -15
             }
         ],
         "goleadores": [
@@ -2656,6 +2656,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Nahuel Roldan",
+                "equipo": "Oriente Petrolero",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Enrique Triverio",
                 "equipo": "Always Ready",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "José Flores",
                 "equipo": "Oriente Petrolero",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Daniel Porozo",
-                "equipo": "Totora Real Oruro",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png",
                 "goles": 5
             }
         ]

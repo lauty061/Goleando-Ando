@@ -283,22 +283,22 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "21/08/2026 17:00 HS",
+                "fecha": "21/08/2026 17:00 HS Finalizado",
                 "local": "AFC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
                 "visitante": "TRU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/119.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "21/08/2026 20:00 HS",
+                "fecha": "21/08/2026 20:00 HS Finalizado",
                 "local": "CAR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/85.png?v=6",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/223.png?v=6"
             },
             {
@@ -1250,6 +1250,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/223.png?v=6",
+                "equipo": "Carabobo",
+                "puntos": "7",
+                "pj": "5",
+                "pg": "2",
+                "pe": "1",
+                "pp": "2",
+                "gf": 4,
+                "gc": 3,
+                "dg": 1
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/224.png?v=6",
                 "equipo": "Estudiantes",
                 "puntos": "7",
@@ -1262,33 +1275,46 @@
                 "dg": -1
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/223.png?v=6",
-                "equipo": "Carabobo",
-                "puntos": "6",
-                "pj": "4",
-                "pg": "2",
-                "pe": "0",
-                "pp": "2",
-                "gf": 3,
-                "gc": 2,
-                "dg": 1
-            },
-            {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/85.png?v=6",
                 "equipo": "Caracas",
-                "puntos": "4",
-                "pj": "4",
+                "puntos": "5",
+                "pj": "5",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 5,
-                "gc": 7,
+                "gf": 6,
+                "gc": 8,
                 "dg": -2
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/119.png?v=6",
+                "equipo": "Trujillanos",
+                "puntos": "4",
+                "pj": "5",
+                "pg": "1",
+                "pe": "1",
+                "pp": "3",
+                "gf": 3,
+                "gc": 6,
+                "dg": -3
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
+                "equipo": "Anzoátegui FC",
+                "puntos": "4",
+                "pj": "5",
+                "pg": "1",
+                "pe": "1",
+                "pp": "3",
+                "gf": 4,
+                "gc": 8,
+                "dg": -4
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/972.png?v=6",
                 "equipo": "Rayo Zuliano",
                 "puntos": "3",
@@ -1301,7 +1327,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/226.png?v=6",
                 "equipo": "Monagas",
                 "puntos": "3",
@@ -1314,20 +1340,7 @@
                 "dg": -2
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/119.png?v=6",
-                "equipo": "Trujillanos",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 3,
-                "gc": 6,
-                "dg": -3
-            },
-            {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png?v=6",
                 "equipo": "UCV",
                 "puntos": "3",
@@ -1338,19 +1351,6 @@
                 "gf": 3,
                 "gc": 6,
                 "dg": -3
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
-                "equipo": "Anzoátegui FC",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 4,
-                "gc": 8,
-                "dg": -4
             },
             {
                 "posicion": "14",
@@ -1378,6 +1378,18 @@
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "goles": 4
+            },
+            {
+                "nombre": "Robert Hernández",
+                "equipo": "Caracas",
+                "escudo": "https://statics-files.tycsports.com/escudos/85.png",
+                "goles": 2
+            },
+            {
+                "nombre": "Darwin Machís",
+                "equipo": "Carabobo",
+                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
+                "goles": 2
             },
             {
                 "nombre": "Alejandro Villarreal",
@@ -1420,18 +1432,6 @@
                 "equipo": "Monagas",
                 "escudo": "https://statics-files.tycsports.com/escudos/226.png",
                 "goles": 2
-            },
-            {
-                "nombre": "Juan Silgado",
-                "equipo": "Anzoátegui FC",
-                "escudo": "https://statics-files.tycsports.com/escudos/11977.png",
-                "goles": 2
-            },
-            {
-                "nombre": "George Ayine",
-                "equipo": "Metropolitanos",
-                "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
-                "goles": 1
             }
         ]
     }
