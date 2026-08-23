@@ -1533,22 +1533,22 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "22/08/2026 18:30 HS",
+                "fecha": "22/08/2026 18:30 HS Finalizado",
                 "local": "HUA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "visitante": "LIM",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7596.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "22/08/2026 21:00 HS",
+                "fecha": "22/08/2026 21:00 HS Finalizado",
                 "local": "UCA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/120.png?v=6",
                 "visitante": "ÑUB",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png?v=6"
             },
             {
@@ -2431,19 +2431,32 @@
             },
             {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
-                "equipo": "U. Católica",
-                "puntos": "30",
-                "pj": "18",
-                "pg": "9",
-                "pe": "3",
-                "pp": "6",
-                "gf": 40,
-                "gc": 26,
-                "dg": 14
+                "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
+                "equipo": "Ñublense",
+                "puntos": "32",
+                "pj": "19",
+                "pg": "8",
+                "pe": "8",
+                "pp": "3",
+                "gf": 26,
+                "gc": 23,
+                "dg": 3
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
+                "equipo": "U. Católica",
+                "puntos": "30",
+                "pj": "19",
+                "pg": "9",
+                "pe": "3",
+                "pp": "7",
+                "gf": 41,
+                "gc": 28,
+                "dg": 13
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=6",
                 "equipo": "Palestino",
                 "puntos": "30",
@@ -2456,20 +2469,20 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
-                "equipo": "Ñublense",
-                "puntos": "29",
-                "pj": "18",
-                "pg": "7",
-                "pe": "8",
-                "pp": "3",
-                "gf": 24,
-                "gc": 22,
-                "dg": 2
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
+                "equipo": "Deportes Limache",
+                "puntos": "27",
+                "pj": "19",
+                "pg": "8",
+                "pe": "3",
+                "pp": "8",
+                "gf": 38,
+                "gc": 31,
+                "dg": 7
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "equipo": "Everton",
                 "puntos": "27",
@@ -2482,7 +2495,7 @@
                 "dg": 6
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "equipo": "D. Concepción",
                 "puntos": "26",
@@ -2495,7 +2508,7 @@
                 "dg": -1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "equipo": "Coquimbo Unido",
                 "puntos": "25",
@@ -2506,19 +2519,6 @@
                 "gf": 24,
                 "gc": 21,
                 "dg": 3
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
-                "equipo": "Deportes Limache",
-                "puntos": "24",
-                "pj": "18",
-                "pg": "7",
-                "pe": "3",
-                "pp": "8",
-                "gf": 35,
-                "gc": 30,
-                "dg": 5
             },
             {
                 "posicion": "10",
@@ -2538,13 +2538,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "equipo": "Huachipato",
                 "puntos": "24",
-                "pj": "19",
+                "pj": "20",
                 "pg": "7",
                 "pe": "3",
-                "pp": "9",
-                "gf": 28,
-                "gc": 36,
-                "dg": -8
+                "pp": "10",
+                "gf": 29,
+                "gc": 39,
+                "dg": -10
             },
             {
                 "posicion": "12",
@@ -2617,7 +2617,7 @@
                 "nombre": "Fernando Zampedri",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 18
+                "goles": 19
             },
             {
                 "nombre": "Castro Santibáñez, D.",
