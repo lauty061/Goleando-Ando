@@ -3143,22 +3143,22 @@
             },
             {
                 "fecha_torneo": "Semana 18",
-                "fecha": "23/08/2026 17:30 HS",
+                "fecha": "23/08/2026 17:30 HS Finalizado",
                 "local": "NER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1300.png?v=6",
                 "visitante": "NYC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5469.png?v=6"
             },
             {
                 "fecha_torneo": "Semana 18",
-                "fecha": "23/08/2026 20:00 HS",
+                "fecha": "23/08/2026 20:00 HS Finalizado",
                 "local": "ATL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6751.png?v=6",
                 "visitante": "SKC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3203.png?v=6"
             },
             {
@@ -5400,13 +5400,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1300.png?v=6",
                 "equipo": "NE Revolution",
-                "puntos": "33",
-                "pj": "20",
+                "puntos": "34",
+                "pj": "21",
                 "pg": "10",
-                "pe": "3",
+                "pe": "4",
                 "pp": "7",
-                "gf": 32,
-                "gc": 25,
+                "gf": 33,
+                "gc": 26,
                 "dg": 7
             },
             {
@@ -5442,13 +5442,13 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/5469.png?v=6",
                 "equipo": "New York City FC",
-                "puntos": "26",
-                "pj": "20",
+                "puntos": "27",
+                "pj": "21",
                 "pg": "7",
-                "pe": "5",
+                "pe": "6",
                 "pp": "8",
-                "gf": 34,
-                "gc": 29,
+                "gf": 35,
+                "gc": 30,
                 "dg": 5
             },
             {
@@ -5510,6 +5510,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/6751.png?v=6",
+                "equipo": "Atlanta United",
+                "puntos": "21",
+                "pj": "21",
+                "pg": "6",
+                "pe": "3",
+                "pp": "12",
+                "gf": 25,
+                "gc": 36,
+                "dg": -11
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/2109.png?v=6",
                 "equipo": "Philadelphia",
                 "puntos": "21",
@@ -5523,7 +5537,7 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/1298.png?v=6",
                 "equipo": "CF Montréal",
                 "puntos": "21",
@@ -5537,7 +5551,7 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1772.png?v=6",
                 "equipo": "Columbus Crew",
                 "puntos": "20",
@@ -5548,20 +5562,6 @@
                 "gf": 30,
                 "gc": 36,
                 "dg": -6
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/6751.png?v=6",
-                "equipo": "Atlanta United",
-                "puntos": "18",
-                "pj": "20",
-                "pg": "5",
-                "pe": "3",
-                "pp": "12",
-                "gf": 23,
-                "gc": 35,
-                "dg": -12
             },
             {
                 "zona": "Grupo Oeste",
@@ -5765,13 +5765,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3203.png?v=6",
                 "equipo": "Sporting KC",
                 "puntos": "15",
-                "pj": "20",
+                "pj": "21",
                 "pg": "4",
                 "pe": "3",
-                "pp": "13",
-                "gf": 19,
-                "gc": 49,
-                "dg": -30
+                "pp": "14",
+                "gf": 20,
+                "gc": 51,
+                "dg": -31
             }
         ],
         "goleadores": [

@@ -323,12 +323,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "23/08/2026 16:00 HS",
+                "fecha": "23/08/2026 16:00 HS Finalizado",
                 "local": "OLI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/215.png?v=6",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=6"
             },
             {
@@ -1364,6 +1364,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
+                "equipo": "Olimpia",
+                "puntos": "9",
+                "pj": "6",
+                "pg": "3",
+                "pe": "0",
+                "pp": "3",
+                "gf": 9,
+                "gc": 6,
+                "dg": 3
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
                 "puntos": "9",
@@ -1376,7 +1389,7 @@
                 "dg": 2
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
                 "puntos": "7",
@@ -1389,7 +1402,7 @@
                 "dg": 0
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "equipo": "D. Recoleta",
                 "puntos": "7",
@@ -1402,20 +1415,20 @@
                 "dg": -3
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "equipo": "Cerro Porteño",
                 "puntos": "6",
-                "pj": "5",
+                "pj": "6",
                 "pg": "2",
                 "pe": "0",
-                "pp": "3",
-                "gf": 6,
-                "gc": 5,
-                "dg": 1
+                "pp": "4",
+                "gf": 7,
+                "gc": 7,
+                "dg": 0
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "equipo": "Nacional (P)",
                 "puntos": "6",
@@ -1426,19 +1439,6 @@
                 "gf": 6,
                 "gc": 5,
                 "dg": 1
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
-                "equipo": "Olimpia",
-                "puntos": "6",
-                "pj": "5",
-                "pg": "2",
-                "pe": "0",
-                "pp": "3",
-                "gf": 7,
-                "gc": 5,
-                "dg": 2
             },
             {
                 "posicion": "10",
@@ -1512,6 +1512,12 @@
                 "goles": 2
             },
             {
+                "nombre": "Hugo Sandoval",
+                "equipo": "Olimpia",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Richard Torales",
                 "equipo": "Sp. Ameliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
@@ -1524,6 +1530,12 @@
                 "goles": 2
             },
             {
+                "nombre": "Eduardo Delmas",
+                "equipo": "Olimpia",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Clementino González",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
@@ -1533,18 +1545,6 @@
                 "nombre": "Héctor López",
                 "equipo": "Deportivo Recoleta",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Roque Santa Cruz",
-                "equipo": "Nacional (P)",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Rodrigo Villalba",
-                "equipo": "Libertad",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
                 "goles": 2
             }
         ]
