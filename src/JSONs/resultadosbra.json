@@ -2393,12 +2393,12 @@
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "24/08/2026 20:00 HS",
+                "fecha": "24/08/2026 20:00 HS Finalizado",
                 "local": "BOT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/254.png?v=6",
                 "visitante": "ATP",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/68.png?v=6"
             },
             {
@@ -3833,14 +3833,14 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/68.png?v=6",
                 "equipo": "Paranaense",
-                "puntos": "41",
-                "pj": "23",
-                "pg": "12",
+                "puntos": "44",
+                "pj": "24",
+                "pg": "13",
                 "pe": "5",
                 "pp": "6",
-                "gf": 31,
-                "gc": 20,
-                "dg": 11
+                "gf": 34,
+                "gc": 22,
+                "dg": 12
             },
             {
                 "posicion": "4",
@@ -3938,13 +3938,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png?v=6",
                 "equipo": "Botafogo",
                 "puntos": "30",
-                "pj": "22",
+                "pj": "23",
                 "pg": "8",
                 "pe": "6",
-                "pp": "8",
-                "gf": 35,
-                "gc": 34,
-                "dg": 1
+                "pp": "9",
+                "gf": 37,
+                "gc": 37,
+                "dg": 0
             },
             {
                 "posicion": "12",
@@ -4066,15 +4066,15 @@
         ],
         "goleadores": [
             {
-                "nombre": "Pedro",
-                "equipo": "Flamengo",
-                "escudo": "https://statics-files.tycsports.com/escudos/256.png",
-                "goles": 14
-            },
-            {
                 "nombre": "Kevin Viveros",
                 "equipo": "Athletico Paranaense",
                 "escudo": "https://statics-files.tycsports.com/escudos/68.png",
+                "goles": 16
+            },
+            {
+                "nombre": "Pedro",
+                "equipo": "Flamengo",
+                "escudo": "https://statics-files.tycsports.com/escudos/256.png",
                 "goles": 14
             },
             {

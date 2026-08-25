@@ -1593,12 +1593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "24/08/2026 20:30 HS",
+                "fecha": "24/08/2026 20:30 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "visitante": "UDC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png?v=6"
             },
             {
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
+                "equipo": "Everton",
+                "puntos": "30",
+                "pj": "20",
+                "pg": "8",
+                "pe": "6",
+                "pp": "6",
+                "gf": 31,
+                "gc": 23,
+                "dg": 8
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "equipo": "Deportes Limache",
                 "puntos": "27",
@@ -2480,19 +2493,6 @@
                 "gf": 38,
                 "gc": 31,
                 "dg": 7
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
-                "equipo": "Everton",
-                "puntos": "27",
-                "pj": "19",
-                "pg": "7",
-                "pe": "6",
-                "pp": "6",
-                "gf": 28,
-                "gc": 22,
-                "dg": 6
             },
             {
                 "posicion": "8",
@@ -2577,13 +2577,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
                 "puntos": "19",
-                "pj": "18",
+                "pj": "19",
                 "pg": "5",
                 "pe": "4",
-                "pp": "9",
-                "gf": 13,
-                "gc": 30,
-                "dg": -17
+                "pp": "10",
+                "gf": 14,
+                "gc": 33,
+                "dg": -19
             },
             {
                 "posicion": "15",
@@ -2662,6 +2662,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Alan Medina",
+                "equipo": "Everton",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Steffan Pino",
                 "equipo": "Cobresal",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "Sebastián Sáez",
                 "equipo": "U. La Calera",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Alan Medina",
-                "equipo": "Everton",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
                 "goles": 7
             }
         ]

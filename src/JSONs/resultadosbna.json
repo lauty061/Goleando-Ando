@@ -4663,22 +4663,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "24/08/2026 16:00 HS",
+                "fecha": "24/08/2026 16:00 HS Finalizado",
                 "local": "GUE",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1489.png?v=6",
                 "visitante": "RAF",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/99.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "24/08/2026 20:00 HS",
+                "fecha": "24/08/2026 20:00 HS Finalizado",
                 "local": "FCO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/131.png?v=6",
                 "visitante": "ALB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/668.png?v=6"
             },
             {
@@ -6708,14 +6708,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/131.png?v=6",
                 "equipo": "Ferro",
-                "puntos": "49",
-                "pj": "25",
-                "pg": "15",
+                "puntos": "52",
+                "pj": "26",
+                "pg": "16",
                 "pe": "4",
                 "pp": "6",
-                "gf": 31,
+                "gf": 32,
                 "gc": 23,
-                "dg": 8
+                "dg": 9
             },
             {
                 "zona": "Posiciones",
@@ -6888,6 +6888,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=6",
+                "equipo": "Atlético Rafaela",
+                "puntos": "36",
+                "pj": "26",
+                "pg": "9",
+                "pe": "9",
+                "pp": "8",
+                "gf": 18,
+                "gc": 19,
+                "dg": -1
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png?v=6",
                 "equipo": "San Martín (T)",
                 "puntos": "35",
@@ -6901,7 +6915,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/663.png?v=6",
                 "equipo": "Estudiantes (BA)",
                 "puntos": "35",
@@ -6915,7 +6929,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/10612.png?v=6",
                 "equipo": "Ciudad Bolívar",
                 "puntos": "35",
@@ -6925,20 +6939,6 @@
                 "pp": "7",
                 "gf": 22,
                 "gc": 23,
-                "dg": -1
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=6",
-                "equipo": "Atlético Rafaela",
-                "puntos": "35",
-                "pj": "25",
-                "pg": "9",
-                "pe": "8",
-                "pp": "8",
-                "gf": 18,
-                "gc": 19,
                 "dg": -1
             },
             {
@@ -7098,20 +7098,6 @@
             {
                 "zona": "Posiciones",
                 "posicion": "29",
-                "escudo": "https://statics-files.tycsports.com/escudos/668.png?v=6",
-                "equipo": "All Boys",
-                "puntos": "27",
-                "pj": "25",
-                "pg": "5",
-                "pe": "12",
-                "pp": "8",
-                "gf": 15,
-                "gc": 23,
-                "dg": -8
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "30",
                 "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
                 "equipo": "Chacarita",
                 "puntos": "27",
@@ -7121,6 +7107,20 @@
                 "pp": "13",
                 "gf": 19,
                 "gc": 28,
+                "dg": -9
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "30",
+                "escudo": "https://statics-files.tycsports.com/escudos/668.png?v=6",
+                "equipo": "All Boys",
+                "puntos": "27",
+                "pj": "26",
+                "pg": "5",
+                "pe": "12",
+                "pp": "9",
+                "gf": 15,
+                "gc": 24,
                 "dg": -9
             },
             {
@@ -7198,10 +7198,10 @@
                 "posicion": "36",
                 "escudo": "https://statics-files.tycsports.com/escudos/1489.png?v=6",
                 "equipo": "Güemes (SE)",
-                "puntos": "21",
-                "pj": "24",
+                "puntos": "22",
+                "pj": "25",
                 "pg": "5",
-                "pe": "6",
+                "pe": "7",
                 "pp": "13",
                 "gf": 20,
                 "gc": 40,

@@ -93,12 +93,12 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "24/08/2026 16:00 HS",
+                "fecha": "24/08/2026 16:00 HS Finalizado",
                 "local": "FUL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/565.png?v=6",
                 "visitante": "CHE",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/563.png?v=6"
             },
             {
@@ -3870,6 +3870,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png?v=6",
+                "equipo": "Chelsea",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 3,
+                "gc": 2,
+                "dg": 1
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
                 "equipo": "Ipswich Town",
                 "puntos": "3",
@@ -3882,7 +3895,7 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png?v=6",
                 "equipo": "Manchester City",
                 "puntos": "3",
@@ -3895,7 +3908,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png?v=6",
                 "equipo": "Leeds United",
                 "puntos": "3",
@@ -3908,7 +3921,7 @@
                 "dg": 1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png?v=6",
                 "equipo": "Liverpool",
                 "puntos": "1",
@@ -3921,7 +3934,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png?v=6",
                 "equipo": "Newcastle United",
                 "puntos": "1",
@@ -3934,30 +3947,17 @@
                 "dg": 0
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/563.png?v=6",
-                "equipo": "Chelsea",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/565.png?v=6",
                 "equipo": "Fulham",
                 "puntos": "0",
-                "pj": "0",
+                "pj": "1",
                 "pg": "0",
                 "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
+                "pp": "1",
+                "gf": 2,
+                "gc": 3,
+                "dg": -1
             },
             {
                 "posicion": "13",
@@ -4090,6 +4090,12 @@
                 "goles": 1
             },
             {
+                "nombre": "Gonzalo García",
+                "equipo": "Fulham",
+                "escudo": "https://statics-files.tycsports.com/escudos/565.png",
+                "goles": 1
+            },
+            {
                 "nombre": "Marc Guéhi",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Kiernan Dewsbury-Hall",
                 "equipo": "Everton",
                 "escudo": "https://statics-files.tycsports.com/escudos/564.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Anthony Elanga",
-                "equipo": "Newcastle United",
-                "escudo": "https://statics-files.tycsports.com/escudos/570.png",
                 "goles": 1
             }
         ]
