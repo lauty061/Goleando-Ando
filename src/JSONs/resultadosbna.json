@@ -3733,12 +3733,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "25/08/2026 19:00 HS",
+                "fecha": "25/08/2026 19:00 HS Finalizado",
                 "local": "MAD",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/874.png?v=6",
                 "visitante": "GOD",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/132.png?v=6"
             },
             {
@@ -6776,6 +6776,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/874.png?v=6",
+                "equipo": "Dep. Madryn",
+                "puntos": "43",
+                "pj": "26",
+                "pg": "11",
+                "pe": "10",
+                "pp": "5",
+                "gf": 38,
+                "gc": 24,
+                "dg": 14
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/682.png?v=6",
                 "equipo": "Temperley",
                 "puntos": "43",
@@ -6789,7 +6803,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/670.png?v=6",
                 "equipo": "Atlanta",
                 "puntos": "42",
@@ -6803,7 +6817,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/665.png?v=6",
                 "equipo": "Almirante Brown",
                 "puntos": "41",
@@ -6817,31 +6831,17 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/874.png?v=6",
-                "equipo": "Dep. Madryn",
-                "puntos": "40",
-                "pj": "25",
-                "pg": "10",
-                "pe": "10",
-                "pp": "5",
-                "gf": 36,
-                "gc": 24,
-                "dg": 12
-            },
-            {
-                "zona": "Posiciones",
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png?v=6",
                 "equipo": "Godoy Cruz",
                 "puntos": "40",
-                "pj": "25",
+                "pj": "26",
                 "pg": "11",
                 "pe": "7",
-                "pp": "7",
+                "pp": "8",
                 "gf": 29,
-                "gc": 22,
-                "dg": 7
+                "gc": 24,
+                "dg": 5
             },
             {
                 "zona": "Posiciones",
@@ -7222,6 +7222,12 @@
                 "goles": 11
             },
             {
+                "nombre": "Luis Silba",
+                "equipo": "Dep. Madryn",
+                "escudo": "https://statics-files.tycsports.com/escudos/874.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Martín Pino",
                 "equipo": "Godoy Cruz",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png",
@@ -7249,12 +7255,6 @@
                 "nombre": "Juan Sánchez Sotelo",
                 "equipo": "Güemes (SE)",
                 "escudo": "https://statics-files.tycsports.com/escudos/1489.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Luis Silba",
-                "equipo": "Dep. Madryn",
-                "escudo": "https://statics-files.tycsports.com/escudos/874.png",
                 "goles": 9
             },
             {

@@ -1283,22 +1283,22 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "25/08/2026 16:00 HS",
+                "fecha": "25/08/2026 16:00 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
                 "visitante": "ORI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/97.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "25/08/2026 20:00 HS",
+                "fecha": "25/08/2026 20:00 HS Finalizado",
                 "local": "TIN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png?v=6"
             },
             {
@@ -2446,13 +2446,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "equipo": "Oriente Petrolero",
-                "puntos": "26",
-                "pj": "16",
+                "puntos": "27",
+                "pj": "17",
                 "pg": "8",
-                "pe": "2",
+                "pe": "3",
                 "pp": "6",
-                "gf": 29,
-                "gc": 20,
+                "gf": 32,
+                "gc": 23,
                 "dg": 9
             },
             {
@@ -2525,13 +2525,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
                 "equipo": "Nacional Potosí",
                 "puntos": "21",
-                "pj": "16",
+                "pj": "17",
                 "pg": "6",
                 "pe": "3",
-                "pp": "7",
+                "pp": "8",
                 "gf": 25,
-                "gc": 21,
-                "dg": 4
+                "gc": 23,
+                "dg": 2
             },
             {
                 "posicion": "11",
@@ -2574,6 +2574,32 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
+                "equipo": "U. de Vinto",
+                "puntos": "14",
+                "pj": "17",
+                "pg": "4",
+                "pe": "2",
+                "pp": "11",
+                "gf": 22,
+                "gc": 35,
+                "dg": -13
+            },
+            {
+                "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
+                "equipo": "GV San José",
+                "puntos": "14",
+                "pj": "17",
+                "pg": "2",
+                "pe": "8",
+                "pp": "7",
+                "gf": 19,
+                "gc": 27,
+                "dg": -8
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
                 "equipo": "Real Tomayapo",
                 "puntos": "13",
@@ -2584,32 +2610,6 @@
                 "gf": 12,
                 "gc": 32,
                 "dg": -20
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
-                "equipo": "GV San José",
-                "puntos": "13",
-                "pj": "16",
-                "pg": "2",
-                "pe": "7",
-                "pp": "7",
-                "gf": 16,
-                "gc": 24,
-                "dg": -8
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
-                "equipo": "U. de Vinto",
-                "puntos": "11",
-                "pj": "16",
-                "pg": "3",
-                "pe": "2",
-                "pp": "11",
-                "gf": 20,
-                "gc": 35,
-                "dg": -15
             }
         ],
         "goleadores": [
@@ -2632,9 +2632,21 @@
                 "goles": 10
             },
             {
+                "nombre": "José Flores",
+                "equipo": "Oriente Petrolero",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Darwin Lom",
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "goles": 7
+            },
+            {
+                "nombre": "Alex Cáceres",
+                "equipo": "GV San José",
+                "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "goles": 7
             },
             {
@@ -2665,18 +2677,6 @@
                 "nombre": "Enrique Triverio",
                 "equipo": "Always Ready",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Marcelo Moreno Martins",
-                "equipo": "Oriente Petrolero",
-                "escudo": "https://statics-files.tycsports.com/escudos/97.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Dorny Romero",
-                "equipo": "Bolívar",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "goles": 6
             }
         ]
