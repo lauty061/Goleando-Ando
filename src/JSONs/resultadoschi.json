@@ -1603,12 +1603,12 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "28/08/2026 19:30 HS",
+                "fecha": "28/08/2026 19:30 HS Finalizado",
                 "local": "COB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "visitante": "PAL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png?v=6"
             },
             {
@@ -2447,13 +2447,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=6",
                 "equipo": "Palestino",
                 "puntos": "33",
-                "pj": "20",
+                "pj": "21",
                 "pg": "10",
                 "pe": "3",
-                "pp": "7",
+                "pp": "8",
                 "gf": 32,
-                "gc": 27,
-                "dg": 5
+                "gc": 29,
+                "dg": 3
             },
             {
                 "posicion": "5",
@@ -2574,6 +2574,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
+                "equipo": "Cobresal",
+                "puntos": "21",
+                "pj": "21",
+                "pg": "6",
+                "pe": "3",
+                "pp": "12",
+                "gf": 31,
+                "gc": 39,
+                "dg": -8
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
                 "puntos": "19",
@@ -2584,19 +2597,6 @@
                 "gf": 14,
                 "gc": 33,
                 "dg": -19
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
-                "equipo": "Cobresal",
-                "puntos": "18",
-                "pj": "20",
-                "pg": "5",
-                "pe": "3",
-                "pp": "12",
-                "gf": 29,
-                "gc": 39,
-                "dg": -10
             },
             {
                 "posicion": "16",

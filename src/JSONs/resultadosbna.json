@@ -4683,12 +4683,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "28/08/2026 22:00 HS",
+                "fecha": "28/08/2026 22:00 HS Finalizado",
                 "local": "GYT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/865.png?v=6",
                 "visitante": "CHA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/127.png?v=6"
             },
             {
@@ -6832,6 +6832,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
+                "equipo": "Gimnasia y Tiro",
+                "puntos": "41",
+                "pj": "27",
+                "pg": "11",
+                "pe": "8",
+                "pp": "8",
+                "gf": 28,
+                "gc": 25,
+                "dg": 3
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png?v=6",
                 "equipo": "Godoy Cruz",
                 "puntos": "40",
@@ -6845,7 +6859,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/785.png?v=6",
                 "equipo": "Midland",
                 "puntos": "38",
@@ -6859,7 +6873,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/862.png?v=6",
                 "equipo": "Deportivo Maipú",
                 "puntos": "38",
@@ -6870,20 +6884,6 @@
                 "gf": 34,
                 "gc": 27,
                 "dg": 7
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
-                "equipo": "Gimnasia y Tiro",
-                "puntos": "38",
-                "pj": "26",
-                "pg": "10",
-                "pe": "8",
-                "pp": "8",
-                "gf": 27,
-                "gc": 25,
-                "dg": 2
             },
             {
                 "zona": "Posiciones",
@@ -7140,20 +7140,6 @@
             {
                 "zona": "Posiciones",
                 "posicion": "32",
-                "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
-                "equipo": "Chacarita",
-                "puntos": "27",
-                "pj": "26",
-                "pg": "7",
-                "pe": "6",
-                "pp": "13",
-                "gf": 19,
-                "gc": 28,
-                "dg": -9
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/668.png?v=6",
                 "equipo": "All Boys",
                 "puntos": "27",
@@ -7164,6 +7150,20 @@
                 "gf": 15,
                 "gc": 24,
                 "dg": -9
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "33",
+                "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
+                "equipo": "Chacarita",
+                "puntos": "27",
+                "pj": "27",
+                "pg": "7",
+                "pe": "6",
+                "pp": "14",
+                "gf": 19,
+                "gc": 29,
+                "dg": -10
             },
             {
                 "zona": "Posiciones",
@@ -7219,7 +7219,7 @@
                 "nombre": "Lautaro Gordillo",
                 "equipo": "Gimnasia y Tiro",
                 "escudo": "https://statics-files.tycsports.com/escudos/865.png",
-                "goles": 11
+                "goles": 12
             },
             {
                 "nombre": "Luis Silba",

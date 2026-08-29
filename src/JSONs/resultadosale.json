@@ -3,12 +3,12 @@
         "fixture": [
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "28/08/2026 15:30 HS",
+                "fecha": "28/08/2026 15:30 HS Finalizado",
                 "local": "BAY",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/617.png?v=6",
                 "visitante": "STU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/718.png?v=6"
             },
             {
@@ -3085,6 +3085,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
+                "equipo": "Bayern Múnich",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 5,
+                "gc": 1,
+                "dg": 4
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/3305.png?v=6",
                 "equipo": "Augsburg",
                 "puntos": "0",
@@ -3097,7 +3110,7 @@
                 "dg": 0
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/1259.png?v=6",
                 "equipo": "Borussia M.",
                 "puntos": "0",
@@ -3110,22 +3123,9 @@
                 "dg": 0
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png?v=6",
                 "equipo": "Bayer Leverkusen",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
-                "equipo": "Bayern Múnich",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -3280,19 +3280,6 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/718.png?v=6",
-                "equipo": "Stuttgart",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/6286.png?v=6",
                 "equipo": "Unión Berlín",
                 "puntos": "0",
@@ -3305,7 +3292,7 @@
                 "dg": 0
             },
             {
-                "posicion": "18",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/721.png?v=6",
                 "equipo": "Werder Bremen",
                 "puntos": "0",
@@ -3316,8 +3303,52 @@
                 "gf": 0,
                 "gc": 0,
                 "dg": 0
+            },
+            {
+                "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/718.png?v=6",
+                "equipo": "Stuttgart",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 1,
+                "gc": 5,
+                "dg": -4
             }
         ],
-        "goleadores": []
+        "goleadores": [
+            {
+                "nombre": "Dayot Upamecano",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Luis Díaz",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Josha Vagnoman",
+                "equipo": "Stuttgart",
+                "escudo": "https://statics-files.tycsports.com/escudos/718.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Michael Olise",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
+                "goles": 1
+            },
+            {
+                "nombre": "Aleksandar Pavlovic",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
+                "goles": 1
+            }
+        ]
     }
 }
