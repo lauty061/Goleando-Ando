@@ -383,22 +383,22 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "29/08/2026 16:00 HS",
+                "fecha": "29/08/2026 16:00 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "visitante": "2MA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "29/08/2026 18:30 HS",
+                "fecha": "29/08/2026 18:30 HS Finalizado",
                 "local": "REC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "visitante": "OLI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/215.png?v=6"
             },
             {
@@ -1325,6 +1325,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
+                "equipo": "2 de Mayo",
+                "puntos": "17",
+                "pj": "7",
+                "pg": "5",
+                "pe": "2",
+                "pp": "0",
+                "gf": 8,
+                "gc": 3,
+                "dg": 5
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "equipo": "Libertad",
                 "puntos": "15",
@@ -1335,19 +1348,6 @@
                 "gf": 11,
                 "gc": 5,
                 "dg": 6
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
-                "equipo": "2 de Mayo",
-                "puntos": "14",
-                "pj": "6",
-                "pg": "4",
-                "pe": "2",
-                "pp": "0",
-                "gf": 7,
-                "gc": 3,
-                "dg": 4
             },
             {
                 "posicion": "3",
@@ -1364,45 +1364,32 @@
             },
             {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
-                "equipo": "Trinidense",
-                "puntos": "11",
-                "pj": "6",
-                "pg": "3",
-                "pe": "2",
-                "pp": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
+                "equipo": "Olimpia",
+                "puntos": "12",
+                "pj": "7",
+                "pg": "4",
+                "pe": "0",
+                "pp": "3",
                 "gf": 11,
-                "gc": 5,
-                "dg": 6
+                "gc": 7,
+                "dg": 4
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
-                "equipo": "Olimpia",
-                "puntos": "9",
-                "pj": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
+                "equipo": "Trinidense",
+                "puntos": "11",
+                "pj": "7",
                 "pg": "3",
-                "pe": "0",
-                "pp": "3",
-                "gf": 9,
+                "pe": "2",
+                "pp": "2",
+                "gf": 11,
                 "gc": 6,
-                "dg": 3
+                "dg": 5
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
-                "equipo": "Sportivo Luqueño",
-                "puntos": "9",
-                "pj": "7",
-                "pg": "3",
-                "pe": "0",
-                "pp": "4",
-                "gf": 8,
-                "gc": 13,
-                "dg": -5
-            },
-            {
-                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
                 "puntos": "9",
@@ -1413,6 +1400,19 @@
                 "gf": 8,
                 "gc": 6,
                 "dg": 2
+            },
+            {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
+                "equipo": "Sportivo Luqueño",
+                "puntos": "9",
+                "pj": "7",
+                "pg": "3",
+                "pe": "0",
+                "pp": "4",
+                "gf": 8,
+                "gc": 13,
+                "dg": -5
             },
             {
                 "posicion": "8",
@@ -1432,13 +1432,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "equipo": "D. Recoleta",
                 "puntos": "7",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "1",
-                "pp": "3",
-                "gf": 10,
-                "gc": 13,
-                "dg": -3
+                "pp": "4",
+                "gf": 11,
+                "gc": 15,
+                "dg": -4
             },
             {
                 "posicion": "10",

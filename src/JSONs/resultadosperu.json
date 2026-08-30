@@ -2083,32 +2083,32 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "29/08/2026 15:00 HS",
+                "fecha": "29/08/2026 15:00 HS Finalizado",
                 "local": "CHN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6198.png?v=6",
                 "visitante": "JUP",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11321.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "29/08/2026 17:30 HS",
+                "fecha": "29/08/2026 17:30 HS Finalizado",
                 "local": "UTC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1007.png?v=6",
                 "visitante": "UNI",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/121.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "29/08/2026 21:30 HS",
+                "fecha": "29/08/2026 21:30 HS Finalizado",
                 "local": "ALI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/84.png?v=6",
                 "visitante": "DEG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10929.png?v=6"
             },
             {
@@ -3372,6 +3372,12 @@
                 "goles": 14
             },
             {
+                "nombre": "Alex Valera",
+                "equipo": "Universitario",
+                "escudo": "https://statics-files.tycsports.com/escudos/121.png",
+                "goles": 13
+            },
+            {
                 "nombre": "Carlos Garcés",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
@@ -3381,12 +3387,6 @@
                 "nombre": "Alejandro Hohberg",
                 "equipo": "Cienciano",
                 "escudo": "https://statics-files.tycsports.com/escudos/94.png",
-                "goles": 12
-            },
-            {
-                "nombre": "Alex Valera",
-                "equipo": "Universitario",
-                "escudo": "https://statics-files.tycsports.com/escudos/121.png",
                 "goles": 12
             },
             {
@@ -3408,10 +3408,10 @@
                 "goles": 10
             },
             {
-                "nombre": "Matías Sen",
-                "equipo": "Comerciantes Unidos",
-                "escudo": "https://statics-files.tycsports.com/escudos/4950.png",
-                "goles": 9
+                "nombre": "da Silva Silva, L.",
+                "equipo": "Deportivo Garcilaso",
+                "escudo": "https://statics-files.tycsports.com/escudos/10929.png",
+                "goles": 10
             }
         ]
     }

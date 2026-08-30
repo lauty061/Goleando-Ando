@@ -1613,22 +1613,22 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "29/08/2026 18:30 HS",
+                "fecha": "29/08/2026 18:30 HS Finalizado",
                 "local": "LIM",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "visitante": "EVE",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "29/08/2026 21:00 HS",
+                "fecha": "29/08/2026 21:00 HS Finalizado",
                 "local": "ÑUB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "visitante": "CON",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png?v=6"
             },
             {
@@ -2444,6 +2444,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
+                "equipo": "Everton",
+                "puntos": "33",
+                "pj": "21",
+                "pg": "9",
+                "pe": "6",
+                "pp": "6",
+                "gf": 34,
+                "gc": 23,
+                "dg": 11
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=6",
                 "equipo": "Palestino",
                 "puntos": "33",
@@ -2456,56 +2469,43 @@
                 "dg": 3
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "32",
-                "pj": "19",
-                "pg": "8",
-                "pe": "8",
-                "pp": "3",
-                "gf": 26,
-                "gc": 23,
-                "dg": 3
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
-                "equipo": "Everton",
-                "puntos": "30",
                 "pj": "20",
                 "pg": "8",
-                "pe": "6",
-                "pp": "6",
-                "gf": 31,
-                "gc": 23,
-                "dg": 8
+                "pe": "8",
+                "pp": "4",
+                "gf": 26,
+                "gc": 24,
+                "dg": 2
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
-                "equipo": "Deportes Limache",
-                "puntos": "27",
-                "pj": "19",
-                "pg": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
+                "equipo": "D. Concepción",
+                "puntos": "30",
+                "pj": "21",
+                "pg": "9",
                 "pe": "3",
-                "pp": "8",
-                "gf": 38,
-                "gc": 31,
-                "dg": 7
+                "pp": "9",
+                "gf": 24,
+                "gc": 24,
+                "dg": 0
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
-                "equipo": "D. Concepción",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
+                "equipo": "Deportes Limache",
                 "puntos": "27",
                 "pj": "20",
                 "pg": "8",
                 "pe": "3",
                 "pp": "9",
-                "gf": 23,
-                "gc": 24,
-                "dg": -1
+                "gf": 38,
+                "gc": 34,
+                "dg": 4
             },
             {
                 "posicion": "9",
@@ -2644,6 +2644,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Alan Medina",
+                "equipo": "Everton",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Justo Giani",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
@@ -2662,21 +2668,15 @@
                 "goles": 8
             },
             {
-                "nombre": "Alan Medina",
+                "nombre": "Nicolás Montiel",
                 "equipo": "Everton",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png",
-                "goles": 8
+                "goles": 7
             },
             {
                 "nombre": "Steffan Pino",
                 "equipo": "Cobresal",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Nicolás Johansen",
-                "equipo": "Coquimbo Unido",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "goles": 7
             }
         ]

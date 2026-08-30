@@ -403,17 +403,17 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
-                "local": "SAT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
-                "visitante": "RAC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/8139.png?v=6"
+                "fecha": "29/08/2026 11:00 HS Finalizado",
+                "local": "HUR",
+                "goles_local": "0",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
+                "visitante": "SLU",
+                "goles_visita": "2",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
+                "fecha": "30/08/2026 11:00 HS",
                 "local": "NOB",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11275.png?v=6",
@@ -423,37 +423,7 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
-                "local": "CGE",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png?v=6",
-                "visitante": "TAL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11974.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
-                "local": "BAN",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
-                "visitante": "FER",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/10734.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
-                "local": "RIV",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/6141.png?v=6",
-                "visitante": "BOC",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3499.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
+                "fecha": "30/08/2026 11:00 HS",
                 "local": "BEL",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10937.png?v=6",
@@ -463,23 +433,53 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
-                "local": "HUR",
+                "fecha": "30/08/2026 13:00 HS",
+                "local": "CGE",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
-                "visitante": "SLU",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/8137.png?v=6",
+                "visitante": "TAL",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/11274.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/11974.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "20/09/2026 HS",
+                "fecha": "31/08/2026 10:00 HS",
                 "local": "IND",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6142.png?v=6",
                 "visitante": "UNI",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/12384.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "31/08/2026 11:00 HS",
+                "local": "SAT",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
+                "visitante": "RAC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/8139.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "01/09/2026 15:00 HS",
+                "local": "BAN",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
+                "visitante": "FER",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/10734.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "20/09/2026 HS Postergado",
+                "local": "RIV",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/6141.png?v=6",
+                "visitante": "BOC",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3499.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 7",
@@ -1215,6 +1215,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/11274.png?v=6",
+                "equipo": "San Luis FC",
+                "puntos": "12",
+                "pj": "6",
+                "pg": "4",
+                "pe": "0",
+                "pp": "2",
+                "gf": 11,
+                "gc": 10,
+                "dg": 1
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
                 "equipo": "Banfield",
                 "puntos": "10",
@@ -1227,7 +1240,7 @@
                 "dg": 5
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png?v=6",
                 "equipo": "Boca Juniors",
                 "puntos": "10",
@@ -1240,7 +1253,7 @@
                 "dg": 4
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=6",
                 "equipo": "Ferro",
                 "puntos": "10",
@@ -1253,7 +1266,7 @@
                 "dg": 3
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/6141.png?v=6",
                 "equipo": "River Plate",
                 "puntos": "9",
@@ -1264,19 +1277,6 @@
                 "gf": 9,
                 "gc": 3,
                 "dg": 6
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/11274.png?v=6",
-                "equipo": "San Luis FC",
-                "puntos": "9",
-                "pj": "5",
-                "pg": "3",
-                "pe": "0",
-                "pp": "2",
-                "gf": 9,
-                "gc": 10,
-                "dg": -1
             },
             {
                 "posicion": "6",
@@ -1348,13 +1348,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
                 "equipo": "Huracán",
                 "puntos": "7",
-                "pj": "5",
+                "pj": "6",
                 "pg": "2",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 5,
-                "gc": 6,
-                "dg": -1
+                "gc": 8,
+                "dg": -3
             },
             {
                 "posicion": "12",
@@ -1439,7 +1439,7 @@
                 "nombre": "Victoria Vázquez",
                 "equipo": "San Luis FC",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
-                "goles": 4
+                "goles": 5
             },
             {
                 "nombre": "Emily Arias",
