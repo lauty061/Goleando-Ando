@@ -1633,32 +1633,32 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "30/08/2026 16:00 HS",
+                "fecha": "30/08/2026 16:00 HS Finalizado",
                 "local": "UDC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "visitante": "UCH",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "30/08/2026 18:30 HS",
+                "fecha": "30/08/2026 18:30 HS Finalizado",
                 "local": "COL",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/95.png?v=6",
                 "visitante": "AUD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "30/08/2026 21:00 HS",
+                "fecha": "30/08/2026 21:00 HS Suspendido",
                 "local": "COQ",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "visitante": "HUA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png?v=6"
             },
             {
@@ -2421,13 +2421,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "equipo": "U. de Chile",
                 "puntos": "36",
-                "pj": "20",
+                "pj": "21",
                 "pg": "10",
                 "pe": "6",
-                "pp": "4",
-                "gf": 27,
-                "gc": 15,
-                "dg": 12
+                "pp": "5",
+                "gf": 28,
+                "gc": 17,
+                "dg": 11
             },
             {
                 "posicion": "3",
@@ -2574,6 +2574,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
+                "equipo": "U. Concepción",
+                "puntos": "22",
+                "pj": "20",
+                "pg": "6",
+                "pe": "4",
+                "pp": "10",
+                "gf": 16,
+                "gc": 34,
+                "dg": -18
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "equipo": "Cobresal",
                 "puntos": "21",
@@ -2584,19 +2597,6 @@
                 "gf": 31,
                 "gc": 39,
                 "dg": -8
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
-                "equipo": "U. Concepción",
-                "puntos": "19",
-                "pj": "19",
-                "pg": "5",
-                "pe": "4",
-                "pp": "10",
-                "gf": 14,
-                "gc": 33,
-                "dg": -19
             },
             {
                 "posicion": "16",
@@ -2623,7 +2623,7 @@
                 "nombre": "Javier Correa",
                 "equipo": "Colo Colo",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
-                "goles": 10
+                "goles": 12
             },
             {
                 "nombre": "Castro Santibáñez, D.",
@@ -2674,9 +2674,9 @@
                 "goles": 7
             },
             {
-                "nombre": "Steffan Pino",
-                "equipo": "Cobresal",
-                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
+                "nombre": "Leandro Hernández",
+                "equipo": "Colo Colo",
+                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
                 "goles": 7
             }
         ]

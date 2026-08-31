@@ -3293,22 +3293,22 @@
             },
             {
                 "fecha_torneo": "Semana 19",
-                "fecha": "30/08/2026 17:30 HS",
+                "fecha": "30/08/2026 17:30 HS Finalizado",
                 "local": "CLB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1772.png?v=6",
                 "visitante": "NER",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1300.png?v=6"
             },
             {
                 "fecha_torneo": "Semana 19",
-                "fecha": "30/08/2026 20:00 HS",
+                "fecha": "30/08/2026 20:00 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10774.png?v=6",
                 "visitante": "DAL",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2111.png?v=6"
             },
             {
@@ -5398,6 +5398,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/1300.png?v=6",
+                "equipo": "NE Revolution",
+                "puntos": "37",
+                "pj": "22",
+                "pg": "11",
+                "pe": "4",
+                "pp": "7",
+                "gf": 36,
+                "gc": 27,
+                "dg": 9
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/10713.png?v=6",
                 "equipo": "Charlotte FC",
                 "puntos": "35",
@@ -5408,20 +5422,6 @@
                 "gf": 40,
                 "gc": 32,
                 "dg": 8
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/1300.png?v=6",
-                "equipo": "NE Revolution",
-                "puntos": "34",
-                "pj": "21",
-                "pg": "10",
-                "pe": "4",
-                "pp": "7",
-                "gf": 33,
-                "gc": 26,
-                "dg": 7
             },
             {
                 "zona": "Grupo Este",
@@ -5555,13 +5555,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1772.png?v=6",
                 "equipo": "Columbus Crew",
                 "puntos": "20",
-                "pj": "21",
+                "pj": "22",
                 "pg": "5",
                 "pe": "5",
-                "pp": "11",
-                "gf": 30,
-                "gc": 36,
-                "dg": -6
+                "pp": "12",
+                "gf": 31,
+                "gc": 39,
+                "dg": -8
             },
             {
                 "zona": "Grupo Oeste",
@@ -5624,13 +5624,13 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/2111.png?v=6",
                 "equipo": "FC Dallas",
-                "puntos": "33",
-                "pj": "21",
+                "puntos": "34",
+                "pj": "22",
                 "pg": "9",
-                "pe": "6",
+                "pe": "7",
                 "pp": "6",
-                "gf": 38,
-                "gc": 34,
+                "gf": 41,
+                "gc": 37,
                 "dg": 4
             },
             {
@@ -5638,13 +5638,13 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/10774.png?v=6",
                 "equipo": "St. Louis City",
-                "puntos": "33",
-                "pj": "21",
+                "puntos": "34",
+                "pj": "22",
                 "pg": "9",
-                "pe": "6",
+                "pe": "7",
                 "pp": "6",
-                "gf": 30,
-                "gc": 27,
+                "gf": 33,
+                "gc": 30,
                 "dg": 3
             },
             {

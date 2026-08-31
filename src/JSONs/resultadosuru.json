@@ -293,22 +293,22 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "30/08/2026 15:30 HS",
+                "fecha": "30/08/2026 15:30 HS Finalizado",
                 "local": "PEÑ",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "visitante": "NAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/83.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "30/08/2026 19:00 HS",
+                "fecha": "30/08/2026 19:00 HS Finalizado",
                 "local": "CLA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/958.png?v=6",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/191.png?v=6"
             },
             {
@@ -1207,13 +1207,13 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
                 "equipo": "Liverpool (U)",
-                "puntos": "9",
-                "pj": "3",
+                "puntos": "10",
+                "pj": "4",
                 "pg": "3",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
-                "gf": 9,
-                "gc": 0,
+                "gf": 10,
+                "gc": 1,
                 "dg": 9
             },
             {
@@ -1283,6 +1283,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
+                "equipo": "Nacional",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "2",
+                "pe": "0",
+                "pp": "2",
+                "gf": 3,
+                "gc": 4,
+                "dg": -1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/964.png?v=6",
                 "equipo": "Racing (U)",
                 "puntos": "5",
@@ -1295,7 +1308,7 @@
                 "dg": 2
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
                 "equipo": "Maldonado",
                 "puntos": "5",
@@ -1308,43 +1321,30 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
-                "equipo": "Peñarol",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 2,
-                "gc": 1,
-                "dg": 1
-            },
-            {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
                 "equipo": "Cerro Largo",
-                "puntos": "3",
-                "pj": "3",
+                "puntos": "4",
+                "pj": "4",
                 "pg": "0",
-                "pe": "3",
+                "pe": "4",
                 "pp": "0",
-                "gf": 3,
-                "gc": 3,
+                "gf": 4,
+                "gc": 4,
                 "dg": 0
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
-                "equipo": "Nacional",
-                "puntos": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
+                "equipo": "Peñarol",
+                "puntos": "4",
                 "pj": "3",
                 "pg": "1",
-                "pe": "0",
-                "pp": "2",
+                "pe": "1",
+                "pp": "1",
                 "gf": 2,
-                "gc": 4,
-                "dg": -2
+                "gc": 2,
+                "dg": 0
             },
             {
                 "posicion": "12",
@@ -1468,16 +1468,16 @@
                 "goles": 7
             },
             {
-                "nombre": "Brian Montenegro",
-                "equipo": "Defensor Sporting",
-                "escudo": "https://statics-files.tycsports.com/escudos/110.png",
-                "goles": 6
+                "nombre": "Axel Pandiani",
+                "equipo": "Cerro Largo",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png",
+                "goles": 7
             },
             {
-                "nombre": "Santiago Ramírez",
-                "equipo": "Deportivo Maldonado",
-                "escudo": "https://statics-files.tycsports.com/escudos/959.png",
-                "goles": 6
+                "nombre": "Rubén Bentancourt",
+                "equipo": "Liverpool (U)",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
+                "goles": 7
             }
         ]
     }

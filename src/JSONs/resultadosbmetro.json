@@ -3593,32 +3593,32 @@
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "30/08/2026 12:30 HS",
+                "fecha": "30/08/2026 12:30 HS Finalizado",
                 "local": "ARM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/669.png?v=6",
                 "visitante": "VSC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/701.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "30/08/2026 15:00 HS",
+                "fecha": "30/08/2026 15:00 HS Finalizado",
                 "local": "FLA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/676.png?v=6",
                 "visitante": "SMB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/697.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "30/08/2026 15:00 HS",
+                "fecha": "30/08/2026 15:00 HS Finalizado",
                 "local": "ME",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/683.png?v=6",
                 "visitante": "DAL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/700.png?v=6"
             },
             {
@@ -4814,6 +4814,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=6",
+                "equipo": "Villa Dálmine",
+                "puntos": "60",
+                "pj": "33",
+                "pg": "16",
+                "pe": "12",
+                "pp": "5",
+                "gf": 35,
+                "gc": 16,
+                "dg": 19
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "equipo": "Talleres (RE)",
                 "puntos": "60",
@@ -4824,19 +4837,6 @@
                 "gf": 35,
                 "gc": 17,
                 "dg": 18
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/700.png?v=6",
-                "equipo": "Villa Dálmine",
-                "puntos": "59",
-                "pj": "32",
-                "pg": "16",
-                "pe": "11",
-                "pp": "5",
-                "gf": 35,
-                "gc": 16,
-                "dg": 19
             },
             {
                 "posicion": "6",
@@ -4866,6 +4866,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/669.png?v=6",
+                "equipo": "Dep. Armenio",
+                "puntos": "47",
+                "pj": "33",
+                "pg": "13",
+                "pe": "8",
+                "pp": "12",
+                "gf": 35,
+                "gc": 37,
+                "dg": -2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png?v=6",
                 "equipo": "Laferrere",
                 "puntos": "46",
@@ -4875,19 +4888,6 @@
                 "pp": "11",
                 "gf": 39,
                 "gc": 42,
-                "dg": -3
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/669.png?v=6",
-                "equipo": "Dep. Armenio",
-                "puntos": "44",
-                "pj": "32",
-                "pg": "12",
-                "pe": "8",
-                "pp": "12",
-                "gf": 34,
-                "gc": 37,
                 "dg": -3
             },
             {
@@ -4920,10 +4920,10 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/683.png?v=6",
                 "equipo": "Argentino de M.",
-                "puntos": "40",
-                "pj": "32",
+                "puntos": "41",
+                "pj": "33",
                 "pg": "10",
-                "pe": "10",
+                "pe": "11",
                 "pp": "12",
                 "gf": 30,
                 "gc": 32,
@@ -4934,13 +4934,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/697.png?v=6",
                 "equipo": "S. Martín B.",
                 "puntos": "40",
-                "pj": "32",
+                "pj": "33",
                 "pg": "9",
                 "pe": "13",
-                "pp": "10",
+                "pp": "11",
                 "gf": 31,
-                "gc": 34,
-                "dg": -3
+                "gc": 36,
+                "dg": -5
             },
             {
                 "posicion": "14",
@@ -4960,13 +4960,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/701.png?v=6",
                 "equipo": "Villa San Carlos",
                 "puntos": "38",
-                "pj": "32",
+                "pj": "33",
                 "pg": "9",
                 "pe": "11",
-                "pp": "12",
+                "pp": "13",
                 "gf": 34,
-                "gc": 37,
-                "dg": -3
+                "gc": 38,
+                "dg": -4
             },
             {
                 "posicion": "16",
@@ -4996,6 +4996,19 @@
             },
             {
                 "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
+                "equipo": "Flandria",
+                "puntos": "35",
+                "pj": "33",
+                "pg": "9",
+                "pe": "8",
+                "pp": "16",
+                "gf": 28,
+                "gc": 39,
+                "dg": -11
+            },
+            {
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=6",
                 "equipo": "Def. Unidos",
                 "puntos": "33",
@@ -5008,7 +5021,7 @@
                 "dg": -8
             },
             {
-                "posicion": "19",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
                 "equipo": "Brown (Adrogué)",
                 "puntos": "33",
@@ -5019,19 +5032,6 @@
                 "gf": 21,
                 "gc": 35,
                 "dg": -14
-            },
-            {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
-                "equipo": "Flandria",
-                "puntos": "32",
-                "pj": "32",
-                "pg": "8",
-                "pe": "8",
-                "pp": "16",
-                "gf": 26,
-                "gc": 39,
-                "dg": -13
             },
             {
                 "posicion": "21",
