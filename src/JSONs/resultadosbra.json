@@ -2493,12 +2493,12 @@
             },
             {
                 "fecha_torneo": "Fecha 25",
-                "fecha": "31/08/2026 20:00 HS",
+                "fecha": "31/08/2026 20:00 HS Finalizado",
                 "local": "CDR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "visitante": "CFC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/628.png?v=6"
             },
             {
@@ -3883,6 +3883,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
+                "equipo": "Coritiba",
+                "puntos": "37",
+                "pj": "25",
+                "pg": "10",
+                "pe": "7",
+                "pp": "8",
+                "gf": 33,
+                "gc": 33,
+                "dg": 0
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
                 "equipo": "Atlético Mineiro",
                 "puntos": "36",
@@ -3895,7 +3908,7 @@
                 "dg": 4
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/238.png?v=6",
                 "equipo": "RB Bragantino",
                 "puntos": "35",
@@ -3906,19 +3919,6 @@
                 "gf": 29,
                 "gc": 25,
                 "dg": 4
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
-                "equipo": "Coritiba",
-                "puntos": "34",
-                "pj": "24",
-                "pg": "9",
-                "pe": "7",
-                "pp": "8",
-                "gf": 30,
-                "gc": 31,
-                "dg": -1
             },
             {
                 "posicion": "10",
@@ -4042,13 +4042,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
                 "puntos": "23",
-                "pj": "24",
+                "pj": "25",
                 "pg": "5",
                 "pe": "8",
-                "pp": "11",
-                "gf": 28,
-                "gc": 39,
-                "dg": -11
+                "pp": "12",
+                "gf": 30,
+                "gc": 42,
+                "dg": -12
             },
             {
                 "posicion": "20",
@@ -4120,15 +4120,15 @@
                 "goles": 7
             },
             {
-                "nombre": "Breno Souza Silva, J.",
-                "equipo": "Remo",
-                "escudo": "https://statics-files.tycsports.com/escudos/3698.png",
+                "nombre": "Rocha Neves, P.",
+                "equipo": "Coritiba",
+                "escudo": "https://statics-files.tycsports.com/escudos/628.png",
                 "goles": 7
             },
             {
-                "nombre": "Arthur Cabral",
-                "equipo": "Botafogo",
-                "escudo": "https://statics-files.tycsports.com/escudos/254.png",
+                "nombre": "Breno Souza Silva, J.",
+                "equipo": "Remo",
+                "escudo": "https://statics-files.tycsports.com/escudos/3698.png",
                 "goles": 7
             }
         ]

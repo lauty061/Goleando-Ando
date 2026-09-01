@@ -4843,22 +4843,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "31/08/2026 19:00 HS",
+                "fecha": "31/08/2026 19:00 HS Finalizado",
                 "local": "AND",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/140.png?v=6",
                 "visitante": "ACA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/667.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "31/08/2026 21:00 HS",
+                "fecha": "31/08/2026 21:00 HS Finalizado",
                 "local": "GEJ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/102.png?v=6",
                 "visitante": "AAG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3683.png?v=6"
             },
             {
@@ -6748,6 +6748,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/102.png?v=6",
+                "equipo": "Gimnasia (J)",
+                "puntos": "46",
+                "pj": "27",
+                "pg": "13",
+                "pe": "7",
+                "pp": "7",
+                "gf": 40,
+                "gc": 33,
+                "dg": 7
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/6.png?v=6",
                 "equipo": "Colón",
                 "puntos": "45",
@@ -6761,7 +6775,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/630.png?v=6",
                 "equipo": "Tristán Suárez",
                 "puntos": "45",
@@ -6772,20 +6786,6 @@
                 "gf": 26,
                 "gc": 14,
                 "dg": 12
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/102.png?v=6",
-                "equipo": "Gimnasia (J)",
-                "puntos": "45",
-                "pj": "26",
-                "pg": "13",
-                "pe": "6",
-                "pp": "7",
-                "gf": 39,
-                "gc": 32,
-                "dg": 7
             },
             {
                 "zona": "Posiciones",
@@ -6972,6 +6972,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "20",
+                "escudo": "https://statics-files.tycsports.com/escudos/140.png?v=6",
+                "equipo": "Los Andes",
+                "puntos": "34",
+                "pj": "26",
+                "pg": "8",
+                "pe": "10",
+                "pp": "8",
+                "gf": 20,
+                "gc": 15,
+                "dg": 5
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/687.png?v=6",
                 "equipo": "Colegiales",
                 "puntos": "34",
@@ -6985,7 +6999,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "21",
+                "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/1.png?v=6",
                 "equipo": "Almagro",
                 "puntos": "34",
@@ -6996,20 +7010,6 @@
                 "gf": 22,
                 "gc": 29,
                 "dg": -7
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "22",
-                "escudo": "https://statics-files.tycsports.com/escudos/140.png?v=6",
-                "equipo": "Los Andes",
-                "puntos": "33",
-                "pj": "25",
-                "pg": "8",
-                "pe": "9",
-                "pp": "8",
-                "gf": 20,
-                "gc": 15,
-                "dg": 5
             },
             {
                 "zona": "Posiciones",
@@ -7042,6 +7042,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "25",
+                "escudo": "https://statics-files.tycsports.com/escudos/3683.png?v=6",
+                "equipo": "Agropecuario",
+                "puntos": "30",
+                "pj": "27",
+                "pg": "7",
+                "pe": "9",
+                "pp": "11",
+                "gf": 23,
+                "gc": 31,
+                "dg": -8
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "26",
                 "escudo": "https://statics-files.tycsports.com/escudos/853.png?v=6",
                 "equipo": "Chaco For Ever",
                 "puntos": "29",
@@ -7055,7 +7069,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "26",
+                "posicion": "27",
                 "escudo": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "equipo": "Nueva Chicago",
                 "puntos": "29",
@@ -7066,20 +7080,6 @@
                 "gf": 20,
                 "gc": 27,
                 "dg": -7
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "27",
-                "escudo": "https://statics-files.tycsports.com/escudos/3683.png?v=6",
-                "equipo": "Agropecuario",
-                "puntos": "29",
-                "pj": "26",
-                "pg": "7",
-                "pe": "8",
-                "pp": "11",
-                "gf": 22,
-                "gc": 30,
-                "dg": -8
             },
             {
                 "zona": "Posiciones",
@@ -7182,6 +7182,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "35",
+                "escudo": "https://statics-files.tycsports.com/escudos/667.png?v=6",
+                "equipo": "Acassuso",
+                "puntos": "23",
+                "pj": "27",
+                "pg": "5",
+                "pe": "8",
+                "pp": "14",
+                "gf": 19,
+                "gc": 32,
+                "dg": -13
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "36",
                 "escudo": "https://statics-files.tycsports.com/escudos/1489.png?v=6",
                 "equipo": "Güemes (SE)",
                 "puntos": "23",
@@ -7192,20 +7206,6 @@
                 "gf": 21,
                 "gc": 41,
                 "dg": -20
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "36",
-                "escudo": "https://statics-files.tycsports.com/escudos/667.png?v=6",
-                "equipo": "Acassuso",
-                "puntos": "22",
-                "pj": "26",
-                "pg": "5",
-                "pe": "7",
-                "pp": "14",
-                "gf": 19,
-                "gc": 32,
-                "dg": -13
             }
         ],
         "goleadores": [

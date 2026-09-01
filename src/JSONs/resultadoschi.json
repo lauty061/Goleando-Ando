@@ -1663,22 +1663,22 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "31/08/2026 19:15 HS",
+                "fecha": "31/08/2026 19:15 HS Finalizado",
                 "local": "ULC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/945.png?v=6",
                 "visitante": "LSE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "31/08/2026 21:45 HS",
+                "fecha": "31/08/2026 21:45 HS Finalizado",
                 "local": "UCA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/120.png?v=6",
                 "visitante": "OHI",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png?v=6"
             },
             {
@@ -2407,17 +2407,30 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png?v=6",
                 "equipo": "Colo Colo",
-                "puntos": "49",
-                "pj": "20",
-                "pg": "16",
+                "puntos": "52",
+                "pj": "21",
+                "pg": "17",
                 "pe": "1",
                 "pp": "3",
-                "gf": 42,
-                "gc": 20,
-                "dg": 22
+                "gf": 47,
+                "gc": 21,
+                "dg": 26
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
+                "equipo": "U. Católica",
+                "puntos": "36",
+                "pj": "21",
+                "pg": "11",
+                "pe": "3",
+                "pp": "7",
+                "gf": 46,
+                "gc": 31,
+                "dg": 15
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "equipo": "U. de Chile",
                 "puntos": "36",
@@ -2428,19 +2441,6 @@
                 "gf": 28,
                 "gc": 17,
                 "dg": 11
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
-                "equipo": "U. Católica",
-                "puntos": "33",
-                "pj": "20",
-                "pg": "10",
-                "pe": "3",
-                "pp": "7",
-                "gf": 43,
-                "gc": 29,
-                "dg": 14
             },
             {
                 "posicion": "4",
@@ -2509,6 +2509,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
+                "equipo": "D. La Serena",
+                "puntos": "27",
+                "pj": "21",
+                "pg": "6",
+                "pe": "9",
+                "pp": "6",
+                "gf": 32,
+                "gc": 34,
+                "dg": -2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "equipo": "Coquimbo Unido",
                 "puntos": "26",
@@ -2521,30 +2534,17 @@
                 "dg": 2
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
-                "equipo": "D. La Serena",
-                "puntos": "24",
-                "pj": "20",
-                "pg": "5",
-                "pe": "9",
-                "pp": "6",
-                "gf": 31,
-                "gc": 34,
-                "dg": -3
-            },
-            {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
                 "equipo": "O'Higgins",
                 "puntos": "24",
-                "pj": "20",
+                "pj": "21",
                 "pg": "7",
                 "pe": "3",
-                "pp": "10",
-                "gf": 24,
-                "gc": 31,
-                "dg": -7
+                "pp": "11",
+                "gf": 26,
+                "gc": 34,
+                "dg": -8
             },
             {
                 "posicion": "12",
@@ -2564,13 +2564,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
                 "puntos": "22",
-                "pj": "20",
+                "pj": "21",
                 "pg": "5",
                 "pe": "7",
-                "pp": "8",
-                "gf": 23,
-                "gc": 26,
-                "dg": -3
+                "pp": "9",
+                "gf": 24,
+                "gc": 31,
+                "dg": -7
             },
             {
                 "posicion": "14",
@@ -2603,13 +2603,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png?v=6",
                 "equipo": "U. La Calera",
                 "puntos": "14",
-                "pj": "20",
+                "pj": "21",
                 "pg": "3",
                 "pe": "5",
-                "pp": "12",
+                "pp": "13",
                 "gf": 17,
-                "gc": 37,
-                "dg": -20
+                "gc": 38,
+                "dg": -21
             }
         ],
         "goleadores": [
@@ -2617,7 +2617,7 @@
                 "nombre": "Fernando Zampedri",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 20
+                "goles": 22
             },
             {
                 "nombre": "Javier Correa",
@@ -2668,15 +2668,15 @@
                 "goles": 8
             },
             {
-                "nombre": "Nicolás Montiel",
-                "equipo": "Everton",
-                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
+                "nombre": "Arnaldo Castillo",
+                "equipo": "O'Higgins",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
                 "goles": 7
             },
             {
-                "nombre": "Leandro Hernández",
-                "equipo": "Colo Colo",
-                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
+                "nombre": "Nicolás Montiel",
+                "equipo": "Everton",
+                "escudo": "https://statics-files.tycsports.com/escudos/148.png",
                 "goles": 7
             }
         ]
