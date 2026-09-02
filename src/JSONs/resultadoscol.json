@@ -403,16 +403,6 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "14/08/2026 HS Postergado",
-                "local": "LLA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/880.png?v=6",
-                "visitante": "TOL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 5",
                 "fecha": "15/08/2026 HS Postergado",
                 "local": "ATN",
                 "goles_local": "-",
@@ -483,16 +473,6 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "17/08/2026 HS Postergado",
-                "local": "MIL",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/184.png?v=6",
-                "visitante": "CAL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/111.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 5",
                 "fecha": "25/08/2026 HS Postergado",
                 "local": "PER",
                 "goles_local": "-",
@@ -500,6 +480,26 @@
                 "visitante": "JAG",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1655.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "07/09/2026 20:00 HS",
+                "local": "LLA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/880.png?v=6",
+                "visitante": "TOL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 5",
+                "fecha": "10/09/2026 22:00 HS",
+                "local": "MIL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/184.png?v=6",
+                "visitante": "CAL",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/111.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
@@ -793,17 +793,17 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "01/09/2026 22:00 HS",
+                "fecha": "01/09/2026 22:00 HS Finalizado",
                 "local": "FOR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3209.png?v=6",
                 "visitante": "ONC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/88.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/09/2026 20:00 HS",
+                "fecha": "03/09/2026 18:00 HS",
                 "local": "AME",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/66.png?v=6",
@@ -814,22 +814,32 @@
             {
                 "fecha_torneo": "Fecha 9",
                 "fecha": "05/09/2026 16:00 HS",
-                "local": "BUC",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
-                "visitante": "DIM",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/67.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 9",
-                "fecha": "05/09/2026 20:00 HS",
                 "local": "BOY",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/177.png?v=6",
                 "visitante": "ONC",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/88.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "05/09/2026 18:00 HS",
+                "local": "SFE",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/183.png?v=6",
+                "visitante": "FOR",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/3209.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 9",
+                "fecha": "05/09/2026 20:10 HS",
+                "local": "CUC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/266.png?v=6",
+                "visitante": "PAS",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
@@ -843,23 +853,13 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "06/09/2026 16:00 HS",
+                "fecha": "06/09/2026 18:00 HS",
                 "local": "INT",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "visitante": "AGU",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/922.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 9",
-                "fecha": "06/09/2026 18:05 HS",
-                "local": "CUC",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/266.png?v=6",
-                "visitante": "PAS",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
@@ -873,17 +873,17 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "06/09/2026 22:15 HS",
-                "local": "SFE",
+                "fecha": "07/09/2026 20:15 HS",
+                "local": "BUC",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/183.png?v=6",
-                "visitante": "FOR",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
+                "visitante": "DIM",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/3209.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/67.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "07/09/2026 22:00 HS",
+                "fecha": "21/09/2026 HS",
                 "local": "LLA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/880.png?v=6",
@@ -2256,6 +2256,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
+                "equipo": "Once Caldas",
+                "puntos": "9",
+                "pj": "6",
+                "pg": "2",
+                "pe": "3",
+                "pp": "1",
+                "gf": 11,
+                "gc": 7,
+                "dg": 4
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "equipo": "Águilas Doradas",
                 "puntos": "9",
@@ -2268,7 +2281,7 @@
                 "dg": 2
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
                 "puntos": "8",
@@ -2281,7 +2294,7 @@
                 "dg": 2
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
                 "equipo": "Cúcuta",
                 "puntos": "8",
@@ -2294,7 +2307,7 @@
                 "dg": -5
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "equipo": "Int. de Bogotá",
                 "puntos": "7",
@@ -2305,19 +2318,6 @@
                 "gf": 6,
                 "gc": 8,
                 "dg": -2
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
-                "equipo": "Once Caldas",
-                "puntos": "6",
-                "pj": "5",
-                "pg": "1",
-                "pe": "3",
-                "pp": "1",
-                "gf": 9,
-                "gc": 6,
-                "dg": 3
             },
             {
                 "posicion": "13",
@@ -2337,13 +2337,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png?v=6",
                 "equipo": "Fortaleza FC",
                 "puntos": "6",
-                "pj": "6",
+                "pj": "7",
                 "pg": "1",
                 "pe": "3",
-                "pp": "2",
-                "gf": 5,
-                "gc": 6,
-                "dg": -1
+                "pp": "3",
+                "gf": 6,
+                "gc": 8,
+                "dg": -2
             },
             {
                 "posicion": "15",
