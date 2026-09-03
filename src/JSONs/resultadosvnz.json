@@ -423,12 +423,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "02/09/2026 17:00 HS",
+                "fecha": "02/09/2026 17:00 HS Finalizado",
                 "local": "ZAM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/495.png?v=6",
                 "visitante": "TAC",
-                "goles_visita": "-",
+                "goles_visita": "5",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/79.png?v=6"
             },
             {
@@ -1185,6 +1185,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png?v=6",
+                "equipo": "Táchira",
+                "puntos": "16",
+                "pj": "7",
+                "pg": "5",
+                "pe": "1",
+                "pp": "1",
+                "gf": 16,
+                "gc": 8,
+                "dg": 8
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/5732.png?v=6",
                 "equipo": "Puerto Cabello",
                 "puntos": "13",
@@ -1195,19 +1208,6 @@
                 "gf": 11,
                 "gc": 4,
                 "dg": 7
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png?v=6",
-                "equipo": "Táchira",
-                "puntos": "13",
-                "pj": "6",
-                "pg": "4",
-                "pe": "1",
-                "pp": "1",
-                "gf": 11,
-                "gc": 6,
-                "dg": 5
             },
             {
                 "posicion": "3",
@@ -1292,13 +1292,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/495.png?v=6",
                 "equipo": "Zamora",
                 "puntos": "7",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "1",
-                "pp": "3",
-                "gf": 5,
-                "gc": 9,
-                "dg": -4
+                "pp": "4",
+                "gf": 7,
+                "gc": 14,
+                "dg": -7
             },
             {
                 "posicion": "10",
@@ -1368,16 +1368,16 @@
         ],
         "goleadores": [
             {
+                "nombre": "Rodrigo Pollero",
+                "equipo": "Táchira",
+                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Juan Castellanos",
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
                 "goles": 5
-            },
-            {
-                "nombre": "Rodrigo Pollero",
-                "equipo": "Táchira",
-                "escudo": "https://statics-files.tycsports.com/escudos/79.png",
-                "goles": 4
             },
             {
                 "nombre": "George Ayine",

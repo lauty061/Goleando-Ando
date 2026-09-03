@@ -1273,12 +1273,12 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "02/09/2026 19:00 HS",
+                "fecha": "02/09/2026 19:00 HS Finalizado",
                 "local": "COQ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "visitante": "UDC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png?v=6"
             },
             {
@@ -1353,12 +1353,12 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "02/09/2026 21:30 HS",
+                "fecha": "02/09/2026 21:30 HS Finalizado",
                 "local": "LIM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "visitante": "ÑUB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png?v=6"
             },
             {
@@ -2473,16 +2473,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "32",
-                "pj": "20",
+                "pj": "21",
                 "pg": "8",
                 "pe": "8",
-                "pp": "4",
+                "pp": "5",
                 "gf": 26,
-                "gc": 24,
-                "dg": 2
+                "gc": 26,
+                "dg": 0
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
+                "equipo": "Deportes Limache",
+                "puntos": "30",
+                "pj": "21",
+                "pg": "9",
+                "pe": "3",
+                "pp": "9",
+                "gf": 40,
+                "gc": 34,
+                "dg": 6
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "equipo": "D. Concepción",
                 "puntos": "30",
@@ -2495,20 +2508,20 @@
                 "dg": 0
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
-                "equipo": "Deportes Limache",
-                "puntos": "27",
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
+                "equipo": "Coquimbo Unido",
+                "puntos": "29",
                 "pj": "20",
                 "pg": "8",
-                "pe": "3",
-                "pp": "9",
-                "gf": 38,
-                "gc": 34,
-                "dg": 4
+                "pe": "5",
+                "pp": "7",
+                "gf": 27,
+                "gc": 24,
+                "dg": 3
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "equipo": "D. La Serena",
                 "puntos": "27",
@@ -2519,19 +2532,6 @@
                 "gf": 32,
                 "gc": 34,
                 "dg": -2
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
-                "equipo": "Coquimbo Unido",
-                "puntos": "26",
-                "pj": "19",
-                "pg": "7",
-                "pe": "5",
-                "pp": "7",
-                "gf": 26,
-                "gc": 24,
-                "dg": 2
             },
             {
                 "posicion": "11",
@@ -2577,13 +2577,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
                 "puntos": "22",
-                "pj": "20",
+                "pj": "21",
                 "pg": "6",
                 "pe": "4",
-                "pp": "10",
+                "pp": "11",
                 "gf": 16,
-                "gc": 34,
-                "dg": -18
+                "gc": 35,
+                "dg": -19
             },
             {
                 "posicion": "15",
@@ -2629,7 +2629,7 @@
                 "nombre": "Castro Santibáñez, D.",
                 "equipo": "Deportes Limache",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
-                "goles": 10
+                "goles": 11
             },
             {
                 "nombre": "Lionel Altamirano",

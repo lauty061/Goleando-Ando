@@ -463,9 +463,9 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "01/09/2026 15:00 HS Segundo Tiempo",
+                "fecha": "01/09/2026 15:00 HS Finalizado",
                 "local": "BAN",
-                "goles_local": "1",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
                 "visitante": "FER",
                 "goles_visita": "1",
@@ -1215,6 +1215,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
+                "equipo": "Banfield",
+                "puntos": "13",
+                "pj": "6",
+                "pg": "4",
+                "pe": "1",
+                "pp": "1",
+                "gf": 12,
+                "gc": 6,
+                "dg": 6
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png?v=6",
                 "equipo": "San Luis FC",
                 "puntos": "12",
@@ -1227,7 +1240,7 @@
                 "dg": 1
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "11",
@@ -1240,7 +1253,7 @@
                 "dg": 5
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=6",
                 "equipo": "Talleres",
                 "puntos": "11",
@@ -1253,7 +1266,7 @@
                 "dg": 3
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
                 "equipo": "SATSAID",
                 "puntos": "11",
@@ -1266,7 +1279,7 @@
                 "dg": 3
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png?v=6",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "10",
@@ -1277,19 +1290,6 @@
                 "gf": 12,
                 "gc": 4,
                 "dg": 8
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
-                "equipo": "Banfield",
-                "puntos": "10",
-                "pj": "5",
-                "pg": "3",
-                "pe": "1",
-                "pp": "1",
-                "gf": 10,
-                "gc": 5,
-                "dg": 5
             },
             {
                 "posicion": "7",
@@ -1309,13 +1309,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=6",
                 "equipo": "Ferro",
                 "puntos": "10",
-                "pj": "5",
+                "pj": "6",
                 "pg": "3",
                 "pe": "1",
-                "pp": "1",
-                "gf": 9,
-                "gc": 6,
-                "dg": 3
+                "pp": "2",
+                "gf": 10,
+                "gc": 8,
+                "dg": 2
             },
             {
                 "posicion": "9",
@@ -1478,15 +1478,15 @@
                 "goles": 3
             },
             {
-                "nombre": "Oriana Villa",
-                "equipo": "Independiente",
-                "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
+                "nombre": "Tatiana Sarmiento",
+                "equipo": "Banfield",
+                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
                 "goles": 3
             },
             {
-                "nombre": "Sindy Ramírez",
-                "equipo": "Racing",
-                "escudo": "https://statics-files.tycsports.com/escudos/8139.png",
+                "nombre": "Oriana Villa",
+                "equipo": "Independiente",
+                "escudo": "https://statics-files.tycsports.com/escudos/6142.png",
                 "goles": 3
             }
         ]

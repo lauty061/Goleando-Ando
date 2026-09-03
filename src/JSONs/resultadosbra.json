@@ -393,12 +393,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "02/09/2026 19:30 HS",
+                "fecha": "02/09/2026 19:30 HS Finalizado",
                 "local": "FLA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/256.png?v=6",
                 "visitante": "MIR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/884.png?v=6"
             },
             {
@@ -2074,16 +2074,6 @@
             {
                 "fecha_torneo": "Fecha 21",
                 "fecha": "31/07/2026 HS Postergado",
-                "local": "BOT",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/254.png?v=6",
-                "visitante": "GRE",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/309.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 21",
-                "fecha": "31/07/2026 HS Postergado",
                 "local": "SPA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/75.png?v=6",
@@ -2100,6 +2090,16 @@
                 "visitante": "VAS",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/261.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 21",
+                "fecha": "16/09/2026 19:30 HS",
+                "local": "BOT",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/254.png?v=6",
+                "visitante": "GRE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/309.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 22",
@@ -3820,14 +3820,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/256.png?v=6",
                 "equipo": "Flamengo",
-                "puntos": "48",
-                "pj": "24",
-                "pg": "14",
+                "puntos": "51",
+                "pj": "25",
+                "pg": "15",
                 "pe": "6",
                 "pp": "4",
-                "gf": 48,
+                "gf": 50,
                 "gc": 21,
-                "dg": 27
+                "dg": 29
             },
             {
                 "posicion": "3",
@@ -4003,13 +4003,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/884.png?v=6",
                 "equipo": "Mirassol",
                 "puntos": "25",
-                "pj": "24",
+                "pj": "25",
                 "pg": "6",
                 "pe": "7",
-                "pp": "11",
+                "pp": "12",
                 "gf": 27,
-                "gc": 37,
-                "dg": -10
+                "gc": 39,
+                "dg": -12
             },
             {
                 "posicion": "17",
