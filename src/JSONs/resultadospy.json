@@ -473,12 +473,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "03/09/2026 18:30 HS",
+                "fecha": "03/09/2026 18:30 HS Finalizado",
                 "local": "REC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=6"
             },
             {
@@ -1390,19 +1390,6 @@
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
-                "equipo": "Sportivo Luqueño",
-                "puntos": "10",
-                "pj": "8",
-                "pg": "3",
-                "pe": "1",
-                "pp": "4",
-                "gf": 10,
-                "gc": 15,
-                "dg": -5
-            },
-            {
-                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
                 "puntos": "10",
@@ -1415,7 +1402,33 @@
                 "dg": -1
             },
             {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
+                "equipo": "Cerro Porteño",
+                "puntos": "10",
+                "pj": "8",
+                "pg": "3",
+                "pe": "1",
+                "pp": "4",
+                "gf": 11,
+                "gc": 9,
+                "dg": 2
+            },
+            {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
+                "equipo": "Sportivo Luqueño",
+                "puntos": "10",
+                "pj": "8",
+                "pg": "3",
+                "pe": "1",
+                "pp": "4",
+                "gf": 10,
+                "gc": 15,
+                "dg": -5
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
                 "puntos": "10",
@@ -1428,7 +1441,7 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "equipo": "Rubio Ñu",
                 "puntos": "8",
@@ -1441,30 +1454,17 @@
                 "dg": -6
             },
             {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
-                "equipo": "Cerro Porteño",
-                "puntos": "7",
-                "pj": "7",
-                "pg": "2",
-                "pe": "1",
-                "pp": "4",
-                "gf": 8,
-                "gc": 8,
-                "dg": 0
-            },
-            {
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "equipo": "D. Recoleta",
                 "puntos": "7",
-                "pj": "7",
+                "pj": "8",
                 "pg": "2",
                 "pe": "1",
-                "pp": "4",
-                "gf": 11,
-                "gc": 15,
-                "dg": -4
+                "pp": "5",
+                "gf": 12,
+                "gc": 18,
+                "dg": -6
             },
             {
                 "posicion": "12",
@@ -1518,6 +1518,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Pablo Vegetti",
+                "equipo": "Cerro Porteño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Marcelo Fernández",
                 "equipo": "Libertad",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png",
@@ -1539,12 +1545,6 @@
                 "nombre": "Óscar Ruiz",
                 "equipo": "Sportivo Luqueño",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Hugo Sandoval",
-                "equipo": "Olimpia",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png",
                 "goles": 2
             }
         ]
