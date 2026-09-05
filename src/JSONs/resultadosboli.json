@@ -1363,22 +1363,22 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "04/09/2026 16:00 HS",
+                "fecha": "04/09/2026 16:00 HS Finalizado",
                 "local": "TRO",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
                 "visitante": "SAB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "04/09/2026 18:15 HS",
+                "fecha": "04/09/2026 18:15 HS Finalizado",
                 "local": "ABB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png?v=6",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png?v=6"
             },
             {
@@ -2537,40 +2537,40 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
                 "equipo": "Totora Real Oruro",
-                "puntos": "18",
-                "pj": "17",
-                "pg": "5",
+                "puntos": "21",
+                "pj": "18",
+                "pg": "6",
                 "pe": "3",
                 "pp": "9",
-                "gf": 30,
+                "gf": 32,
                 "gc": 43,
-                "dg": -13
+                "dg": -11
             },
             {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png?v=6",
                 "equipo": "ABB",
-                "puntos": "17",
-                "pj": "17",
-                "pg": "5",
+                "puntos": "20",
+                "pj": "18",
+                "pg": "6",
                 "pe": "2",
                 "pp": "10",
-                "gf": 27,
+                "gf": 29,
                 "gc": 37,
-                "dg": -10
+                "dg": -8
             },
             {
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
                 "equipo": "San Antonio",
                 "puntos": "17",
-                "pj": "17",
+                "pj": "18",
                 "pg": "5",
                 "pe": "2",
-                "pp": "10",
+                "pp": "11",
                 "gf": 18,
-                "gc": 35,
-                "dg": -17
+                "gc": 37,
+                "dg": -19
             },
             {
                 "posicion": "14",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "equipo": "U. de Vinto",
                 "puntos": "14",
-                "pj": "17",
+                "pj": "18",
                 "pg": "4",
                 "pe": "2",
-                "pp": "11",
+                "pp": "12",
                 "gf": 22,
-                "gc": 35,
-                "dg": -13
+                "gc": 37,
+                "dg": -15
             },
             {
                 "posicion": "16",
@@ -2614,15 +2614,15 @@
         ],
         "goleadores": [
             {
-                "nombre": "Martín Cauteruccio",
-                "equipo": "Bolívar",
-                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 11
-            },
-            {
                 "nombre": "Juan Fajardo",
                 "equipo": "ABB",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png",
+                "goles": 12
+            },
+            {
+                "nombre": "Martín Cauteruccio",
+                "equipo": "Bolívar",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "goles": 11
             },
             {

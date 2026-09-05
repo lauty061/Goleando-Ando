@@ -303,12 +303,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "04/09/2026 16:00 HS",
+                "fecha": "04/09/2026 16:00 HS Finalizado",
                 "local": "BET",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/32.png?v=6",
                 "visitante": "RMA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/39.png?v=6"
             },
             {
@@ -3821,16 +3821,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/39.png?v=6",
                 "equipo": "Real Madrid",
                 "puntos": "9",
-                "pj": "3",
+                "pj": "4",
                 "pg": "3",
                 "pe": "0",
-                "pp": "0",
+                "pp": "1",
                 "gf": 10,
-                "gc": 2,
-                "dg": 8
+                "gc": 3,
+                "dg": 7
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/32.png?v=6",
+                "equipo": "Betis",
+                "puntos": "9",
+                "pj": "4",
+                "pg": "3",
+                "pe": "0",
+                "pp": "1",
+                "gf": 5,
+                "gc": 5,
+                "dg": 0
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/29.png?v=6",
                 "equipo": "Atl. Madrid",
                 "puntos": "7",
@@ -3843,7 +3856,7 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/160.png?v=6",
                 "equipo": "Alavés",
                 "puntos": "7",
@@ -3856,7 +3869,7 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/37.png?v=6",
                 "equipo": "Osasuna",
                 "puntos": "7",
@@ -3869,7 +3882,7 @@
                 "dg": 2
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/41.png?v=6",
                 "equipo": "Sevilla",
                 "puntos": "6",
@@ -3880,19 +3893,6 @@
                 "gf": 6,
                 "gc": 5,
                 "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/32.png?v=6",
-                "equipo": "Betis",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 4,
-                "gc": 5,
-                "dg": -1
             },
             {
                 "posicion": "8",

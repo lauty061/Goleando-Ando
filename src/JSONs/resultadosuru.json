@@ -323,12 +323,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "04/09/2026 19:00 HS",
+                "fecha": "04/09/2026 19:00 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "visitante": "CLA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/958.png?v=6"
             },
             {
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
+                "equipo": "MC Torque",
+                "puntos": "12",
+                "pj": "4",
+                "pg": "4",
+                "pe": "0",
+                "pp": "0",
+                "gf": 11,
+                "gc": 3,
+                "dg": 8
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
                 "equipo": "Liverpool (U)",
                 "puntos": "10",
@@ -1215,19 +1228,6 @@
                 "gf": 10,
                 "gc": 1,
                 "dg": 9
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
-                "equipo": "MC Torque",
-                "puntos": "9",
-                "pj": "3",
-                "pg": "3",
-                "pe": "0",
-                "pp": "0",
-                "gf": 9,
-                "gc": 2,
-                "dg": 7
             },
             {
                 "posicion": "3",
@@ -1322,19 +1322,6 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
-                "equipo": "Cerro Largo",
-                "puntos": "4",
-                "pj": "4",
-                "pg": "0",
-                "pe": "4",
-                "pp": "0",
-                "gf": 4,
-                "gc": 4,
-                "dg": 0
-            },
-            {
-                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "equipo": "Peñarol",
                 "puntos": "4",
@@ -1345,6 +1332,19 @@
                 "gf": 2,
                 "gc": 2,
                 "dg": 0
+            },
+            {
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
+                "equipo": "Cerro Largo",
+                "puntos": "4",
+                "pj": "5",
+                "pg": "0",
+                "pe": "4",
+                "pp": "1",
+                "gf": 5,
+                "gc": 6,
+                "dg": -1
             },
             {
                 "posicion": "12",
@@ -1444,6 +1444,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Esteban Obregón",
+                "equipo": "MC Torque",
+                "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Luciano Cosentino",
                 "equipo": "Wanderers",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png",
@@ -1454,12 +1460,6 @@
                 "equipo": "Liverpool (U)",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "goles": 8
-            },
-            {
-                "nombre": "Esteban Obregón",
-                "equipo": "MC Torque",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
-                "goles": 7
             },
             {
                 "nombre": "Abel Hernández",

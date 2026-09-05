@@ -1683,12 +1683,12 @@
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "04/09/2026 21:30 HS",
+                "fecha": "04/09/2026 21:30 HS Finalizado",
                 "local": "CON",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "visitante": "AUD",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png?v=6"
             },
             {
@@ -2499,13 +2499,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "equipo": "D. Concepción",
                 "puntos": "30",
-                "pj": "21",
+                "pj": "22",
                 "pg": "9",
                 "pe": "3",
-                "pp": "9",
+                "pp": "10",
                 "gf": 24,
-                "gc": 24,
-                "dg": 0
+                "gc": 25,
+                "dg": -1
             },
             {
                 "posicion": "9",
@@ -2535,6 +2535,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
+                "equipo": "Audax Italiano",
+                "puntos": "25",
+                "pj": "22",
+                "pg": "6",
+                "pe": "7",
+                "pp": "9",
+                "gf": 25,
+                "gc": 31,
+                "dg": -6
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
                 "equipo": "O'Higgins",
                 "puntos": "24",
@@ -2547,7 +2560,7 @@
                 "dg": -8
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "equipo": "Huachipato",
                 "puntos": "24",
@@ -2558,19 +2571,6 @@
                 "gf": 29,
                 "gc": 39,
                 "dg": -10
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
-                "equipo": "Audax Italiano",
-                "puntos": "22",
-                "pj": "21",
-                "pg": "5",
-                "pe": "7",
-                "pp": "9",
-                "gf": 24,
-                "gc": 31,
-                "dg": -7
             },
             {
                 "posicion": "14",

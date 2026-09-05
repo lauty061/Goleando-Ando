@@ -203,12 +203,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "04/09/2026 15:45 HS",
+                "fecha": "04/09/2026 15:45 HS Finalizado",
                 "local": "GEN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/725.png?v=6",
                 "visitante": "COM",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5826.png?v=6"
             },
             {
@@ -3805,6 +3805,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/5826.png?v=6",
+                "equipo": "Como 1907",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
+                "pe": "1",
+                "pp": "0",
+                "gf": 7,
+                "gc": 3,
+                "dg": 4
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/61.png?v=6",
                 "equipo": "Roma",
                 "puntos": "6",
@@ -3817,7 +3830,7 @@
                 "dg": 8
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png?v=6",
                 "equipo": "Inter",
                 "puntos": "6",
@@ -3830,7 +3843,7 @@
                 "dg": 4
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/57.png?v=6",
                 "equipo": "Milan",
                 "puntos": "6",
@@ -3843,7 +3856,7 @@
                 "dg": 3
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/52.png?v=6",
                 "equipo": "Juventus",
                 "puntos": "6",
@@ -3856,7 +3869,7 @@
                 "dg": 3
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png?v=6",
                 "equipo": "Atalanta",
                 "puntos": "6",
@@ -3869,7 +3882,7 @@
                 "dg": 2
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/53.png?v=6",
                 "equipo": "Lazio",
                 "puntos": "6",
@@ -3882,7 +3895,7 @@
                 "dg": 2
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/64.png?v=6",
                 "equipo": "Udinese",
                 "puntos": "4",
@@ -3892,19 +3905,6 @@
                 "pp": "0",
                 "gf": 4,
                 "gc": 3,
-                "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/5826.png?v=6",
-                "equipo": "Como 1907",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 3,
-                "gc": 2,
                 "dg": 1
             },
             {
@@ -4000,19 +4000,6 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/725.png?v=6",
-                "equipo": "Genoa",
-                "puntos": "0",
-                "pj": "2",
-                "pg": "0",
-                "pe": "0",
-                "pp": "2",
-                "gf": 0,
-                "gc": 3,
-                "dg": -3
-            },
-            {
-                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
                 "equipo": "Parma",
                 "puntos": "0",
@@ -4025,7 +4012,7 @@
                 "dg": -3
             },
             {
-                "posicion": "18",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
                 "equipo": "Monza",
                 "puntos": "0",
@@ -4038,7 +4025,7 @@
                 "dg": -4
             },
             {
-                "posicion": "19",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/7232.png?v=6",
                 "equipo": "Venezia",
                 "puntos": "0",
@@ -4051,7 +4038,7 @@
                 "dg": -4
             },
             {
-                "posicion": "20",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
                 "equipo": "Fiorentina",
                 "puntos": "0",
@@ -4062,6 +4049,19 @@
                 "gf": 0,
                 "gc": 7,
                 "dg": -7
+            },
+            {
+                "posicion": "20",
+                "escudo": "https://statics-files.tycsports.com/escudos/725.png?v=6",
+                "equipo": "Genoa",
+                "puntos": "0",
+                "pj": "3",
+                "pg": "0",
+                "pe": "0",
+                "pp": "3",
+                "gf": 1,
+                "gc": 7,
+                "dg": -6
             }
         ],
         "goleadores": [
@@ -4078,9 +4078,21 @@
                 "goles": 2
             },
             {
+                "nombre": "Martin Baturina",
+                "equipo": "Como 1907",
+                "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Hakan Çalhanoglu",
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
+                "goles": 2
+            },
+            {
+                "nombre": "Assane Diao",
+                "equipo": "Como 1907",
+                "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
                 "goles": 2
             },
             {
@@ -4117,18 +4129,6 @@
                 "nombre": "Tiago Gabriel",
                 "equipo": "Lecce",
                 "escudo": "https://statics-files.tycsports.com/escudos/54.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Pietro Comuzzo",
-                "equipo": "Torino",
-                "escudo": "https://statics-files.tycsports.com/escudos/536.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Cas Odenthal",
-                "equipo": "Sassuolo",
-                "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
                 "goles": 1
             }
         ]

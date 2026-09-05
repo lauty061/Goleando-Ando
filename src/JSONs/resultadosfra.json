@@ -193,22 +193,22 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "04/09/2026 14:00 HS",
+                "fecha": "04/09/2026 14:00 HS Finalizado",
                 "local": "LYO",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/794.png?v=6",
                 "visitante": "AUX",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1721.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "04/09/2026 16:05 HS",
+                "fecha": "04/09/2026 16:05 HS Finalizado",
                 "local": "PSG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
                 "visitante": "MON",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1727.png?v=6"
             },
             {
@@ -3065,6 +3065,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1727.png?v=6",
+                "equipo": "Mónaco",
+                "puntos": "9",
+                "pj": "3",
+                "pg": "3",
+                "pe": "0",
+                "pp": "0",
+                "gf": 5,
+                "gc": 1,
+                "dg": 4
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/794.png?v=6",
+                "equipo": "Olympique Lyon",
+                "puntos": "7",
+                "pj": "3",
+                "pg": "2",
+                "pe": "1",
+                "pp": "0",
+                "gf": 6,
+                "gc": 2,
+                "dg": 4
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
                 "equipo": "Lille",
                 "puntos": "7",
@@ -3077,20 +3103,7 @@
                 "dg": 3
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/1727.png?v=6",
-                "equipo": "Mónaco",
-                "puntos": "6",
-                "pj": "2",
-                "pg": "2",
-                "pe": "0",
-                "pp": "0",
-                "gf": 3,
-                "gc": 0,
-                "dg": 3
-            },
-            {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/4360.png?v=6",
                 "equipo": "Paris FC",
                 "puntos": "4",
@@ -3101,19 +3114,6 @@
                 "gf": 3,
                 "gc": 0,
                 "dg": 3
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/794.png?v=6",
-                "equipo": "Olympique Lyon",
-                "puntos": "4",
-                "pj": "2",
-                "pg": "1",
-                "pe": "1",
-                "pp": "0",
-                "gf": 3,
-                "gc": 1,
-                "dg": 2
             },
             {
                 "posicion": "5",
@@ -3195,8 +3195,8 @@
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
-                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/2291.png?v=6",
+                "equipo": "Stade Brestois",
                 "puntos": "2",
                 "pj": "2",
                 "pg": "0",
@@ -3208,16 +3208,16 @@
             },
             {
                 "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/2291.png?v=6",
-                "equipo": "Stade Brestois",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
+                "equipo": "PSG",
                 "puntos": "2",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "2",
-                "pp": "0",
-                "gf": 4,
-                "gc": 4,
-                "dg": 0
+                "pp": "1",
+                "gf": 5,
+                "gc": 6,
+                "dg": -1
             },
             {
                 "posicion": "13",
@@ -3289,13 +3289,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1721.png?v=6",
                 "equipo": "Auxerre",
                 "puntos": "0",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "0",
-                "pp": "2",
-                "gf": 3,
-                "gc": 8,
-                "dg": -5
+                "pp": "3",
+                "gf": 4,
+                "gc": 11,
+                "dg": -7
             }
         ],
         "goleadores": [
@@ -3316,6 +3316,12 @@
                 "equipo": "Lens",
                 "escudo": "https://statics-files.tycsports.com/escudos/1730.png",
                 "goles": 3
+            },
+            {
+                "nombre": "Marquinhos",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 2
             },
             {
                 "nombre": "Ferran Torres",
@@ -3357,12 +3363,6 @@
                 "nombre": "Ludovic Ajorque",
                 "equipo": "Stade Brestois",
                 "escudo": "https://statics-files.tycsports.com/escudos/2291.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Marquinhos",
-                "equipo": "PSG",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
                 "goles": 1
             }
         ]
