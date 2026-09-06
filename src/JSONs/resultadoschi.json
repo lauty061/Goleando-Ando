@@ -1693,22 +1693,22 @@
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "05/09/2026 18:30 HS",
+                "fecha": "05/09/2026 18:30 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "visitante": "UCA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/120.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "05/09/2026 21:00 HS",
+                "fecha": "05/09/2026 21:00 HS Finalizado",
                 "local": "UCH",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "visitante": "COQ",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/145.png?v=6"
             },
             {
@@ -2420,40 +2420,40 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
                 "equipo": "U. Católica",
-                "puntos": "36",
-                "pj": "21",
-                "pg": "11",
+                "puntos": "39",
+                "pj": "22",
+                "pg": "12",
                 "pe": "3",
                 "pp": "7",
-                "gf": 46,
+                "gf": 47,
                 "gc": 31,
-                "dg": 15
+                "dg": 16
             },
             {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "equipo": "U. de Chile",
-                "puntos": "36",
-                "pj": "21",
-                "pg": "10",
+                "puntos": "39",
+                "pj": "22",
+                "pg": "11",
                 "pe": "6",
                 "pp": "5",
-                "gf": 28,
-                "gc": 17,
-                "dg": 11
+                "gf": 32,
+                "gc": 19,
+                "dg": 13
             },
             {
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "equipo": "Everton",
                 "puntos": "33",
-                "pj": "21",
+                "pj": "22",
                 "pg": "9",
                 "pe": "6",
-                "pp": "6",
+                "pp": "7",
                 "gf": 34,
-                "gc": 23,
-                "dg": 11
+                "gc": 24,
+                "dg": 10
             },
             {
                 "posicion": "5",
@@ -2512,13 +2512,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "equipo": "Coquimbo Unido",
                 "puntos": "29",
-                "pj": "20",
+                "pj": "21",
                 "pg": "8",
                 "pe": "5",
-                "pp": "7",
-                "gf": 27,
-                "gc": 24,
-                "dg": 3
+                "pp": "8",
+                "gf": 29,
+                "gc": 28,
+                "dg": 1
             },
             {
                 "posicion": "10",
@@ -2617,7 +2617,7 @@
                 "nombre": "Fernando Zampedri",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 22
+                "goles": 23
             },
             {
                 "nombre": "Javier Correa",
@@ -2638,6 +2638,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Eduardo Vargas",
+                "equipo": "Universidad de Chile",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Nelson Da Silva",
                 "equipo": "Palestino",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png",
@@ -2653,12 +2659,6 @@
                 "nombre": "Justo Giani",
                 "equipo": "U. Católica",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Eduardo Vargas",
-                "equipo": "Universidad de Chile",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "goles": 8
             },
             {

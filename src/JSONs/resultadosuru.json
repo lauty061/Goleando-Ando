@@ -333,22 +333,22 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "05/09/2026 15:00 HS",
+                "fecha": "05/09/2026 15:00 HS Finalizado",
                 "local": "DAN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/72.png?v=6",
                 "visitante": "PEÑ",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/98.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "05/09/2026 18:00 HS",
+                "fecha": "05/09/2026 18:00 HS Finalizado",
                 "local": "MAL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/959.png?v=6",
                 "visitante": "WAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/200.png?v=6"
             },
             {
@@ -1257,6 +1257,32 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
+                "equipo": "Maldonado",
+                "puntos": "8",
+                "pj": "5",
+                "pg": "2",
+                "pe": "2",
+                "pp": "1",
+                "gf": 6,
+                "gc": 4,
+                "dg": 2
+            },
+            {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
+                "equipo": "Peñarol",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 6,
+                "gc": 2,
+                "dg": 4
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
                 "equipo": "Juventud",
                 "puntos": "7",
@@ -1269,20 +1295,20 @@
                 "dg": 2
             },
             {
-                "posicion": "6",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
                 "equipo": "Wanderers",
                 "puntos": "7",
-                "pj": "4",
+                "pj": "5",
                 "pg": "2",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 6,
-                "gc": 6,
-                "dg": 0
+                "gc": 8,
+                "dg": -2
             },
             {
-                "posicion": "7",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
                 "equipo": "Cerro",
                 "puntos": "7",
@@ -1295,7 +1321,7 @@
                 "dg": -2
             },
             {
-                "posicion": "8",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
                 "equipo": "Nacional",
                 "puntos": "6",
@@ -1306,32 +1332,6 @@
                 "gf": 3,
                 "gc": 4,
                 "dg": -1
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
-                "equipo": "Maldonado",
-                "puntos": "5",
-                "pj": "4",
-                "pg": "1",
-                "pe": "2",
-                "pp": "1",
-                "gf": 4,
-                "gc": 4,
-                "dg": 0
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
-                "equipo": "Peñarol",
-                "puntos": "4",
-                "pj": "3",
-                "pg": "1",
-                "pe": "1",
-                "pp": "1",
-                "gf": 2,
-                "gc": 2,
-                "dg": 0
             },
             {
                 "posicion": "11",
@@ -1377,13 +1377,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=6",
                 "equipo": "Danubio",
                 "puntos": "2",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "2",
-                "pp": "2",
+                "pp": "3",
                 "gf": 0,
-                "gc": 2,
-                "dg": -2
+                "gc": 6,
+                "dg": -6
             },
             {
                 "posicion": "15",
@@ -1426,22 +1426,22 @@
                 "goles": 13
             },
             {
+                "nombre": "Matías Arezo",
+                "equipo": "Peñarol",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Salomón Rodríguez",
                 "equipo": "MC Torque",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "goles": 11
             },
             {
-                "nombre": "Matías Arezo",
-                "equipo": "Peñarol",
-                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
-                "goles": 9
-            },
-            {
                 "nombre": "Christian Tabó",
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
-                "goles": 8
+                "goles": 9
             },
             {
                 "nombre": "Esteban Obregón",
@@ -1462,6 +1462,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Santiago Ramírez",
+                "equipo": "Deportivo Maldonado",
+                "escudo": "https://statics-files.tycsports.com/escudos/959.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Abel Hernández",
                 "equipo": "Peñarol",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png",
@@ -1471,12 +1477,6 @@
                 "nombre": "Axel Pandiani",
                 "equipo": "Cerro Largo",
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Rubén Bentancourt",
-                "equipo": "Liverpool (U)",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png",
                 "goles": 7
             }
         ]
