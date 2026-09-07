@@ -3683,52 +3683,52 @@
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "06/09/2026 13:00 HS",
+                "fecha": "06/09/2026 13:00 HS Finalizado",
                 "local": "CAM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
                 "visitante": "ADQ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/773.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "06/09/2026 13:00 HS",
+                "fecha": "06/09/2026 13:00 HS Finalizado",
                 "local": "DSU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/688.png?v=6",
                 "visitante": "COM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/673.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "06/09/2026 15:00 HS",
+                "fecha": "06/09/2026 15:00 HS Finalizado",
                 "local": "UR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "visitante": "ME",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/683.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "06/09/2026 15:00 HS",
+                "fecha": "06/09/2026 15:00 HS Finalizado",
                 "local": "LIN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/783.png?v=6",
                 "visitante": "LAF",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/694.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "06/09/2026 15:00 HS",
+                "fecha": "06/09/2026 15:00 HS Finalizado",
                 "local": "VSC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/701.png?v=6",
                 "visitante": "BRW",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/671.png?v=6"
             },
             {
@@ -4788,6 +4788,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
+                "equipo": "Camioneros",
+                "puntos": "63",
+                "pj": "34",
+                "pg": "17",
+                "pe": "12",
+                "pp": "5",
+                "gf": 40,
+                "gc": 20,
+                "dg": 20
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "equipo": "Talleres (RE)",
                 "puntos": "63",
@@ -4800,7 +4813,7 @@
                 "dg": 20
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
                 "equipo": "Excursionistas",
                 "puntos": "62",
@@ -4811,19 +4824,6 @@
                 "gf": 49,
                 "gc": 27,
                 "dg": 22
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
-                "equipo": "Camioneros",
-                "puntos": "60",
-                "pj": "33",
-                "pg": "16",
-                "pe": "12",
-                "pp": "5",
-                "gf": 39,
-                "gc": 20,
-                "dg": 19
             },
             {
                 "posicion": "5",
@@ -4866,6 +4866,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/673.png?v=6",
+                "equipo": "Comunicaciones",
+                "puntos": "49",
+                "pj": "34",
+                "pg": "13",
+                "pe": "10",
+                "pp": "11",
+                "gf": 34,
+                "gc": 31,
+                "dg": 3
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png?v=6",
                 "equipo": "Dep. Armenio",
                 "puntos": "48",
@@ -4878,29 +4891,16 @@
                 "dg": -2
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/673.png?v=6",
-                "equipo": "Comunicaciones",
-                "puntos": "46",
-                "pj": "33",
-                "pg": "12",
-                "pe": "10",
-                "pp": "11",
-                "gf": 33,
-                "gc": 31,
-                "dg": 2
-            },
-            {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/694.png?v=6",
                 "equipo": "Laferrere",
-                "puntos": "46",
-                "pj": "33",
+                "puntos": "47",
+                "pj": "34",
                 "pg": "12",
-                "pe": "10",
+                "pe": "11",
                 "pp": "11",
-                "gf": 39,
-                "gc": 42,
+                "gf": 41,
+                "gc": 44,
                 "dg": -3
             },
             {
@@ -4908,26 +4908,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
                 "equipo": "Dock Sud",
                 "puntos": "43",
-                "pj": "33",
+                "pj": "34",
                 "pg": "10",
                 "pe": "13",
-                "pp": "10",
+                "pp": "11",
                 "gf": 38,
-                "gc": 34,
-                "dg": 4
+                "gc": 35,
+                "dg": 3
             },
             {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/683.png?v=6",
                 "equipo": "Argentino de M.",
                 "puntos": "41",
-                "pj": "33",
+                "pj": "34",
                 "pg": "10",
                 "pe": "11",
-                "pp": "12",
+                "pp": "13",
                 "gf": 30,
-                "gc": 32,
-                "dg": -2
+                "gc": 34,
+                "dg": -4
             },
             {
                 "posicion": "13",
@@ -4959,10 +4959,10 @@
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/701.png?v=6",
                 "equipo": "Villa San Carlos",
-                "puntos": "38",
-                "pj": "33",
+                "puntos": "39",
+                "pj": "34",
                 "pg": "9",
-                "pe": "11",
+                "pe": "12",
                 "pp": "13",
                 "gf": 34,
                 "gc": 38,
@@ -4973,25 +4973,25 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=6",
                 "equipo": "Arg. de Quilmes",
                 "puntos": "37",
-                "pj": "33",
+                "pj": "34",
                 "pg": "8",
                 "pe": "13",
-                "pp": "12",
+                "pp": "13",
                 "gf": 28,
-                "gc": 35,
-                "dg": -7
+                "gc": 36,
+                "dg": -8
             },
             {
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/783.png?v=6",
                 "equipo": "Liniers",
-                "puntos": "36",
-                "pj": "33",
+                "puntos": "37",
+                "pj": "34",
                 "pg": "8",
-                "pe": "12",
+                "pe": "13",
                 "pp": "13",
-                "gf": 25,
-                "gc": 33,
+                "gf": 27,
+                "gc": 35,
                 "dg": -8
             },
             {
@@ -5024,10 +5024,10 @@
                 "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
                 "equipo": "Brown (Adrogué)",
-                "puntos": "33",
-                "pj": "33",
+                "puntos": "34",
+                "pj": "34",
                 "pg": "7",
-                "pe": "12",
+                "pe": "13",
                 "pp": "14",
                 "gf": 21,
                 "gc": 35,
@@ -5037,14 +5037,14 @@
                 "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "equipo": "UAI Urquiza",
-                "puntos": "28",
-                "pj": "33",
-                "pg": "3",
+                "puntos": "31",
+                "pj": "34",
+                "pg": "4",
                 "pe": "19",
                 "pp": "11",
-                "gf": 15,
+                "gf": 17,
                 "gc": 29,
-                "dg": -14
+                "dg": -12
             },
             {
                 "posicion": "22",
@@ -5122,10 +5122,10 @@
                 "goles": 9
             },
             {
-                "nombre": "Mauro Dávila",
-                "equipo": "Dep. Armenio",
-                "escudo": "https://statics-files.tycsports.com/escudos/669.png",
-                "goles": 7
+                "nombre": "Federico Aguirre",
+                "equipo": "Camioneros",
+                "escudo": "https://statics-files.tycsports.com/escudos/1602.png",
+                "goles": 8
             }
         ]
     }
