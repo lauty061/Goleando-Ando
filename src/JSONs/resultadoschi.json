@@ -1753,12 +1753,12 @@
             },
             {
                 "fecha_torneo": "Fecha 22",
-                "fecha": "07/09/2026 20:00 HS",
+                "fecha": "07/09/2026 20:00 HS Finalizado",
                 "local": "LIM",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "visitante": "COB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png?v=6"
             },
             {
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
+                "equipo": "Deportes Limache",
+                "puntos": "33",
+                "pj": "22",
+                "pg": "10",
+                "pe": "3",
+                "pp": "9",
+                "gf": 43,
+                "gc": 34,
+                "dg": 9
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "32",
@@ -2480,19 +2493,6 @@
                 "gf": 27,
                 "gc": 28,
                 "dg": -1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
-                "equipo": "Deportes Limache",
-                "puntos": "30",
-                "pj": "21",
-                "pg": "9",
-                "pe": "3",
-                "pp": "9",
-                "gf": 40,
-                "gc": 34,
-                "dg": 6
             },
             {
                 "posicion": "8",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "equipo": "Cobresal",
                 "puntos": "21",
-                "pj": "21",
+                "pj": "22",
                 "pg": "6",
                 "pe": "3",
-                "pp": "12",
+                "pp": "13",
                 "gf": 31,
-                "gc": 39,
-                "dg": -8
+                "gc": 42,
+                "dg": -11
             },
             {
                 "posicion": "16",
@@ -2620,16 +2620,16 @@
                 "goles": 23
             },
             {
+                "nombre": "Castro Santibáñez, D.",
+                "equipo": "Deportes Limache",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
+                "goles": 13
+            },
+            {
                 "nombre": "Javier Correa",
                 "equipo": "Colo Colo",
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png",
                 "goles": 12
-            },
-            {
-                "nombre": "Castro Santibáñez, D.",
-                "equipo": "Deportes Limache",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
-                "goles": 11
             },
             {
                 "nombre": "Lionel Altamirano",

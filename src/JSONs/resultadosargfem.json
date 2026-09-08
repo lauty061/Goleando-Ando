@@ -543,12 +543,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "07/09/2026 15:00 HS",
+                "fecha": "07/09/2026 15:00 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12384.png?v=6",
                 "visitante": "SAT",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8142.png?v=6"
             },
             {
@@ -1254,6 +1254,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
+                "equipo": "SATSAID",
+                "puntos": "14",
+                "pj": "7",
+                "pg": "4",
+                "pe": "2",
+                "pp": "1",
+                "gf": 9,
+                "gc": 4,
+                "dg": 5
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png?v=6",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "13",
@@ -1266,7 +1279,7 @@
                 "dg": 10
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=6",
                 "equipo": "Talleres",
                 "puntos": "12",
@@ -1276,19 +1289,6 @@
                 "pp": "1",
                 "gf": 9,
                 "gc": 6,
-                "dg": 3
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/8142.png?v=6",
-                "equipo": "SATSAID",
-                "puntos": "11",
-                "pj": "6",
-                "pg": "3",
-                "pe": "2",
-                "pp": "1",
-                "gf": 6,
-                "gc": 3,
                 "dg": 3
             },
             {
@@ -1348,13 +1348,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/12384.png?v=6",
                 "equipo": "Unión",
                 "puntos": "8",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "2",
-                "pp": "2",
-                "gf": 8,
-                "gc": 9,
-                "dg": -1
+                "pp": "3",
+                "gf": 9,
+                "gc": 12,
+                "dg": -3
             },
             {
                 "posicion": "12",
@@ -1442,15 +1442,15 @@
                 "goles": 5
             },
             {
-                "nombre": "Emily Arias",
-                "equipo": "San Lorenzo",
-                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Lara Lopez",
                 "equipo": "SATSAID",
                 "escudo": "https://statics-files.tycsports.com/escudos/8142.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Emily Arias",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
                 "goles": 4
             },
             {

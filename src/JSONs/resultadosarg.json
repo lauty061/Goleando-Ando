@@ -1183,22 +1183,22 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "07/09/2026 19:00 HS",
+                "fecha": "07/09/2026 19:00 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/685.png?v=6",
                 "visitante": "ARG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "07/09/2026 21:15 HS",
+                "fecha": "07/09/2026 21:15 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/137.png?v=6",
                 "visitante": "INS",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11.png?v=6"
             },
             {
@@ -2587,13 +2587,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11.png?v=6",
                 "equipo": "Instituto",
                 "puntos": "16",
-                "pj": "7",
+                "pj": "8",
                 "pg": "5",
                 "pe": "1",
-                "pp": "1",
-                "gf": 6,
-                "gc": 2,
-                "dg": 4
+                "pp": "2",
+                "gf": 8,
+                "gc": 5,
+                "dg": 3
             },
             {
                 "zona": "Grupo A",
@@ -2612,6 +2612,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/137.png?v=6",
+                "equipo": "Unión",
+                "puntos": "13",
+                "pj": "8",
+                "pg": "4",
+                "pe": "1",
+                "pp": "3",
+                "gf": 15,
+                "gc": 12,
+                "dg": 3
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/10.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "13",
@@ -2625,7 +2639,7 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
                 "equipo": "Newell`s",
                 "puntos": "12",
@@ -2639,7 +2653,7 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/5.png?v=6",
                 "equipo": "Boca Juniors",
                 "puntos": "11",
@@ -2650,20 +2664,6 @@
                 "gf": 9,
                 "gc": 10,
                 "dg": -1
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/137.png?v=6",
-                "equipo": "Unión",
-                "puntos": "10",
-                "pj": "7",
-                "pg": "3",
-                "pe": "1",
-                "pp": "3",
-                "gf": 12,
-                "gc": 10,
-                "dg": 2
             },
             {
                 "zona": "Grupo A",
@@ -2768,10 +2768,10 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/2.png?v=6",
                 "equipo": "Argentinos",
-                "puntos": "16",
-                "pj": "7",
+                "puntos": "17",
+                "pj": "8",
                 "pg": "5",
-                "pe": "1",
+                "pe": "2",
                 "pp": "1",
                 "gf": 12,
                 "gc": 7,
@@ -2878,6 +2878,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/685.png?v=6",
+                "equipo": "Barracas Central",
+                "puntos": "11",
+                "pj": "8",
+                "pg": "3",
+                "pe": "2",
+                "pp": "3",
+                "gf": 4,
+                "gc": 5,
+                "dg": -1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/17.png?v=6",
                 "equipo": "River Plate",
                 "puntos": "10",
@@ -2891,7 +2905,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/100.png?v=6",
                 "equipo": "Huracán",
                 "puntos": "10",
@@ -2902,20 +2916,6 @@
                 "gf": 6,
                 "gc": 6,
                 "dg": 0
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/685.png?v=6",
-                "equipo": "Barracas Central",
-                "puntos": "10",
-                "pj": "7",
-                "pg": "3",
-                "pe": "1",
-                "pp": "3",
-                "gf": 4,
-                "gc": 5,
-                "dg": -1
             },
             {
                 "zona": "Grupo B",
@@ -2982,6 +2982,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Cristian Tarragona",
+                "equipo": "Unión",
+                "escudo": "https://statics-files.tycsports.com/escudos/137.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Alex Arce",
                 "equipo": "Independiente Riv. (M)",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png",
@@ -2991,12 +2997,6 @@
                 "nombre": "Matías Cóccaro",
                 "equipo": "Newell`s",
                 "escudo": "https://statics-files.tycsports.com/escudos/13.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Cristian Tarragona",
-                "equipo": "Unión",
-                "escudo": "https://statics-files.tycsports.com/escudos/137.png",
                 "goles": 5
             },
             {

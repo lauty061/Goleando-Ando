@@ -2593,12 +2593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 26",
-                "fecha": "07/09/2026 20:00 HS",
+                "fecha": "07/09/2026 20:00 HS Finalizado",
                 "local": "VIT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/988.png?v=6",
                 "visitante": "GRE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/309.png?v=6"
             },
             {
@@ -3935,6 +3935,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/988.png?v=6",
+                "equipo": "Vitória",
+                "puntos": "32",
+                "pj": "26",
+                "pg": "9",
+                "pe": "5",
+                "pp": "12",
+                "gf": 25,
+                "gc": 37,
+                "dg": -12
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
                 "equipo": "Corinthians",
                 "puntos": "32",
@@ -3947,7 +3960,7 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/73.png?v=6",
                 "equipo": "Santos",
                 "puntos": "32",
@@ -3960,7 +3973,7 @@
                 "dg": -1
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png?v=6",
                 "equipo": "Botafogo",
                 "puntos": "31",
@@ -3973,30 +3986,17 @@
                 "dg": -3
             },
             {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/988.png?v=6",
-                "equipo": "Vitória",
-                "puntos": "29",
-                "pj": "25",
-                "pg": "8",
-                "pe": "5",
-                "pp": "12",
-                "gf": 24,
-                "gc": 37,
-                "dg": -13
-            },
-            {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/309.png?v=6",
                 "equipo": "Grêmio",
                 "puntos": "28",
-                "pj": "24",
+                "pj": "25",
                 "pg": "7",
                 "pe": "7",
-                "pp": "10",
+                "pp": "11",
                 "gf": 27,
-                "gc": 32,
-                "dg": -5
+                "gc": 33,
+                "dg": -6
             },
             {
                 "posicion": "16",

@@ -403,12 +403,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "07/09/2026 20:00 HS",
+                "fecha": "07/09/2026 20:00 HS Finalizado",
                 "local": "LLA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/880.png?v=6",
                 "visitante": "TOL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png?v=6"
             },
             {
@@ -2178,6 +2178,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
+                "equipo": "Tolima",
+                "puntos": "16",
+                "pj": "7",
+                "pg": "5",
+                "pe": "1",
+                "pp": "1",
+                "gf": 12,
+                "gc": 8,
+                "dg": 4
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
                 "equipo": "Indep. Medellín",
                 "puntos": "15",
@@ -2188,19 +2201,6 @@
                 "gf": 12,
                 "gc": 6,
                 "dg": 6
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
-                "equipo": "Tolima",
-                "puntos": "13",
-                "pj": "6",
-                "pg": "4",
-                "pe": "1",
-                "pp": "1",
-                "gf": 10,
-                "gc": 7,
-                "dg": 3
             },
             {
                 "posicion": "4",
@@ -2233,13 +2233,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
                 "equipo": "Llaneros FC",
                 "puntos": "11",
-                "pj": "7",
+                "pj": "8",
                 "pg": "3",
                 "pe": "2",
-                "pp": "2",
-                "gf": 8,
-                "gc": 7,
-                "dg": 1
+                "pp": "3",
+                "gf": 9,
+                "gc": 9,
+                "dg": 0
             },
             {
                 "posicion": "7",

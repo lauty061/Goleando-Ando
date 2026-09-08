@@ -3733,12 +3733,12 @@
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "07/09/2026 20:00 HS",
+                "fecha": "07/09/2026 20:00 HS Finalizado",
                 "local": "EXC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/689.png?v=6",
                 "visitante": "ITU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/781.png?v=6"
             },
             {
@@ -4775,6 +4775,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
+                "equipo": "Excursionistas",
+                "puntos": "65",
+                "pj": "34",
+                "pg": "19",
+                "pe": "8",
+                "pp": "7",
+                "gf": 51,
+                "gc": 28,
+                "dg": 23
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/3.png?v=6",
                 "equipo": "Arsenal",
                 "puntos": "63",
@@ -4787,7 +4800,7 @@
                 "dg": 23
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
                 "equipo": "Camioneros",
                 "puntos": "63",
@@ -4800,7 +4813,7 @@
                 "dg": 20
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "equipo": "Talleres (RE)",
                 "puntos": "63",
@@ -4811,19 +4824,6 @@
                 "gf": 37,
                 "gc": 17,
                 "dg": 20
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
-                "equipo": "Excursionistas",
-                "puntos": "62",
-                "pj": "33",
-                "pg": "18",
-                "pe": "8",
-                "pp": "7",
-                "gf": 49,
-                "gc": 27,
-                "dg": 22
             },
             {
                 "posicion": "5",
@@ -5051,13 +5051,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png?v=6",
                 "equipo": "Ituzaingó",
                 "puntos": "14",
-                "pj": "33",
+                "pj": "34",
                 "pg": "1",
                 "pe": "11",
-                "pp": "21",
-                "gf": 19,
-                "gc": 51,
-                "dg": -32
+                "pp": "22",
+                "gf": 20,
+                "gc": 53,
+                "dg": -33
             }
         ],
         "goleadores": [

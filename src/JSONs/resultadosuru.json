@@ -393,12 +393,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "07/09/2026 15:00 HS",
+                "fecha": "07/09/2026 15:00 HS Finalizado",
                 "local": "ALB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "visitante": "PRO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/510.png?v=6"
             },
             {
@@ -1335,6 +1335,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/510.png?v=6",
+                "equipo": "Progreso",
+                "puntos": "6",
+                "pj": "5",
+                "pg": "2",
+                "pe": "0",
+                "pp": "3",
+                "gf": 2,
+                "gc": 4,
+                "dg": -2
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
                 "equipo": "Cerro Largo",
                 "puntos": "4",
@@ -1347,7 +1360,7 @@
                 "dg": -1
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png?v=6",
                 "equipo": "Central Español",
                 "puntos": "4",
@@ -1358,19 +1371,6 @@
                 "gf": 3,
                 "gc": 7,
                 "dg": -4
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/510.png?v=6",
-                "equipo": "Progreso",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 1,
-                "gc": 4,
-                "dg": -3
             },
             {
                 "posicion": "14",
@@ -1403,13 +1403,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "equipo": "Albion",
                 "puntos": "0",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "0",
-                "pp": "4",
+                "pp": "5",
                 "gf": 3,
-                "gc": 7,
-                "dg": -4
+                "gc": 8,
+                "dg": -5
             }
         ],
         "goleadores": [
