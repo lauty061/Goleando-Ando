@@ -70,67 +70,67 @@
             {
                 "fase": "Fase de Liga",
                 "jornada": "Fecha 1",
-                "fecha_partido": "09/09/2026 13:45 HS",
+                "fecha_partido": "09/09/2026 13:45 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/31.png?v=6",
                 "visitante": "FEY",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1361.png?v=6"
             },
             {
                 "fase": "Fase de Liga",
                 "jornada": "Fecha 1",
-                "fecha_partido": "09/09/2026 13:45 HS",
+                "fecha_partido": "09/09/2026 13:45 HS Finalizado",
                 "local": "STU",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/718.png?v=6",
                 "visitante": "VIK",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/9553.png?v=6"
             },
             {
                 "fase": "Fase de Liga",
                 "jornada": "Fecha 1",
-                "fecha_partido": "09/09/2026 16:00 HS",
+                "fecha_partido": "09/09/2026 16:00 HS Finalizado",
                 "local": "LIV",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/566.png?v=6",
                 "visitante": "ATM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/29.png?v=6"
             },
             {
                 "fase": "Fase de Liga",
                 "jornada": "Fecha 1",
-                "fecha_partido": "09/09/2026 16:00 HS",
+                "fecha_partido": "09/09/2026 16:00 HS Finalizado",
                 "local": "NAP",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/726.png?v=6",
                 "visitante": "ASL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/558.png?v=6"
             },
             {
                 "fase": "Fase de Liga",
                 "jornada": "Fecha 1",
-                "fecha_partido": "09/09/2026 16:00 HS",
+                "fecha_partido": "09/09/2026 16:00 HS Finalizado",
                 "local": "PSG",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
                 "visitante": "SLB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3346.png?v=6"
             },
             {
                 "fase": "Fase de Liga",
                 "jornada": "Fecha 1",
-                "fecha_partido": "09/09/2026 16:00 HS",
+                "fecha_partido": "09/09/2026 16:00 HS Finalizado",
                 "local": "SPO",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/799.png?v=6",
                 "visitante": "GAL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1362.png?v=6"
             },
             {
@@ -2084,6 +2084,58 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
+                "equipo": "PSG",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 6,
+                "gc": 1,
+                "dg": 5
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/31.png?v=6",
+                "equipo": "Barcelona",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 5,
+                "gc": 1,
+                "dg": 4
+            },
+            {
+                "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/799.png?v=6",
+                "equipo": "Sporting Lisboa",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 3,
+                "gc": 1,
+                "dg": 2
+            },
+            {
+                "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/718.png?v=6",
+                "equipo": "Stuttgart",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 3,
+                "gc": 1,
+                "dg": 2
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png?v=6",
                 "equipo": "Manchester City",
                 "puntos": "3",
@@ -2096,7 +2148,7 @@
                 "dg": 2
             },
             {
-                "posicion": "2",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/559.png?v=6",
                 "equipo": "Aston Villa",
                 "puntos": "3",
@@ -2109,7 +2161,7 @@
                 "dg": 1
             },
             {
-                "posicion": "3",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/32.png?v=6",
                 "equipo": "Betis",
                 "puntos": "3",
@@ -2122,7 +2174,7 @@
                 "dg": 1
             },
             {
-                "posicion": "4",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/707.png?v=6",
                 "equipo": "Borussia Dortmund",
                 "puntos": "3",
@@ -2135,7 +2187,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/39.png?v=6",
                 "equipo": "Real Madrid",
                 "puntos": "3",
@@ -2148,7 +2200,33 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/566.png?v=6",
+                "equipo": "Liverpool",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 2,
+                "gc": 1,
+                "dg": 1
+            },
+            {
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/558.png?v=6",
+                "equipo": "Arsenal",
+                "puntos": "3",
+                "pj": "1",
+                "pg": "1",
+                "pe": "0",
+                "pp": "0",
+                "gf": 1,
+                "gc": 0,
+                "dg": 1
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/1783.png?v=6",
                 "equipo": "AEK",
                 "puntos": "3",
@@ -2161,59 +2239,7 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/558.png?v=6",
-                "equipo": "Arsenal",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/31.png?v=6",
-                "equipo": "Barcelona",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/6345.png?v=6",
-                "equipo": "RB Leipzig",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
-                "equipo": "PSG",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "11",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/5826.png?v=6",
                 "equipo": "Como 1907",
                 "puntos": "0",
@@ -2226,35 +2252,9 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/1362.png?v=6",
-                "equipo": "Galatasaray",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/61.png?v=6",
                 "equipo": "Roma",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/806.png?v=6",
-                "equipo": "Shakhtar Donetsk",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2279,32 +2279,6 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/9553.png?v=6",
-                "equipo": "Viking FK",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/799.png?v=6",
-                "equipo": "Sporting Lisboa",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/9347.png?v=6",
                 "equipo": "Sabah",
                 "puntos": "0",
@@ -2317,9 +2291,9 @@
                 "dg": 0
             },
             {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
-                "equipo": "Bayern Múnich",
+                "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/806.png?v=6",
+                "equipo": "Shakhtar Donetsk",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2330,7 +2304,7 @@
                 "dg": 0
             },
             {
-                "posicion": "20",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/804.png?v=6",
                 "equipo": "Fenerbahçe",
                 "puntos": "0",
@@ -2343,46 +2317,7 @@
                 "dg": 0
             },
             {
-                "posicion": "21",
-                "escudo": "https://statics-files.tycsports.com/escudos/7137.png?v=6",
-                "equipo": "FK Bodo/Glimt",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "22",
-                "escudo": "https://statics-files.tycsports.com/escudos/726.png?v=6",
-                "equipo": "Napoli",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "23",
-                "escudo": "https://statics-files.tycsports.com/escudos/3346.png?v=6",
-                "equipo": "Slovan Bratislava",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "24",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/800.png?v=6",
                 "equipo": "Slavia Praga",
                 "puntos": "0",
@@ -2395,7 +2330,33 @@
                 "dg": 0
             },
             {
-                "posicion": "25",
+                "posicion": "20",
+                "escudo": "https://statics-files.tycsports.com/escudos/6345.png?v=6",
+                "equipo": "RB Leipzig",
+                "puntos": "0",
+                "pj": "0",
+                "pg": "0",
+                "pe": "0",
+                "pp": "0",
+                "gf": 0,
+                "gc": 0,
+                "dg": 0
+            },
+            {
+                "posicion": "21",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
+                "equipo": "Bayern Múnich",
+                "puntos": "0",
+                "pj": "0",
+                "pg": "0",
+                "pe": "0",
+                "pp": "0",
+                "gf": 0,
+                "gc": 0,
+                "dg": 0
+            },
+            {
+                "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/618.png?v=6",
                 "equipo": "PSV",
                 "puntos": "0",
@@ -2408,33 +2369,7 @@
                 "dg": 0
             },
             {
-                "posicion": "26",
-                "escudo": "https://statics-files.tycsports.com/escudos/1361.png?v=6",
-                "equipo": "Feyenoord",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "27",
-                "escudo": "https://statics-files.tycsports.com/escudos/29.png?v=6",
-                "equipo": "Atl. Madrid",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "28",
+                "posicion": "23",
                 "escudo": "https://statics-files.tycsports.com/escudos/568.png?v=6",
                 "equipo": "Manchester United",
                 "puntos": "0",
@@ -2447,9 +2382,9 @@
                 "dg": 0
             },
             {
-                "posicion": "29",
-                "escudo": "https://statics-files.tycsports.com/escudos/718.png?v=6",
-                "equipo": "Stuttgart",
+                "posicion": "24",
+                "escudo": "https://statics-files.tycsports.com/escudos/7137.png?v=6",
+                "equipo": "FK Bodo/Glimt",
                 "puntos": "0",
                 "pj": "0",
                 "pg": "0",
@@ -2460,20 +2395,7 @@
                 "dg": 0
             },
             {
-                "posicion": "30",
-                "escudo": "https://statics-files.tycsports.com/escudos/566.png?v=6",
-                "equipo": "Liverpool",
-                "puntos": "0",
-                "pj": "0",
-                "pg": "0",
-                "pe": "0",
-                "pp": "0",
-                "gf": 0,
-                "gc": 0,
-                "dg": 0
-            },
-            {
-                "posicion": "31",
+                "posicion": "25",
                 "escudo": "https://statics-files.tycsports.com/escudos/43.png?v=6",
                 "equipo": "Villarreal",
                 "puntos": "0",
@@ -2486,20 +2408,7 @@
                 "dg": -1
             },
             {
-                "posicion": "32",
-                "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
-                "equipo": "Lille",
-                "puntos": "0",
-                "pj": "1",
-                "pg": "0",
-                "pe": "0",
-                "pp": "1",
-                "gf": 2,
-                "gc": 3,
-                "dg": -1
-            },
-            {
-                "posicion": "33",
+                "posicion": "26",
                 "escudo": "https://statics-files.tycsports.com/escudos/1359.png?v=6",
                 "equipo": "Club Brugge",
                 "puntos": "0",
@@ -2512,7 +2421,20 @@
                 "dg": -1
             },
             {
-                "posicion": "34",
+                "posicion": "27",
+                "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
+                "equipo": "Lille",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 2,
+                "gc": 3,
+                "dg": -1
+            },
+            {
+                "posicion": "28",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png?v=6",
                 "equipo": "Inter",
                 "puntos": "0",
@@ -2525,7 +2447,20 @@
                 "dg": -1
             },
             {
-                "posicion": "35",
+                "posicion": "29",
+                "escudo": "https://statics-files.tycsports.com/escudos/29.png?v=6",
+                "equipo": "Atl. Madrid",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 1,
+                "gc": 2,
+                "dg": -1
+            },
+            {
+                "posicion": "30",
                 "escudo": "https://statics-files.tycsports.com/escudos/1781.png?v=6",
                 "equipo": "LASK Linz",
                 "puntos": "0",
@@ -2538,7 +2473,46 @@
                 "dg": -1
             },
             {
-                "posicion": "36",
+                "posicion": "31",
+                "escudo": "https://statics-files.tycsports.com/escudos/726.png?v=6",
+                "equipo": "Napoli",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 0,
+                "gc": 1,
+                "dg": -1
+            },
+            {
+                "posicion": "32",
+                "escudo": "https://statics-files.tycsports.com/escudos/1362.png?v=6",
+                "equipo": "Galatasaray",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 1,
+                "gc": 3,
+                "dg": -2
+            },
+            {
+                "posicion": "33",
+                "escudo": "https://statics-files.tycsports.com/escudos/9553.png?v=6",
+                "equipo": "Viking FK",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 1,
+                "gc": 3,
+                "dg": -2
+            },
+            {
+                "posicion": "34",
                 "escudo": "https://statics-files.tycsports.com/escudos/797.png?v=6",
                 "equipo": "Porto",
                 "puntos": "0",
@@ -2549,9 +2523,47 @@
                 "gf": 0,
                 "gc": 2,
                 "dg": -2
+            },
+            {
+                "posicion": "35",
+                "escudo": "https://statics-files.tycsports.com/escudos/1361.png?v=6",
+                "equipo": "Feyenoord",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 1,
+                "gc": 5,
+                "dg": -4
+            },
+            {
+                "posicion": "36",
+                "escudo": "https://statics-files.tycsports.com/escudos/3346.png?v=6",
+                "equipo": "Slovan Bratislava",
+                "puntos": "0",
+                "pj": "1",
+                "pg": "0",
+                "pe": "0",
+                "pp": "1",
+                "gf": 1,
+                "gc": 6,
+                "dg": -5
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Ermedin Demirovic",
+                "equipo": "Stuttgart",
+                "escudo": "https://statics-files.tycsports.com/escudos/718.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Ferran Torres",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 3
+            },
             {
                 "nombre": "Marc Bartra",
                 "equipo": "Betis",
@@ -2559,9 +2571,21 @@
                 "goles": 2
             },
             {
+                "nombre": "Ousmane Dembélé",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Erling Haaland",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
+                "goles": 2
+            },
+            {
+                "nombre": "Raphinha",
+                "equipo": "Barcelona",
+                "escudo": "https://statics-files.tycsports.com/escudos/31.png",
                 "goles": 2
             },
             {
@@ -2577,45 +2601,21 @@
                 "goles": 1
             },
             {
-                "nombre": "de Souza Ribeiro, A.",
-                "equipo": "Lille",
-                "escudo": "https://statics-files.tycsports.com/escudos/1725.png",
+                "nombre": "Lamine Yamal",
+                "equipo": "Barcelona",
+                "escudo": "https://statics-files.tycsports.com/escudos/31.png",
                 "goles": 1
             },
             {
-                "nombre": "Álvaro Mouriño",
-                "equipo": "Villarreal",
-                "escudo": "https://statics-files.tycsports.com/escudos/43.png",
+                "nombre": "Rodrigo Zalazar",
+                "equipo": "Sporting Lisboa",
+                "escudo": "https://statics-files.tycsports.com/escudos/799.png",
                 "goles": 1
             },
             {
-                "nombre": "Ayase Ueda",
-                "equipo": "Lille",
-                "escudo": "https://statics-files.tycsports.com/escudos/1725.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Emiliano Buendía",
-                "equipo": "Aston Villa",
-                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Nicolas Jackson",
-                "equipo": "Aston Villa",
-                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
-                "goles": 1
-            },
-            {
-                "nombre": "Kylian Mbappé",
-                "equipo": "Real Madrid",
-                "escudo": "https://statics-files.tycsports.com/escudos/39.png",
-                "goles": 1
-            },
-            {
-                "nombre": "John McGinn",
-                "equipo": "Aston Villa",
-                "escudo": "https://statics-files.tycsports.com/escudos/559.png",
+                "nombre": "Gabriel Jesús",
+                "equipo": "Barcelona",
+                "escudo": "https://statics-files.tycsports.com/escudos/31.png",
                 "goles": 1
             }
         ]
