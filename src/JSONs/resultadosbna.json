@@ -3673,26 +3673,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "20/07/2026  HS Postergado",
-                "local": "DEF",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/138.png?v=6",
-                "visitante": "AND",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/140.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
-                "fecha": "20/07/2026  HS Postergado",
-                "local": "SMS",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/134.png?v=6",
-                "visitante": "TRI",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/630.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "05/08/2026 15:00 HS Finalizado",
                 "local": "ALM",
                 "goles_local": "0",
@@ -3780,6 +3760,26 @@
                 "visitante": "MID",
                 "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/785.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "09/09/2026 15:30 HS Finalizado",
+                "local": "DEF",
+                "goles_local": "1",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/138.png?v=6",
+                "visitante": "AND",
+                "goles_visita": "1",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/140.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "16/09/2026 15:00 HS",
+                "local": "SMS",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/134.png?v=6",
+                "visitante": "TRI",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/630.png?v=6"
             },
             {
                 "fecha_torneo": null,
@@ -6944,6 +6944,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/140.png?v=6",
+                "equipo": "Los Andes",
+                "puntos": "36",
+                "pj": "28",
+                "pg": "8",
+                "pe": "12",
+                "pp": "8",
+                "gf": 21,
+                "gc": 16,
+                "dg": 5
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png?v=6",
                 "equipo": "San Martín (T)",
                 "puntos": "36",
@@ -6957,7 +6971,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "19",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/663.png?v=6",
                 "equipo": "Estudiantes (BA)",
                 "puntos": "36",
@@ -6968,20 +6982,6 @@
                 "gf": 25,
                 "gc": 25,
                 "dg": 0
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/140.png?v=6",
-                "equipo": "Los Andes",
-                "puntos": "35",
-                "pj": "27",
-                "pg": "8",
-                "pe": "11",
-                "pp": "8",
-                "gf": 20,
-                "gc": 15,
-                "dg": 5
             },
             {
                 "zona": "Posiciones",
@@ -7098,6 +7098,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "29",
+                "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
+                "equipo": "Def. de Belgrano",
+                "puntos": "30",
+                "pj": "28",
+                "pg": "6",
+                "pe": "12",
+                "pp": "10",
+                "gf": 20,
+                "gc": 25,
+                "dg": -5
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "30",
                 "escudo": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
                 "equipo": "Central Norte",
                 "puntos": "30",
@@ -7108,20 +7122,6 @@
                 "gf": 19,
                 "gc": 27,
                 "dg": -8
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "30",
-                "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
-                "equipo": "Def. de Belgrano",
-                "puntos": "29",
-                "pj": "27",
-                "pg": "6",
-                "pe": "11",
-                "pp": "10",
-                "gf": 19,
-                "gc": 24,
-                "dg": -5
             },
             {
                 "zona": "Posiciones",

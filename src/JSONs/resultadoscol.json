@@ -413,12 +413,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "10/09/2026 22:00 HS",
+                "fecha": "10/09/2026 22:00 HS Finalizado",
                 "local": "MIL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/184.png?v=6",
                 "visitante": "CAL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/111.png?v=6"
             },
             {
@@ -2204,6 +2204,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
+                "equipo": "Millonarios",
+                "puntos": "13",
+                "pj": "9",
+                "pg": "3",
+                "pe": "4",
+                "pp": "2",
+                "gf": 10,
+                "gc": 7,
+                "dg": 3
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "equipo": "At. Nacional",
                 "puntos": "12",
@@ -2214,19 +2227,6 @@
                 "gf": 12,
                 "gc": 4,
                 "dg": 8
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
-                "equipo": "Millonarios",
-                "puntos": "12",
-                "pj": "8",
-                "pg": "3",
-                "pe": "3",
-                "pp": "2",
-                "gf": 9,
-                "gc": 6,
-                "dg": 3
             },
             {
                 "posicion": "6",
@@ -2310,13 +2310,13 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
-                "puntos": "8",
-                "pj": "6",
+                "puntos": "9",
+                "pj": "7",
                 "pg": "2",
-                "pe": "2",
+                "pe": "3",
                 "pp": "2",
-                "gf": 8,
-                "gc": 6,
+                "gf": 9,
+                "gc": 7,
                 "dg": 2
             },
             {
