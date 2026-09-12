@@ -1443,22 +1443,22 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "11/09/2026 19:00 HS",
+                "fecha": "11/09/2026 19:00 HS Finalizado",
                 "local": "SAB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
                 "visitante": "AUR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/228.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "11/09/2026 21:00 HS",
+                "fecha": "11/09/2026 21:00 HS Finalizado",
                 "local": "RPO",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "visitante": "ORI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/97.png?v=6"
             },
             {
@@ -1473,7 +1473,7 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "12/09/2026 18:15 HS",
+                "fecha": "12/09/2026 18:30 HS",
                 "local": "STR",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/74.png?v=6",
@@ -1483,7 +1483,7 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "12/09/2026 20:30 HS",
+                "fecha": "12/09/2026 21:00 HS",
                 "local": "BLO",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/229.png?v=6",
@@ -1503,7 +1503,7 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "13/09/2026 18:15 HS",
+                "fecha": "13/09/2026 18:30 HS",
                 "local": "TIN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
@@ -1513,7 +1513,7 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "13/09/2026 20:30 HS",
+                "fecha": "13/09/2026 21:00 HS",
                 "local": "TOM",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
@@ -1533,7 +1533,7 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "15/09/2026 18:15 HS",
+                "fecha": "15/09/2026 18:30 HS",
                 "local": "ABB",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png?v=6",
@@ -1553,7 +1553,7 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "16/09/2026 19:30 HS",
+                "fecha": "16/09/2026 19:00 HS",
                 "local": "NAP",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
@@ -1573,7 +1573,7 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "17/09/2026 19:30 HS",
+                "fecha": "17/09/2026 19:00 HS",
                 "local": "TOM",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
@@ -2444,32 +2444,45 @@
             },
             {
                 "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
-                "equipo": "Oriente Petrolero",
-                "puntos": "27",
-                "pj": "18",
-                "pg": "8",
-                "pe": "3",
-                "pp": "7",
-                "gf": 33,
-                "gc": 25,
-                "dg": 8
+                "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=6",
+                "equipo": "Aurora",
+                "puntos": "30",
+                "pj": "19",
+                "pg": "7",
+                "pe": "9",
+                "pp": "3",
+                "gf": 30,
+                "gc": 24,
+                "dg": 6
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=6",
-                "equipo": "Aurora",
-                "puntos": "27",
-                "pj": "18",
-                "pg": "6",
-                "pe": "9",
-                "pp": "3",
-                "gf": 28,
-                "gc": 24,
-                "dg": 4
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
+                "equipo": "Real Potosí",
+                "puntos": "29",
+                "pj": "19",
+                "pg": "7",
+                "pe": "8",
+                "pp": "4",
+                "gf": 25,
+                "gc": 14,
+                "dg": 11
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
+                "equipo": "Oriente Petrolero",
+                "puntos": "27",
+                "pj": "19",
+                "pg": "8",
+                "pe": "3",
+                "pp": "8",
+                "gf": 34,
+                "gc": 27,
+                "dg": 7
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "26",
@@ -2480,19 +2493,6 @@
                 "gf": 29,
                 "gc": 32,
                 "dg": -3
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
-                "equipo": "Real Potosí",
-                "puntos": "26",
-                "pj": "18",
-                "pg": "6",
-                "pe": "8",
-                "pp": "4",
-                "gf": 23,
-                "gc": 13,
-                "dg": 10
             },
             {
                 "posicion": "8",
@@ -2564,13 +2564,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
                 "equipo": "San Antonio",
                 "puntos": "17",
-                "pj": "18",
+                "pj": "19",
                 "pg": "5",
                 "pe": "2",
-                "pp": "11",
+                "pp": "12",
                 "gf": 18,
-                "gc": 37,
-                "dg": -19
+                "gc": 39,
+                "dg": -21
             },
             {
                 "posicion": "14",

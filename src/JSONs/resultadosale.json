@@ -183,12 +183,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "11/09/2026 15:30 HS",
+                "fecha": "11/09/2026 15:30 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6286.png?v=6",
                 "visitante": "SCH",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/711.png?v=6"
             },
             {
@@ -513,7 +513,7 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "17/10/2026 16:30 HS",
+                "fecha": "17/10/2026 13:30 HS",
                 "local": "BAY",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/617.png?v=6",
@@ -3163,6 +3163,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/711.png?v=6",
+                "equipo": "Schalke 04",
+                "puntos": "4",
+                "pj": "3",
+                "pg": "1",
+                "pe": "1",
+                "pp": "1",
+                "gf": 3,
+                "gc": 4,
+                "dg": -1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png?v=6",
                 "equipo": "Bayer Leverkusen",
                 "puntos": "3",
@@ -3175,7 +3188,7 @@
                 "dg": 3
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/6345.png?v=6",
                 "equipo": "RB Leipzig",
                 "puntos": "3",
@@ -3188,7 +3201,7 @@
                 "dg": 1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/718.png?v=6",
                 "equipo": "Stuttgart",
                 "puntos": "3",
@@ -3201,7 +3214,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/721.png?v=6",
                 "equipo": "Werder Bremen",
                 "puntos": "3",
@@ -3214,7 +3227,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/1258.png?v=6",
                 "equipo": "Colonia",
                 "puntos": "3",
@@ -3227,7 +3240,7 @@
                 "dg": -2
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/5151.png?v=6",
                 "equipo": "SC Paderborn 07",
                 "puntos": "1",
@@ -3240,7 +3253,7 @@
                 "dg": -1
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png?v=6",
                 "equipo": "E. Frankfurt",
                 "puntos": "1",
@@ -3253,30 +3266,17 @@
                 "dg": -3
             },
             {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/711.png?v=6",
-                "equipo": "Schalke 04",
-                "puntos": "1",
-                "pj": "2",
-                "pg": "0",
-                "pe": "1",
-                "pp": "1",
-                "gf": 0,
-                "gc": 3,
-                "dg": -3
-            },
-            {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/6286.png?v=6",
                 "equipo": "Unión Berlín",
                 "puntos": "1",
-                "pj": "2",
+                "pj": "3",
                 "pg": "0",
                 "pe": "1",
-                "pp": "1",
-                "gf": 3,
-                "gc": 7,
-                "dg": -4
+                "pp": "2",
+                "gf": 4,
+                "gc": 10,
+                "dg": -6
             },
             {
                 "posicion": "16",
@@ -3380,9 +3380,9 @@
                 "goles": 2
             },
             {
-                "nombre": "Phillip Tietz",
-                "equipo": "Mainz",
-                "escudo": "https://statics-files.tycsports.com/escudos/1718.png",
+                "nombre": "Tim Skarke",
+                "equipo": "Unión Berlín",
+                "escudo": "https://statics-files.tycsports.com/escudos/6286.png",
                 "goles": 2
             }
         ]

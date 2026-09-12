@@ -423,7 +423,7 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "12/09/2026 19:30 HS",
+                "fecha": "12/09/2026 20:00 HS",
                 "local": "CLA",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/958.png?v=6",
@@ -453,23 +453,23 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "13/09/2026 16:30 HS",
-                "local": "PEÑ",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/98.png?v=6",
-                "visitante": "ALB",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/7557.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 6",
-                "fecha": "13/09/2026 19:30 HS",
+                "fecha": "13/09/2026 16:00 HS",
                 "local": "DEF",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/110.png?v=6",
                 "visitante": "MAL",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/959.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 6",
+                "fecha": "13/09/2026 19:30 HS",
+                "local": "PEÑ",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/98.png?v=6",
+                "visitante": "ALB",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/7557.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
@@ -1296,19 +1296,6 @@
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
-                "equipo": "Peñarol",
-                "puntos": "7",
-                "pj": "4",
-                "pg": "2",
-                "pe": "1",
-                "pp": "1",
-                "gf": 6,
-                "gc": 2,
-                "dg": 4
-            },
-            {
-                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
                 "equipo": "Nacional",
                 "puntos": "7",
@@ -1321,7 +1308,7 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
                 "equipo": "Wanderers",
                 "puntos": "7",
@@ -1332,6 +1319,19 @@
                 "gf": 6,
                 "gc": 8,
                 "dg": -2
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
+                "equipo": "Peñarol",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 6,
+                "gc": 2,
+                "dg": 4
             },
             {
                 "posicion": "11",

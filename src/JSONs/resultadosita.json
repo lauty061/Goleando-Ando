@@ -303,12 +303,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "11/09/2026 15:45 HS",
+                "fecha": "11/09/2026 15:45 HS Finalizado",
                 "local": "VEN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7232.png?v=6",
                 "visitante": "FIO",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/50.png?v=6"
             },
             {
@@ -363,7 +363,7 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "13/09/2026 13:00 HS",
+                "fecha": "13/09/2026 15:45 HS",
                 "local": "SAS",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2192.png?v=6",
@@ -3987,6 +3987,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
+                "equipo": "Fiorentina",
+                "puntos": "3",
+                "pj": "4",
+                "pg": "1",
+                "pe": "0",
+                "pp": "3",
+                "gf": 5,
+                "gc": 11,
+                "dg": -6
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png?v=6",
                 "equipo": "Bologna",
                 "puntos": "1",
@@ -3999,7 +4012,7 @@
                 "dg": -2
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
                 "equipo": "Parma",
                 "puntos": "1",
@@ -4012,7 +4025,7 @@
                 "dg": -3
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
                 "equipo": "Monza",
                 "puntos": "1",
@@ -4023,19 +4036,6 @@
                 "gf": 4,
                 "gc": 8,
                 "dg": -4
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/7232.png?v=6",
-                "equipo": "Venezia",
-                "puntos": "0",
-                "pj": "3",
-                "pg": "0",
-                "pe": "0",
-                "pp": "3",
-                "gf": 2,
-                "gc": 7,
-                "dg": -5
             },
             {
                 "posicion": "19",
@@ -4052,16 +4052,16 @@
             },
             {
                 "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
-                "equipo": "Fiorentina",
+                "escudo": "https://statics-files.tycsports.com/escudos/7232.png?v=6",
+                "equipo": "Venezia",
                 "puntos": "0",
-                "pj": "3",
+                "pj": "4",
                 "pg": "0",
                 "pe": "0",
-                "pp": "3",
-                "gf": 1,
-                "gc": 9,
-                "dg": -8
+                "pp": "4",
+                "gf": 4,
+                "gc": 11,
+                "dg": -7
             }
         ],
         "goleadores": [
@@ -4076,6 +4076,12 @@
                 "equipo": "Frosinone",
                 "escudo": "https://statics-files.tycsports.com/escudos/5402.png",
                 "goles": 4
+            },
+            {
+                "nombre": "Franco Mastantuono",
+                "equipo": "Fiorentina",
+                "escudo": "https://statics-files.tycsports.com/escudos/50.png",
+                "goles": 3
             },
             {
                 "nombre": "Davide Frattesi",
@@ -4123,12 +4129,6 @@
                 "nombre": "Anastasios Douvikas",
                 "equipo": "Como 1907",
                 "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Rasmus Hojlund",
-                "equipo": "Napoli",
-                "escudo": "https://statics-files.tycsports.com/escudos/726.png",
                 "goles": 2
             }
         ]

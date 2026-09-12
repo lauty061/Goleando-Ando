@@ -273,12 +273,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "11/09/2026 15:45 HS",
+                "fecha": "11/09/2026 15:45 HS Finalizado",
                 "local": "REN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
                 "visitante": "MAR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/793.png?v=6"
             },
             {
@@ -3065,6 +3065,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
+                "equipo": "Stade Rennes",
+                "puntos": "10",
+                "pj": "4",
+                "pg": "3",
+                "pe": "1",
+                "pp": "0",
+                "gf": 8,
+                "gc": 5,
+                "dg": 3
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1727.png?v=6",
                 "equipo": "Mónaco",
                 "puntos": "9",
@@ -3077,7 +3090,7 @@
                 "dg": 4
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/4360.png?v=6",
                 "equipo": "Paris FC",
                 "puntos": "7",
@@ -3090,7 +3103,7 @@
                 "dg": 4
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/794.png?v=6",
                 "equipo": "Olympique Lyon",
                 "puntos": "7",
@@ -3103,7 +3116,7 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
                 "equipo": "Lille",
                 "puntos": "7",
@@ -3114,19 +3127,6 @@
                 "gf": 5,
                 "gc": 2,
                 "dg": 3
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
-                "equipo": "Stade Rennes",
-                "puntos": "7",
-                "pj": "3",
-                "pg": "2",
-                "pe": "1",
-                "pp": "0",
-                "gf": 7,
-                "gc": 5,
-                "dg": 2
             },
             {
                 "posicion": "6",
@@ -3198,13 +3198,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/793.png?v=6",
                 "equipo": "O. Marsella",
                 "puntos": "3",
-                "pj": "3",
+                "pj": "4",
                 "pg": "1",
                 "pe": "0",
-                "pp": "2",
+                "pp": "3",
                 "gf": 6,
-                "gc": 5,
-                "dg": 1
+                "gc": 6,
+                "dg": 0
             },
             {
                 "posicion": "12",

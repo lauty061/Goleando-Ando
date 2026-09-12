@@ -5043,12 +5043,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "11/09/2026 22:00 HS",
+                "fecha": "11/09/2026 22:00 HS Finalizado",
                 "local": "GYT",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/865.png?v=6",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/630.png?v=6"
             },
             {
@@ -6736,10 +6736,10 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/630.png?v=6",
                 "equipo": "Tristán Suárez",
-                "puntos": "51",
-                "pj": "27",
+                "puntos": "52",
+                "pj": "28",
                 "pg": "14",
-                "pe": "9",
+                "pe": "10",
                 "pp": "4",
                 "gf": 31,
                 "gc": 15,
@@ -6832,6 +6832,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
+                "equipo": "Gimnasia y Tiro",
+                "puntos": "45",
+                "pj": "29",
+                "pg": "12",
+                "pe": "9",
+                "pp": "8",
+                "gf": 31,
+                "gc": 26,
+                "dg": 5
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/670.png?v=6",
                 "equipo": "Atlanta",
                 "puntos": "45",
@@ -6842,20 +6856,6 @@
                 "gf": 32,
                 "gc": 28,
                 "dg": 4
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
-                "equipo": "Gimnasia y Tiro",
-                "puntos": "44",
-                "pj": "28",
-                "pg": "12",
-                "pe": "8",
-                "pp": "8",
-                "gf": 31,
-                "gc": 26,
-                "dg": 5
             },
             {
                 "zona": "Posiciones",

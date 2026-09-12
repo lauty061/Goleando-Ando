@@ -1203,32 +1203,32 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "11/09/2026 17:00 HS",
+                "fecha": "11/09/2026 17:00 HS Finalizado",
                 "local": "NOB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/13.png?v=6",
                 "visitante": "VEL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/20.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "11/09/2026 19:15 HS",
+                "fecha": "11/09/2026 19:15 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/129.png?v=6",
                 "visitante": "GEM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/816.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "11/09/2026 21:30 HS",
+                "fecha": "11/09/2026 21:30 HS Finalizado",
                 "local": "BOC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5.png?v=6",
                 "visitante": "CCO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1485.png?v=6"
             },
             {
@@ -2556,34 +2556,48 @@
             {
                 "zona": "Grupo A",
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/816.png?v=6",
-                "equipo": "Gimnasia (M)",
-                "puntos": "16",
-                "pj": "8",
-                "pg": "5",
-                "pe": "1",
-                "pp": "2",
-                "gf": 14,
-                "gc": 7,
-                "dg": 7
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/20.png?v=6",
                 "equipo": "Vélez",
-                "puntos": "16",
-                "pj": "8",
+                "puntos": "17",
+                "pj": "9",
                 "pg": "4",
-                "pe": "4",
+                "pe": "5",
                 "pp": "0",
-                "gf": 11,
-                "gc": 6,
+                "gf": 12,
+                "gc": 7,
                 "dg": 5
             },
             {
                 "zona": "Grupo A",
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/129.png?v=6",
+                "equipo": "Defensa",
+                "puntos": "17",
+                "pj": "9",
+                "pg": "5",
+                "pe": "2",
+                "pp": "2",
+                "gf": 11,
+                "gc": 9,
+                "dg": 2
+            },
+            {
+                "zona": "Grupo A",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/816.png?v=6",
+                "equipo": "Gimnasia (M)",
+                "puntos": "16",
+                "pj": "9",
+                "pg": "5",
+                "pe": "1",
+                "pp": "3",
+                "gf": 14,
+                "gc": 9,
+                "dg": 5
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/11.png?v=6",
                 "equipo": "Instituto",
                 "puntos": "16",
@@ -2597,21 +2611,21 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/129.png?v=6",
-                "equipo": "Defensa",
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/5.png?v=6",
+                "equipo": "Boca Juniors",
                 "puntos": "14",
-                "pj": "8",
-                "pg": "4",
-                "pe": "2",
-                "pp": "2",
-                "gf": 9,
-                "gc": 9,
-                "dg": 0
+                "pj": "9",
+                "pg": "3",
+                "pe": "5",
+                "pp": "1",
+                "gf": 12,
+                "gc": 11,
+                "dg": 1
             },
             {
                 "zona": "Grupo A",
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/137.png?v=6",
                 "equipo": "Unión",
                 "puntos": "13",
@@ -2625,7 +2639,21 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "6",
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
+                "equipo": "Newell`s",
+                "puntos": "13",
+                "pj": "9",
+                "pg": "3",
+                "pe": "4",
+                "pp": "2",
+                "gf": 10,
+                "gc": 8,
+                "dg": 2
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/10.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "13",
@@ -2636,34 +2664,6 @@
                 "gf": 7,
                 "gc": 6,
                 "dg": 1
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
-                "equipo": "Newell`s",
-                "puntos": "12",
-                "pj": "8",
-                "pg": "3",
-                "pe": "3",
-                "pp": "2",
-                "gf": 9,
-                "gc": 7,
-                "dg": 2
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/5.png?v=6",
-                "equipo": "Boca Juniors",
-                "puntos": "11",
-                "pj": "8",
-                "pg": "2",
-                "pe": "5",
-                "pp": "1",
-                "gf": 9,
-                "gc": 10,
-                "dg": -1
             },
             {
                 "zona": "Grupo A",
@@ -2741,13 +2741,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1485.png?v=6",
                 "equipo": "C.Córdoba (SE)",
                 "puntos": "7",
-                "pj": "8",
+                "pj": "9",
                 "pg": "2",
                 "pe": "1",
-                "pp": "5",
-                "gf": 4,
-                "gc": 8,
-                "dg": -4
+                "pp": "6",
+                "gf": 5,
+                "gc": 11,
+                "dg": -6
             },
             {
                 "zona": "Grupo A",
@@ -3024,6 +3024,12 @@
                 "goles": 4
             },
             {
+                "nombre": "David Barbona",
+                "equipo": "Defensa y Justicia",
+                "escudo": "https://statics-files.tycsports.com/escudos/129.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Diego Valdés",
                 "equipo": "Vélez",
                 "escudo": "https://statics-files.tycsports.com/escudos/20.png",
@@ -3033,12 +3039,6 @@
                 "nombre": "Gastón Verón",
                 "equipo": "Argentinos Juniors",
                 "escudo": "https://statics-files.tycsports.com/escudos/2.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Santiago Ascacíbar",
-                "equipo": "Boca Juniors",
-                "escudo": "https://statics-files.tycsports.com/escudos/5.png",
                 "goles": 3
             }
         ]

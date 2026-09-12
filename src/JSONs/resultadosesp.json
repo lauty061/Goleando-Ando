@@ -403,12 +403,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "11/09/2026 16:00 HS",
+                "fecha": "11/09/2026 16:00 HS Finalizado",
                 "local": "SEV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/41.png?v=6",
                 "visitante": "VAL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/42.png?v=6"
             },
             {
@@ -3831,6 +3831,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/41.png?v=6",
+                "equipo": "Sevilla",
+                "puntos": "10",
+                "pj": "5",
+                "pg": "3",
+                "pe": "1",
+                "pp": "1",
+                "gf": 8,
+                "gc": 6,
+                "dg": 2
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/39.png?v=6",
                 "equipo": "Real Madrid",
                 "puntos": "9",
@@ -3843,7 +3856,7 @@
                 "dg": 7
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/32.png?v=6",
                 "equipo": "Betis",
                 "puntos": "9",
@@ -3856,7 +3869,7 @@
                 "dg": 0
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/33.png?v=6",
                 "equipo": "Deportivo",
                 "puntos": "8",
@@ -3869,22 +3882,9 @@
                 "dg": 3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/29.png?v=6",
                 "equipo": "Atl. Madrid",
-                "puntos": "7",
-                "pj": "4",
-                "pg": "2",
-                "pe": "1",
-                "pp": "1",
-                "gf": 7,
-                "gc": 6,
-                "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/41.png?v=6",
-                "equipo": "Sevilla",
                 "puntos": "7",
                 "pj": "4",
                 "pg": "2",
@@ -4055,13 +4055,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/42.png?v=6",
                 "equipo": "Valencia",
                 "puntos": "1",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "1",
-                "pp": "3",
+                "pp": "4",
                 "gf": 1,
-                "gc": 9,
-                "dg": -8
+                "gc": 10,
+                "dg": -9
             }
         ],
         "goleadores": [
