@@ -303,72 +303,72 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "12/09/2026 11:00 HS",
+                "fecha": "12/09/2026 11:00 HS Finalizado",
                 "local": "BOU",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5376.png?v=6",
                 "visitante": "BRE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5377.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "12/09/2026 11:00 HS",
+                "fecha": "12/09/2026 11:00 HS Finalizado",
                 "local": "ASV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/559.png?v=6",
                 "visitante": "NTF",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3295.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "12/09/2026 11:00 HS",
+                "fecha": "12/09/2026 11:00 HS Finalizado",
                 "local": "CHE",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/563.png?v=6",
                 "visitante": "HUL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1261.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "12/09/2026 11:00 HS",
+                "fecha": "12/09/2026 11:00 HS Finalizado",
                 "local": "CRY",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2183.png?v=6",
                 "visitante": "IPS",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2252.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "12/09/2026 11:00 HS",
+                "fecha": "12/09/2026 11:00 HS Finalizado",
                 "local": "LIV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/566.png?v=6",
                 "visitante": "FUL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/565.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "12/09/2026 13:30 HS",
+                "fecha": "12/09/2026 13:30 HS Finalizado",
                 "local": "TOT",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/574.png?v=6",
                 "visitante": "EVE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/564.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "12/09/2026 16:00 HS",
+                "fecha": "12/09/2026 16:00 HS Finalizado",
                 "local": "SUN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/704.png?v=6",
                 "visitante": "ASL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/558.png?v=6"
             },
             {
@@ -3805,6 +3805,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/558.png?v=6",
+                "equipo": "Arsenal",
+                "puntos": "12",
+                "pj": "4",
+                "pg": "4",
+                "pe": "0",
+                "pp": "0",
+                "gf": 8,
+                "gc": 1,
+                "dg": 7
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png?v=6",
                 "equipo": "Manchester City",
                 "puntos": "9",
@@ -3817,51 +3830,12 @@
                 "dg": 5
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/558.png?v=6",
-                "equipo": "Arsenal",
-                "puntos": "9",
-                "pj": "3",
-                "pg": "3",
-                "pe": "0",
-                "pp": "0",
-                "gf": 6,
-                "gc": 1,
-                "dg": 5
-            },
-            {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/1261.png?v=6",
                 "equipo": "Hull City",
-                "puntos": "7",
-                "pj": "3",
+                "puntos": "8",
+                "pj": "4",
                 "pg": "2",
-                "pe": "1",
-                "pp": "0",
-                "gf": 3,
-                "gc": 0,
-                "dg": 3
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/563.png?v=6",
-                "equipo": "Chelsea",
-                "puntos": "6",
-                "pj": "3",
-                "pg": "2",
-                "pe": "0",
-                "pp": "1",
-                "gf": 8,
-                "gc": 7,
-                "dg": 1
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
-                "equipo": "Brentford",
-                "puntos": "5",
-                "pj": "3",
-                "pg": "1",
                 "pe": "2",
                 "pp": "0",
                 "gf": 5,
@@ -3869,13 +3843,39 @@
                 "dg": 3
             },
             {
+                "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png?v=6",
+                "equipo": "Chelsea",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 10,
+                "gc": 9,
+                "dg": 1
+            },
+            {
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
+                "equipo": "Brentford",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "1",
+                "pe": "3",
+                "pp": "0",
+                "gf": 7,
+                "gc": 4,
+                "dg": 3
+            },
+            {
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png?v=6",
                 "equipo": "Liverpool",
-                "puntos": "5",
-                "pj": "3",
+                "puntos": "6",
+                "pj": "4",
                 "pg": "1",
-                "pe": "2",
+                "pe": "3",
                 "pp": "0",
                 "gf": 6,
                 "gc": 4,
@@ -3883,6 +3883,32 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
+                "equipo": "Everton",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "1",
+                "pe": "3",
+                "pp": "0",
+                "gf": 5,
+                "gc": 3,
+                "dg": 2
+            },
+            {
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
+                "equipo": "Ipswich Town",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "2",
+                "pe": "0",
+                "pp": "2",
+                "gf": 7,
+                "gc": 10,
+                "dg": -3
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png?v=6",
                 "equipo": "Newcastle United",
                 "puntos": "5",
@@ -3895,20 +3921,7 @@
                 "dg": 2
             },
             {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
-                "equipo": "Everton",
-                "puntos": "5",
-                "pj": "3",
-                "pg": "1",
-                "pe": "2",
-                "pp": "0",
-                "gf": 5,
-                "gc": 3,
-                "dg": 2
-            },
-            {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png?v=6",
                 "equipo": "Leeds United",
                 "puntos": "5",
@@ -3921,7 +3934,20 @@
                 "dg": 1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
+                "equipo": "Nottingham Forest",
+                "puntos": "5",
+                "pj": "4",
+                "pg": "1",
+                "pe": "2",
+                "pp": "1",
+                "gf": 4,
+                "gc": 4,
+                "dg": 0
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/4713.png?v=6",
                 "equipo": "Brighton and Hove",
                 "puntos": "4",
@@ -3934,7 +3960,7 @@
                 "dg": 3
             },
             {
-                "posicion": "11",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/568.png?v=6",
                 "equipo": "Manchester United",
                 "puntos": "4",
@@ -3947,78 +3973,52 @@
                 "dg": 1
             },
             {
-                "posicion": "12",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/704.png?v=6",
                 "equipo": "Sunderland",
                 "puntos": "4",
-                "pj": "3",
+                "pj": "4",
                 "pg": "1",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 3,
-                "gc": 3,
-                "dg": 0
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/2183.png?v=6",
-                "equipo": "Crystal Palace",
-                "puntos": "3",
-                "pj": "3",
-                "pg": "1",
-                "pe": "0",
-                "pp": "2",
-                "gf": 4,
-                "gc": 8,
-                "dg": -4
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
-                "equipo": "Ipswich Town",
-                "puntos": "3",
-                "pj": "3",
-                "pg": "1",
-                "pe": "0",
-                "pp": "2",
-                "gf": 4,
-                "gc": 8,
-                "dg": -4
+                "gc": 5,
+                "dg": -2
             },
             {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png?v=6",
                 "equipo": "Bournemouth",
-                "puntos": "2",
-                "pj": "3",
+                "puntos": "3",
+                "pj": "4",
                 "pg": "0",
-                "pe": "2",
+                "pe": "3",
                 "pp": "1",
-                "gf": 4,
-                "gc": 5,
+                "gf": 6,
+                "gc": 7,
                 "dg": -1
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
-                "equipo": "Nottingham Forest",
-                "puntos": "2",
-                "pj": "3",
-                "pg": "0",
-                "pe": "2",
-                "pp": "1",
-                "gf": 2,
-                "gc": 3,
-                "dg": -1
+                "escudo": "https://statics-files.tycsports.com/escudos/2183.png?v=6",
+                "equipo": "Crystal Palace",
+                "puntos": "3",
+                "pj": "4",
+                "pg": "1",
+                "pe": "0",
+                "pp": "3",
+                "gf": 6,
+                "gc": 11,
+                "dg": -5
             },
             {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/559.png?v=6",
-                "equipo": "Aston Villa",
-                "puntos": "1",
-                "pj": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/574.png?v=6",
+                "equipo": "Tottenham",
+                "puntos": "2",
+                "pj": "4",
                 "pg": "0",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
                 "gf": 0,
                 "gc": 5,
@@ -4026,29 +4026,29 @@
             },
             {
                 "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/574.png?v=6",
-                "equipo": "Tottenham",
-                "puntos": "1",
-                "pj": "3",
-                "pg": "0",
-                "pe": "1",
-                "pp": "2",
-                "gf": 0,
-                "gc": 5,
-                "dg": -5
-            },
-            {
-                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/565.png?v=6",
                 "equipo": "Fulham",
-                "puntos": "0",
-                "pj": "3",
+                "puntos": "1",
+                "pj": "4",
                 "pg": "0",
-                "pe": "0",
+                "pe": "1",
                 "pp": "3",
                 "gf": 4,
                 "gc": 7,
                 "dg": -3
+            },
+            {
+                "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/559.png?v=6",
+                "equipo": "Aston Villa",
+                "puntos": "1",
+                "pj": "4",
+                "pg": "0",
+                "pe": "1",
+                "pp": "3",
+                "gf": 1,
+                "gc": 7,
+                "dg": -6
             },
             {
                 "posicion": "20",
@@ -4072,9 +4072,33 @@
                 "goles": 3
             },
             {
+                "nombre": "Kevin Schade",
+                "equipo": "Brentford",
+                "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Alexander Isak",
                 "equipo": "Liverpool",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Junqueira de Jesus, J.",
+                "equipo": "Chelsea",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Morgan Rogers",
+                "equipo": "Chelsea",
+                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Marcus Tavernier",
+                "equipo": "Bournemouth",
+                "escudo": "https://statics-files.tycsports.com/escudos/5376.png",
                 "goles": 3
             },
             {
@@ -4084,51 +4108,27 @@
                 "goles": 3
             },
             {
+                "nombre": "Bukayo Saka",
+                "equipo": "Arsenal",
+                "escudo": "https://statics-files.tycsports.com/escudos/558.png",
+                "goles": 3
+            },
+            {
+                "nombre": "Correia da Silva, E.",
+                "equipo": "Ipswich Town",
+                "escudo": "https://statics-files.tycsports.com/escudos/2252.png",
+                "goles": 2
+            },
+            {
+                "nombre": "Leif Davis",
+                "equipo": "Ipswich Town",
+                "escudo": "https://statics-files.tycsports.com/escudos/2252.png",
+                "goles": 2
+            },
+            {
                 "nombre": "Jack Hinshelwood",
                 "equipo": "Brighton and Hove",
                 "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Rayan Cherki",
-                "equipo": "Manchester City",
-                "escudo": "https://statics-files.tycsports.com/escudos/567.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Anthony Elanga",
-                "equipo": "Newcastle United",
-                "escudo": "https://statics-files.tycsports.com/escudos/570.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Kai Havertz",
-                "equipo": "Arsenal",
-                "escudo": "https://statics-files.tycsports.com/escudos/558.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Vitaly Janelt",
-                "equipo": "Brentford",
-                "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Junqueira de Jesus, J.",
-                "equipo": "Chelsea",
-                "escudo": "https://statics-files.tycsports.com/escudos/563.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Joshua King",
-                "equipo": "Fulham",
-                "escudo": "https://statics-files.tycsports.com/escudos/565.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Bryan Mbeumo",
-                "equipo": "Manchester United",
-                "escudo": "https://statics-files.tycsports.com/escudos/568.png",
                 "goles": 2
             }
         ]

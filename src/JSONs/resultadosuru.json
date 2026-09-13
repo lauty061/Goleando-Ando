@@ -403,32 +403,32 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "12/09/2026 13:00 HS",
+                "fecha": "12/09/2026 13:00 HS Finalizado",
                 "local": "RCM",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/964.png?v=6",
                 "visitante": "BOR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/957.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "12/09/2026 16:30 HS",
+                "fecha": "12/09/2026 16:30 HS Finalizado",
                 "local": "WAN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/200.png?v=6",
                 "visitante": "NAC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/83.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "12/09/2026 20:00 HS",
+                "fecha": "12/09/2026 20:00 HS Finalizado",
                 "local": "CLA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/958.png?v=6",
                 "visitante": "CEN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/273.png?v=6"
             },
             {
@@ -1231,6 +1231,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/964.png?v=6",
+                "equipo": "Racing (U)",
+                "puntos": "11",
+                "pj": "6",
+                "pg": "3",
+                "pe": "2",
+                "pp": "1",
+                "gf": 8,
+                "gc": 5,
+                "dg": 3
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
                 "equipo": "Cerro",
                 "puntos": "10",
@@ -1243,7 +1256,7 @@
                 "dg": -1
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
                 "equipo": "Juventud",
                 "puntos": "8",
@@ -1256,7 +1269,7 @@
                 "dg": 2
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
                 "equipo": "Maldonado",
                 "puntos": "8",
@@ -1269,55 +1282,42 @@
                 "dg": 2
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/964.png?v=6",
-                "equipo": "Racing (U)",
-                "puntos": "8",
-                "pj": "5",
-                "pg": "2",
-                "pe": "2",
-                "pp": "1",
-                "gf": 5,
-                "gc": 3,
-                "dg": 2
-            },
-            {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/957.png?v=6",
                 "equipo": "Boston River",
                 "puntos": "8",
-                "pj": "5",
+                "pj": "6",
                 "pg": "2",
                 "pe": "2",
-                "pp": "1",
-                "gf": 6,
-                "gc": 5,
-                "dg": 1
+                "pp": "2",
+                "gf": 8,
+                "gc": 8,
+                "dg": 0
             },
             {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
                 "equipo": "Nacional",
-                "puntos": "7",
-                "pj": "5",
+                "puntos": "8",
+                "pj": "6",
                 "pg": "2",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 5,
-                "gc": 6,
+                "gf": 6,
+                "gc": 7,
                 "dg": -1
             },
             {
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
                 "equipo": "Wanderers",
-                "puntos": "7",
-                "pj": "5",
+                "puntos": "8",
+                "pj": "6",
                 "pg": "2",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 6,
-                "gc": 8,
+                "gf": 7,
+                "gc": 9,
                 "dg": -2
             },
             {

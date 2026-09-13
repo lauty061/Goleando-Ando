@@ -563,22 +563,22 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "12/09/2026 16:00 HS",
+                "fecha": "12/09/2026 16:00 HS Finalizado",
                 "local": "GUA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "12/09/2026 18:30 HS",
+                "fecha": "12/09/2026 18:30 HS Finalizado",
                 "local": "REC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png?v=6"
             },
             {
@@ -1351,6 +1351,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
+                "equipo": "Trinidense",
+                "puntos": "17",
+                "pj": "10",
+                "pg": "5",
+                "pe": "2",
+                "pp": "3",
+                "gf": 18,
+                "gc": 9,
+                "dg": 9
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
                 "equipo": "Olimpia",
                 "puntos": "16",
@@ -1363,7 +1376,7 @@
                 "dg": 5
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
                 "puntos": "16",
@@ -1376,7 +1389,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "equipo": "Nacional (P)",
                 "puntos": "15",
@@ -1389,42 +1402,29 @@
                 "dg": 8
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
-                "equipo": "Trinidense",
-                "puntos": "14",
-                "pj": "9",
-                "pg": "4",
-                "pe": "2",
-                "pp": "3",
-                "gf": 15,
-                "gc": 8,
-                "dg": 7
-            },
-            {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "equipo": "Cerro Porteño",
-                "puntos": "13",
-                "pj": "9",
+                "puntos": "14",
+                "pj": "10",
                 "pg": "4",
-                "pe": "1",
+                "pe": "2",
                 "pp": "4",
-                "gf": 12,
-                "gc": 9,
+                "gf": 13,
+                "gc": 10,
                 "dg": 3
             },
             {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
-                "puntos": "13",
-                "pj": "9",
+                "puntos": "14",
+                "pj": "10",
                 "pg": "3",
-                "pe": "4",
+                "pe": "5",
                 "pp": "2",
-                "gf": 10,
-                "gc": 8,
+                "gf": 11,
+                "gc": 9,
                 "dg": 2
             },
             {
@@ -1458,13 +1458,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "equipo": "D. Recoleta",
                 "puntos": "7",
-                "pj": "9",
+                "pj": "10",
                 "pg": "2",
                 "pe": "1",
-                "pp": "6",
-                "gf": 12,
-                "gc": 20,
-                "dg": -8
+                "pp": "7",
+                "gf": 13,
+                "gc": 23,
+                "dg": -10
             },
             {
                 "posicion": "12",
