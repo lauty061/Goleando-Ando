@@ -1493,32 +1493,32 @@
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "13/09/2026 16:00 HS",
+                "fecha": "13/09/2026 16:00 HS Finalizado",
                 "local": "ALW",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "visitante": "CDG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "13/09/2026 18:30 HS",
+                "fecha": "13/09/2026 18:30 HS Finalizado",
                 "local": "TIN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "visitante": "IPE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3319.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 19",
-                "fecha": "13/09/2026 21:00 HS",
+                "fecha": "13/09/2026 21:00 HS Finalizado",
                 "local": "TOM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
                 "visitante": "BOL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/70.png?v=6"
             },
             {
@@ -2407,27 +2407,27 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "equipo": "Bolívar",
-                "puntos": "39",
-                "pj": "18",
-                "pg": "12",
+                "puntos": "42",
+                "pj": "19",
+                "pg": "13",
                 "pe": "3",
                 "pp": "3",
-                "gf": 48,
-                "gc": 19,
-                "dg": 29
+                "gf": 50,
+                "gc": 20,
+                "dg": 30
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "equipo": "Always Ready",
-                "puntos": "39",
-                "pj": "18",
-                "pg": "11",
+                "puntos": "42",
+                "pj": "19",
+                "pg": "12",
                 "pe": "6",
                 "pp": "1",
-                "gf": 37,
+                "gf": 43,
                 "gc": 13,
-                "dg": 24
+                "dg": 30
             },
             {
                 "posicion": "3",
@@ -2499,13 +2499,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "26",
-                "pj": "18",
+                "pj": "19",
                 "pg": "7",
                 "pe": "5",
-                "pp": "6",
+                "pp": "7",
                 "gf": 29,
-                "gc": 32,
-                "dg": -3
+                "gc": 38,
+                "dg": -9
             },
             {
                 "posicion": "9",
@@ -2525,13 +2525,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "25",
-                "pj": "18",
+                "pj": "19",
                 "pg": "7",
                 "pe": "4",
-                "pp": "7",
-                "gf": 25,
-                "gc": 29,
-                "dg": -4
+                "pp": "8",
+                "gf": 26,
+                "gc": 32,
+                "dg": -6
             },
             {
                 "posicion": "11",
@@ -2561,6 +2561,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
+                "equipo": "U. de Vinto",
+                "puntos": "17",
+                "pj": "19",
+                "pg": "5",
+                "pe": "2",
+                "pp": "12",
+                "gf": 25,
+                "gc": 38,
+                "dg": -13
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
                 "equipo": "San Antonio",
                 "puntos": "17",
@@ -2573,30 +2586,17 @@
                 "dg": -21
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
                 "equipo": "Real Tomayapo",
                 "puntos": "16",
-                "pj": "18",
+                "pj": "19",
                 "pg": "4",
                 "pe": "4",
-                "pp": "10",
-                "gf": 14,
-                "gc": 35,
-                "dg": -21
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
-                "equipo": "U. de Vinto",
-                "puntos": "14",
-                "pj": "18",
-                "pg": "4",
-                "pe": "2",
-                "pp": "12",
-                "gf": 22,
+                "pp": "11",
+                "gf": 15,
                 "gc": 37,
-                "dg": -15
+                "dg": -22
             },
             {
                 "posicion": "16",
@@ -2620,6 +2620,12 @@
                 "goles": 13
             },
             {
+                "nombre": "Enrique Triverio",
+                "equipo": "Always Ready",
+                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Martín Cauteruccio",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
@@ -2636,12 +2642,6 @@
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "goles": 10
-            },
-            {
-                "nombre": "Enrique Triverio",
-                "equipo": "Always Ready",
-                "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
-                "goles": 9
             },
             {
                 "nombre": "José Flores",

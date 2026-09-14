@@ -373,22 +373,22 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "13/09/2026 10:00 HS",
+                "fecha": "13/09/2026 10:00 HS Finalizado",
                 "local": "COV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7584.png?v=6",
                 "visitante": "BHA",
-                "goles_visita": "-",
+                "goles_visita": "5",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4713.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "13/09/2026 12:30 HS",
+                "fecha": "13/09/2026 12:30 HS Finalizado",
                 "local": "MAN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/568.png?v=6",
                 "visitante": "MCI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/567.png?v=6"
             },
             {
@@ -3820,14 +3820,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png?v=6",
                 "equipo": "Manchester City",
-                "puntos": "9",
-                "pj": "3",
-                "pg": "3",
+                "puntos": "12",
+                "pj": "4",
+                "pg": "4",
                 "pe": "0",
                 "pp": "0",
-                "gf": 7,
+                "gf": 8,
                 "gc": 2,
-                "dg": 5
+                "dg": 6
             },
             {
                 "posicion": "3",
@@ -3844,6 +3844,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/4713.png?v=6",
+                "equipo": "Brighton and Hove",
+                "puntos": "7",
+                "pj": "4",
+                "pg": "2",
+                "pe": "1",
+                "pp": "1",
+                "gf": 13,
+                "gc": 5,
+                "dg": 8
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/563.png?v=6",
                 "equipo": "Chelsea",
                 "puntos": "7",
@@ -3856,7 +3869,7 @@
                 "dg": 1
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
                 "equipo": "Brentford",
                 "puntos": "6",
@@ -3869,7 +3882,7 @@
                 "dg": 3
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png?v=6",
                 "equipo": "Liverpool",
                 "puntos": "6",
@@ -3882,7 +3895,7 @@
                 "dg": 2
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
                 "equipo": "Everton",
                 "puntos": "6",
@@ -3895,7 +3908,7 @@
                 "dg": 2
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
                 "equipo": "Ipswich Town",
                 "puntos": "6",
@@ -3908,7 +3921,7 @@
                 "dg": -3
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png?v=6",
                 "equipo": "Newcastle United",
                 "puntos": "5",
@@ -3921,7 +3934,7 @@
                 "dg": 2
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png?v=6",
                 "equipo": "Leeds United",
                 "puntos": "5",
@@ -3934,7 +3947,7 @@
                 "dg": 1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
                 "equipo": "Nottingham Forest",
                 "puntos": "5",
@@ -3947,30 +3960,17 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/4713.png?v=6",
-                "equipo": "Brighton and Hove",
-                "puntos": "4",
-                "pj": "3",
-                "pg": "1",
-                "pe": "1",
-                "pp": "1",
-                "gf": 8,
-                "gc": 5,
-                "dg": 3
-            },
-            {
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/568.png?v=6",
                 "equipo": "Manchester United",
                 "puntos": "4",
-                "pj": "3",
+                "pj": "4",
                 "pg": "1",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 7,
-                "gc": 6,
-                "dg": 1
+                "gc": 7,
+                "dg": 0
             },
             {
                 "posicion": "14",
@@ -4055,13 +4055,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7584.png?v=6",
                 "equipo": "Coventry City",
                 "puntos": "0",
-                "pj": "3",
+                "pj": "4",
                 "pg": "0",
                 "pe": "0",
-                "pp": "3",
+                "pp": "4",
                 "gf": 0,
-                "gc": 5,
-                "dg": -5
+                "gc": 10,
+                "dg": -10
             }
         ],
         "goleadores": [
@@ -4069,7 +4069,7 @@
                 "nombre": "Erling Haaland",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
-                "goles": 3
+                "goles": 4
             },
             {
                 "nombre": "Kevin Schade",

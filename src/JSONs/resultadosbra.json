@@ -2673,22 +2673,22 @@
             },
             {
                 "fecha_torneo": "Fecha 27",
-                "fecha": "13/09/2026 16:00 HS",
+                "fecha": "13/09/2026 16:00 HS Finalizado",
                 "local": "MIR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/884.png?v=6",
                 "visitante": "VIT",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/988.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 27",
-                "fecha": "13/09/2026 17:30 HS",
+                "fecha": "13/09/2026 17:30 HS Finalizado",
                 "local": "FLA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/256.png?v=6",
                 "visitante": "COR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/107.png?v=6"
             },
             {
@@ -3805,6 +3805,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/256.png?v=6",
+                "equipo": "Flamengo",
+                "puntos": "57",
+                "pj": "27",
+                "pg": "17",
+                "pe": "6",
+                "pp": "4",
+                "gf": 53,
+                "gc": 22,
+                "dg": 31
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/80.png?v=6",
                 "equipo": "Palmeiras",
                 "puntos": "56",
@@ -3815,19 +3828,6 @@
                 "gf": 47,
                 "gc": 21,
                 "dg": 26
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/256.png?v=6",
-                "equipo": "Flamengo",
-                "puntos": "54",
-                "pj": "26",
-                "pg": "16",
-                "pe": "6",
-                "pp": "4",
-                "gf": 51,
-                "gc": 21,
-                "dg": 30
             },
             {
                 "posicion": "3",
@@ -3950,13 +3950,13 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/988.png?v=6",
                 "equipo": "Vitória",
-                "puntos": "32",
-                "pj": "26",
+                "puntos": "33",
+                "pj": "27",
                 "pg": "9",
-                "pe": "5",
+                "pe": "6",
                 "pp": "12",
-                "gf": 25,
-                "gc": 37,
+                "gf": 27,
+                "gc": 39,
                 "dg": -12
             },
             {
@@ -3964,13 +3964,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
                 "equipo": "Corinthians",
                 "puntos": "32",
-                "pj": "26",
+                "pj": "27",
                 "pg": "8",
                 "pe": "8",
-                "pp": "10",
-                "gf": 27,
-                "gc": 27,
-                "dg": 0
+                "pp": "11",
+                "gf": 28,
+                "gc": 29,
+                "dg": -1
             },
             {
                 "posicion": "14",
@@ -3987,6 +3987,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/884.png?v=6",
+                "equipo": "Mirassol",
+                "puntos": "29",
+                "pj": "27",
+                "pg": "7",
+                "pe": "8",
+                "pp": "12",
+                "gf": 31,
+                "gc": 42,
+                "dg": -11
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/309.png?v=6",
                 "equipo": "Grêmio",
                 "puntos": "28",
@@ -3997,19 +4010,6 @@
                 "gf": 28,
                 "gc": 35,
                 "dg": -7
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/884.png?v=6",
-                "equipo": "Mirassol",
-                "puntos": "28",
-                "pj": "26",
-                "pg": "7",
-                "pe": "7",
-                "pp": "12",
-                "gf": 29,
-                "gc": 40,
-                "dg": -11
             },
             {
                 "posicion": "17",
@@ -4108,6 +4108,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Renê Sousa",
+                "equipo": "Vitória",
+                "escudo": "https://statics-files.tycsports.com/escudos/988.png",
+                "goles": 8
+            },
+            {
                 "nombre": "José Manuel López",
                 "equipo": "Palmeiras",
                 "escudo": "https://statics-files.tycsports.com/escudos/80.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Breno Lopes",
                 "equipo": "Coritiba",
                 "escudo": "https://statics-files.tycsports.com/escudos/628.png",
-                "goles": 8
-            },
-            {
-                "nombre": "da Rocha Neves, L.",
-                "equipo": "São Paulo",
-                "escudo": "https://statics-files.tycsports.com/escudos/75.png",
                 "goles": 8
             }
         ]

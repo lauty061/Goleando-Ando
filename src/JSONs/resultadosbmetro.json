@@ -3833,22 +3833,22 @@
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "13/09/2026 15:00 HS",
+                "fecha": "13/09/2026 15:00 HS Finalizado",
                 "local": "ADQ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/773.png?v=6",
                 "visitante": "MER",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/678.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "13/09/2026 15:00 HS",
+                "fecha": "13/09/2026 15:00 HS Finalizado",
                 "local": "FLA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/676.png?v=6",
                 "visitante": "CAM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1602.png?v=6"
             },
             {
@@ -4804,13 +4804,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1602.png?v=6",
                 "equipo": "Camioneros",
                 "puntos": "63",
-                "pj": "34",
+                "pj": "35",
                 "pg": "17",
                 "pe": "12",
-                "pp": "5",
-                "gf": 40,
-                "gc": 20,
-                "dg": 20
+                "pp": "6",
+                "gf": 41,
+                "gc": 22,
+                "dg": 19
             },
             {
                 "posicion": "4",
@@ -4970,19 +4970,45 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/678.png?v=6",
-                "equipo": "Dep. Merlo",
+                "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=6",
+                "equipo": "Arg. de Quilmes",
                 "puntos": "40",
-                "pj": "34",
+                "pj": "35",
                 "pg": "9",
                 "pe": "13",
-                "pp": "12",
-                "gf": 34,
-                "gc": 48,
-                "dg": -14
+                "pp": "13",
+                "gf": 29,
+                "gc": 36,
+                "dg": -7
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/678.png?v=6",
+                "equipo": "Dep. Merlo",
+                "puntos": "40",
+                "pj": "35",
+                "pg": "9",
+                "pe": "13",
+                "pp": "13",
+                "gf": 34,
+                "gc": 49,
+                "dg": -15
+            },
+            {
+                "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
+                "equipo": "Flandria",
+                "puntos": "38",
+                "pj": "35",
+                "pg": "10",
+                "pe": "8",
+                "pp": "17",
+                "gf": 31,
+                "gc": 43,
+                "dg": -12
+            },
+            {
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=6",
                 "equipo": "Def. Unidos",
                 "puntos": "37",
@@ -4993,32 +5019,6 @@
                 "gf": 31,
                 "gc": 36,
                 "dg": -5
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=6",
-                "equipo": "Arg. de Quilmes",
-                "puntos": "37",
-                "pj": "34",
-                "pg": "8",
-                "pe": "13",
-                "pp": "13",
-                "gf": 28,
-                "gc": 36,
-                "dg": -8
-            },
-            {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
-                "equipo": "Flandria",
-                "puntos": "35",
-                "pj": "34",
-                "pg": "9",
-                "pe": "8",
-                "pp": "17",
-                "gf": 29,
-                "gc": 42,
-                "dg": -13
             },
             {
                 "posicion": "20",
