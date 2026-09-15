@@ -493,12 +493,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "14/09/2026 16:00 HS",
+                "fecha": "14/09/2026 16:00 HS Finalizado",
                 "local": "VIL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/43.png?v=6",
                 "visitante": "BET",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/32.png?v=6"
             },
             {
@@ -3831,6 +3831,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/32.png?v=6",
+                "equipo": "Betis",
+                "puntos": "12",
+                "pj": "5",
+                "pg": "4",
+                "pe": "0",
+                "pp": "1",
+                "gf": 7,
+                "gc": 6,
+                "dg": 1
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/160.png?v=6",
                 "equipo": "Alavés",
                 "puntos": "10",
@@ -3843,7 +3856,7 @@
                 "dg": 6
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/29.png?v=6",
                 "equipo": "Atl. Madrid",
                 "puntos": "10",
@@ -3856,7 +3869,7 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/41.png?v=6",
                 "equipo": "Sevilla",
                 "puntos": "10",
@@ -3869,7 +3882,7 @@
                 "dg": 2
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/33.png?v=6",
                 "equipo": "Deportivo",
                 "puntos": "9",
@@ -3880,19 +3893,6 @@
                 "gf": 9,
                 "gc": 6,
                 "dg": 3
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/32.png?v=6",
-                "equipo": "Betis",
-                "puntos": "9",
-                "pj": "4",
-                "pg": "3",
-                "pe": "0",
-                "pp": "1",
-                "gf": 5,
-                "gc": 5,
-                "dg": 0
             },
             {
                 "posicion": "8",
@@ -4029,13 +4029,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/43.png?v=6",
                 "equipo": "Villarreal",
                 "puntos": "2",
-                "pj": "4",
+                "pj": "5",
                 "pg": "0",
                 "pe": "2",
-                "pp": "2",
-                "gf": 6,
-                "gc": 8,
-                "dg": -2
+                "pp": "3",
+                "gf": 7,
+                "gc": 10,
+                "dg": -3
             },
             {
                 "posicion": "19",

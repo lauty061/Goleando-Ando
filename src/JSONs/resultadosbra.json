@@ -2693,12 +2693,12 @@
             },
             {
                 "fecha_torneo": "Fecha 27",
-                "fecha": "14/09/2026 20:00 HS",
+                "fecha": "14/09/2026 20:00 HS Finalizado",
                 "local": "BAH",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/991.png?v=6",
                 "visitante": "CDR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3698.png?v=6"
             },
             {
@@ -3844,6 +3844,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/991.png?v=6",
+                "equipo": "Bahia",
+                "puntos": "46",
+                "pj": "27",
+                "pg": "12",
+                "pe": "10",
+                "pp": "5",
+                "gf": 42,
+                "gc": 33,
+                "dg": 9
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/113.png?v=6",
                 "equipo": "Fluminense",
                 "puntos": "45",
@@ -3854,19 +3867,6 @@
                 "gf": 41,
                 "gc": 35,
                 "dg": 6
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/991.png?v=6",
-                "equipo": "Bahia",
-                "puntos": "43",
-                "pj": "26",
-                "pg": "11",
-                "pe": "10",
-                "pp": "5",
-                "gf": 40,
-                "gc": 32,
-                "dg": 8
             },
             {
                 "posicion": "6",
@@ -4042,13 +4042,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
                 "puntos": "23",
-                "pj": "26",
+                "pj": "27",
                 "pg": "5",
                 "pe": "8",
-                "pp": "13",
-                "gf": 30,
-                "gc": 43,
-                "dg": -13
+                "pp": "14",
+                "gf": 31,
+                "gc": 45,
+                "dg": -14
             },
             {
                 "posicion": "20",
@@ -4102,6 +4102,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Batista da Silva Júnior, L.",
+                "equipo": "Bahia",
+                "escudo": "https://statics-files.tycsports.com/escudos/991.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Costa Pereira, M.",
                 "equipo": "Cruzeiro",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png",
@@ -4121,12 +4127,6 @@
             },
             {
                 "nombre": "Rocha Neves, P.",
-                "equipo": "Coritiba",
-                "escudo": "https://statics-files.tycsports.com/escudos/628.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Breno Lopes",
                 "equipo": "Coritiba",
                 "escudo": "https://statics-files.tycsports.com/escudos/628.png",
                 "goles": 8

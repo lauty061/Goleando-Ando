@@ -473,12 +473,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "14/09/2026 19:00 HS",
+                "fecha": "14/09/2026 19:00 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/191.png?v=6"
             },
             {
@@ -1205,19 +1205,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
-                "equipo": "Liverpool (U)",
-                "puntos": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
+                "equipo": "MC Torque",
+                "puntos": "15",
                 "pj": "5",
-                "pg": "4",
-                "pe": "1",
+                "pg": "5",
+                "pe": "0",
                 "pp": "0",
-                "gf": 11,
-                "gc": 1,
+                "gf": 14,
+                "gc": 4,
                 "dg": 10
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
+                "equipo": "Liverpool (U)",
+                "puntos": "13",
+                "pj": "6",
+                "pg": "4",
+                "pe": "1",
+                "pp": "1",
+                "gf": 12,
+                "gc": 4,
+                "dg": 8
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
                 "equipo": "Cerro",
                 "puntos": "13",
@@ -1228,19 +1241,6 @@
                 "gf": 8,
                 "gc": 7,
                 "dg": 1
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
-                "equipo": "MC Torque",
-                "puntos": "12",
-                "pj": "4",
-                "pg": "4",
-                "pe": "0",
-                "pp": "0",
-                "gf": 11,
-                "gc": 3,
-                "dg": 8
             },
             {
                 "posicion": "4",
