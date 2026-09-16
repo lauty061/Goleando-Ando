@@ -263,12 +263,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "15/09/2026 21:30 HS",
+                "fecha": "15/09/2026 21:30 HS Finalizado",
                 "local": "BOY",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/177.png?v=6",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/921.png?v=6"
             },
             {
@@ -683,7 +683,7 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/09/2026 20:00 HS",
+                "fecha": "13/10/2026 21:00 HS",
                 "local": "BUC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
@@ -873,7 +873,7 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "07/10/2026 20:15 HS",
+                "fecha": "17/09/2026 20:00 HS",
                 "local": "BUC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
@@ -1003,13 +1003,13 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "18/09/2026 22:10 HS",
-                "local": "DIM",
+                "fecha": "18/09/2026 18:00 HS",
+                "local": "AGU",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png?v=6",
-                "visitante": "JAG",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/922.png?v=6",
+                "visitante": "PER",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/1655.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 11",
@@ -1093,13 +1093,13 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "08/10/2026 17:30 HS",
-                "local": "AGU",
+                "fecha": "22/09/2026 20:00 HS",
+                "local": "DIM",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/922.png?v=6",
-                "visitante": "PER",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/67.png?v=6",
+                "visitante": "JAG",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/1655.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 12",
@@ -1203,7 +1203,7 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "15/09/2026 22:20 HS",
+                "fecha": "16/09/2026 22:20 HS",
                 "local": "INT",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/597.png?v=6",
@@ -2347,19 +2347,32 @@
             },
             {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/177.png?v=6",
-                "equipo": "Boyacá Chicó",
+                "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
+                "equipo": "Alianza",
                 "puntos": "8",
-                "pj": "7",
+                "pj": "9",
                 "pg": "2",
                 "pe": "2",
-                "pp": "3",
-                "gf": 6,
-                "gc": 13,
-                "dg": -7
+                "pp": "5",
+                "gf": 8,
+                "gc": 16,
+                "dg": -8
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/177.png?v=6",
+                "equipo": "Boyacá Chicó",
+                "puntos": "8",
+                "pj": "8",
+                "pg": "2",
+                "pe": "2",
+                "pp": "4",
+                "gf": 7,
+                "gc": 15,
+                "dg": -8
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/1655.png?v=6",
                 "equipo": "Jaguares",
                 "puntos": "7",
@@ -2372,7 +2385,7 @@
                 "dg": -5
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "equipo": "Pereira",
                 "puntos": "6",
@@ -2385,7 +2398,7 @@
                 "dg": -5
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "equipo": "Pasto",
                 "puntos": "5",
@@ -2396,19 +2409,6 @@
                 "gf": 8,
                 "gc": 15,
                 "dg": -7
-            },
-            {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
-                "equipo": "Alianza",
-                "puntos": "5",
-                "pj": "8",
-                "pg": "1",
-                "pe": "2",
-                "pp": "5",
-                "gf": 6,
-                "gc": 15,
-                "dg": -9
             },
             {
                 "posicion": "20",
