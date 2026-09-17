@@ -673,12 +673,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "16/09/2026 20:15 HS",
+                "fecha": "16/09/2026 20:15 HS Finalizado",
                 "local": "ONC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "visitante": "TOL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png?v=6"
             },
             {
@@ -1203,12 +1203,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "16/09/2026 22:20 HS",
+                "fecha": "16/09/2026 22:20 HS Finalizado",
                 "local": "INT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "visitante": "ATN",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/105.png?v=6"
             },
             {
@@ -2178,6 +2178,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
+                "equipo": "At. Nacional",
+                "puntos": "18",
+                "pj": "7",
+                "pg": "6",
+                "pe": "0",
+                "pp": "1",
+                "gf": 17,
+                "gc": 6,
+                "dg": 11
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
                 "equipo": "Millonarios",
                 "puntos": "16",
@@ -2190,30 +2203,17 @@
                 "dg": 4
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
                 "equipo": "Tolima",
                 "puntos": "16",
-                "pj": "8",
+                "pj": "9",
                 "pg": "5",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 12,
-                "gc": 9,
-                "dg": 3
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
-                "equipo": "At. Nacional",
-                "puntos": "15",
-                "pj": "6",
-                "pg": "5",
-                "pe": "0",
-                "pp": "1",
-                "gf": 14,
-                "gc": 4,
-                "dg": 10
+                "gc": 10,
+                "dg": 2
             },
             {
                 "posicion": "5",
@@ -2269,6 +2269,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
+                "equipo": "Once Caldas",
+                "puntos": "12",
+                "pj": "9",
+                "pg": "3",
+                "pe": "3",
+                "pp": "3",
+                "gf": 13,
+                "gc": 11,
+                "dg": 2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
                 "equipo": "Llaneros FC",
                 "puntos": "11",
@@ -2281,20 +2294,20 @@
                 "dg": -1
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "equipo": "Int. de Bogotá",
                 "puntos": "11",
-                "pj": "9",
+                "pj": "10",
                 "pg": "2",
                 "pe": "5",
-                "pp": "2",
-                "gf": 11,
-                "gc": 12,
-                "dg": -1
+                "pp": "3",
+                "gf": 13,
+                "gc": 15,
+                "dg": -2
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "equipo": "Águilas Doradas",
                 "puntos": "10",
@@ -2307,7 +2320,7 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
                 "equipo": "Cúcuta",
                 "puntos": "9",
@@ -2318,19 +2331,6 @@
                 "gf": 9,
                 "gc": 15,
                 "dg": -6
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
-                "equipo": "Once Caldas",
-                "puntos": "9",
-                "pj": "8",
-                "pg": "2",
-                "pe": "3",
-                "pp": "3",
-                "gf": 12,
-                "gc": 11,
-                "dg": 1
             },
             {
                 "posicion": "14",
