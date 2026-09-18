@@ -873,12 +873,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "17/09/2026 20:00 HS",
+                "fecha": "17/09/2026 21:00 HS Finalizado",
                 "local": "BUC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "visitante": "DIM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/67.png?v=6"
             },
             {
@@ -2191,6 +2191,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
+                "equipo": "Indep. Medellín",
+                "puntos": "16",
+                "pj": "8",
+                "pg": "5",
+                "pe": "1",
+                "pp": "2",
+                "gf": 15,
+                "gc": 10,
+                "dg": 5
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
                 "equipo": "Millonarios",
                 "puntos": "16",
@@ -2203,7 +2216,7 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
                 "equipo": "Tolima",
                 "puntos": "16",
@@ -2216,29 +2229,16 @@
                 "dg": 2
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
-                "equipo": "Indep. Medellín",
-                "puntos": "15",
-                "pj": "7",
-                "pg": "5",
-                "pe": "0",
-                "pp": "2",
-                "gf": 13,
-                "gc": 8,
-                "dg": 5
-            },
-            {
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "equipo": "Bucaramanga",
-                "puntos": "13",
-                "pj": "7",
+                "puntos": "14",
+                "pj": "8",
                 "pg": "3",
-                "pe": "4",
+                "pe": "5",
                 "pp": "0",
-                "gf": 10,
-                "gc": 6,
+                "gf": 12,
+                "gc": 8,
                 "dg": 4
             },
             {
