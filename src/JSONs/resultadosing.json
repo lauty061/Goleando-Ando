@@ -403,12 +403,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "18/09/2026 16:00 HS",
+                "fecha": "18/09/2026 16:00 HS Finalizado",
                 "local": "BRE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
                 "visitante": "CHE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/563.png?v=6"
             },
             {
@@ -3831,6 +3831,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
+                "equipo": "Brentford",
+                "puntos": "9",
+                "pj": "5",
+                "pg": "2",
+                "pe": "3",
+                "pp": "0",
+                "gf": 10,
+                "gc": 4,
+                "dg": 6
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png?v=6",
                 "equipo": "Leeds United",
                 "puntos": "8",
@@ -3843,7 +3856,7 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1261.png?v=6",
                 "equipo": "Hull City",
                 "puntos": "8",
@@ -3856,7 +3869,7 @@
                 "dg": 3
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/4713.png?v=6",
                 "equipo": "Brighton and Hove",
                 "puntos": "7",
@@ -3869,30 +3882,17 @@
                 "dg": 8
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/563.png?v=6",
                 "equipo": "Chelsea",
                 "puntos": "7",
-                "pj": "4",
+                "pj": "5",
                 "pg": "2",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 10,
-                "gc": 9,
-                "dg": 1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
-                "equipo": "Brentford",
-                "puntos": "6",
-                "pj": "4",
-                "pg": "1",
-                "pe": "3",
-                "pp": "0",
-                "gf": 7,
-                "gc": 4,
-                "dg": 3
+                "gc": 12,
+                "dg": -2
             },
             {
                 "posicion": "8",

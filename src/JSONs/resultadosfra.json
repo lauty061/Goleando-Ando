@@ -363,12 +363,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "18/09/2026 15:45 HS",
+                "fecha": "18/09/2026 15:45 HS Finalizado",
                 "local": "MON",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1727.png?v=6",
                 "visitante": "LEN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1730.png?v=6"
             },
             {
@@ -3065,6 +3065,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1727.png?v=6",
+                "equipo": "Mónaco",
+                "puntos": "13",
+                "pj": "5",
+                "pg": "4",
+                "pe": "1",
+                "pp": "0",
+                "gf": 8,
+                "gc": 3,
+                "dg": 5
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
                 "equipo": "Lille",
                 "puntos": "10",
@@ -3075,19 +3088,6 @@
                 "gf": 7,
                 "gc": 2,
                 "dg": 5
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/1727.png?v=6",
-                "equipo": "Mónaco",
-                "puntos": "10",
-                "pj": "4",
-                "pg": "3",
-                "pe": "1",
-                "pp": "0",
-                "gf": 6,
-                "gc": 2,
-                "dg": 4
             },
             {
                 "posicion": "3",
@@ -3185,13 +3185,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
                 "equipo": "Lens",
                 "puntos": "4",
-                "pj": "4",
+                "pj": "5",
                 "pg": "1",
                 "pe": "1",
-                "pp": "2",
-                "gf": 8,
-                "gc": 7,
-                "dg": 1
+                "pp": "3",
+                "gf": 9,
+                "gc": 9,
+                "dg": 0
             },
             {
                 "posicion": "11",
@@ -3300,6 +3300,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Paris Brunner",
+                "equipo": "Mónaco",
+                "escudo": "https://statics-files.tycsports.com/escudos/1727.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Kamory Doumbia",
                 "equipo": "Stade Brestois",
                 "escudo": "https://statics-files.tycsports.com/escudos/2291.png",
@@ -3321,12 +3327,6 @@
                 "nombre": "Ferran Torres",
                 "equipo": "PSG",
                 "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Paris Brunner",
-                "equipo": "Mónaco",
-                "escudo": "https://statics-files.tycsports.com/escudos/1727.png",
                 "goles": 3
             },
             {

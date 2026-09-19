@@ -403,12 +403,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "18/09/2026 15:45 HS",
+                "fecha": "18/09/2026 15:45 HS Finalizado",
                 "local": "MON",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
                 "visitante": "SAS",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2192.png?v=6"
             },
             {
@@ -3912,13 +3912,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2192.png?v=6",
                 "equipo": "Sassuolo",
                 "puntos": "7",
-                "pj": "4",
+                "pj": "5",
                 "pg": "2",
                 "pe": "1",
-                "pp": "1",
-                "gf": 8,
-                "gc": 7,
-                "dg": 1
+                "pp": "2",
+                "gf": 9,
+                "gc": 9,
+                "dg": 0
             },
             {
                 "posicion": "10",
@@ -3974,6 +3974,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
+                "equipo": "Monza",
+                "puntos": "4",
+                "pj": "5",
+                "pg": "1",
+                "pe": "1",
+                "pp": "3",
+                "gf": 8,
+                "gc": 12,
+                "dg": -4
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/536.png?v=6",
                 "equipo": "Torino",
                 "puntos": "3",
@@ -3986,7 +3999,7 @@
                 "dg": -3
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
                 "equipo": "Fiorentina",
                 "puntos": "3",
@@ -3999,7 +4012,7 @@
                 "dg": -6
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png?v=6",
                 "equipo": "Bologna",
                 "puntos": "1",
@@ -4012,7 +4025,7 @@
                 "dg": -3
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
                 "equipo": "Parma",
                 "puntos": "1",
@@ -4023,19 +4036,6 @@
                 "gf": 2,
                 "gc": 6,
                 "dg": -4
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
-                "equipo": "Monza",
-                "puntos": "1",
-                "pj": "4",
-                "pg": "0",
-                "pe": "1",
-                "pp": "3",
-                "gf": 6,
-                "gc": 11,
-                "dg": -5
             },
             {
                 "posicion": "19",
@@ -4078,6 +4078,18 @@
                 "goles": 4
             },
             {
+                "nombre": "Gustavo Varela",
+                "equipo": "Monza",
+                "escudo": "https://statics-files.tycsports.com/escudos/10452.png",
+                "goles": 4
+            },
+            {
+                "nombre": "Vasilije Adzic",
+                "equipo": "Sassuolo",
+                "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Franco Mastantuono",
                 "equipo": "Fiorentina",
                 "escudo": "https://statics-files.tycsports.com/escudos/50.png",
@@ -4102,12 +4114,6 @@
                 "goles": 2
             },
             {
-                "nombre": "Gustavo Varela",
-                "equipo": "Monza",
-                "escudo": "https://statics-files.tycsports.com/escudos/10452.png",
-                "goles": 2
-            },
-            {
                 "nombre": "Marcus Thuram",
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
@@ -4117,12 +4123,6 @@
                 "nombre": "Adams, C.",
                 "equipo": "Torino",
                 "escudo": "https://statics-files.tycsports.com/escudos/536.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Vasilije Adzic",
-                "equipo": "Sassuolo",
-                "escudo": "https://statics-files.tycsports.com/escudos/2192.png",
                 "goles": 2
             },
             {

@@ -1593,12 +1593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "18/09/2026 20:00 HS",
+                "fecha": "18/09/2026 20:00 HS Finalizado",
                 "local": "IPE",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
                 "visitante": "SAB",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png?v=6"
             },
             {
@@ -2525,13 +2525,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "25",
-                "pj": "19",
+                "pj": "20",
                 "pg": "7",
                 "pe": "4",
-                "pp": "8",
-                "gf": 26,
-                "gc": 32,
-                "dg": -6
+                "pp": "9",
+                "gf": 27,
+                "gc": 35,
+                "dg": -8
             },
             {
                 "posicion": "11",
@@ -2561,6 +2561,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
+                "equipo": "San Antonio",
+                "puntos": "20",
+                "pj": "20",
+                "pg": "6",
+                "pe": "2",
+                "pp": "12",
+                "gf": 21,
+                "gc": 40,
+                "dg": -19
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "equipo": "U. de Vinto",
                 "puntos": "18",
@@ -2571,19 +2584,6 @@
                 "gf": 26,
                 "gc": 39,
                 "dg": -13
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
-                "equipo": "San Antonio",
-                "puntos": "17",
-                "pj": "19",
-                "pg": "5",
-                "pe": "2",
-                "pp": "12",
-                "gf": 18,
-                "gc": 39,
-                "dg": -21
             },
             {
                 "posicion": "15",

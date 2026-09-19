@@ -1003,12 +1003,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "18/09/2026 18:00 HS",
+                "fecha": "18/09/2026 18:00 HS Finalizado",
                 "local": "AGU",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "visitante": "PER",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png?v=6"
             },
             {
@@ -2282,6 +2282,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
+                "equipo": "Águilas Doradas",
+                "puntos": "11",
+                "pj": "8",
+                "pg": "2",
+                "pe": "5",
+                "pp": "1",
+                "gf": 12,
+                "gc": 12,
+                "dg": 0
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
                 "equipo": "Llaneros FC",
                 "puntos": "11",
@@ -2294,7 +2307,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "equipo": "Int. de Bogotá",
                 "puntos": "11",
@@ -2305,19 +2318,6 @@
                 "gf": 13,
                 "gc": 15,
                 "dg": -2
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
-                "equipo": "Águilas Doradas",
-                "puntos": "10",
-                "pj": "7",
-                "pg": "2",
-                "pe": "4",
-                "pp": "1",
-                "gf": 10,
-                "gc": 10,
-                "dg": 0
             },
             {
                 "posicion": "13",
@@ -2388,13 +2388,13 @@
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "equipo": "Pereira",
-                "puntos": "6",
-                "pj": "7",
+                "puntos": "7",
+                "pj": "8",
                 "pg": "1",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
-                "gf": 4,
-                "gc": 9,
+                "gf": 6,
+                "gc": 11,
                 "dg": -5
             },
             {

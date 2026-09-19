@@ -273,12 +273,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "18/09/2026 15:30 HS",
+                "fecha": "18/09/2026 15:30 HS Finalizado",
                 "local": "BAY",
-                "goles_local": "-",
+                "goles_local": "7",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/617.png?v=6",
                 "visitante": "UNI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6286.png?v=6"
             },
             {
@@ -3085,6 +3085,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
+                "equipo": "Bayern Múnich",
+                "puntos": "10",
+                "pj": "4",
+                "pg": "3",
+                "pe": "1",
+                "pp": "0",
+                "gf": 14,
+                "gc": 2,
+                "dg": 12
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1717.png?v=6",
                 "equipo": "Friburgo",
                 "puntos": "9",
@@ -3097,7 +3110,7 @@
                 "dg": 9
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/707.png?v=6",
                 "equipo": "Borussia Dortmund",
                 "puntos": "9",
@@ -3110,7 +3123,7 @@
                 "dg": 6
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/3305.png?v=6",
                 "equipo": "Augsburg",
                 "puntos": "7",
@@ -3121,19 +3134,6 @@
                 "gf": 9,
                 "gc": 3,
                 "dg": 6
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
-                "equipo": "Bayern Múnich",
-                "puntos": "7",
-                "pj": "3",
-                "pg": "2",
-                "pe": "1",
-                "pp": "0",
-                "gf": 7,
-                "gc": 2,
-                "dg": 5
             },
             {
                 "posicion": "5",
@@ -3283,13 +3283,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6286.png?v=6",
                 "equipo": "Unión Berlín",
                 "puntos": "1",
-                "pj": "3",
+                "pj": "4",
                 "pg": "0",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 4,
-                "gc": 10,
-                "dg": -6
+                "gc": 17,
+                "dg": -13
             },
             {
                 "posicion": "17",
@@ -3319,6 +3319,12 @@
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Michael Olise",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
+                "goles": 4
+            },
             {
                 "nombre": "Michael Gregoritsch",
                 "equipo": "Augsburg",
@@ -3362,6 +3368,12 @@
                 "goles": 3
             },
             {
+                "nombre": "Harry Kane",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Ridle Baku",
                 "equipo": "RB Leipzig",
                 "escudo": "https://statics-files.tycsports.com/escudos/6345.png",
@@ -3371,18 +3383,6 @@
                 "nombre": "Axel Bolin",
                 "equipo": "B. Mönchengladbach",
                 "escudo": "https://statics-files.tycsports.com/escudos/1259.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Yannik Engelhardt",
-                "equipo": "Friburgo",
-                "escudo": "https://statics-files.tycsports.com/escudos/1717.png",
-                "goles": 2
-            },
-            {
-                "nombre": "Jonathan Burkardt",
-                "equipo": "Eintracht Frankfurt",
-                "escudo": "https://statics-files.tycsports.com/escudos/708.png",
                 "goles": 2
             }
         ]

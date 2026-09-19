@@ -603,12 +603,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "18/09/2026 16:00 HS",
+                "fecha": "18/09/2026 16:00 HS Finalizado",
                 "local": "ESP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/34.png?v=6",
                 "visitante": "ELC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4460.png?v=6"
             },
             {
@@ -3896,19 +3896,6 @@
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/34.png?v=6",
-                "equipo": "Espanyol",
-                "puntos": "7",
-                "pj": "6",
-                "pg": "2",
-                "pe": "1",
-                "pp": "3",
-                "gf": 9,
-                "gc": 7,
-                "dg": 2
-            },
-            {
-                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/30.png?v=6",
                 "equipo": "Athletic Bilbao",
                 "puntos": "7",
@@ -3919,6 +3906,19 @@
                 "gf": 7,
                 "gc": 6,
                 "dg": 1
+            },
+            {
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/34.png?v=6",
+                "equipo": "Espanyol",
+                "puntos": "7",
+                "pj": "7",
+                "pg": "2",
+                "pe": "1",
+                "pp": "4",
+                "gf": 10,
+                "gc": 10,
+                "dg": 0
             },
             {
                 "posicion": "10",
@@ -4013,6 +4013,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/4460.png?v=6",
+                "equipo": "Elche",
+                "puntos": "5",
+                "pj": "7",
+                "pg": "1",
+                "pe": "2",
+                "pp": "4",
+                "gf": 11,
+                "gc": 17,
+                "dg": -6
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/162.png?v=6",
                 "equipo": "Celta",
                 "puntos": "4",
@@ -4025,7 +4038,7 @@
                 "dg": -3
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/42.png?v=6",
                 "equipo": "Valencia",
                 "puntos": "4",
@@ -4038,7 +4051,7 @@
                 "dg": -8
             },
             {
-                "posicion": "19",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/25.png?v=6",
                 "equipo": "Málaga",
                 "puntos": "3",
@@ -4048,19 +4061,6 @@
                 "pp": "3",
                 "gf": 3,
                 "gc": 11,
-                "dg": -8
-            },
-            {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/4460.png?v=6",
-                "equipo": "Elche",
-                "puntos": "2",
-                "pj": "6",
-                "pg": "0",
-                "pe": "2",
-                "pp": "4",
-                "gf": 8,
-                "gc": 16,
                 "dg": -8
             }
         ],
@@ -4108,6 +4108,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Fernando Niño",
+                "equipo": "Elche",
+                "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Baena Rodríguez, A.",
                 "equipo": "Atlético de Madrid",
                 "escudo": "https://statics-files.tycsports.com/escudos/29.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Fermín López",
                 "equipo": "Barcelona",
                 "escudo": "https://statics-files.tycsports.com/escudos/31.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Ante Budimir",
-                "equipo": "Osasuna",
-                "escudo": "https://statics-files.tycsports.com/escudos/37.png",
                 "goles": 4
             }
         ]
