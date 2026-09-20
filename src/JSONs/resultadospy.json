@@ -623,22 +623,22 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "19/09/2026 16:00 HS",
+                "fecha": "19/09/2026 16:00 HS Finalizado",
                 "local": "LIB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "visitante": "AME",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7948.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "19/09/2026 18:30 HS",
+                "fecha": "19/09/2026 18:30 HS Finalizado",
                 "local": "CER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "visitante": "RÑU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1029.png?v=6"
             },
             {
@@ -1327,13 +1327,13 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "equipo": "Libertad",
-                "puntos": "22",
-                "pj": "10",
+                "puntos": "23",
+                "pj": "11",
                 "pg": "7",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 18,
-                "gc": 11,
+                "gf": 19,
+                "gc": 12,
                 "dg": 7
             },
             {
@@ -1377,19 +1377,6 @@
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
-                "equipo": "Guaraní",
-                "puntos": "17",
-                "pj": "11",
-                "pg": "4",
-                "pe": "5",
-                "pp": "2",
-                "gf": 12,
-                "gc": 9,
-                "dg": 3
-            },
-            {
-                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
                 "puntos": "17",
@@ -1402,30 +1389,43 @@
                 "dg": 8
             },
             {
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
+                "equipo": "Guaraní",
+                "puntos": "17",
+                "pj": "11",
+                "pg": "4",
+                "pe": "5",
+                "pp": "2",
+                "gf": 12,
+                "gc": 9,
+                "dg": 3
+            },
+            {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
-                "puntos": "16",
-                "pj": "10",
+                "puntos": "17",
+                "pj": "11",
                 "pg": "4",
-                "pe": "4",
+                "pe": "5",
                 "pp": "2",
-                "gf": 12,
-                "gc": 11,
+                "gf": 13,
+                "gc": 12,
                 "dg": 1
             },
             {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "equipo": "Cerro Porteño",
-                "puntos": "14",
-                "pj": "10",
-                "pg": "4",
+                "puntos": "17",
+                "pj": "11",
+                "pg": "5",
                 "pe": "2",
                 "pp": "4",
-                "gf": 13,
+                "gf": 14,
                 "gc": 10,
-                "dg": 3
+                "dg": 4
             },
             {
                 "posicion": "9",
@@ -1445,13 +1445,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "equipo": "Rubio Ñu",
                 "puntos": "8",
-                "pj": "10",
+                "pj": "11",
                 "pg": "2",
                 "pe": "2",
-                "pp": "6",
+                "pp": "7",
                 "gf": 11,
-                "gc": 20,
-                "dg": -9
+                "gc": 21,
+                "dg": -10
             },
             {
                 "posicion": "11",
@@ -1488,9 +1488,21 @@
                 "goles": 5
             },
             {
+                "nombre": "Estivel Moreira",
+                "equipo": "Sp. Ameliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Iván Valdez",
                 "equipo": "Nacional (P)",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Pablo Vegetti",
+                "equipo": "Cerro Porteño",
+                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
                 "goles": 5
             },
             {
@@ -1498,18 +1510,6 @@
                 "equipo": "Nacional (P)",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "goles": 5
-            },
-            {
-                "nombre": "Estivel Moreira",
-                "equipo": "Sp. Ameliano",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Pablo Vegetti",
-                "equipo": "Cerro Porteño",
-                "escudo": "https://statics-files.tycsports.com/escudos/77.png",
-                "goles": 4
             },
             {
                 "nombre": "Elvio Vera",
@@ -1522,6 +1522,12 @@
                 "equipo": "Sp. Ameliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
                 "goles": 4
+            },
+            {
+                "nombre": "Marcelo Fernández",
+                "equipo": "Libertad",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png",
+                "goles": 3
             },
             {
                 "nombre": "Matías Cáceres",
@@ -1539,12 +1545,6 @@
                 "nombre": "Hugo Sandoval",
                 "equipo": "Olimpia",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Roque Santa Cruz",
-                "equipo": "Nacional (P)",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "goles": 3
             }
         ]
