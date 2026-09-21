@@ -1423,52 +1423,52 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "20/09/2026 14:45 HS",
+                "fecha": "20/09/2026 14:45 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/19.png?v=6",
                 "visitante": "BOC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "20/09/2026 17:00 HS",
+                "fecha": "20/09/2026 17:00 HS Finalizado",
                 "local": "PLA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/489.png?v=6",
                 "visitante": "NOB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/13.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "20/09/2026 17:00 HS",
+                "fecha": "20/09/2026 17:00 HS Finalizado",
                 "local": "ROS",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/18.png?v=6",
                 "visitante": "ARG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "20/09/2026 19:15 HS",
+                "fecha": "20/09/2026 19:15 HS Finalizado",
                 "local": "BEL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/124.png?v=6",
                 "visitante": "ERC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/834.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "20/09/2026 21:30 HS",
+                "fecha": "20/09/2026 21:30 HS Finalizado",
                 "local": "VEL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/20.png?v=6",
                 "visitante": "TIG",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/136.png?v=6"
             },
             {
@@ -2570,6 +2570,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/20.png?v=6",
+                "equipo": "Vélez",
+                "puntos": "20",
+                "pj": "10",
+                "pg": "5",
+                "pe": "5",
+                "pp": "0",
+                "gf": 15,
+                "gc": 9,
+                "dg": 6
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/129.png?v=6",
                 "equipo": "Defensa",
                 "puntos": "18",
@@ -2583,7 +2597,7 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/816.png?v=6",
                 "equipo": "Gimnasia (M)",
                 "puntos": "17",
@@ -2597,21 +2611,21 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/20.png?v=6",
-                "equipo": "Vélez",
+                "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/5.png?v=6",
+                "equipo": "Boca Juniors",
                 "puntos": "17",
-                "pj": "9",
+                "pj": "10",
                 "pg": "4",
                 "pe": "5",
-                "pp": "0",
-                "gf": 12,
-                "gc": 7,
-                "dg": 5
+                "pp": "1",
+                "gf": 14,
+                "gc": 11,
+                "dg": 3
             },
             {
                 "zona": "Grupo A",
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/10.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "17",
@@ -2625,21 +2639,21 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/5.png?v=6",
-                "equipo": "Boca Juniors",
-                "puntos": "14",
-                "pj": "9",
-                "pg": "3",
-                "pe": "5",
-                "pp": "1",
-                "gf": 12,
-                "gc": 11,
-                "dg": 1
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
+                "equipo": "Newell`s",
+                "puntos": "16",
+                "pj": "10",
+                "pg": "4",
+                "pe": "4",
+                "pp": "2",
+                "gf": 11,
+                "gc": 8,
+                "dg": 3
             },
             {
                 "zona": "Grupo A",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/12.png?v=6",
                 "equipo": "Lanús",
                 "puntos": "13",
@@ -2650,20 +2664,6 @@
                 "gf": 11,
                 "gc": 8,
                 "dg": 3
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
-                "equipo": "Newell`s",
-                "puntos": "13",
-                "pj": "9",
-                "pg": "3",
-                "pe": "4",
-                "pp": "2",
-                "gf": 10,
-                "gc": 8,
-                "dg": 2
             },
             {
                 "zona": "Grupo A",
@@ -2685,13 +2685,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/19.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "11",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 4,
-                "gc": 6,
-                "dg": -2
+                "gc": 8,
+                "dg": -4
             },
             {
                 "zona": "Grupo A",
@@ -2727,13 +2727,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/489.png?v=6",
                 "equipo": "Platense",
                 "puntos": "9",
-                "pj": "9",
+                "pj": "10",
                 "pg": "2",
                 "pe": "3",
-                "pp": "4",
+                "pp": "5",
                 "gf": 9,
-                "gc": 14,
-                "dg": -5
+                "gc": 15,
+                "dg": -6
             },
             {
                 "zona": "Grupo A",
@@ -2769,17 +2769,31 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2.png?v=6",
                 "equipo": "Argentinos",
                 "puntos": "18",
-                "pj": "9",
+                "pj": "10",
                 "pg": "5",
                 "pe": "3",
-                "pp": "1",
+                "pp": "2",
                 "gf": 13,
-                "gc": 8,
-                "dg": 5
+                "gc": 9,
+                "dg": 4
             },
             {
                 "zona": "Grupo B",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/18.png?v=6",
+                "equipo": "Rosario Central",
+                "puntos": "18",
+                "pj": "10",
+                "pg": "5",
+                "pe": "3",
+                "pp": "2",
+                "gf": 11,
+                "gc": 8,
+                "dg": 3
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/8.png?v=6",
                 "equipo": "Gimnasia",
                 "puntos": "17",
@@ -2793,7 +2807,21 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "3",
+                "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/124.png?v=6",
+                "equipo": "Belgrano",
+                "puntos": "16",
+                "pj": "10",
+                "pg": "4",
+                "pe": "4",
+                "pp": "2",
+                "gf": 11,
+                "gc": 7,
+                "dg": 4
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/100.png?v=6",
                 "equipo": "Huracán",
                 "puntos": "16",
@@ -2807,7 +2835,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "4",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png?v=6",
                 "equipo": "Sarmiento",
                 "puntos": "16",
@@ -2821,21 +2849,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/18.png?v=6",
-                "equipo": "Rosario Central",
-                "puntos": "15",
-                "pj": "9",
-                "pg": "4",
-                "pe": "3",
-                "pp": "2",
-                "gf": 10,
-                "gc": 8,
-                "dg": 2
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png?v=6",
                 "equipo": "Indep.Mza.",
                 "puntos": "14",
@@ -2846,20 +2860,6 @@
                 "gf": 13,
                 "gc": 13,
                 "dg": 0
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/124.png?v=6",
-                "equipo": "Belgrano",
-                "puntos": "13",
-                "pj": "9",
-                "pg": "3",
-                "pe": "4",
-                "pp": "2",
-                "gf": 9,
-                "gc": 6,
-                "dg": 3
             },
             {
                 "zona": "Grupo B",
@@ -2895,13 +2895,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/136.png?v=6",
                 "equipo": "Tigre",
                 "puntos": "12",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "3",
-                "pp": "3",
-                "gf": 7,
-                "gc": 6,
-                "dg": 1
+                "pp": "4",
+                "gf": 9,
+                "gc": 9,
+                "dg": 0
             },
             {
                 "zona": "Grupo B",
@@ -2951,13 +2951,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/834.png?v=6",
                 "equipo": "Estudiantes (RC)",
                 "puntos": "6",
-                "pj": "9",
+                "pj": "10",
                 "pg": "1",
                 "pe": "3",
-                "pp": "5",
-                "gf": 4,
-                "gc": 11,
-                "dg": -7
+                "pp": "6",
+                "gf": 5,
+                "gc": 13,
+                "dg": -8
             },
             {
                 "zona": "Grupo B",
@@ -3006,6 +3006,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Ronaldo Martínez",
+                "equipo": "Vélez",
+                "escudo": "https://statics-files.tycsports.com/escudos/20.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Agustín Auzmendi",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8.png",
@@ -3033,12 +3039,6 @@
                 "nombre": "Giuliano Cerato",
                 "equipo": "Instituto",
                 "escudo": "https://statics-files.tycsports.com/escudos/11.png",
-                "goles": 4
-            },
-            {
-                "nombre": "Bruno Sepúlveda",
-                "equipo": "Platense",
-                "escudo": "https://statics-files.tycsports.com/escudos/489.png",
                 "goles": 4
             }
         ]

@@ -423,32 +423,32 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "20/09/2026 10:00 HS",
+                "fecha": "20/09/2026 10:00 HS Finalizado",
                 "local": "AUX",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1721.png?v=6",
                 "visitante": "SBR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2291.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "20/09/2026 12:15 HS",
+                "fecha": "20/09/2026 12:15 HS Finalizado",
                 "local": "NIC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1729.png?v=6",
                 "visitante": "LIL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1725.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "20/09/2026 15:45 HS",
+                "fecha": "20/09/2026 15:45 HS Finalizado",
                 "local": "MAR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/793.png?v=6",
                 "visitante": "PSG",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1370.png?v=6"
             },
             {
@@ -3107,13 +3107,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
                 "equipo": "Lille",
                 "puntos": "10",
-                "pj": "4",
+                "pj": "5",
                 "pg": "3",
                 "pe": "1",
-                "pp": "0",
-                "gf": 7,
-                "gc": 2,
-                "dg": 5
+                "pp": "1",
+                "gf": 8,
+                "gc": 4,
+                "dg": 4
             },
             {
                 "posicion": "5",
@@ -3130,6 +3130,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
+                "equipo": "PSG",
+                "puntos": "8",
+                "pj": "5",
+                "pg": "2",
+                "pe": "2",
+                "pp": "1",
+                "gf": 8,
+                "gc": 7,
+                "dg": 1
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/5693.png?v=6",
                 "equipo": "Angers",
                 "puntos": "7",
@@ -3142,7 +3155,7 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7100.png?v=6",
                 "equipo": "RC Strasbourg",
                 "puntos": "7",
@@ -3155,7 +3168,7 @@
                 "dg": 0
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1724.png?v=6",
                 "equipo": "Le Mans",
                 "puntos": "6",
@@ -3168,33 +3181,33 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
-                "equipo": "PSG",
-                "puntos": "5",
-                "pj": "4",
-                "pg": "1",
-                "pe": "2",
-                "pp": "1",
-                "gf": 6,
-                "gc": 6,
-                "dg": 0
-            },
-            {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/2291.png?v=6",
-                "equipo": "Stade Brestois",
-                "puntos": "5",
-                "pj": "4",
-                "pg": "1",
-                "pe": "2",
-                "pp": "1",
-                "gf": 6,
-                "gc": 6,
-                "dg": 0
+                "escudo": "https://statics-files.tycsports.com/escudos/1721.png?v=6",
+                "equipo": "Auxerre",
+                "puntos": "6",
+                "pj": "5",
+                "pg": "2",
+                "pe": "0",
+                "pp": "3",
+                "gf": 7,
+                "gc": 12,
+                "dg": -5
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/2291.png?v=6",
+                "equipo": "Stade Brestois",
+                "puntos": "5",
+                "pj": "5",
+                "pg": "1",
+                "pe": "2",
+                "pp": "2",
+                "gf": 7,
+                "gc": 8,
+                "dg": -1
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/1726.png?v=6",
                 "equipo": "Lorient",
                 "puntos": "5",
@@ -3207,7 +3220,7 @@
                 "dg": -1
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/1733.png?v=6",
                 "equipo": "Toulouse",
                 "puntos": "5",
@@ -3220,7 +3233,20 @@
                 "dg": -2
             },
             {
-                "posicion": "13",
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/1729.png?v=6",
+                "equipo": "Nice",
+                "puntos": "5",
+                "pj": "5",
+                "pg": "1",
+                "pe": "2",
+                "pp": "2",
+                "gf": 3,
+                "gc": 6,
+                "dg": -3
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
                 "equipo": "Lens",
                 "puntos": "4",
@@ -3233,7 +3259,7 @@
                 "dg": 0
             },
             {
-                "posicion": "14",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/3889.png?v=6",
                 "equipo": "Troyes",
                 "puntos": "4",
@@ -3246,33 +3272,20 @@
                 "dg": -7
             },
             {
-                "posicion": "15",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/793.png?v=6",
                 "equipo": "O. Marsella",
                 "puntos": "3",
-                "pj": "4",
+                "pj": "5",
                 "pg": "1",
                 "pe": "0",
-                "pp": "3",
-                "gf": 6,
-                "gc": 6,
-                "dg": 0
+                "pp": "4",
+                "gf": 7,
+                "gc": 8,
+                "dg": -1
             },
             {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/1721.png?v=6",
-                "equipo": "Auxerre",
-                "puntos": "3",
-                "pj": "4",
-                "pg": "1",
-                "pe": "0",
-                "pp": "3",
-                "gf": 5,
-                "gc": 11,
-                "dg": -6
-            },
-            {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/7987.png?v=6",
                 "equipo": "Le Havre AC",
                 "puntos": "2",
@@ -3283,22 +3296,15 @@
                 "gf": 4,
                 "gc": 7,
                 "dg": -3
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/1729.png?v=6",
-                "equipo": "Nice",
-                "puntos": "2",
-                "pj": "4",
-                "pg": "0",
-                "pe": "2",
-                "pp": "2",
-                "gf": 1,
-                "gc": 5,
-                "dg": -4
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Ferran Torres",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 4
+            },
             {
                 "nombre": "Paris Brunner",
                 "equipo": "Mónaco",
@@ -3324,15 +3330,21 @@
                 "goles": 4
             },
             {
+                "nombre": "Marquinhos",
+                "equipo": "PSG",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "goles": 3
+            },
+            {
                 "nombre": "Adil Bourabaa",
                 "equipo": "Le Mans",
                 "escudo": "https://statics-files.tycsports.com/escudos/1724.png",
                 "goles": 3
             },
             {
-                "nombre": "Ferran Torres",
-                "equipo": "PSG",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
+                "nombre": "Cameron Archer",
+                "equipo": "Auxerre",
+                "escudo": "https://statics-files.tycsports.com/escudos/1721.png",
                 "goles": 3
             },
             {
@@ -3351,18 +3363,6 @@
                 "nombre": "Louis Mafouta",
                 "equipo": "Le Mans",
                 "escudo": "https://statics-files.tycsports.com/escudos/1724.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Casper Tengstedt",
-                "equipo": "Toulouse",
-                "escudo": "https://statics-files.tycsports.com/escudos/1733.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Florian Thauvin",
-                "equipo": "Lens",
-                "escudo": "https://statics-files.tycsports.com/escudos/1730.png",
                 "goles": 3
             }
         ]

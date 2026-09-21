@@ -643,22 +643,22 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "20/09/2026 16:00 HS",
+                "fecha": "20/09/2026 16:00 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "visitante": "OLI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/215.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "20/09/2026 18:30 HS",
+                "fecha": "20/09/2026 18:30 HS Finalizado",
                 "local": "LUQ",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/213.png?v=6",
                 "visitante": "REC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png?v=6"
             },
             {
@@ -1338,6 +1338,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
+                "equipo": "Olimpia",
+                "puntos": "22",
+                "pj": "11",
+                "pg": "7",
+                "pe": "1",
+                "pp": "3",
+                "gf": 20,
+                "gc": 9,
+                "dg": 11
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "equipo": "Nacional (P)",
                 "puntos": "21",
@@ -1350,7 +1363,7 @@
                 "dg": 12
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
                 "equipo": "2 de Mayo",
                 "puntos": "21",
@@ -1361,19 +1374,6 @@
                 "gf": 12,
                 "gc": 11,
                 "dg": 1
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
-                "equipo": "Olimpia",
-                "puntos": "19",
-                "pj": "10",
-                "pg": "6",
-                "pe": "1",
-                "pp": "3",
-                "gf": 17,
-                "gc": 9,
-                "dg": 8
             },
             {
                 "posicion": "5",
@@ -1431,14 +1431,14 @@
                 "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
                 "equipo": "Sportivo Luqueño",
-                "puntos": "10",
-                "pj": "10",
-                "pg": "3",
+                "puntos": "13",
+                "pj": "11",
+                "pg": "4",
                 "pe": "1",
                 "pp": "6",
-                "gf": 11,
+                "gf": 12,
                 "gc": 20,
-                "dg": -9
+                "dg": -8
             },
             {
                 "posicion": "10",
@@ -1458,26 +1458,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "equipo": "D. Recoleta",
                 "puntos": "7",
-                "pj": "10",
+                "pj": "11",
                 "pg": "2",
                 "pe": "1",
-                "pp": "7",
+                "pp": "8",
                 "gf": 13,
-                "gc": 23,
-                "dg": -10
+                "gc": 24,
+                "dg": -11
             },
             {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "1",
-                "pj": "10",
+                "pj": "11",
                 "pg": "0",
                 "pe": "1",
-                "pp": "9",
+                "pp": "10",
                 "gf": 3,
-                "gc": 18,
-                "dg": -15
+                "gc": 21,
+                "dg": -18
             }
         ],
         "goleadores": [
