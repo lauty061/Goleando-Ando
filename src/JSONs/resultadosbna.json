@@ -5383,22 +5383,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/09/2026 15:00 HS",
+                "fecha": "21/09/2026 15:00 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/630.png?v=6",
                 "visitante": "ATL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "21/09/2026 19:00 HS",
+                "fecha": "21/09/2026 19:00 HS Finalizado",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "visitante": "PAT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/869.png?v=6"
             },
             {
@@ -6736,10 +6736,10 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/630.png?v=6",
                 "equipo": "Tristán Suárez",
-                "puntos": "53",
-                "pj": "29",
+                "puntos": "54",
+                "pj": "30",
                 "pg": "14",
-                "pe": "11",
+                "pe": "12",
                 "pp": "4",
                 "gf": 31,
                 "gc": 15,
@@ -6804,6 +6804,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/670.png?v=6",
+                "equipo": "Atlanta",
+                "puntos": "49",
+                "pj": "30",
+                "pg": "15",
+                "pe": "4",
+                "pp": "11",
+                "gf": 34,
+                "gc": 28,
+                "dg": 6
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/6.png?v=6",
                 "equipo": "Colón",
                 "puntos": "48",
@@ -6814,20 +6828,6 @@
                 "gf": 38,
                 "gc": 25,
                 "dg": 13
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/670.png?v=6",
-                "equipo": "Atlanta",
-                "puntos": "48",
-                "pj": "29",
-                "pg": "15",
-                "pe": "3",
-                "pp": "11",
-                "gf": 34,
-                "gc": 28,
-                "dg": 6
             },
             {
                 "zona": "Posiciones",
@@ -7072,13 +7072,13 @@
                 "posicion": "27",
                 "escudo": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "equipo": "Nueva Chicago",
-                "puntos": "32",
-                "pj": "29",
+                "puntos": "33",
+                "pj": "30",
                 "pg": "8",
-                "pe": "8",
+                "pe": "9",
                 "pp": "13",
-                "gf": 21,
-                "gc": 28,
+                "gf": 22,
+                "gc": 29,
                 "dg": -7
             },
             {
@@ -7112,6 +7112,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "30",
+                "escudo": "https://statics-files.tycsports.com/escudos/869.png?v=6",
+                "equipo": "Patronato",
+                "puntos": "31",
+                "pj": "30",
+                "pg": "5",
+                "pe": "16",
+                "pp": "9",
+                "gf": 24,
+                "gc": 31,
+                "dg": -7
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "31",
                 "escudo": "https://statics-files.tycsports.com/escudos/1915.png?v=6",
                 "equipo": "Central Norte",
                 "puntos": "31",
@@ -7125,7 +7139,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "31",
+                "posicion": "32",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png?v=6",
                 "equipo": "San Miguel",
                 "puntos": "31",
@@ -7139,7 +7153,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "32",
+                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/680.png?v=6",
                 "equipo": "San Telmo",
                 "puntos": "31",
@@ -7150,20 +7164,6 @@
                 "gf": 23,
                 "gc": 34,
                 "dg": -11
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "33",
-                "escudo": "https://statics-files.tycsports.com/escudos/869.png?v=6",
-                "equipo": "Patronato",
-                "puntos": "30",
-                "pj": "29",
-                "pg": "5",
-                "pe": "15",
-                "pp": "9",
-                "gf": 23,
-                "gc": 30,
-                "dg": -7
             },
             {
                 "zona": "Posiciones",

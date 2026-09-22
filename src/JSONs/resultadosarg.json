@@ -1473,32 +1473,32 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "21/09/2026 14:30 HS",
+                "fecha": "21/09/2026 14:30 HS Finalizado",
                 "local": "ALD",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/122.png?v=6",
                 "visitante": "ATT",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/815.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "21/09/2026 19:00 HS",
+                "fecha": "21/09/2026 19:00 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/685.png?v=6",
                 "visitante": "INM",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/664.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "21/09/2026 21:15 HS",
+                "fecha": "21/09/2026 21:15 HS Finalizado",
                 "local": "LAN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12.png?v=6",
                 "visitante": "EST",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7.png?v=6"
             },
             {
@@ -2864,20 +2864,6 @@
             {
                 "zona": "Grupo B",
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/815.png?v=6",
-                "equipo": "Atl. Tucumán",
-                "puntos": "13",
-                "pj": "9",
-                "pg": "3",
-                "pe": "4",
-                "pp": "2",
-                "gf": 7,
-                "gc": 5,
-                "dg": 2
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/17.png?v=6",
                 "equipo": "River Plate",
                 "puntos": "13",
@@ -2887,6 +2873,20 @@
                 "pp": "5",
                 "gf": 13,
                 "gc": 12,
+                "dg": 1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/815.png?v=6",
+                "equipo": "Atl. Tucumán",
+                "puntos": "13",
+                "pj": "10",
+                "pg": "3",
+                "pe": "4",
+                "pp": "3",
+                "gf": 7,
+                "gc": 6,
                 "dg": 1
             },
             {
@@ -2934,6 +2934,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/122.png?v=6",
+                "equipo": "Aldosivi",
+                "puntos": "8",
+                "pj": "10",
+                "pg": "2",
+                "pe": "2",
+                "pp": "6",
+                "gf": 12,
+                "gc": 16,
+                "dg": -4
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/16.png?v=6",
                 "equipo": "Racing Club",
                 "puntos": "8",
@@ -2947,7 +2961,7 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/834.png?v=6",
                 "equipo": "Estudiantes (RC)",
                 "puntos": "6",
@@ -2958,20 +2972,6 @@
                 "gf": 5,
                 "gc": 13,
                 "dg": -8
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/122.png?v=6",
-                "equipo": "Aldosivi",
-                "puntos": "5",
-                "pj": "9",
-                "pg": "1",
-                "pe": "2",
-                "pp": "6",
-                "gf": 11,
-                "gc": 16,
-                "dg": -5
             }
         ],
         "goleadores": [
