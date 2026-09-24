@@ -1043,12 +1043,12 @@
             },
             {
                 "fecha_torneo": "Semana 7",
-                "fecha": "23/09/2026 22:30 HS",
+                "fecha": "23/09/2026 22:30 HS Finalizado",
                 "local": "SEA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
                 "visitante": "RSL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2113.png?v=6"
             },
             {
@@ -5692,6 +5692,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
+                "equipo": "Seattle Sounders",
+                "puntos": "32",
+                "pj": "25",
+                "pg": "8",
+                "pe": "8",
+                "pp": "9",
+                "gf": 30,
+                "gc": 33,
+                "dg": -3
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/11968.png?v=6",
                 "equipo": "San Diego FC",
                 "puntos": "31",
@@ -5705,7 +5719,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/10530.png?v=6",
                 "equipo": "Austin FC",
                 "puntos": "30",
@@ -5719,31 +5733,17 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/2113.png?v=6",
                 "equipo": "Real Salt Lake",
                 "puntos": "29",
-                "pj": "25",
+                "pj": "26",
                 "pg": "8",
                 "pe": "5",
-                "pp": "12",
+                "pp": "13",
                 "gf": 37,
-                "gc": 42,
-                "dg": -5
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
-                "equipo": "Seattle Sounders",
-                "puntos": "29",
-                "pj": "24",
-                "pg": "7",
-                "pe": "8",
-                "pp": "9",
-                "gf": 28,
-                "gc": 33,
-                "dg": -5
+                "gc": 44,
+                "dg": -7
             },
             {
                 "zona": "Grupo Oeste",
