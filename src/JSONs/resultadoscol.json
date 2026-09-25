@@ -1123,12 +1123,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "24/09/2026 21:30 HS",
+                "fecha": "24/09/2026 21:30 HS Finalizado",
                 "local": "ATN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "visitante": "MIL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/184.png?v=6"
             },
             {
@@ -1153,7 +1153,7 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "26/09/2026 18:10 HS",
+                "fecha": "26/09/2026 18:00 HS",
                 "local": "PER",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/181.png?v=6",
@@ -2180,17 +2180,30 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
                 "equipo": "Millonarios",
-                "puntos": "19",
-                "pj": "11",
+                "puntos": "20",
+                "pj": "12",
                 "pg": "5",
-                "pe": "4",
+                "pe": "5",
                 "pp": "2",
-                "gf": 15,
-                "gc": 8,
+                "gf": 16,
+                "gc": 9,
                 "dg": 7
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
+                "equipo": "At. Nacional",
+                "puntos": "19",
+                "pj": "9",
+                "pg": "6",
+                "pe": "1",
+                "pp": "2",
+                "gf": 18,
+                "gc": 9,
+                "dg": 9
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
                 "equipo": "Indep. Medellín",
                 "puntos": "19",
@@ -2201,19 +2214,6 @@
                 "gf": 17,
                 "gc": 11,
                 "dg": 6
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
-                "equipo": "At. Nacional",
-                "puntos": "18",
-                "pj": "8",
-                "pg": "6",
-                "pe": "0",
-                "pp": "2",
-                "gf": 17,
-                "gc": 8,
-                "dg": 9
             },
             {
                 "posicion": "5",
