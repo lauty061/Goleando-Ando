@@ -3963,22 +3963,22 @@
             },
             {
                 "fecha_torneo": "Fecha 37",
-                "fecha": "25/09/2026 19:00 HS",
+                "fecha": "25/09/2026 19:00 HS Finalizado",
                 "local": "ITU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/781.png?v=6",
                 "visitante": "CADU",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/778.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 37",
-                "fecha": "25/09/2026 20:00 HS",
+                "fecha": "25/09/2026 20:00 HS Finalizado",
                 "local": "EXC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/689.png?v=6",
                 "visitante": "PIL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7234.png?v=6"
             },
             {
@@ -4777,14 +4777,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/689.png?v=6",
                 "equipo": "Excursionistas",
-                "puntos": "71",
-                "pj": "36",
-                "pg": "21",
+                "puntos": "74",
+                "pj": "37",
+                "pg": "22",
                 "pe": "8",
                 "pp": "7",
-                "gf": 56,
+                "gf": 59,
                 "gc": 29,
-                "dg": 27
+                "dg": 30
             },
             {
                 "posicion": "2",
@@ -4856,13 +4856,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7234.png?v=6",
                 "equipo": "Real Pilar",
                 "puntos": "58",
-                "pj": "36",
+                "pj": "37",
                 "pg": "16",
                 "pe": "10",
-                "pp": "10",
+                "pp": "11",
                 "gf": 40,
-                "gc": 35,
-                "dg": 5
+                "gc": 38,
+                "dg": 2
             },
             {
                 "posicion": "8",
@@ -4983,6 +4983,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=6",
+                "equipo": "Def. Unidos",
+                "puntos": "40",
+                "pj": "37",
+                "pg": "9",
+                "pe": "13",
+                "pp": "15",
+                "gf": 32,
+                "gc": 38,
+                "dg": -6
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/783.png?v=6",
                 "equipo": "Liniers",
                 "puntos": "40",
@@ -4995,7 +5008,7 @@
                 "dg": -7
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
                 "equipo": "Flandria",
                 "puntos": "38",
@@ -5006,19 +5019,6 @@
                 "gf": 32,
                 "gc": 45,
                 "dg": -13
-            },
-            {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=6",
-                "equipo": "Def. Unidos",
-                "puntos": "37",
-                "pj": "36",
-                "pg": "8",
-                "pe": "13",
-                "pp": "15",
-                "gf": 31,
-                "gc": 38,
-                "dg": -7
             },
             {
                 "posicion": "20",
@@ -5051,13 +5051,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png?v=6",
                 "equipo": "Ituzaingó",
                 "puntos": "15",
-                "pj": "36",
+                "pj": "37",
                 "pg": "1",
                 "pe": "12",
-                "pp": "23",
+                "pp": "24",
                 "gf": 23,
-                "gc": 58,
-                "dg": -35
+                "gc": 59,
+                "dg": -36
             }
         ],
         "goleadores": [

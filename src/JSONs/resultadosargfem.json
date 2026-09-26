@@ -723,12 +723,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "25/09/2026 14:00 HS",
+                "fecha": "25/09/2026 14:00 HS Finalizado",
                 "local": "IND",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6142.png?v=6",
                 "visitante": "FER",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10734.png?v=6"
             },
             {
@@ -1322,13 +1322,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10734.png?v=6",
                 "equipo": "Ferro",
                 "puntos": "13",
-                "pj": "8",
+                "pj": "9",
                 "pg": "4",
                 "pe": "1",
-                "pp": "3",
-                "gf": 14,
-                "gc": 13,
-                "dg": 1
+                "pp": "4",
+                "gf": 16,
+                "gc": 16,
+                "dg": 0
             },
             {
                 "posicion": "10",
@@ -1371,6 +1371,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/6142.png?v=6",
+                "equipo": "Independiente",
+                "puntos": "9",
+                "pj": "10",
+                "pg": "3",
+                "pe": "0",
+                "pp": "7",
+                "gf": 12,
+                "gc": 24,
+                "dg": -12
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
                 "equipo": "Huracán",
                 "puntos": "7",
@@ -1381,19 +1394,6 @@
                 "gf": 8,
                 "gc": 14,
                 "dg": -6
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/6142.png?v=6",
-                "equipo": "Independiente",
-                "puntos": "6",
-                "pj": "9",
-                "pg": "2",
-                "pe": "0",
-                "pp": "7",
-                "gf": 9,
-                "gc": 22,
-                "dg": -13
             },
             {
                 "posicion": "15",
@@ -1460,6 +1460,12 @@
                 "goles": 4
             },
             {
+                "nombre": "Alicia Zaracho",
+                "equipo": "Ferro",
+                "escudo": "https://statics-files.tycsports.com/escudos/10734.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Emily Arias",
                 "equipo": "San Lorenzo",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png",
@@ -1481,12 +1487,6 @@
                 "nombre": "Tiziana Lezcano",
                 "equipo": "Ferro",
                 "escudo": "https://statics-files.tycsports.com/escudos/10734.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Belén Abreu",
-                "equipo": "Huracán",
-                "escudo": "https://statics-files.tycsports.com/escudos/6138.png",
                 "goles": 3
             }
         ]
