@@ -733,22 +733,22 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "26/09/2026 15:00 HS",
+                "fecha": "26/09/2026 15:00 HS Finalizado",
                 "local": "BAN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
                 "visitante": "NOB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11275.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "26/09/2026 15:00 HS",
+                "fecha": "26/09/2026 15:00 HS Finalizado",
                 "local": "HUR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
                 "visitante": "TAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11974.png?v=6"
             },
             {
@@ -1215,6 +1215,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
+                "equipo": "Banfield",
+                "puntos": "21",
+                "pj": "10",
+                "pg": "6",
+                "pe": "3",
+                "pp": "1",
+                "gf": 17,
+                "gc": 8,
+                "dg": 9
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png?v=6",
                 "equipo": "San Luis FC",
                 "puntos": "21",
@@ -1227,20 +1240,20 @@
                 "dg": 8
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png?v=6",
-                "equipo": "Banfield",
+                "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=6",
+                "equipo": "Talleres",
                 "puntos": "18",
                 "pj": "9",
                 "pg": "5",
                 "pe": "3",
                 "pp": "1",
                 "gf": 14,
-                "gc": 7,
-                "dg": 7
+                "gc": 6,
+                "dg": 8
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/10937.png?v=6",
                 "equipo": "Belgrano (Cba.)",
                 "puntos": "16",
@@ -1253,7 +1266,7 @@
                 "dg": 9
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/3499.png?v=6",
                 "equipo": "Boca Juniors",
                 "puntos": "16",
@@ -1266,7 +1279,7 @@
                 "dg": 4
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/6144.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "15",
@@ -1277,19 +1290,6 @@
                 "gf": 13,
                 "gc": 6,
                 "dg": 7
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/11974.png?v=6",
-                "equipo": "Talleres",
-                "puntos": "15",
-                "pj": "8",
-                "pg": "4",
-                "pe": "3",
-                "pp": "1",
-                "gf": 12,
-                "gc": 6,
-                "dg": 6
             },
             {
                 "posicion": "7",
@@ -1387,13 +1387,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/6138.png?v=6",
                 "equipo": "Huracán",
                 "puntos": "7",
-                "pj": "9",
+                "pj": "10",
                 "pg": "2",
                 "pe": "1",
-                "pp": "6",
+                "pp": "7",
                 "gf": 8,
-                "gc": 14,
-                "dg": -6
+                "gc": 16,
+                "dg": -8
             },
             {
                 "posicion": "15",
@@ -1413,13 +1413,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/11275.png?v=6",
                 "equipo": "Newell`s",
                 "puntos": "1",
-                "pj": "9",
+                "pj": "10",
                 "pg": "0",
                 "pe": "1",
-                "pp": "8",
-                "gf": 3,
-                "gc": 20,
-                "dg": -17
+                "pp": "9",
+                "gf": 4,
+                "gc": 23,
+                "dg": -19
             }
         ],
         "goleadores": [
@@ -1428,6 +1428,12 @@
                 "equipo": "San Luis FC",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "goles": 9
+            },
+            {
+                "nombre": "Antonella Estigarribia",
+                "equipo": "Banfield",
+                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
+                "goles": 6
             },
             {
                 "nombre": "Sindy Ramírez",
@@ -1472,21 +1478,15 @@
                 "goles": 4
             },
             {
-                "nombre": "Antonella Estigarribia",
-                "equipo": "Banfield",
-                "escudo": "https://statics-files.tycsports.com/escudos/10938.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Melina Salinas",
                 "equipo": "San Luis FC",
                 "escudo": "https://statics-files.tycsports.com/escudos/11274.png",
                 "goles": 4
             },
             {
-                "nombre": "Tiziana Lezcano",
-                "equipo": "Ferro",
-                "escudo": "https://statics-files.tycsports.com/escudos/10734.png",
+                "nombre": "Eliana Stábile",
+                "equipo": "Talleres",
+                "escudo": "https://statics-files.tycsports.com/escudos/11974.png",
                 "goles": 3
             }
         ]
