@@ -4043,12 +4043,12 @@
             },
             {
                 "fecha_torneo": "Semana 23",
-                "fecha": "27/09/2026 20:00 HS",
+                "fecha": "27/09/2026 20:00 HS Finalizado",
                 "local": "CLB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1772.png?v=6",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8165.png?v=6"
             },
             {
@@ -5387,13 +5387,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/8165.png?v=6",
                 "equipo": "Inter Miami",
                 "puntos": "46",
-                "pj": "26",
+                "pj": "27",
                 "pg": "12",
                 "pe": "10",
-                "pp": "4",
-                "gf": 63,
-                "gc": 48,
-                "dg": 15
+                "pp": "5",
+                "gf": 64,
+                "gc": 50,
+                "dg": 14
             },
             {
                 "zona": "Grupo Este",
@@ -5510,6 +5510,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/1772.png?v=6",
+                "equipo": "Columbus Crew",
+                "puntos": "29",
+                "pj": "27",
+                "pg": "8",
+                "pe": "5",
+                "pp": "14",
+                "gf": 39,
+                "gc": 43,
+                "dg": -4
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/1779.png?v=6",
                 "equipo": "Toronto FC",
                 "puntos": "29",
@@ -5523,7 +5537,7 @@
             },
             {
                 "zona": "Grupo Este",
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/6751.png?v=6",
                 "equipo": "Atlanta United",
                 "puntos": "27",
@@ -5534,20 +5548,6 @@
                 "gf": 32,
                 "gc": 45,
                 "dg": -13
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/1772.png?v=6",
-                "equipo": "Columbus Crew",
-                "puntos": "26",
-                "pj": "26",
-                "pg": "7",
-                "pe": "5",
-                "pp": "14",
-                "gf": 37,
-                "gc": 42,
-                "dg": -5
             },
             {
                 "zona": "Grupo Este",
@@ -5779,7 +5779,7 @@
                 "nombre": "Lionel Messi",
                 "equipo": "Inter Miami",
                 "escudo": "https://statics-files.tycsports.com/escudos/8165.png",
-                "goles": 19
+                "goles": 20
             },
             {
                 "nombre": "Petar Musa",
