@@ -73,7 +73,7 @@
             },
             {
                 "fecha_torneo": "Fecha 1",
-                "fecha": "30/09/2026 HS",
+                "fecha": "30/09/2026 20:00 HS",
                 "local": "MCT",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
@@ -633,12 +633,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "28/09/2026 20:00 HS",
+                "fecha": "28/09/2026 20:00 HS Finalizado",
                 "local": "WAN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/200.png?v=6",
                 "visitante": "ALB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7557.png?v=6"
             },
             {
@@ -1309,6 +1309,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
+                "equipo": "Wanderers",
+                "puntos": "12",
+                "pj": "8",
+                "pg": "3",
+                "pe": "3",
+                "pp": "2",
+                "gf": 10,
+                "gc": 11,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png?v=6",
                 "equipo": "Progreso",
                 "puntos": "12",
@@ -1318,19 +1331,6 @@
                 "pp": "4",
                 "gf": 7,
                 "gc": 9,
-                "dg": -2
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
-                "equipo": "Wanderers",
-                "puntos": "9",
-                "pj": "7",
-                "pg": "2",
-                "pe": "3",
-                "pp": "2",
-                "gf": 8,
-                "gc": 10,
                 "dg": -2
             },
             {
@@ -1403,13 +1403,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "equipo": "Albion",
                 "puntos": "0",
-                "pj": "7",
+                "pj": "8",
                 "pg": "0",
                 "pe": "0",
-                "pp": "7",
-                "gf": 5,
-                "gc": 14,
-                "dg": -9
+                "pp": "8",
+                "gf": 6,
+                "gc": 16,
+                "dg": -10
             }
         ],
         "goleadores": [
@@ -1444,6 +1444,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Luciano Cosentino",
+                "equipo": "Wanderers",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Federico Martínez",
                 "equipo": "Liverpool (U)",
                 "escudo": "https://statics-files.tycsports.com/escudos/191.png",
@@ -1453,12 +1459,6 @@
                 "nombre": "Fernando Mimbacas",
                 "equipo": "Juventud",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Luciano Cosentino",
-                "equipo": "Wanderers",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "goles": 9
             },
             {
