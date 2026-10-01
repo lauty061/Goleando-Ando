@@ -4053,12 +4053,12 @@
             },
             {
                 "fecha_torneo": "Semana 23",
-                "fecha": "30/09/2026 20:30 HS",
+                "fecha": "30/09/2026 20:30 HS Finalizado",
                 "local": "NYR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1776.png?v=6",
                 "visitante": "SLO",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10774.png?v=6"
             },
             {
@@ -5457,13 +5457,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1776.png?v=6",
                 "equipo": "NY Red Bulls",
                 "puntos": "33",
-                "pj": "26",
+                "pj": "27",
                 "pg": "9",
                 "pe": "6",
-                "pp": "11",
+                "pp": "12",
                 "gf": 34,
-                "gc": 48,
-                "dg": -14
+                "gc": 51,
+                "dg": -17
             },
             {
                 "zona": "Grupo Este",
@@ -5580,6 +5580,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/10774.png?v=6",
+                "equipo": "St. Louis City",
+                "puntos": "47",
+                "pj": "27",
+                "pg": "13",
+                "pe": "8",
+                "pp": "6",
+                "gf": 48,
+                "gc": 36,
+                "dg": 12
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/2111.png?v=6",
                 "equipo": "FC Dallas",
                 "puntos": "47",
@@ -5593,7 +5607,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/2114.png?v=6",
                 "equipo": "SJ Earthquakes",
                 "puntos": "45",
@@ -5607,7 +5621,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/1297.png?v=6",
                 "equipo": "Houston",
                 "puntos": "44",
@@ -5618,20 +5632,6 @@
                 "gf": 34,
                 "gc": 32,
                 "dg": 2
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/10774.png?v=6",
-                "equipo": "St. Louis City",
-                "puntos": "44",
-                "pj": "26",
-                "pg": "12",
-                "pe": "8",
-                "pp": "6",
-                "gf": 45,
-                "gc": 36,
-                "dg": 9
             },
             {
                 "zona": "Grupo Oeste",
@@ -5812,6 +5812,12 @@
                 "goles": 15
             },
             {
+                "nombre": "Navarro Leal, R.",
+                "equipo": "St. Louis City",
+                "escudo": "https://statics-files.tycsports.com/escudos/10774.png",
+                "goles": 15
+            },
+            {
                 "nombre": "Nicolás Fernández Mercau",
                 "equipo": "New York City FC",
                 "escudo": "https://statics-files.tycsports.com/escudos/5469.png",
@@ -5833,12 +5839,6 @@
                 "nombre": "Denis Bouanga",
                 "equipo": "Los Angeles FC",
                 "escudo": "https://statics-files.tycsports.com/escudos/7548.png",
-                "goles": 14
-            },
-            {
-                "nombre": "Kelvin Yeaboah",
-                "equipo": "Minnesota United",
-                "escudo": "https://statics-files.tycsports.com/escudos/5036.png",
                 "goles": 14
             }
         ]

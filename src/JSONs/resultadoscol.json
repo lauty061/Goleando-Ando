@@ -293,12 +293,12 @@
             },
             {
                 "fecha_torneo": "Fecha 3",
-                "fecha": "30/09/2026 22:05 HS",
+                "fecha": "30/09/2026 22:00 HS Finalizado",
                 "local": "ATN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "visitante": "JUN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/81.png?v=6"
             },
             {
@@ -2178,6 +2178,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
+                "equipo": "At. Nacional",
+                "puntos": "22",
+                "pj": "10",
+                "pg": "7",
+                "pe": "1",
+                "pp": "2",
+                "gf": 21,
+                "gc": 10,
+                "dg": 11
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
                 "puntos": "21",
@@ -2190,7 +2203,7 @@
                 "dg": 9
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
                 "equipo": "Millonarios",
                 "puntos": "21",
@@ -2203,7 +2216,7 @@
                 "dg": 7
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "equipo": "Bucaramanga",
                 "puntos": "20",
@@ -2216,7 +2229,7 @@
                 "dg": 8
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/67.png?v=6",
                 "equipo": "Indep. Medellín",
                 "puntos": "20",
@@ -2227,19 +2240,6 @@
                 "gf": 19,
                 "gc": 15,
                 "dg": 4
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
-                "equipo": "At. Nacional",
-                "puntos": "19",
-                "pj": "9",
-                "pg": "6",
-                "pe": "1",
-                "pp": "2",
-                "gf": 18,
-                "gc": 9,
-                "dg": 9
             },
             {
                 "posicion": "7",
@@ -2360,6 +2360,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
+                "equipo": "Junior",
+                "puntos": "9",
+                "pj": "10",
+                "pg": "2",
+                "pe": "3",
+                "pp": "5",
+                "gf": 15,
+                "gc": 17,
+                "dg": -2
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png?v=6",
                 "equipo": "Fortaleza FC",
                 "puntos": "9",
@@ -2370,19 +2383,6 @@
                 "gf": 13,
                 "gc": 18,
                 "dg": -5
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
-                "equipo": "Junior",
-                "puntos": "9",
-                "pj": "9",
-                "pg": "2",
-                "pe": "3",
-                "pp": "4",
-                "gf": 14,
-                "gc": 14,
-                "dg": 0
             },
             {
                 "posicion": "18",
