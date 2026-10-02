@@ -3753,12 +3753,12 @@
             },
             {
                 "fecha_torneo": "Semana 21",
-                "fecha": "01/10/2026 22:30 HS",
+                "fecha": "01/10/2026 22:30 HS Finalizado",
                 "local": "SEA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
                 "visitante": "SKC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3203.png?v=6"
             },
             {
@@ -5650,6 +5650,20 @@
             {
                 "zona": "Grupo Oeste",
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
+                "equipo": "Seattle Sounders",
+                "puntos": "38",
+                "pj": "27",
+                "pg": "10",
+                "pe": "8",
+                "pp": "9",
+                "gf": 35,
+                "gc": 35,
+                "dg": 0
+            },
+            {
+                "zona": "Grupo Oeste",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/2110.png?v=6",
                 "equipo": "Colorado Rapids",
                 "puntos": "36",
@@ -5663,7 +5677,7 @@
             },
             {
                 "zona": "Grupo Oeste",
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/2112.png?v=6",
                 "equipo": "LA Galaxy",
                 "puntos": "36",
@@ -5674,20 +5688,6 @@
                 "gf": 37,
                 "gc": 44,
                 "dg": -7
-            },
-            {
-                "zona": "Grupo Oeste",
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/2115.png?v=6",
-                "equipo": "Seattle Sounders",
-                "puntos": "35",
-                "pj": "26",
-                "pg": "9",
-                "pe": "8",
-                "pp": "9",
-                "gf": 33,
-                "gc": 34,
-                "dg": -1
             },
             {
                 "zona": "Grupo Oeste",
@@ -5765,13 +5765,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3203.png?v=6",
                 "equipo": "Sporting KC",
                 "puntos": "21",
-                "pj": "26",
+                "pj": "27",
                 "pg": "6",
                 "pe": "3",
-                "pp": "17",
-                "gf": 31,
-                "gc": 63,
-                "dg": -32
+                "pp": "18",
+                "gf": 32,
+                "gc": 65,
+                "dg": -33
             }
         ],
         "goleadores": [
