@@ -1213,12 +1213,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "02/10/2026 21:45 HS",
+                "fecha": "02/10/2026 21:45 HS Finalizado",
                 "local": "CAL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/921.png?v=6"
             },
             {
@@ -2178,6 +2178,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
+                "equipo": "Deportivo Cali",
+                "puntos": "24",
+                "pj": "12",
+                "pg": "7",
+                "pe": "3",
+                "pp": "2",
+                "gf": 20,
+                "gc": 9,
+                "dg": 11
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "equipo": "At. Nacional",
                 "puntos": "22",
@@ -2188,19 +2201,6 @@
                 "gf": 21,
                 "gc": 10,
                 "dg": 11
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
-                "equipo": "Deportivo Cali",
-                "puntos": "21",
-                "pj": "11",
-                "pg": "6",
-                "pe": "3",
-                "pp": "2",
-                "gf": 17,
-                "gc": 8,
-                "dg": 9
             },
             {
                 "posicion": "4",
@@ -2350,13 +2350,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
                 "equipo": "Alianza",
                 "puntos": "11",
-                "pj": "11",
+                "pj": "12",
                 "pg": "3",
                 "pe": "2",
-                "pp": "6",
-                "gf": 11,
-                "gc": 21,
-                "dg": -10
+                "pp": "7",
+                "gf": 12,
+                "gc": 24,
+                "dg": -12
             },
             {
                 "posicion": "16",

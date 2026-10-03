@@ -1833,12 +1833,12 @@
             },
             {
                 "fecha_torneo": "Fecha 23",
-                "fecha": "02/10/2026 20:00 HS",
+                "fecha": "02/10/2026 20:00 HS Finalizado",
                 "local": "UDC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "visitante": "HUA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png?v=6"
             },
             {
@@ -2509,6 +2509,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
+                "equipo": "Huachipato",
+                "puntos": "31",
+                "pj": "23",
+                "pg": "9",
+                "pe": "4",
+                "pp": "10",
+                "gf": 32,
+                "gc": 39,
+                "dg": -7
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "equipo": "D. La Serena",
                 "puntos": "30",
@@ -2521,7 +2534,7 @@
                 "dg": -4
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "equipo": "Coquimbo Unido",
                 "puntos": "29",
@@ -2534,7 +2547,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
                 "puntos": "28",
@@ -2545,19 +2558,6 @@
                 "gf": 26,
                 "gc": 31,
                 "dg": -5
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
-                "equipo": "Huachipato",
-                "puntos": "28",
-                "pj": "22",
-                "pg": "8",
-                "pe": "4",
-                "pp": "10",
-                "gf": 30,
-                "gc": 39,
-                "dg": -9
             },
             {
                 "posicion": "13",
@@ -2590,13 +2590,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
                 "puntos": "22",
-                "pj": "22",
+                "pj": "23",
                 "pg": "6",
                 "pe": "4",
-                "pp": "12",
+                "pp": "13",
                 "gf": 17,
-                "gc": 37,
-                "dg": -20
+                "gc": 39,
+                "dg": -22
             },
             {
                 "posicion": "16",
@@ -2641,7 +2641,7 @@
                 "nombre": "Lionel Altamirano",
                 "equipo": "Huachipato",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
-                "goles": 9
+                "goles": 10
             },
             {
                 "nombre": "Eduardo Vargas",
