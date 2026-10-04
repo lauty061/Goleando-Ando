@@ -643,32 +643,32 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/10/2026 11:00 HS",
+                "fecha": "03/10/2026 11:00 HS Finalizado",
                 "local": "LIV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/191.png?v=6",
                 "visitante": "PRO",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/510.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/10/2026 15:00 HS",
+                "fecha": "03/10/2026 15:00 HS Finalizado",
                 "local": "ALB",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "visitante": "DEF",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/110.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "03/10/2026 18:00 HS",
+                "fecha": "03/10/2026 18:00 HS Finalizado",
                 "local": "MAL",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/959.png?v=6",
                 "visitante": "CEN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/273.png?v=6"
             },
             {
@@ -1205,6 +1205,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
+                "equipo": "Liverpool (U)",
+                "puntos": "20",
+                "pj": "9",
+                "pg": "6",
+                "pe": "2",
+                "pp": "1",
+                "gf": 17,
+                "gc": 7,
+                "dg": 10
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "equipo": "MC Torque",
                 "puntos": "19",
@@ -1217,20 +1230,20 @@
                 "dg": 11
             },
             {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
-                "equipo": "Liverpool (U)",
+                "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
+                "equipo": "Maldonado",
                 "puntos": "17",
-                "pj": "8",
+                "pj": "9",
                 "pg": "5",
                 "pe": "2",
-                "pp": "1",
-                "gf": 14,
+                "pp": "2",
+                "gf": 13,
                 "gc": 5,
-                "dg": 9
+                "dg": 8
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "equipo": "Peñarol",
                 "puntos": "16",
@@ -1241,19 +1254,6 @@
                 "gf": 14,
                 "gc": 6,
                 "dg": 8
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
-                "equipo": "Maldonado",
-                "puntos": "14",
-                "pj": "8",
-                "pg": "4",
-                "pe": "2",
-                "pp": "2",
-                "gf": 10,
-                "gc": 5,
-                "dg": 5
             },
             {
                 "posicion": "5",
@@ -1325,13 +1325,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png?v=6",
                 "equipo": "Progreso",
                 "puntos": "12",
-                "pj": "8",
+                "pj": "9",
                 "pg": "4",
                 "pe": "0",
-                "pp": "4",
-                "gf": 7,
-                "gc": 9,
-                "dg": -2
+                "pp": "5",
+                "gf": 9,
+                "gc": 12,
+                "dg": -3
             },
             {
                 "posicion": "11",
@@ -1351,13 +1351,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/110.png?v=6",
                 "equipo": "Defensor Sporting",
                 "puntos": "8",
-                "pj": "8",
+                "pj": "9",
                 "pg": "2",
                 "pe": "2",
-                "pp": "4",
-                "gf": 7,
-                "gc": 13,
-                "dg": -6
+                "pp": "5",
+                "gf": 9,
+                "gc": 16,
+                "dg": -7
             },
             {
                 "posicion": "13",
@@ -1377,13 +1377,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/273.png?v=6",
                 "equipo": "Central Español",
                 "puntos": "5",
-                "pj": "8",
+                "pj": "9",
                 "pg": "1",
                 "pe": "2",
-                "pp": "5",
+                "pp": "6",
                 "gf": 5,
-                "gc": 13,
-                "dg": -8
+                "gc": 16,
+                "dg": -11
             },
             {
                 "posicion": "15",
@@ -1402,14 +1402,14 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "equipo": "Albion",
-                "puntos": "0",
-                "pj": "8",
-                "pg": "0",
+                "puntos": "3",
+                "pj": "9",
+                "pg": "1",
                 "pe": "0",
                 "pp": "8",
-                "gf": 6,
-                "gc": 16,
-                "dg": -10
+                "gf": 9,
+                "gc": 18,
+                "dg": -9
             }
         ],
         "goleadores": [
@@ -1474,9 +1474,9 @@
                 "goles": 9
             },
             {
-                "nombre": "Abel Hernández",
-                "equipo": "Peñarol",
-                "escudo": "https://statics-files.tycsports.com/escudos/98.png",
+                "nombre": "Nahuel López",
+                "equipo": "Progreso",
+                "escudo": "https://statics-files.tycsports.com/escudos/510.png",
                 "goles": 8
             }
         ]

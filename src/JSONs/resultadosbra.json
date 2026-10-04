@@ -2093,12 +2093,12 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "03/10/2026 18:30 HS",
+                "fecha": "03/10/2026 18:30 HS Finalizado",
                 "local": "MIN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/624.png?v=6",
                 "visitante": "BRA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/238.png?v=6"
             },
             {
@@ -3883,6 +3883,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
+                "equipo": "Atlético Mineiro",
+                "puntos": "43",
+                "pj": "28",
+                "pg": "12",
+                "pe": "7",
+                "pp": "9",
+                "gf": 37,
+                "gc": 32,
+                "dg": 5
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/73.png?v=6",
                 "equipo": "Santos",
                 "puntos": "41",
@@ -3893,19 +3906,6 @@
                 "gf": 43,
                 "gc": 41,
                 "dg": 2
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
-                "equipo": "Atlético Mineiro",
-                "puntos": "40",
-                "pj": "27",
-                "pg": "11",
-                "pe": "7",
-                "pp": "9",
-                "gf": 36,
-                "gc": 32,
-                "dg": 4
             },
             {
                 "posicion": "9",
@@ -3922,21 +3922,21 @@
             },
             {
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/238.png?v=6",
-                "equipo": "RB Bragantino",
+                "escudo": "https://statics-files.tycsports.com/escudos/75.png?v=6",
+                "equipo": "São Paulo",
                 "puntos": "36",
-                "pj": "27",
+                "pj": "28",
                 "pg": "10",
                 "pe": "6",
-                "pp": "11",
+                "pp": "12",
                 "gf": 33,
-                "gc": 31,
-                "dg": 2
+                "gc": 32,
+                "dg": 1
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/75.png?v=6",
-                "equipo": "São Paulo",
+                "escudo": "https://statics-files.tycsports.com/escudos/238.png?v=6",
+                "equipo": "RB Bragantino",
                 "puntos": "36",
                 "pj": "28",
                 "pg": "10",

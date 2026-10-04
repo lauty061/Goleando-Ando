@@ -1223,22 +1223,22 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "03/10/2026 16:00 HS",
+                "fecha": "03/10/2026 16:00 HS Finalizado",
                 "local": "AGU",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "visitante": "JAG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1655.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "03/10/2026 18:05 HS",
+                "fecha": "03/10/2026 18:05 HS Finalizado",
                 "local": "TOL",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/179.png?v=6",
                 "visitante": "BOY",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/177.png?v=6"
             },
             {
@@ -2258,10 +2258,10 @@
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
                 "equipo": "Tolima",
-                "puntos": "18",
-                "pj": "11",
+                "puntos": "19",
+                "pj": "12",
                 "pg": "5",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
                 "gf": 15,
                 "gc": 13,
@@ -2282,6 +2282,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
+                "equipo": "Águilas Doradas",
+                "puntos": "14",
+                "pj": "11",
+                "pg": "3",
+                "pe": "5",
+                "pp": "3",
+                "gf": 14,
+                "gc": 15,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "equipo": "Once Caldas",
                 "puntos": "12",
@@ -2294,7 +2307,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "equipo": "Int. de Bogotá",
                 "puntos": "12",
@@ -2307,7 +2320,7 @@
                 "dg": -4
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
                 "equipo": "Cúcuta",
                 "puntos": "12",
@@ -2320,26 +2333,13 @@
                 "dg": -8
             },
             {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
-                "equipo": "Águilas Doradas",
-                "puntos": "11",
-                "pj": "10",
-                "pg": "2",
-                "pe": "5",
-                "pp": "3",
-                "gf": 12,
-                "gc": 15,
-                "dg": -3
-            },
-            {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/177.png?v=6",
                 "equipo": "Boyacá Chicó",
-                "puntos": "11",
-                "pj": "10",
+                "puntos": "12",
+                "pj": "11",
                 "pg": "3",
-                "pe": "2",
+                "pe": "3",
                 "pp": "5",
                 "gf": 10,
                 "gc": 18,
@@ -2415,13 +2415,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1655.png?v=6",
                 "equipo": "Jaguares",
                 "puntos": "7",
-                "pj": "10",
+                "pj": "11",
                 "pg": "1",
                 "pe": "4",
-                "pp": "5",
+                "pp": "6",
                 "gf": 11,
-                "gc": 18,
-                "dg": -7
+                "gc": 20,
+                "dg": -9
             }
         ],
         "goleadores": []
