@@ -5753,12 +5753,12 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "05/10/2026 17:00 HS",
+                "fecha": "05/10/2026 17:00 HS Finalizado",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "visitante": "MAI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/862.png?v=6"
             },
             {
@@ -6860,6 +6860,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/862.png?v=6",
+                "equipo": "Deportivo Maipú",
+                "puntos": "47",
+                "pj": "32",
+                "pg": "13",
+                "pe": "8",
+                "pp": "11",
+                "gf": 39,
+                "gc": 31,
+                "dg": 8
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/665.png?v=6",
                 "equipo": "Almirante Brown",
                 "puntos": "46",
@@ -6873,7 +6887,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/687.png?v=6",
                 "equipo": "Colegiales",
                 "puntos": "46",
@@ -6887,7 +6901,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/134.png?v=6",
                 "equipo": "San Martín (SJ)",
                 "puntos": "45",
@@ -6901,7 +6915,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/663.png?v=6",
                 "equipo": "Estudiantes (BA)",
                 "puntos": "45",
@@ -6915,7 +6929,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/10612.png?v=6",
                 "equipo": "Ciudad Bolívar",
                 "puntos": "45",
@@ -6926,20 +6940,6 @@
                 "gf": 27,
                 "gc": 28,
                 "dg": -1
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/862.png?v=6",
-                "equipo": "Deportivo Maipú",
-                "puntos": "44",
-                "pj": "31",
-                "pg": "12",
-                "pe": "8",
-                "pp": "11",
-                "gf": 38,
-                "gc": 31,
-                "dg": 7
             },
             {
                 "zona": "Posiciones",
@@ -7087,13 +7087,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "equipo": "Nueva Chicago",
                 "puntos": "36",
-                "pj": "31",
+                "pj": "32",
                 "pg": "9",
                 "pe": "9",
-                "pp": "13",
+                "pp": "14",
                 "gf": 23,
-                "gc": 29,
-                "dg": -6
+                "gc": 30,
+                "dg": -7
             },
             {
                 "zona": "Posiciones",

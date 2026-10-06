@@ -713,12 +713,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "05/10/2026 20:00 HS",
+                "fecha": "05/10/2026 20:00 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/83.png?v=6",
                 "visitante": "MCT",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4043.png?v=6"
             },
             {
@@ -1221,13 +1221,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "equipo": "MC Torque",
                 "puntos": "19",
-                "pj": "8",
+                "pj": "9",
                 "pg": "6",
                 "pe": "1",
-                "pp": "1",
+                "pp": "2",
                 "gf": 19,
-                "gc": 8,
-                "dg": 11
+                "gc": 10,
+                "dg": 9
             },
             {
                 "posicion": "3",
@@ -1257,6 +1257,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
+                "equipo": "Nacional",
+                "puntos": "17",
+                "pj": "9",
+                "pg": "5",
+                "pe": "2",
+                "pp": "2",
+                "gf": 13,
+                "gc": 9,
+                "dg": 4
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/200.png?v=6",
                 "equipo": "Wanderers",
                 "puntos": "15",
@@ -1269,7 +1282,7 @@
                 "dg": 1
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
                 "equipo": "Juventud",
                 "puntos": "14",
@@ -1280,19 +1293,6 @@
                 "gf": 10,
                 "gc": 6,
                 "dg": 4
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
-                "equipo": "Nacional",
-                "puntos": "14",
-                "pj": "8",
-                "pg": "4",
-                "pe": "2",
-                "pp": "2",
-                "gf": 11,
-                "gc": 9,
-                "dg": 2
             },
             {
                 "posicion": "8",
@@ -1417,7 +1417,7 @@
                 "nombre": "Maxi Gómez",
                 "equipo": "Nacional",
                 "escudo": "https://statics-files.tycsports.com/escudos/83.png",
-                "goles": 16
+                "goles": 17
             },
             {
                 "nombre": "Álvaro López",

@@ -4163,22 +4163,22 @@
             },
             {
                 "fecha_torneo": "Fecha 38",
-                "fecha": "05/10/2026 15:00 HS",
+                "fecha": "05/10/2026 15:00 HS Finalizado",
                 "local": "UR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "visitante": "ITU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/781.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 38",
-                "fecha": "05/10/2026 19:00 HS",
+                "fecha": "05/10/2026 19:00 HS Finalizado",
                 "local": "MER",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/678.png?v=6",
                 "visitante": "BRW",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/671.png?v=6"
             },
             {
@@ -4957,6 +4957,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/678.png?v=6",
+                "equipo": "Dep. Merlo",
+                "puntos": "44",
+                "pj": "38",
+                "pg": "10",
+                "pe": "14",
+                "pp": "14",
+                "gf": 36,
+                "gc": 51,
+                "dg": -15
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=6",
                 "equipo": "Arg. de Quilmes",
                 "puntos": "43",
@@ -4969,7 +4982,7 @@
                 "dg": -7
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/783.png?v=6",
                 "equipo": "Liniers",
                 "puntos": "43",
@@ -4980,19 +4993,6 @@
                 "gf": 31,
                 "gc": 39,
                 "dg": -8
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/678.png?v=6",
-                "equipo": "Dep. Merlo",
-                "puntos": "43",
-                "pj": "37",
-                "pg": "10",
-                "pe": "13",
-                "pp": "14",
-                "gf": 36,
-                "gc": 51,
-                "dg": -15
             },
             {
                 "posicion": "18",
@@ -5009,6 +5009,19 @@
             },
             {
                 "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
+                "equipo": "Brown (Adrogué)",
+                "puntos": "39",
+                "pj": "38",
+                "pg": "8",
+                "pe": "15",
+                "pp": "15",
+                "gf": 24,
+                "gc": 37,
+                "dg": -13
+            },
+            {
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
                 "equipo": "Flandria",
                 "puntos": "39",
@@ -5021,43 +5034,30 @@
                 "dg": -14
             },
             {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
-                "equipo": "Brown (Adrogué)",
-                "puntos": "38",
-                "pj": "37",
-                "pg": "8",
-                "pe": "14",
-                "pp": "15",
-                "gf": 24,
-                "gc": 37,
-                "dg": -13
-            },
-            {
                 "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "equipo": "UAI Urquiza",
-                "puntos": "32",
-                "pj": "37",
-                "pg": "4",
+                "puntos": "35",
+                "pj": "38",
+                "pg": "5",
                 "pe": "20",
                 "pp": "13",
-                "gf": 18,
-                "gc": 33,
-                "dg": -15
+                "gf": 21,
+                "gc": 35,
+                "dg": -14
             },
             {
                 "posicion": "22",
                 "escudo": "https://statics-files.tycsports.com/escudos/781.png?v=6",
                 "equipo": "Ituzaingó",
                 "puntos": "15",
-                "pj": "37",
+                "pj": "38",
                 "pg": "1",
                 "pe": "12",
-                "pp": "24",
-                "gf": 23,
-                "gc": 59,
-                "dg": -36
+                "pp": "25",
+                "gf": 25,
+                "gc": 62,
+                "dg": -37
             }
         ],
         "goleadores": [
