@@ -2253,12 +2253,12 @@
             },
             {
                 "fecha_torneo": "Semana 14",
-                "fecha": "06/10/2026 21:30 HS",
+                "fecha": "06/10/2026 21:30 HS Finalizado",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1688.png?v=6",
                 "visitante": "VAN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3204.png?v=6"
             },
             {
@@ -3453,7 +3453,7 @@
             },
             {
                 "fecha_torneo": "Semana 20",
-                "fecha": "05/09/2026 HS Postergado",
+                "fecha": "21/10/2026 20:00 HS",
                 "local": "CIN",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7819.png?v=6",
@@ -5398,6 +5398,20 @@
             {
                 "zona": "Grupo Este",
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/1688.png?v=6",
+                "equipo": "Chicago Fire",
+                "puntos": "45",
+                "pj": "27",
+                "pg": "13",
+                "pe": "6",
+                "pp": "8",
+                "gf": 49,
+                "gc": 39,
+                "dg": 10
+            },
+            {
+                "zona": "Grupo Este",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/10713.png?v=6",
                 "equipo": "Charlotte FC",
                 "puntos": "43",
@@ -5408,20 +5422,6 @@
                 "gf": 47,
                 "gc": 38,
                 "dg": 9
-            },
-            {
-                "zona": "Grupo Este",
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/1688.png?v=6",
-                "equipo": "Chicago Fire",
-                "puntos": "42",
-                "pj": "26",
-                "pg": "12",
-                "pe": "6",
-                "pp": "8",
-                "gf": 46,
-                "gc": 38,
-                "dg": 8
             },
             {
                 "zona": "Grupo Este",
@@ -5569,13 +5569,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3204.png?v=6",
                 "equipo": "Vancouver",
                 "puntos": "50",
-                "pj": "26",
+                "pj": "27",
                 "pg": "15",
                 "pe": "5",
-                "pp": "6",
-                "gf": 59,
-                "gc": 26,
-                "dg": 33
+                "pp": "7",
+                "gf": 60,
+                "gc": 29,
+                "dg": 31
             },
             {
                 "zona": "Grupo Oeste",
