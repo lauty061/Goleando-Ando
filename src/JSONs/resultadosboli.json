@@ -1603,12 +1603,12 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "09/10/2026 16:00 HS",
+                "fecha": "09/10/2026 16:00 HS Finalizado",
                 "local": "SAB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
                 "visitante": "TOM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10529.png?v=6"
             },
             {
@@ -2548,6 +2548,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
+                "equipo": "San Antonio",
+                "puntos": "21",
+                "pj": "21",
+                "pg": "6",
+                "pe": "3",
+                "pp": "12",
+                "gf": 21,
+                "gc": 40,
+                "dg": -19
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png?v=6",
                 "equipo": "ABB",
                 "puntos": "20",
@@ -2558,19 +2571,6 @@
                 "gf": 31,
                 "gc": 45,
                 "dg": -14
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
-                "equipo": "San Antonio",
-                "puntos": "20",
-                "pj": "20",
-                "pg": "6",
-                "pe": "2",
-                "pp": "12",
-                "gf": 21,
-                "gc": 40,
-                "dg": -19
             },
             {
                 "posicion": "14",
@@ -2589,10 +2589,10 @@
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/10529.png?v=6",
                 "equipo": "Real Tomayapo",
-                "puntos": "16",
-                "pj": "20",
+                "puntos": "17",
+                "pj": "21",
                 "pg": "4",
-                "pe": "4",
+                "pe": "5",
                 "pp": "12",
                 "gf": 15,
                 "gc": 39,

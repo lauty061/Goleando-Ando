@@ -453,12 +453,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "09/10/2026 15:45 HS",
+                "fecha": "09/10/2026 15:45 HS Finalizado",
                 "local": "LEN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
                 "visitante": "LYO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/794.png?v=6"
             },
             {
@@ -3081,13 +3081,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/794.png?v=6",
                 "equipo": "Olympique Lyon",
                 "puntos": "11",
-                "pj": "5",
+                "pj": "6",
                 "pg": "3",
                 "pe": "2",
-                "pp": "0",
-                "gf": 10,
-                "gc": 2,
-                "dg": 8
+                "pp": "1",
+                "gf": 11,
+                "gc": 4,
+                "dg": 7
             },
             {
                 "posicion": "3",
@@ -3143,6 +3143,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
+                "equipo": "Lens",
+                "puntos": "7",
+                "pj": "6",
+                "pg": "2",
+                "pe": "1",
+                "pp": "3",
+                "gf": 11,
+                "gc": 10,
+                "dg": 1
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/5693.png?v=6",
                 "equipo": "Angers",
                 "puntos": "7",
@@ -3155,7 +3168,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/7100.png?v=6",
                 "equipo": "RC Strasbourg",
                 "puntos": "7",
@@ -3168,7 +3181,7 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1724.png?v=6",
                 "equipo": "Le Mans",
                 "puntos": "6",
@@ -3181,7 +3194,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1721.png?v=6",
                 "equipo": "Auxerre",
                 "puntos": "6",
@@ -3194,7 +3207,7 @@
                 "dg": -5
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/2291.png?v=6",
                 "equipo": "Stade Brestois",
                 "puntos": "5",
@@ -3207,7 +3220,7 @@
                 "dg": -1
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/1726.png?v=6",
                 "equipo": "Lorient",
                 "puntos": "5",
@@ -3220,7 +3233,7 @@
                 "dg": -1
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/1733.png?v=6",
                 "equipo": "Toulouse",
                 "puntos": "5",
@@ -3233,7 +3246,7 @@
                 "dg": -2
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1729.png?v=6",
                 "equipo": "Nice",
                 "puntos": "5",
@@ -3244,19 +3257,6 @@
                 "gf": 3,
                 "gc": 6,
                 "dg": -3
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
-                "equipo": "Lens",
-                "puntos": "4",
-                "pj": "5",
-                "pg": "1",
-                "pe": "1",
-                "pp": "3",
-                "gf": 9,
-                "gc": 9,
-                "dg": 0
             },
             {
                 "posicion": "16",

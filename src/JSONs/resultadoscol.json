@@ -1313,22 +1313,22 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "09/10/2026 20:00 HS",
+                "fecha": "09/10/2026 20:00 HS Finalizado",
                 "local": "AFC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/921.png?v=6",
                 "visitante": "AGU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/922.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "09/10/2026 22:10 HS",
+                "fecha": "09/10/2026 22:10 HS Finalizado",
                 "local": "ONC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "visitante": "LLA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/880.png?v=6"
             },
             {
@@ -2269,6 +2269,32 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
+                "equipo": "Once Caldas",
+                "puntos": "16",
+                "pj": "13",
+                "pg": "4",
+                "pe": "4",
+                "pp": "5",
+                "gf": 16,
+                "gc": 16,
+                "dg": 0
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
+                "equipo": "Águilas Doradas",
+                "puntos": "15",
+                "pj": "12",
+                "pg": "3",
+                "pe": "6",
+                "pp": "3",
+                "gf": 16,
+                "gc": 17,
+                "dg": -1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
                 "equipo": "Cúcuta",
                 "puntos": "15",
@@ -2281,43 +2307,17 @@
                 "dg": -4
             },
             {
-                "posicion": "10",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
                 "equipo": "Llaneros FC",
                 "puntos": "14",
-                "pj": "12",
+                "pj": "13",
                 "pg": "4",
                 "pe": "2",
-                "pp": "6",
+                "pp": "7",
                 "gf": 15,
-                "gc": 16,
-                "dg": -1
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
-                "equipo": "Águilas Doradas",
-                "puntos": "14",
-                "pj": "11",
-                "pg": "3",
-                "pe": "5",
-                "pp": "3",
-                "gf": 14,
-                "gc": 15,
-                "dg": -1
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
-                "equipo": "Once Caldas",
-                "puntos": "13",
-                "pj": "12",
-                "pg": "3",
-                "pe": "4",
-                "pp": "5",
-                "gf": 15,
-                "gc": 16,
-                "dg": -1
+                "gc": 17,
+                "dg": -2
             },
             {
                 "posicion": "13",
@@ -2347,6 +2347,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
+                "equipo": "Alianza",
+                "puntos": "12",
+                "pj": "13",
+                "pg": "3",
+                "pe": "3",
+                "pp": "7",
+                "gf": 14,
+                "gc": 26,
+                "dg": -12
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png?v=6",
                 "equipo": "Fortaleza FC",
                 "puntos": "11",
@@ -2357,19 +2370,6 @@
                 "gf": 14,
                 "gc": 19,
                 "dg": -5
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
-                "equipo": "Alianza",
-                "puntos": "11",
-                "pj": "12",
-                "pg": "3",
-                "pe": "2",
-                "pp": "7",
-                "gf": 12,
-                "gc": 24,
-                "dg": -12
             },
             {
                 "posicion": "17",

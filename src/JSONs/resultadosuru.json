@@ -723,22 +723,22 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "09/10/2026 17:00 HS",
+                "fecha": "09/10/2026 17:00 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "visitante": "DAN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/72.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "09/10/2026 20:00 HS",
+                "fecha": "09/10/2026 20:00 HS Finalizado",
                 "local": "MAL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/959.png?v=6",
                 "visitante": "LIV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/191.png?v=6"
             },
             {
@@ -1205,29 +1205,29 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
-                "equipo": "Liverpool (U)",
-                "puntos": "20",
-                "pj": "9",
-                "pg": "6",
-                "pe": "2",
-                "pp": "1",
-                "gf": 17,
-                "gc": 7,
+                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
+                "equipo": "MC Torque",
+                "puntos": "22",
+                "pj": "10",
+                "pg": "7",
+                "pe": "1",
+                "pp": "2",
+                "gf": 20,
+                "gc": 10,
                 "dg": 10
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
-                "equipo": "MC Torque",
-                "puntos": "19",
-                "pj": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/191.png?v=6",
+                "equipo": "Liverpool (U)",
+                "puntos": "21",
+                "pj": "10",
                 "pg": "6",
-                "pe": "1",
-                "pp": "2",
-                "gf": 19,
-                "gc": 10,
-                "dg": 9
+                "pe": "3",
+                "pp": "1",
+                "gf": 18,
+                "gc": 8,
+                "dg": 10
             },
             {
                 "posicion": "3",
@@ -1246,13 +1246,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
                 "equipo": "Maldonado",
-                "puntos": "17",
-                "pj": "9",
+                "puntos": "18",
+                "pj": "10",
                 "pg": "5",
-                "pe": "2",
+                "pe": "3",
                 "pp": "2",
-                "gf": 13,
-                "gc": 5,
+                "gf": 14,
+                "gc": 6,
                 "dg": 8
             },
             {
@@ -1364,13 +1364,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=6",
                 "equipo": "Danubio",
                 "puntos": "7",
-                "pj": "9",
+                "pj": "10",
                 "pg": "1",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 4,
-                "gc": 10,
-                "dg": -6
+                "gc": 11,
+                "dg": -7
             },
             {
                 "posicion": "14",
@@ -1432,15 +1432,15 @@
                 "goles": 14
             },
             {
-                "nombre": "Luciano Cosentino",
-                "equipo": "Wanderers",
-                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
-                "goles": 11
-            },
-            {
                 "nombre": "Salomón Rodríguez",
                 "equipo": "MC Torque",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
+                "goles": 12
+            },
+            {
+                "nombre": "Luciano Cosentino",
+                "equipo": "Wanderers",
+                "escudo": "https://statics-files.tycsports.com/escudos/200.png",
                 "goles": 11
             },
             {

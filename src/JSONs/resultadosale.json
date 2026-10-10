@@ -363,12 +363,12 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "09/10/2026 15:30 HS",
+                "fecha": "09/10/2026 15:30 HS Finalizado",
                 "local": "DOR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/707.png?v=6",
                 "visitante": "WEB",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/721.png?v=6"
             },
             {
@@ -3087,13 +3087,13 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/707.png?v=6",
                 "equipo": "Borussia Dortmund",
-                "puntos": "12",
-                "pj": "4",
+                "puntos": "13",
+                "pj": "5",
                 "pg": "4",
-                "pe": "0",
+                "pe": "1",
                 "pp": "0",
-                "gf": 9,
-                "gc": 2,
+                "gf": 11,
+                "gc": 4,
                 "dg": 7
             },
             {
@@ -3124,6 +3124,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/721.png?v=6",
+                "equipo": "Werder Bremen",
+                "puntos": "8",
+                "pj": "5",
+                "pg": "2",
+                "pe": "2",
+                "pp": "1",
+                "gf": 10,
+                "gc": 10,
+                "dg": 0
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/3305.png?v=6",
                 "equipo": "Augsburg",
                 "puntos": "7",
@@ -3136,7 +3149,7 @@
                 "dg": 5
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png?v=6",
                 "equipo": "Bayer Leverkusen",
                 "puntos": "7",
@@ -3149,7 +3162,7 @@
                 "dg": 5
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/1718.png?v=6",
                 "equipo": "Mainz",
                 "puntos": "7",
@@ -3162,7 +3175,7 @@
                 "dg": 4
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/12120.png?v=6",
                 "equipo": "Elversberg",
                 "puntos": "7",
@@ -3173,19 +3186,6 @@
                 "gf": 8,
                 "gc": 7,
                 "dg": 1
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/721.png?v=6",
-                "equipo": "Werder Bremen",
-                "puntos": "7",
-                "pj": "4",
-                "pg": "2",
-                "pe": "1",
-                "pp": "1",
-                "gf": 8,
-                "gc": 8,
-                "dg": 0
             },
             {
                 "posicion": "9",
@@ -3320,6 +3320,12 @@
         ],
         "goleadores": [
             {
+                "nombre": "Niclas Füllkrug",
+                "equipo": "Werder Bremen",
+                "escudo": "https://statics-files.tycsports.com/escudos/721.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Younes Ebnoutalib",
                 "equipo": "Eintracht Frankfurt",
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png",
@@ -3365,12 +3371,6 @@
                 "nombre": "Jonathan Burkardt",
                 "equipo": "Eintracht Frankfurt",
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Niclas Füllkrug",
-                "equipo": "Werder Bremen",
-                "escudo": "https://statics-files.tycsports.com/escudos/721.png",
                 "goles": 3
             },
             {
