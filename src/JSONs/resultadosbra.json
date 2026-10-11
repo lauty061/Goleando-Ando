@@ -2903,22 +2903,22 @@
             },
             {
                 "fecha_torneo": "Fecha 30",
-                "fecha": "10/10/2026 18:00 HS",
+                "fecha": "10/10/2026 18:00 HS Finalizado",
                 "local": "VAS",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/261.png?v=6",
                 "visitante": "CDR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3698.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 30",
-                "fecha": "10/10/2026 21:00 HS",
+                "fecha": "10/10/2026 21:00 HS Finalizado",
                 "local": "SPA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/75.png?v=6",
                 "visitante": "VIT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/988.png?v=6"
             },
             {
@@ -3909,6 +3909,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/75.png?v=6",
+                "equipo": "São Paulo",
+                "puntos": "39",
+                "pj": "30",
+                "pg": "11",
+                "pe": "6",
+                "pp": "13",
+                "gf": 35,
+                "gc": 35,
+                "dg": 0
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "equipo": "Coritiba",
                 "puntos": "38",
@@ -3921,7 +3934,7 @@
                 "dg": -10
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/238.png?v=6",
                 "equipo": "RB Bragantino",
                 "puntos": "37",
@@ -3934,30 +3947,17 @@
                 "dg": 1
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/75.png?v=6",
-                "equipo": "São Paulo",
-                "puntos": "36",
-                "pj": "29",
-                "pg": "10",
-                "pe": "6",
-                "pp": "13",
-                "gf": 33,
-                "gc": 34,
-                "dg": -1
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/988.png?v=6",
                 "equipo": "Vitória",
                 "puntos": "36",
-                "pj": "29",
+                "pj": "30",
                 "pg": "10",
                 "pe": "6",
-                "pp": "13",
-                "gf": 32,
-                "gc": 42,
-                "dg": -10
+                "pp": "14",
+                "gf": 33,
+                "gc": 44,
+                "dg": -11
             },
             {
                 "posicion": "13",
@@ -3976,10 +3976,10 @@
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/261.png?v=6",
                 "equipo": "Vasco da Gama",
-                "puntos": "34",
-                "pj": "28",
+                "puntos": "35",
+                "pj": "29",
                 "pg": "9",
-                "pe": "7",
+                "pe": "8",
                 "pp": "12",
                 "gf": 36,
                 "gc": 42,
@@ -4041,10 +4041,10 @@
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
-                "puntos": "24",
-                "pj": "29",
+                "puntos": "25",
+                "pj": "30",
                 "pg": "5",
-                "pe": "9",
+                "pe": "10",
                 "pp": "15",
                 "gf": 33,
                 "gc": 48,
@@ -4090,6 +4090,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Jonathan Calleri",
+                "equipo": "São Paulo",
+                "escudo": "https://statics-files.tycsports.com/escudos/75.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Costa Pereira, M.",
                 "equipo": "Cruzeiro",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "Samuel Lino",
                 "equipo": "Flamengo",
                 "escudo": "https://statics-files.tycsports.com/escudos/256.png",
-                "goles": 9
-            },
-            {
-                "nombre": "da Rocha Neves, L.",
-                "equipo": "São Paulo",
-                "escudo": "https://statics-files.tycsports.com/escudos/75.png",
                 "goles": 9
             }
         ]

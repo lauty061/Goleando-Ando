@@ -1843,22 +1843,22 @@
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "10/10/2026 15:00 HS",
+                "fecha": "10/10/2026 15:00 HS Finalizado",
                 "local": "COB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "visitante": "UDC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/156.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "10/10/2026 17:30 HS",
+                "fecha": "10/10/2026 17:30 HS Finalizado",
                 "local": "HUA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "visitante": "OHI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/264.png?v=6"
             },
             {
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
+                "equipo": "Huachipato",
+                "puntos": "34",
+                "pj": "24",
+                "pg": "10",
+                "pe": "4",
+                "pp": "10",
+                "gf": 34,
+                "gc": 39,
+                "dg": -5
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "equipo": "Deportes Limache",
                 "puntos": "33",
@@ -2482,7 +2495,7 @@
                 "dg": 8
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "32",
@@ -2495,7 +2508,7 @@
                 "dg": -3
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "equipo": "D. Concepción",
                 "puntos": "31",
@@ -2506,19 +2519,6 @@
                 "gf": 25,
                 "gc": 26,
                 "dg": -1
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
-                "equipo": "Huachipato",
-                "puntos": "31",
-                "pj": "23",
-                "pg": "9",
-                "pe": "4",
-                "pp": "10",
-                "gf": 32,
-                "gc": 39,
-                "dg": -7
             },
             {
                 "posicion": "10",
@@ -2564,38 +2564,38 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
                 "equipo": "O'Higgins",
                 "puntos": "27",
-                "pj": "23",
+                "pj": "24",
                 "pg": "8",
                 "pe": "3",
-                "pp": "12",
+                "pp": "13",
                 "gf": 28,
-                "gc": 36,
-                "dg": -8
+                "gc": 38,
+                "dg": -10
             },
             {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "equipo": "Cobresal",
-                "puntos": "24",
-                "pj": "23",
+                "puntos": "25",
+                "pj": "24",
                 "pg": "7",
-                "pe": "3",
+                "pe": "4",
                 "pp": "13",
-                "gf": 34,
-                "gc": 44,
+                "gf": 35,
+                "gc": 45,
                 "dg": -10
             },
             {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/156.png?v=6",
                 "equipo": "U. Concepción",
-                "puntos": "22",
-                "pj": "23",
+                "puntos": "23",
+                "pj": "24",
                 "pg": "6",
-                "pe": "4",
+                "pe": "5",
                 "pp": "13",
-                "gf": 17,
-                "gc": 39,
+                "gf": 18,
+                "gc": 40,
                 "dg": -22
             },
             {
