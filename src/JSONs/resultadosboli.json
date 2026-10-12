@@ -1633,32 +1633,32 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "11/10/2026 16:00 HS",
+                "fecha": "11/10/2026 16:00 HS Finalizado",
                 "local": "RPO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "visitante": "STR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/74.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "11/10/2026 18:15 HS",
+                "fecha": "11/10/2026 18:15 HS Finalizado",
                 "local": "AUR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/228.png?v=6",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "11/10/2026 20:30 HS",
+                "fecha": "11/10/2026 20:30 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "visitante": "BLO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/229.png?v=6"
             },
             {
@@ -2407,14 +2407,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "equipo": "Bolívar",
-                "puntos": "45",
-                "pj": "20",
-                "pg": "14",
+                "puntos": "48",
+                "pj": "21",
+                "pg": "15",
                 "pe": "3",
                 "pp": "3",
-                "gf": 54,
+                "gf": 55,
                 "gc": 22,
-                "dg": 32
+                "dg": 33
             },
             {
                 "posicion": "2",
@@ -2434,16 +2434,29 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png?v=6",
                 "equipo": "The Strongest",
                 "puntos": "42",
-                "pj": "20",
+                "pj": "21",
                 "pg": "12",
                 "pe": "6",
-                "pp": "2",
+                "pp": "3",
                 "gf": 39,
-                "gc": 22,
-                "dg": 17
+                "gc": 23,
+                "dg": 16
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
+                "equipo": "Real Potosí",
+                "puntos": "35",
+                "pj": "21",
+                "pg": "9",
+                "pe": "8",
+                "pp": "4",
+                "gf": 28,
+                "gc": 14,
+                "dg": 14
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "equipo": "Oriente Petrolero",
                 "puntos": "33",
@@ -2456,29 +2469,16 @@
                 "dg": 10
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
-                "equipo": "Real Potosí",
-                "puntos": "32",
-                "pj": "20",
-                "pg": "8",
-                "pe": "8",
-                "pp": "4",
-                "gf": 27,
-                "gc": 14,
-                "dg": 13
-            },
-            {
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=6",
                 "equipo": "Aurora",
-                "puntos": "30",
-                "pj": "20",
+                "puntos": "31",
+                "pj": "21",
                 "pg": "7",
-                "pe": "9",
+                "pe": "10",
                 "pp": "4",
-                "gf": 31,
-                "gc": 27,
+                "gf": 33,
+                "gc": 29,
                 "dg": 4
             },
             {
@@ -2498,13 +2498,13 @@
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
                 "equipo": "Nacional Potosí",
-                "puntos": "27",
-                "pj": "20",
+                "puntos": "28",
+                "pj": "21",
                 "pg": "8",
-                "pe": "3",
+                "pe": "4",
                 "pp": "9",
-                "gf": 30,
-                "gc": 28,
+                "gf": 32,
+                "gc": 30,
                 "dg": 2
             },
             {
@@ -2512,13 +2512,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=6",
                 "equipo": "Blooming",
                 "puntos": "27",
-                "pj": "20",
+                "pj": "21",
                 "pg": "6",
                 "pe": "9",
-                "pp": "5",
+                "pp": "6",
                 "gf": 30,
-                "gc": 22,
-                "dg": 8
+                "gc": 23,
+                "dg": 7
             },
             {
                 "posicion": "10",
@@ -2656,6 +2656,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Dairon Asprilla",
+                "equipo": "Bolívar",
+                "escudo": "https://statics-files.tycsports.com/escudos/70.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Luis Alí",
                 "equipo": "Real Potosí",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "Jaime Arrascaita",
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Alex Cáceres",
-                "equipo": "GV San José",
-                "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "goles": 7
             }
         ]

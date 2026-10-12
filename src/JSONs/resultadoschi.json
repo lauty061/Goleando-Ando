@@ -1873,42 +1873,42 @@
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "11/10/2026 12:30 HS",
+                "fecha": "11/10/2026 12:30 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "visitante": "LSE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "11/10/2026 15:00 HS",
+                "fecha": "11/10/2026 15:00 HS Finalizado",
                 "local": "COQ",
-                "goles_local": "-",
+                "goles_local": "5",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "visitante": "COL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/95.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "11/10/2026 17:30 HS",
+                "fecha": "11/10/2026 17:30 HS Finalizado",
                 "local": "CON",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "visitante": "ULC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/945.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "11/10/2026 20:00 HS",
+                "fecha": "11/10/2026 20:00 HS Finalizado",
                 "local": "LIM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "visitante": "PAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/151.png?v=6"
             },
             {
@@ -2408,13 +2408,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/95.png?v=6",
                 "equipo": "Colo Colo",
                 "puntos": "54",
-                "pj": "23",
+                "pj": "24",
                 "pg": "17",
                 "pe": "3",
-                "pp": "3",
-                "gf": 48,
-                "gc": 22,
-                "dg": 26
+                "pp": "4",
+                "gf": 50,
+                "gc": 27,
+                "dg": 23
             },
             {
                 "posicion": "2",
@@ -2446,30 +2446,43 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "equipo": "Everton",
-                "puntos": "36",
-                "pj": "23",
-                "pg": "10",
+                "puntos": "39",
+                "pj": "24",
+                "pg": "11",
                 "pe": "6",
                 "pp": "7",
-                "gf": 37,
-                "gc": 25,
-                "dg": 12
+                "gf": 40,
+                "gc": 27,
+                "dg": 13
             },
             {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/151.png?v=6",
                 "equipo": "Palestino",
-                "puntos": "36",
-                "pj": "23",
+                "puntos": "37",
+                "pj": "24",
                 "pg": "11",
-                "pe": "3",
+                "pe": "4",
                 "pp": "9",
-                "gf": 36,
-                "gc": 33,
+                "gf": 38,
+                "gc": 35,
                 "dg": 3
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
+                "equipo": "Deportes Limache",
+                "puntos": "34",
+                "pj": "24",
+                "pg": "10",
+                "pe": "4",
+                "pp": "10",
+                "gf": 45,
+                "gc": 37,
+                "dg": 8
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "equipo": "Huachipato",
                 "puntos": "34",
@@ -2482,20 +2495,33 @@
                 "dg": -5
             },
             {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
-                "equipo": "Deportes Limache",
-                "puntos": "33",
-                "pj": "23",
-                "pg": "10",
-                "pe": "3",
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
+                "equipo": "Coquimbo Unido",
+                "puntos": "32",
+                "pj": "24",
+                "pg": "9",
+                "pe": "5",
                 "pp": "10",
-                "gf": 43,
-                "gc": 35,
-                "dg": 8
+                "gf": 36,
+                "gc": 34,
+                "dg": 2
             },
             {
-                "posicion": "8",
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
+                "equipo": "D. Concepción",
+                "puntos": "32",
+                "pj": "24",
+                "pg": "9",
+                "pe": "5",
+                "pp": "10",
+                "gf": 26,
+                "gc": 27,
+                "dg": -1
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "32",
@@ -2508,43 +2534,17 @@
                 "dg": -3
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
-                "equipo": "D. Concepción",
-                "puntos": "31",
-                "pj": "23",
-                "pg": "9",
-                "pe": "4",
-                "pp": "10",
-                "gf": 25,
-                "gc": 26,
-                "dg": -1
-            },
-            {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "equipo": "D. La Serena",
                 "puntos": "30",
-                "pj": "23",
+                "pj": "24",
                 "pg": "7",
                 "pe": "9",
-                "pp": "7",
-                "gf": 34,
-                "gc": 38,
-                "dg": -4
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
-                "equipo": "Coquimbo Unido",
-                "puntos": "29",
-                "pj": "23",
-                "pg": "8",
-                "pe": "5",
-                "pp": "10",
-                "gf": 31,
-                "gc": 32,
-                "dg": -1
+                "pp": "8",
+                "gf": 36,
+                "gc": 41,
+                "dg": -5
             },
             {
                 "posicion": "12",
@@ -2602,13 +2602,13 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png?v=6",
                 "equipo": "U. La Calera",
-                "puntos": "17",
-                "pj": "23",
+                "puntos": "18",
+                "pj": "24",
                 "pg": "4",
-                "pe": "5",
+                "pe": "6",
                 "pp": "14",
-                "gf": 19,
-                "gc": 40,
+                "gf": 20,
+                "gc": 41,
                 "dg": -21
             }
         ],
@@ -2620,28 +2620,34 @@
                 "goles": 25
             },
             {
+                "nombre": "Javier Correa",
+                "equipo": "Colo Colo",
+                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
+                "goles": 13
+            },
+            {
                 "nombre": "Castro Santibáñez, D.",
                 "equipo": "Deportes Limache",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
                 "goles": 13
             },
             {
-                "nombre": "Javier Correa",
-                "equipo": "Colo Colo",
-                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
-                "goles": 12
-            },
-            {
                 "nombre": "Alan Medina",
                 "equipo": "Everton",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png",
-                "goles": 11
+                "goles": 12
             },
             {
                 "nombre": "Lionel Altamirano",
                 "equipo": "Huachipato",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
                 "goles": 10
+            },
+            {
+                "nombre": "Nicolás Johansen",
+                "equipo": "Coquimbo Unido",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
+                "goles": 9
             },
             {
                 "nombre": "Eduardo Vargas",
@@ -2668,15 +2674,9 @@
                 "goles": 8
             },
             {
-                "nombre": "Maximiliano Romero",
-                "equipo": "Colo Colo",
-                "escudo": "https://statics-files.tycsports.com/escudos/95.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Sebastián Sáez",
-                "equipo": "U. La Calera",
-                "escudo": "https://statics-files.tycsports.com/escudos/945.png",
+                "nombre": "Gonzalo Sosa",
+                "equipo": "Deportes Limache",
+                "escudo": "https://statics-files.tycsports.com/escudos/7596.png",
                 "goles": 8
             }
         ]
