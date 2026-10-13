@@ -1913,12 +1913,12 @@
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "12/10/2026 17:00 HS",
+                "fecha": "12/10/2026 17:00 HS Finalizado",
                 "local": "UCH",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "visitante": "ÑUB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png?v=6"
             },
             {
@@ -2418,6 +2418,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
+                "equipo": "U. de Chile",
+                "puntos": "45",
+                "pj": "24",
+                "pg": "13",
+                "pe": "6",
+                "pp": "5",
+                "gf": 41,
+                "gc": 19,
+                "dg": 22
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/120.png?v=6",
                 "equipo": "U. Católica",
                 "puntos": "42",
@@ -2428,19 +2441,6 @@
                 "gf": 50,
                 "gc": 33,
                 "dg": 17
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
-                "equipo": "U. de Chile",
-                "puntos": "42",
-                "pj": "23",
-                "pg": "12",
-                "pe": "6",
-                "pp": "5",
-                "gf": 35,
-                "gc": 19,
-                "dg": 16
             },
             {
                 "posicion": "4",
@@ -2525,13 +2525,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "32",
-                "pj": "23",
+                "pj": "24",
                 "pg": "8",
                 "pe": "8",
-                "pp": "7",
+                "pp": "8",
                 "gf": 28,
-                "gc": 31,
-                "dg": -3
+                "gc": 37,
+                "dg": -9
             },
             {
                 "posicion": "11",
@@ -2644,15 +2644,15 @@
                 "goles": 10
             },
             {
-                "nombre": "Nicolás Johansen",
-                "equipo": "Coquimbo Unido",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
-                "goles": 9
-            },
-            {
                 "nombre": "Eduardo Vargas",
                 "equipo": "Universidad de Chile",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png",
+                "goles": 10
+            },
+            {
+                "nombre": "Nicolás Johansen",
+                "equipo": "Coquimbo Unido",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png",
                 "goles": 9
             },
             {

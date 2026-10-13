@@ -5923,22 +5923,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "12/10/2026 17:00 HS",
+                "fecha": "12/10/2026 17:00 HS Finalizado",
                 "local": "RAC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/141.png?v=6",
                 "visitante": "AND",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/140.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "12/10/2026 19:00 HS",
+                "fecha": "12/10/2026 19:30 HS Finalizado",
                 "local": "ALB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/668.png?v=6",
                 "visitante": "GOD",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/132.png?v=6"
             },
             {
@@ -6778,10 +6778,10 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/132.png?v=6",
                 "equipo": "Godoy Cruz",
-                "puntos": "56",
-                "pj": "32",
+                "puntos": "57",
+                "pj": "33",
                 "pg": "16",
-                "pe": "8",
+                "pe": "9",
                 "pp": "8",
                 "gf": 42,
                 "gc": 29,
@@ -6989,13 +6989,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/140.png?v=6",
                 "equipo": "Los Andes",
                 "puntos": "40",
-                "pj": "32",
+                "pj": "33",
                 "pg": "9",
                 "pe": "13",
-                "pp": "10",
+                "pp": "11",
                 "gf": 25,
-                "gc": 23,
-                "dg": 2
+                "gc": 24,
+                "dg": 1
             },
             {
                 "zona": "Posiciones",
@@ -7028,6 +7028,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "24",
+                "escudo": "https://statics-files.tycsports.com/escudos/141.png?v=6",
+                "equipo": "Racing (Cba)",
+                "puntos": "40",
+                "pj": "33",
+                "pg": "10",
+                "pe": "10",
+                "pp": "13",
+                "gf": 30,
+                "gc": 39,
+                "dg": -9
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "25",
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png?v=6",
                 "equipo": "Quilmes",
                 "puntos": "39",
@@ -7041,7 +7055,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "25",
+                "posicion": "26",
                 "escudo": "https://statics-files.tycsports.com/escudos/869.png?v=6",
                 "equipo": "Patronato",
                 "puntos": "37",
@@ -7055,7 +7069,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "26",
+                "posicion": "27",
                 "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
                 "equipo": "Def. de Belgrano",
                 "puntos": "37",
@@ -7069,7 +7083,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "27",
+                "posicion": "28",
                 "escudo": "https://statics-files.tycsports.com/escudos/680.png?v=6",
                 "equipo": "San Telmo",
                 "puntos": "37",
@@ -7080,20 +7094,6 @@
                 "gf": 28,
                 "gc": 37,
                 "dg": -9
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "28",
-                "escudo": "https://statics-files.tycsports.com/escudos/141.png?v=6",
-                "equipo": "Racing (Cba)",
-                "puntos": "37",
-                "pj": "32",
-                "pg": "9",
-                "pe": "10",
-                "pp": "13",
-                "gf": 29,
-                "gc": 39,
-                "dg": -10
             },
             {
                 "zona": "Posiciones",
@@ -7140,6 +7140,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "32",
+                "escudo": "https://statics-files.tycsports.com/escudos/668.png?v=6",
+                "equipo": "All Boys",
+                "puntos": "34",
+                "pj": "33",
+                "pg": "6",
+                "pe": "16",
+                "pp": "11",
+                "gf": 18,
+                "gc": 28,
+                "dg": -10
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
                 "equipo": "Chacarita",
                 "puntos": "33",
@@ -7149,20 +7163,6 @@
                 "pp": "18",
                 "gf": 25,
                 "gc": 35,
-                "dg": -10
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "33",
-                "escudo": "https://statics-files.tycsports.com/escudos/668.png?v=6",
-                "equipo": "All Boys",
-                "puntos": "33",
-                "pj": "32",
-                "pg": "6",
-                "pe": "15",
-                "pp": "11",
-                "gf": 18,
-                "gc": 28,
                 "dg": -10
             },
             {

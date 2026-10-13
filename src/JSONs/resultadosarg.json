@@ -1783,22 +1783,22 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "12/10/2026 16:00 HS",
+                "fecha": "12/10/2026 16:00 HS Finalizado",
                 "local": "LAN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12.png?v=6",
                 "visitante": "VEL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/20.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "12/10/2026 18:30 HS",
+                "fecha": "12/10/2026 18:30 HS Finalizado",
                 "local": "GEM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/816.png?v=6",
                 "visitante": "NOB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/13.png?v=6"
             },
             {
@@ -2601,17 +2601,45 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/20.png?v=6",
                 "equipo": "Vélez",
                 "puntos": "21",
-                "pj": "11",
+                "pj": "12",
                 "pg": "5",
                 "pe": "6",
-                "pp": "0",
+                "pp": "1",
                 "gf": 17,
-                "gc": 11,
-                "dg": 6
+                "gc": 13,
+                "dg": 4
             },
             {
                 "zona": "Grupo A",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/12.png?v=6",
+                "equipo": "Lanús",
+                "puntos": "20",
+                "pj": "12",
+                "pg": "6",
+                "pe": "2",
+                "pp": "4",
+                "gf": 15,
+                "gc": 9,
+                "dg": 6
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/816.png?v=6",
+                "equipo": "Gimnasia (M)",
+                "puntos": "20",
+                "pj": "12",
+                "pg": "6",
+                "pe": "2",
+                "pp": "4",
+                "gf": 15,
+                "gc": 12,
+                "dg": 3
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/10.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "18",
@@ -2625,44 +2653,16 @@
             },
             {
                 "zona": "Grupo A",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/12.png?v=6",
-                "equipo": "Lanús",
-                "puntos": "17",
-                "pj": "11",
-                "pg": "5",
-                "pe": "2",
-                "pp": "4",
-                "gf": 13,
-                "gc": 9,
-                "dg": 4
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
                 "equipo": "Newell`s",
                 "puntos": "17",
-                "pj": "11",
+                "pj": "12",
                 "pg": "4",
                 "pe": "5",
-                "pp": "2",
+                "pp": "3",
                 "gf": 11,
-                "gc": 8,
-                "dg": 3
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/816.png?v=6",
-                "equipo": "Gimnasia (M)",
-                "puntos": "17",
-                "pj": "11",
-                "pg": "5",
-                "pe": "2",
-                "pp": "4",
-                "gf": 14,
-                "gc": 12,
+                "gc": 9,
                 "dg": 2
             },
             {
@@ -2976,15 +2976,15 @@
         ],
         "goleadores": [
             {
-                "nombre": "Junior Marabel",
-                "equipo": "Sarmiento",
-                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
-                "goles": 8
-            },
-            {
                 "nombre": "Agustín Módica",
                 "equipo": "Gimnasia (Mendoza)",
                 "escudo": "https://statics-files.tycsports.com/escudos/816.png",
+                "goles": 9
+            },
+            {
+                "nombre": "Junior Marabel",
+                "equipo": "Sarmiento",
+                "escudo": "https://statics-files.tycsports.com/escudos/142.png",
                 "goles": 8
             },
             {

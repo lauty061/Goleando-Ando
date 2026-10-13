@@ -793,12 +793,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "12/10/2026 16:00 HS",
+                "fecha": "12/10/2026 16:00 HS Finalizado",
                 "local": "LEV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/35.png?v=6",
                 "visitante": "SEV",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/41.png?v=6"
             },
             {
@@ -3859,13 +3859,13 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/41.png?v=6",
                 "equipo": "Sevilla",
-                "puntos": "13",
-                "pj": "7",
+                "puntos": "14",
+                "pj": "8",
                 "pg": "4",
-                "pe": "1",
+                "pe": "2",
                 "pp": "2",
-                "gf": 10,
-                "gc": 9,
+                "gf": 13,
+                "gc": 12,
                 "dg": 1
             },
             {
@@ -4013,6 +4013,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
+                "equipo": "Levante",
+                "puntos": "6",
+                "pj": "7",
+                "pg": "1",
+                "pe": "3",
+                "pp": "3",
+                "gf": 11,
+                "gc": 15,
+                "dg": -4
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/4460.png?v=6",
                 "equipo": "Elche",
                 "puntos": "6",
@@ -4023,19 +4036,6 @@
                 "gf": 11,
                 "gc": 17,
                 "dg": -6
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
-                "equipo": "Levante",
-                "puntos": "5",
-                "pj": "6",
-                "pg": "1",
-                "pe": "2",
-                "pp": "3",
-                "gf": 8,
-                "gc": 12,
-                "dg": -4
             },
             {
                 "posicion": "19",

@@ -4273,22 +4273,22 @@
             },
             {
                 "fecha_torneo": "Fecha 39",
-                "fecha": "12/10/2026 15:00 HS",
+                "fecha": "12/10/2026 15:00 HS Finalizado",
                 "local": "BRW",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/671.png?v=6",
                 "visitante": "DSU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/688.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 39",
-                "fecha": "12/10/2026 15:00 HS",
+                "fecha": "12/10/2026 15:00 HS Finalizado",
                 "local": "UR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "visitante": "PIL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7234.png?v=6"
             },
             {
@@ -4853,19 +4853,6 @@
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/7234.png?v=6",
-                "equipo": "Real Pilar",
-                "puntos": "61",
-                "pj": "38",
-                "pg": "17",
-                "pe": "10",
-                "pp": "11",
-                "gf": 42,
-                "gc": 38,
-                "dg": 4
-            },
-            {
-                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/669.png?v=6",
                 "equipo": "Dep. Armenio",
                 "puntos": "61",
@@ -4876,6 +4863,19 @@
                 "gf": 42,
                 "gc": 38,
                 "dg": 4
+            },
+            {
+                "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/7234.png?v=6",
+                "equipo": "Real Pilar",
+                "puntos": "61",
+                "pj": "39",
+                "pg": "17",
+                "pe": "10",
+                "pp": "12",
+                "gf": 42,
+                "gc": 39,
+                "dg": 3
             },
             {
                 "posicion": "9",
@@ -4921,13 +4921,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
                 "equipo": "Dock Sud",
                 "puntos": "47",
-                "pj": "38",
+                "pj": "39",
                 "pg": "11",
                 "pe": "14",
-                "pp": "13",
+                "pp": "14",
                 "gf": 40,
-                "gc": 42,
-                "dg": -2
+                "gc": 43,
+                "dg": -3
             },
             {
                 "posicion": "13",
@@ -4996,6 +4996,19 @@
             },
             {
                 "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
+                "equipo": "Brown (Adrogué)",
+                "puntos": "42",
+                "pj": "39",
+                "pg": "9",
+                "pe": "15",
+                "pp": "15",
+                "gf": 25,
+                "gc": 37,
+                "dg": -12
+            },
+            {
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/676.png?v=6",
                 "equipo": "Flandria",
                 "puntos": "42",
@@ -5008,7 +5021,7 @@
                 "dg": -13
             },
             {
-                "posicion": "19",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/778.png?v=6",
                 "equipo": "Def. Unidos",
                 "puntos": "41",
@@ -5021,30 +5034,17 @@
                 "dg": -7
             },
             {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/671.png?v=6",
-                "equipo": "Brown (Adrogué)",
-                "puntos": "39",
-                "pj": "38",
-                "pg": "8",
-                "pe": "15",
-                "pp": "15",
-                "gf": 24,
-                "gc": 37,
-                "dg": -13
-            },
-            {
                 "posicion": "21",
                 "escudo": "https://statics-files.tycsports.com/escudos/780.png?v=6",
                 "equipo": "UAI Urquiza",
-                "puntos": "35",
-                "pj": "38",
-                "pg": "5",
+                "puntos": "38",
+                "pj": "39",
+                "pg": "6",
                 "pe": "20",
                 "pp": "13",
-                "gf": 21,
+                "gf": 22,
                 "gc": 35,
-                "dg": -14
+                "dg": -13
             },
             {
                 "posicion": "22",

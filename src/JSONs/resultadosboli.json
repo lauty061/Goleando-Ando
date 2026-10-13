@@ -1663,22 +1663,22 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "12/10/2026 16:00 HS",
+                "fecha": "12/10/2026 16:00 HS Finalizado",
                 "local": "VSJ",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
                 "visitante": "CDG",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "12/10/2026 18:15 HS",
+                "fecha": "12/10/2026 18:15 HS Finalizado",
                 "local": "ALW",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "visitante": "IPE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3319.png?v=6"
             },
             {
@@ -2420,14 +2420,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png?v=6",
                 "equipo": "Always Ready",
-                "puntos": "45",
-                "pj": "20",
-                "pg": "13",
+                "puntos": "48",
+                "pj": "21",
+                "pg": "14",
                 "pe": "6",
                 "pp": "1",
-                "gf": 47,
+                "gf": 49,
                 "gc": 13,
-                "dg": 34
+                "dg": 36
             },
             {
                 "posicion": "3",
@@ -2486,13 +2486,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "29",
-                "pj": "20",
+                "pj": "21",
                 "pg": "8",
                 "pe": "5",
-                "pp": "7",
-                "gf": 32,
-                "gc": 39,
-                "dg": -7
+                "pp": "8",
+                "gf": 33,
+                "gc": 43,
+                "dg": -10
             },
             {
                 "posicion": "8",
@@ -2525,13 +2525,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "25",
-                "pj": "20",
+                "pj": "21",
                 "pg": "7",
                 "pe": "4",
-                "pp": "9",
+                "pp": "10",
                 "gf": 27,
-                "gc": 35,
-                "dg": -8
+                "gc": 37,
+                "dg": -10
             },
             {
                 "posicion": "11",
@@ -2602,14 +2602,14 @@
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png?v=6",
                 "equipo": "GV San José",
-                "puntos": "14",
-                "pj": "20",
-                "pg": "2",
+                "puntos": "17",
+                "pj": "21",
+                "pg": "3",
                 "pe": "8",
                 "pp": "10",
-                "gf": 21,
-                "gc": 37,
-                "dg": -16
+                "gf": 25,
+                "gc": 38,
+                "dg": -13
             }
         ],
         "goleadores": [
@@ -2617,7 +2617,7 @@
                 "nombre": "Enrique Triverio",
                 "equipo": "Always Ready",
                 "escudo": "https://statics-files.tycsports.com/escudos/3254.png",
-                "goles": 14
+                "goles": 15
             },
             {
                 "nombre": "Juan Fajardo",
@@ -2641,6 +2641,12 @@
                 "nombre": "Darwin Lom",
                 "equipo": "The Strongest",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "goles": 10
+            },
+            {
+                "nombre": "Alex Cáceres",
+                "equipo": "GV San José",
+                "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "goles": 10
             },
             {
@@ -2671,12 +2677,6 @@
                 "nombre": "Bayron Garcés",
                 "equipo": "Blooming",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Jaime Arrascaita",
-                "equipo": "The Strongest",
-                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "goles": 7
             }
         ]
