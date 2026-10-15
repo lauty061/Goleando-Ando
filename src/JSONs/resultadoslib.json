@@ -1523,12 +1523,12 @@
             },
             {
                 "fecha_torneo": "Semifinales",
-                "fecha": "14/10/2026 21:30 HS",
+                "fecha": "14/10/2026 21:30 HS Finalizado",
                 "local": "FLU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/113.png?v=6",
                 "visitante": "PAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/80.png?v=6"
             },
             {
@@ -2052,6 +2052,12 @@
                 "goles": 4
             },
             {
+                "nombre": "José Manuel López",
+                "equipo": "Palmeiras",
+                "escudo": "https://statics-files.tycsports.com/escudos/80.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Vernes, G.",
                 "equipo": "Corinthians",
                 "escudo": "https://statics-files.tycsports.com/escudos/107.png",
@@ -2079,12 +2085,6 @@
                 "nombre": "Juan Manuel Cuesta",
                 "equipo": "UCV",
                 "escudo": "https://statics-files.tycsports.com/escudos/1283.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Michael Estrada",
-                "equipo": "Liga de Quito",
-                "escudo": "https://statics-files.tycsports.com/escudos/71.png",
                 "goles": 3
             }
         ]

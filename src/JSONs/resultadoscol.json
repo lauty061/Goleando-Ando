@@ -393,12 +393,12 @@
             },
             {
                 "fecha_torneo": "Fecha 4",
-                "fecha": "14/10/2026 18:30 HS",
+                "fecha": "14/10/2026 18:30 HS Finalizado",
                 "local": "JUN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/81.png?v=6",
                 "visitante": "PER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png?v=6"
             },
             {
@@ -2360,6 +2360,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
+                "equipo": "Junior",
+                "puntos": "11",
+                "pj": "13",
+                "pg": "2",
+                "pe": "5",
+                "pp": "6",
+                "gf": 19,
+                "gc": 23,
+                "dg": -4
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png?v=6",
                 "equipo": "Fortaleza FC",
                 "puntos": "11",
@@ -2370,19 +2383,6 @@
                 "gf": 14,
                 "gc": 19,
                 "dg": -5
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
-                "equipo": "Junior",
-                "puntos": "10",
-                "pj": "12",
-                "pg": "2",
-                "pe": "4",
-                "pp": "6",
-                "gf": 18,
-                "gc": 22,
-                "dg": -4
             },
             {
                 "posicion": "18",
@@ -2399,6 +2399,19 @@
             },
             {
                 "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
+                "equipo": "Pereira",
+                "puntos": "10",
+                "pj": "13",
+                "pg": "1",
+                "pe": "7",
+                "pp": "5",
+                "gf": 8,
+                "gc": 18,
+                "dg": -10
+            },
+            {
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "equipo": "Pasto",
                 "puntos": "9",
@@ -2409,19 +2422,6 @@
                 "gf": 9,
                 "gc": 18,
                 "dg": -9
-            },
-            {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
-                "equipo": "Pereira",
-                "puntos": "9",
-                "pj": "12",
-                "pg": "1",
-                "pe": "6",
-                "pp": "5",
-                "gf": 7,
-                "gc": 17,
-                "dg": -10
             }
         ],
         "goleadores": []
