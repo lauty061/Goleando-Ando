@@ -1803,12 +1803,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "15/10/2026 20:00 HS",
+                "fecha": "15/10/2026 20:00 HS Finalizado",
                 "local": "HUR",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/100.png?v=6",
                 "visitante": "GIM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/8.png?v=6"
             },
             {
@@ -2808,6 +2808,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/8.png?v=6",
+                "equipo": "Gimnasia",
+                "puntos": "22",
+                "pj": "13",
+                "pg": "6",
+                "pe": "4",
+                "pp": "3",
+                "gf": 19,
+                "gc": 18,
+                "dg": 1
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png?v=6",
                 "equipo": "Sarmiento",
                 "puntos": "20",
@@ -2821,30 +2835,16 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/100.png?v=6",
                 "equipo": "Huracán",
                 "puntos": "19",
-                "pj": "12",
+                "pj": "13",
                 "pg": "5",
                 "pe": "4",
-                "pp": "3",
-                "gf": 11,
-                "gc": 10,
-                "dg": 1
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/8.png?v=6",
-                "equipo": "Gimnasia",
-                "puntos": "19",
-                "pj": "12",
-                "pg": "5",
-                "pe": "4",
-                "pp": "3",
-                "gf": 17,
-                "gc": 17,
+                "pp": "4",
+                "gf": 12,
+                "gc": 12,
                 "dg": 0
             },
             {
@@ -3006,15 +3006,15 @@
                 "goles": 6
             },
             {
-                "nombre": "Gastón Verón",
-                "equipo": "Argentinos Juniors",
-                "escudo": "https://statics-files.tycsports.com/escudos/2.png",
-                "goles": 5
-            },
-            {
                 "nombre": "Jordy Caicedo",
                 "equipo": "Huracán",
                 "escudo": "https://statics-files.tycsports.com/escudos/100.png",
+                "goles": 6
+            },
+            {
+                "nombre": "Gastón Verón",
+                "equipo": "Argentinos Juniors",
+                "escudo": "https://statics-files.tycsports.com/escudos/2.png",
                 "goles": 5
             },
             {
