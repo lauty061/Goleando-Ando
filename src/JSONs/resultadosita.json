@@ -603,12 +603,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "16/10/2026 15:45 HS",
+                "fecha": "16/10/2026 15:45 HS Finalizado",
                 "local": "FRO",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5402.png?v=6",
                 "visitante": "SAS",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2192.png?v=6"
             },
             {
@@ -3857,6 +3857,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/5402.png?v=6",
+                "equipo": "Frosinone",
+                "puntos": "13",
+                "pj": "7",
+                "pg": "4",
+                "pe": "1",
+                "pp": "2",
+                "gf": 13,
+                "gc": 9,
+                "dg": 4
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/57.png?v=6",
                 "equipo": "Milan",
                 "puntos": "12",
@@ -3869,7 +3882,7 @@
                 "dg": 6
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/52.png?v=6",
                 "equipo": "Juventus",
                 "puntos": "11",
@@ -3882,7 +3895,7 @@
                 "dg": 4
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/5826.png?v=6",
                 "equipo": "Como 1907",
                 "puntos": "11",
@@ -3895,7 +3908,7 @@
                 "dg": 3
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/726.png?v=6",
                 "equipo": "Napoli",
                 "puntos": "10",
@@ -3906,19 +3919,6 @@
                 "gf": 10,
                 "gc": 6,
                 "dg": 4
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/5402.png?v=6",
-                "equipo": "Frosinone",
-                "puntos": "10",
-                "pj": "6",
-                "pg": "3",
-                "pe": "1",
-                "pp": "2",
-                "gf": 9,
-                "gc": 7,
-                "dg": 2
             },
             {
                 "posicion": "10",
@@ -3938,13 +3938,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2192.png?v=6",
                 "equipo": "Sassuolo",
                 "puntos": "8",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "2",
-                "pp": "2",
-                "gf": 10,
-                "gc": 10,
-                "dg": 0
+                "pp": "3",
+                "gf": 12,
+                "gc": 14,
+                "dg": -2
             },
             {
                 "posicion": "12",
@@ -4066,16 +4066,16 @@
         ],
         "goleadores": [
             {
+                "nombre": "Antonio Raimondo",
+                "equipo": "Frosinone",
+                "escudo": "https://statics-files.tycsports.com/escudos/5402.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Donyell Malen",
                 "equipo": "Roma",
                 "escudo": "https://statics-files.tycsports.com/escudos/61.png",
                 "goles": 6
-            },
-            {
-                "nombre": "Antonio Raimondo",
-                "equipo": "Frosinone",
-                "escudo": "https://statics-files.tycsports.com/escudos/5402.png",
-                "goles": 4
             },
             {
                 "nombre": "Lautaro Martínez",

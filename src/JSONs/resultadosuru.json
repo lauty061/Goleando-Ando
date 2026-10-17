@@ -803,12 +803,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "16/10/2026 19:00 HS",
+                "fecha": "16/10/2026 19:00 HS Finalizado",
                 "local": "CER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/188.png?v=6",
                 "visitante": "CLA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/958.png?v=6"
             },
             {
@@ -1270,6 +1270,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
+                "equipo": "Cerro",
+                "puntos": "18",
+                "pj": "11",
+                "pg": "5",
+                "pe": "3",
+                "pp": "3",
+                "gf": 13,
+                "gc": 14,
+                "dg": -1
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
                 "equipo": "Juventud",
                 "puntos": "17",
@@ -1280,19 +1293,6 @@
                 "gf": 12,
                 "gc": 6,
                 "dg": 6
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
-                "equipo": "Cerro",
-                "puntos": "17",
-                "pj": "10",
-                "pg": "5",
-                "pe": "2",
-                "pp": "3",
-                "gf": 12,
-                "gc": 13,
-                "dg": -1
             },
             {
                 "posicion": "8",
@@ -1374,6 +1374,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
+                "equipo": "Cerro Largo",
+                "puntos": "6",
+                "pj": "11",
+                "pg": "0",
+                "pe": "6",
+                "pp": "5",
+                "gf": 7,
+                "gc": 14,
+                "dg": -7
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/7557.png?v=6",
                 "equipo": "Albion",
                 "puntos": "6",
@@ -1384,19 +1397,6 @@
                 "gf": 10,
                 "gc": 18,
                 "dg": -8
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
-                "equipo": "Cerro Largo",
-                "puntos": "5",
-                "pj": "10",
-                "pg": "0",
-                "pe": "5",
-                "pp": "5",
-                "gf": 6,
-                "gc": 13,
-                "dg": -7
             },
             {
                 "posicion": "16",

@@ -1813,22 +1813,22 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "16/10/2026 19:00 HS",
+                "fecha": "16/10/2026 19:00 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/129.png?v=6",
                 "visitante": "INS",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "16/10/2026 21:30 HS",
+                "fecha": "16/10/2026 21:30 HS Finalizado",
                 "local": "BOC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5.png?v=6",
                 "visitante": "TAL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/135.png?v=6"
             },
             {
@@ -2558,41 +2558,41 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/11.png?v=6",
                 "equipo": "Instituto",
-                "puntos": "26",
-                "pj": "12",
-                "pg": "8",
+                "puntos": "29",
+                "pj": "13",
+                "pg": "9",
                 "pe": "2",
                 "pp": "2",
-                "gf": 19,
+                "gf": 20,
                 "gc": 10,
-                "dg": 9
+                "dg": 10
             },
             {
                 "zona": "Grupo A",
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/129.png?v=6",
-                "equipo": "Defensa",
+                "escudo": "https://statics-files.tycsports.com/escudos/5.png?v=6",
+                "equipo": "Boca Juniors",
                 "puntos": "24",
-                "pj": "12",
-                "pg": "7",
-                "pe": "3",
-                "pp": "2",
-                "gf": 18,
-                "gc": 11,
+                "pj": "13",
+                "pg": "6",
+                "pe": "6",
+                "pp": "1",
+                "gf": 21,
+                "gc": 14,
                 "dg": 7
             },
             {
                 "zona": "Grupo A",
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/5.png?v=6",
-                "equipo": "Boca Juniors",
-                "puntos": "21",
-                "pj": "12",
-                "pg": "5",
-                "pe": "6",
-                "pp": "1",
-                "gf": 19,
-                "gc": 13,
+                "escudo": "https://statics-files.tycsports.com/escudos/129.png?v=6",
+                "equipo": "Defensa",
+                "puntos": "24",
+                "pj": "13",
+                "pg": "7",
+                "pe": "3",
+                "pp": "3",
+                "gf": 18,
+                "gc": 12,
                 "dg": 6
             },
             {
@@ -2755,13 +2755,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/135.png?v=6",
                 "equipo": "Talleres",
                 "puntos": "9",
-                "pj": "12",
+                "pj": "13",
                 "pg": "2",
                 "pe": "3",
-                "pp": "7",
-                "gf": 11,
-                "gc": 18,
-                "dg": -7
+                "pp": "8",
+                "gf": 12,
+                "gc": 20,
+                "dg": -8
             },
             {
                 "zona": "Grupo B",
@@ -3018,6 +3018,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Miguel Ángel Merentiel",
+                "equipo": "Boca Juniors",
+                "escudo": "https://statics-files.tycsports.com/escudos/5.png",
+                "goles": 5
+            },
+            {
                 "nombre": "Agustín Auzmendi",
                 "equipo": "Gimnasia",
                 "escudo": "https://statics-files.tycsports.com/escudos/8.png",
@@ -3033,12 +3039,6 @@
                 "nombre": "Michael Santos",
                 "equipo": "Central Córdoba (SE)",
                 "escudo": "https://statics-files.tycsports.com/escudos/1485.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Ángel Di María",
-                "equipo": "Rosario Central",
-                "escudo": "https://statics-files.tycsports.com/escudos/18.png",
                 "goles": 5
             }
         ]

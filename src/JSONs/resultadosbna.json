@@ -5943,22 +5943,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/10/2026 21:00 HS",
+                "fecha": "16/10/2026 21:00 HS Finalizado",
                 "local": "RAF",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/99.png?v=6",
                 "visitante": "QUI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/15.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "16/10/2026 22:00 HS",
+                "fecha": "16/10/2026 22:00 HS Finalizado",
                 "local": "GYT",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/865.png?v=6",
                 "visitante": "ATL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png?v=6"
             },
             {
@@ -6123,16 +6123,6 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "17/10/2026  HS",
-                "local": "MID",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/785.png?v=6",
-                "visitante": "GYT",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/865.png?v=6"
-            },
-            {
-                "fecha_torneo": null,
                 "fecha": "24/10/2026  HS",
                 "local": "RAC",
                 "goles_local": "-",
@@ -6230,6 +6220,16 @@
                 "visitante": "ATL",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/670.png?v=6"
+            },
+            {
+                "fecha_torneo": null,
+                "fecha": "24/10/2026  HS",
+                "local": "MID",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/785.png?v=6",
+                "visitante": "GYT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/865.png?v=6"
             },
             {
                 "fecha_torneo": null,
@@ -6765,13 +6765,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/670.png?v=6",
                 "equipo": "Atlanta",
                 "puntos": "58",
-                "pj": "33",
+                "pj": "34",
                 "pg": "18",
                 "pe": "4",
-                "pp": "11",
-                "gf": 39,
-                "gc": 30,
-                "dg": 9
+                "pp": "12",
+                "gf": 40,
+                "gc": 33,
+                "dg": 7
             },
             {
                 "zona": "Posiciones",
@@ -6832,6 +6832,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
+                "equipo": "Gimnasia y Tiro",
+                "puntos": "52",
+                "pj": "34",
+                "pg": "14",
+                "pe": "10",
+                "pp": "10",
+                "gf": 37,
+                "gc": 31,
+                "dg": 6
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/785.png?v=6",
                 "equipo": "Midland",
                 "puntos": "51",
@@ -6842,20 +6856,6 @@
                 "gf": 38,
                 "gc": 26,
                 "dg": 12
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/865.png?v=6",
-                "equipo": "Gimnasia y Tiro",
-                "puntos": "49",
-                "pj": "33",
-                "pg": "13",
-                "pe": "10",
-                "pp": "10",
-                "gf": 34,
-                "gc": 30,
-                "dg": 4
             },
             {
                 "zona": "Posiciones",
@@ -6944,6 +6944,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "18",
+                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=6",
+                "equipo": "Atlético Rafaela",
+                "puntos": "45",
+                "pj": "34",
+                "pg": "12",
+                "pe": "9",
+                "pp": "13",
+                "gf": 28,
+                "gc": 34,
+                "dg": -6
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/490.png?v=6",
                 "equipo": "San Martín (T)",
                 "puntos": "43",
@@ -6954,20 +6968,6 @@
                 "gf": 35,
                 "gc": 33,
                 "dg": 2
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/99.png?v=6",
-                "equipo": "Atlético Rafaela",
-                "puntos": "42",
-                "pj": "33",
-                "pg": "11",
-                "pe": "9",
-                "pp": "13",
-                "gf": 27,
-                "gc": 34,
-                "dg": -7
             },
             {
                 "zona": "Posiciones",
@@ -7045,13 +7045,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/15.png?v=6",
                 "equipo": "Quilmes",
                 "puntos": "39",
-                "pj": "33",
+                "pj": "34",
                 "pg": "10",
                 "pe": "9",
-                "pp": "14",
+                "pp": "15",
                 "gf": 30,
-                "gc": 28,
-                "dg": 2
+                "gc": 29,
+                "dg": 1
             },
             {
                 "zona": "Posiciones",
