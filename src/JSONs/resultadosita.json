@@ -613,32 +613,32 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/10/2026 10:00 HS",
+                "fecha": "17/10/2026 10:00 HS Finalizado",
                 "local": "VEN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7232.png?v=6",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/726.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/10/2026 13:00 HS",
+                "fecha": "17/10/2026 13:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/46.png?v=6",
                 "visitante": "INT",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/51.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "17/10/2026 15:45 HS",
+                "fecha": "17/10/2026 15:45 HS Finalizado",
                 "local": "ROM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/61.png?v=6",
                 "visitante": "GEN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/725.png?v=6"
             },
             {
@@ -3807,17 +3807,30 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png?v=6",
                 "equipo": "Inter",
-                "puntos": "16",
-                "pj": "6",
-                "pg": "5",
+                "puntos": "19",
+                "pj": "7",
+                "pg": "6",
                 "pe": "1",
                 "pp": "0",
-                "gf": 18,
-                "gc": 8,
-                "dg": 10
+                "gf": 21,
+                "gc": 9,
+                "dg": 12
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/61.png?v=6",
+                "equipo": "Roma",
+                "puntos": "17",
+                "pj": "7",
+                "pg": "5",
+                "pe": "2",
+                "pp": "0",
+                "gf": 16,
+                "gc": 3,
+                "dg": 13
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/53.png?v=6",
                 "equipo": "Lazio",
                 "puntos": "16",
@@ -3828,19 +3841,6 @@
                 "gf": 11,
                 "gc": 4,
                 "dg": 7
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/61.png?v=6",
-                "equipo": "Roma",
-                "puntos": "14",
-                "pj": "6",
-                "pg": "4",
-                "pe": "2",
-                "pp": "0",
-                "gf": 14,
-                "gc": 3,
-                "dg": 11
             },
             {
                 "posicion": "4",
@@ -3912,13 +3912,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/726.png?v=6",
                 "equipo": "Napoli",
                 "puntos": "10",
-                "pj": "6",
+                "pj": "7",
                 "pg": "3",
                 "pe": "1",
-                "pp": "2",
+                "pp": "3",
                 "gf": 10,
-                "gc": 6,
-                "dg": 4
+                "gc": 7,
+                "dg": 3
             },
             {
                 "posicion": "10",
@@ -3977,13 +3977,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png?v=6",
                 "equipo": "Bologna",
                 "puntos": "5",
-                "pj": "6",
+                "pj": "7",
                 "pg": "1",
                 "pe": "2",
-                "pp": "3",
-                "gf": 5,
-                "gc": 7,
-                "dg": -2
+                "pp": "4",
+                "gf": 6,
+                "gc": 10,
+                "dg": -4
             },
             {
                 "posicion": "15",
@@ -4013,19 +4013,6 @@
             },
             {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/725.png?v=6",
-                "equipo": "Genoa",
-                "puntos": "4",
-                "pj": "6",
-                "pg": "1",
-                "pe": "1",
-                "pp": "4",
-                "gf": 5,
-                "gc": 11,
-                "dg": -6
-            },
-            {
-                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
                 "equipo": "Parma",
                 "puntos": "4",
@@ -4038,7 +4025,7 @@
                 "dg": -6
             },
             {
-                "posicion": "19",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
                 "equipo": "Fiorentina",
                 "puntos": "4",
@@ -4051,17 +4038,30 @@
                 "dg": -7
             },
             {
+                "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/725.png?v=6",
+                "equipo": "Genoa",
+                "puntos": "4",
+                "pj": "7",
+                "pg": "1",
+                "pe": "1",
+                "pp": "5",
+                "gf": 5,
+                "gc": 13,
+                "dg": -8
+            },
+            {
                 "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/7232.png?v=6",
                 "equipo": "Venezia",
-                "puntos": "0",
-                "pj": "6",
-                "pg": "0",
+                "puntos": "3",
+                "pj": "7",
+                "pg": "1",
                 "pe": "0",
                 "pp": "6",
-                "gf": 5,
+                "gf": 6,
                 "gc": 16,
-                "dg": -11
+                "dg": -10
             }
         ],
         "goleadores": [
@@ -4076,6 +4076,12 @@
                 "equipo": "Roma",
                 "escudo": "https://statics-files.tycsports.com/escudos/61.png",
                 "goles": 6
+            },
+            {
+                "nombre": "Marcus Thuram",
+                "equipo": "Inter",
+                "escudo": "https://statics-files.tycsports.com/escudos/51.png",
+                "goles": 4
             },
             {
                 "nombre": "Lautaro Martínez",
@@ -4111,12 +4117,6 @@
                 "nombre": "Franco Mastantuono",
                 "equipo": "Fiorentina",
                 "escudo": "https://statics-files.tycsports.com/escudos/50.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Marcus Thuram",
-                "equipo": "Inter",
-                "escudo": "https://statics-files.tycsports.com/escudos/51.png",
                 "goles": 3
             },
             {

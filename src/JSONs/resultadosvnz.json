@@ -843,32 +843,32 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "17/10/2026 17:00 HS",
+                "fecha": "17/10/2026 17:00 HS Finalizado",
                 "local": "DLG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1282.png?v=6",
                 "visitante": "TRU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/119.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "17/10/2026 17:00 HS",
+                "fecha": "17/10/2026 17:00 HS Finalizado",
                 "local": "ZAM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/495.png?v=6",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11977.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "17/10/2026 19:30 HS",
+                "fecha": "17/10/2026 19:30 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/223.png?v=6",
                 "visitante": "TAC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/79.png?v=6"
             },
             {
@@ -1200,13 +1200,13 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/79.png?v=6",
                 "equipo": "Táchira",
-                "puntos": "26",
-                "pj": "12",
+                "puntos": "27",
+                "pj": "13",
                 "pg": "8",
-                "pe": "2",
+                "pe": "3",
                 "pp": "2",
-                "gf": 28,
-                "gc": 15,
+                "gf": 30,
+                "gc": 17,
                 "dg": 13
             },
             {
@@ -1226,13 +1226,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/223.png?v=6",
                 "equipo": "Carabobo",
-                "puntos": "21",
-                "pj": "12",
+                "puntos": "22",
+                "pj": "13",
                 "pg": "6",
-                "pe": "3",
+                "pe": "4",
                 "pp": "3",
-                "gf": 13,
-                "gc": 8,
+                "gf": 15,
+                "gc": 10,
                 "dg": 5
             },
             {
@@ -1253,13 +1253,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png?v=6",
                 "equipo": "Dep. La Guaira",
                 "puntos": "17",
-                "pj": "12",
+                "pj": "13",
                 "pg": "5",
                 "pe": "2",
-                "pp": "5",
-                "gf": 21,
-                "gc": 16,
-                "dg": 5
+                "pp": "6",
+                "gf": 22,
+                "gc": 18,
+                "dg": 4
             },
             {
                 "posicion": "7",
@@ -1317,14 +1317,14 @@
                 "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png?v=6",
                 "equipo": "Trujillanos",
-                "puntos": "11",
-                "pj": "12",
-                "pg": "3",
+                "puntos": "14",
+                "pj": "13",
+                "pg": "4",
                 "pe": "2",
                 "pp": "7",
-                "gf": 12,
-                "gc": 19,
-                "dg": -7
+                "gf": 14,
+                "gc": 20,
+                "dg": -6
             },
             {
                 "posicion": "12",
@@ -1341,28 +1341,28 @@
             },
             {
                 "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/495.png?v=6",
-                "equipo": "Zamora",
+                "escudo": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
+                "equipo": "Anzoátegui FC",
                 "puntos": "8",
-                "pj": "12",
+                "pj": "13",
                 "pg": "2",
                 "pe": "2",
-                "pp": "8",
-                "gf": 11,
-                "gc": 25,
+                "pp": "9",
+                "gf": 8,
+                "gc": 22,
                 "dg": -14
             },
             {
                 "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/11977.png?v=6",
-                "equipo": "Anzoátegui FC",
-                "puntos": "5",
-                "pj": "12",
-                "pg": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/495.png?v=6",
+                "equipo": "Zamora",
+                "puntos": "8",
+                "pj": "13",
+                "pg": "2",
                 "pe": "2",
                 "pp": "9",
-                "gf": 6,
-                "gc": 21,
+                "gf": 12,
+                "gc": 27,
                 "dg": -15
             }
         ],
@@ -1374,15 +1374,15 @@
                 "goles": 9
             },
             {
-                "nombre": "Jose Ochoa",
-                "equipo": "Rayo Zuliano",
-                "escudo": "https://statics-files.tycsports.com/escudos/972.png",
-                "goles": 7
-            },
-            {
                 "nombre": "Juan Castellanos",
                 "equipo": "Dep. La Guaira",
                 "escudo": "https://statics-files.tycsports.com/escudos/1282.png",
+                "goles": 8
+            },
+            {
+                "nombre": "Jose Ochoa",
+                "equipo": "Rayo Zuliano",
+                "escudo": "https://statics-files.tycsports.com/escudos/972.png",
                 "goles": 7
             },
             {
@@ -1396,6 +1396,12 @@
                 "equipo": "Metropolitanos",
                 "escudo": "https://statics-files.tycsports.com/escudos/3898.png",
                 "goles": 6
+            },
+            {
+                "nombre": "Eric Ramírez",
+                "equipo": "Carabobo",
+                "escudo": "https://statics-files.tycsports.com/escudos/223.png",
+                "goles": 5
             },
             {
                 "nombre": "Ronald Rodríguez",
@@ -1425,12 +1431,6 @@
                 "nombre": "Franklin González",
                 "equipo": "Trujillanos",
                 "escudo": "https://statics-files.tycsports.com/escudos/119.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Jesús Hernández",
-                "equipo": "Estudiantes Mérida",
-                "escudo": "https://statics-files.tycsports.com/escudos/224.png",
                 "goles": 3
             }
         ]

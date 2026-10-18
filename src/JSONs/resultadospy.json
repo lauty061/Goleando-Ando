@@ -853,22 +853,22 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "17/10/2026 17:00 HS",
+                "fecha": "17/10/2026 17:00 HS Finalizado",
                 "local": "GUA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "visitante": "NAC",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/214.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "17/10/2026 19:20 HS",
+                "fecha": "17/10/2026 19:20 HS Finalizado",
                 "local": "OLI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/215.png?v=6",
                 "visitante": "2MA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png?v=6"
             },
             {
@@ -1325,32 +1325,45 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
-                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
-                "equipo": "2 de Mayo",
-                "puntos": "28",
-                "pj": "14",
-                "pg": "8",
-                "pe": "4",
-                "pp": "2",
-                "gf": 17,
-                "gc": 13,
-                "dg": 4
+                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
+                "equipo": "Olimpia",
+                "puntos": "30",
+                "pj": "15",
+                "pg": "9",
+                "pe": "3",
+                "pp": "3",
+                "gf": 25,
+                "gc": 10,
+                "dg": 15
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
-                "equipo": "Olimpia",
-                "puntos": "27",
-                "pj": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
+                "equipo": "Nacional (P)",
+                "puntos": "29",
+                "pj": "15",
                 "pg": "8",
-                "pe": "3",
-                "pp": "3",
-                "gf": 22,
-                "gc": 10,
-                "dg": 12
+                "pe": "5",
+                "pp": "2",
+                "gf": 23,
+                "gc": 8,
+                "dg": 15
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
+                "equipo": "2 de Mayo",
+                "puntos": "28",
+                "pj": "15",
+                "pg": "8",
+                "pe": "4",
+                "pp": "3",
+                "gf": 17,
+                "gc": 16,
+                "dg": 1
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "equipo": "Libertad",
                 "puntos": "27",
@@ -1361,19 +1374,6 @@
                 "gf": 23,
                 "gc": 16,
                 "dg": 7
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
-                "equipo": "Nacional (P)",
-                "puntos": "26",
-                "pj": "14",
-                "pg": "7",
-                "pe": "5",
-                "pp": "2",
-                "gf": 21,
-                "gc": 8,
-                "dg": 13
             },
             {
                 "posicion": "5",
@@ -1393,13 +1393,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
                 "puntos": "22",
-                "pj": "14",
+                "pj": "15",
                 "pg": "5",
                 "pe": "7",
-                "pp": "2",
+                "pp": "3",
                 "gf": 16,
-                "gc": 12,
-                "dg": 4
+                "gc": 14,
+                "dg": 2
             },
             {
                 "posicion": "7",
@@ -1494,6 +1494,12 @@
                 "goles": 7
             },
             {
+                "nombre": "Iván Valdez",
+                "equipo": "Nacional (P)",
+                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Luis Abreu",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
@@ -1503,12 +1509,6 @@
                 "nombre": "Estivel Moreira",
                 "equipo": "Sp. Ameliano",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Iván Valdez",
-                "equipo": "Nacional (P)",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
                 "goles": 5
             },
             {

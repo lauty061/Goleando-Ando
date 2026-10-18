@@ -463,62 +463,62 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "17/10/2026 10:30 HS",
+                "fecha": "17/10/2026 10:30 HS Finalizado",
                 "local": "WEB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/721.png?v=6",
                 "visitante": "PAD",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/5151.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "17/10/2026 10:30 HS",
+                "fecha": "17/10/2026 10:30 HS Finalizado",
                 "local": "ELV",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12120.png?v=6",
                 "visitante": "AUG",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3305.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "17/10/2026 10:30 HS",
+                "fecha": "17/10/2026 10:30 HS Finalizado",
                 "local": "HSV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/712.png?v=6",
                 "visitante": "STU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/718.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "17/10/2026 10:30 HS",
+                "fecha": "17/10/2026 10:30 HS Finalizado",
                 "local": "SCH",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/711.png?v=6",
                 "visitante": "MAI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1718.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "17/10/2026 10:30 HS",
+                "fecha": "17/10/2026 10:30 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/6286.png?v=6",
                 "visitante": "DOR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/707.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "17/10/2026 13:30 HS",
+                "fecha": "17/10/2026 13:30 HS Finalizado",
                 "local": "BAY",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/617.png?v=6",
                 "visitante": "RBL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/6345.png?v=6"
             },
             {
@@ -3085,6 +3085,32 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
+                "equipo": "Bayern Múnich",
+                "puntos": "14",
+                "pj": "6",
+                "pg": "4",
+                "pe": "2",
+                "pp": "0",
+                "gf": 22,
+                "gc": 5,
+                "dg": 17
+            },
+            {
+                "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/707.png?v=6",
+                "equipo": "Borussia Dortmund",
+                "puntos": "14",
+                "pj": "6",
+                "pg": "4",
+                "pe": "2",
+                "pp": "0",
+                "gf": 11,
+                "gc": 4,
+                "dg": 7
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/1717.png?v=6",
                 "equipo": "Friburgo",
                 "puntos": "13",
@@ -3095,32 +3121,6 @@
                 "gf": 14,
                 "gc": 4,
                 "dg": 10
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/707.png?v=6",
-                "equipo": "Borussia Dortmund",
-                "puntos": "13",
-                "pj": "5",
-                "pg": "4",
-                "pe": "1",
-                "pp": "0",
-                "gf": 11,
-                "gc": 4,
-                "dg": 7
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
-                "equipo": "Bayern Múnich",
-                "puntos": "11",
-                "pj": "5",
-                "pg": "3",
-                "pe": "2",
-                "pp": "0",
-                "gf": 16,
-                "gc": 4,
-                "dg": 12
             },
             {
                 "posicion": "4",
@@ -3137,45 +3137,84 @@
             },
             {
                 "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/6345.png?v=6",
-                "equipo": "RB Leipzig",
-                "puntos": "9",
-                "pj": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/1718.png?v=6",
+                "equipo": "Mainz",
+                "puntos": "10",
+                "pj": "6",
                 "pg": "3",
-                "pe": "0",
+                "pe": "1",
                 "pp": "2",
-                "gf": 15,
-                "gc": 5,
-                "dg": 10
+                "gf": 14,
+                "gc": 10,
+                "dg": 4
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/3305.png?v=6",
-                "equipo": "Augsburg",
-                "puntos": "8",
-                "pj": "5",
-                "pg": "2",
-                "pe": "2",
-                "pp": "1",
-                "gf": 13,
-                "gc": 8,
-                "dg": 5
+                "escudo": "https://statics-files.tycsports.com/escudos/12120.png?v=6",
+                "equipo": "Elversberg",
+                "puntos": "10",
+                "pj": "6",
+                "pg": "3",
+                "pe": "1",
+                "pp": "2",
+                "gf": 12,
+                "gc": 11,
+                "dg": 1
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/721.png?v=6",
-                "equipo": "Werder Bremen",
-                "puntos": "8",
-                "pj": "5",
-                "pg": "2",
-                "pe": "2",
-                "pp": "1",
-                "gf": 10,
-                "gc": 10,
-                "dg": 0
+                "escudo": "https://statics-files.tycsports.com/escudos/6345.png?v=6",
+                "equipo": "RB Leipzig",
+                "puntos": "9",
+                "pj": "6",
+                "pg": "3",
+                "pe": "0",
+                "pp": "3",
+                "gf": 16,
+                "gc": 11,
+                "dg": 5
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/721.png?v=6",
+                "equipo": "Werder Bremen",
+                "puntos": "9",
+                "pj": "6",
+                "pg": "2",
+                "pe": "3",
+                "pp": "1",
+                "gf": 12,
+                "gc": 12,
+                "dg": 0
+            },
+            {
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/712.png?v=6",
+                "equipo": "Hamburgo SV",
+                "puntos": "9",
+                "pj": "6",
+                "pg": "3",
+                "pe": "0",
+                "pp": "3",
+                "gf": 6,
+                "gc": 15,
+                "dg": -9
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/3305.png?v=6",
+                "equipo": "Augsburg",
+                "puntos": "8",
+                "pj": "6",
+                "pg": "2",
+                "pe": "2",
+                "pp": "2",
+                "gf": 16,
+                "gc": 12,
+                "dg": 4
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png?v=6",
                 "equipo": "E. Frankfurt",
                 "puntos": "8",
@@ -3188,33 +3227,7 @@
                 "dg": -6
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/1718.png?v=6",
-                "equipo": "Mainz",
-                "puntos": "7",
-                "pj": "5",
-                "pg": "2",
-                "pe": "1",
-                "pp": "2",
-                "gf": 13,
-                "gc": 10,
-                "dg": 3
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/12120.png?v=6",
-                "equipo": "Elversberg",
-                "puntos": "7",
-                "pj": "5",
-                "pg": "2",
-                "pe": "1",
-                "pp": "2",
-                "gf": 8,
-                "gc": 8,
-                "dg": 0
-            },
-            {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/1258.png?v=6",
                 "equipo": "Colonia",
                 "puntos": "7",
@@ -3227,65 +3240,52 @@
                 "dg": -3
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/718.png?v=6",
                 "equipo": "Stuttgart",
                 "puntos": "6",
-                "pj": "5",
+                "pj": "6",
                 "pg": "2",
                 "pe": "0",
-                "pp": "3",
+                "pp": "4",
                 "gf": 8,
-                "gc": 9,
-                "dg": -1
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/712.png?v=6",
-                "equipo": "Hamburgo SV",
-                "puntos": "6",
-                "pj": "5",
-                "pg": "2",
-                "pe": "0",
-                "pp": "3",
-                "gf": 5,
-                "gc": 15,
-                "dg": -10
+                "gc": 10,
+                "dg": -2
             },
             {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/711.png?v=6",
                 "equipo": "Schalke 04",
                 "puntos": "5",
-                "pj": "5",
+                "pj": "6",
                 "pg": "1",
                 "pe": "2",
-                "pp": "2",
+                "pp": "3",
                 "gf": 4,
-                "gc": 6,
-                "dg": -2
+                "gc": 7,
+                "dg": -3
             },
             {
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/5151.png?v=6",
                 "equipo": "SC Paderborn 07",
-                "puntos": "4",
-                "pj": "5",
+                "puntos": "5",
+                "pj": "6",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "3",
-                "gf": 3,
-                "gc": 7,
+                "gf": 5,
+                "gc": 9,
                 "dg": -4
             },
             {
                 "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/6286.png?v=6",
                 "equipo": "Unión Berlín",
-                "puntos": "4",
-                "pj": "5",
+                "puntos": "5",
+                "pj": "6",
                 "pg": "1",
-                "pe": "1",
+                "pe": "2",
                 "pp": "3",
                 "gf": 5,
                 "gc": 17,
@@ -3320,9 +3320,21 @@
         ],
         "goleadores": [
             {
+                "nombre": "Niclas Füllkrug",
+                "equipo": "Werder Bremen",
+                "escudo": "https://statics-files.tycsports.com/escudos/721.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Younes Ebnoutalib",
                 "equipo": "Eintracht Frankfurt",
                 "escudo": "https://statics-files.tycsports.com/escudos/708.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Michael Olise",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
                 "goles": 5
             },
             {
@@ -3332,9 +3344,15 @@
                 "goles": 5
             },
             {
-                "nombre": "Niclas Füllkrug",
-                "equipo": "Werder Bremen",
-                "escudo": "https://statics-files.tycsports.com/escudos/721.png",
+                "nombre": "Phillip Tietz",
+                "equipo": "Mainz",
+                "escudo": "https://statics-files.tycsports.com/escudos/1718.png",
+                "goles": 5
+            },
+            {
+                "nombre": "Luis Díaz",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
                 "goles": 4
             },
             {
@@ -3344,43 +3362,25 @@
                 "goles": 4
             },
             {
-                "nombre": "Michael Olise",
-                "equipo": "Bayern Múnich",
-                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Yuito Suzuki",
                 "equipo": "Friburgo",
                 "escudo": "https://statics-files.tycsports.com/escudos/1717.png",
                 "goles": 4
             },
             {
-                "nombre": "Phillip Tietz",
-                "equipo": "Mainz",
-                "escudo": "https://statics-files.tycsports.com/escudos/1718.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Michael Gregoritsch",
                 "equipo": "Augsburg",
                 "escudo": "https://statics-files.tycsports.com/escudos/3305.png",
-                "goles": 3
+                "goles": 4
+            },
+            {
+                "nombre": "Harry Kane",
+                "equipo": "Bayern Múnich",
+                "escudo": "https://statics-files.tycsports.com/escudos/617.png",
+                "goles": 4
             },
             {
                 "nombre": "Igor Matanovic",
-                "equipo": "Friburgo",
-                "escudo": "https://statics-files.tycsports.com/escudos/1717.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Jonathan Burkardt",
-                "equipo": "Eintracht Frankfurt",
-                "escudo": "https://statics-files.tycsports.com/escudos/708.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Maximilian Eggestein",
                 "equipo": "Friburgo",
                 "escudo": "https://statics-files.tycsports.com/escudos/1717.png",
                 "goles": 3
