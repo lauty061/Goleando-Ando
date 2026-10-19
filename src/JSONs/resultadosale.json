@@ -523,22 +523,22 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "18/10/2026 10:30 HS",
+                "fecha": "18/10/2026 10:30 HS Finalizado",
                 "local": "B04",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/706.png?v=6",
                 "visitante": "FRI",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1717.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "18/10/2026 12:30 HS",
+                "fecha": "18/10/2026 12:30 HS Finalizado",
                 "local": "BMG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1259.png?v=6",
                 "visitante": "HOF",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1260.png?v=6"
             },
             {
@@ -3114,26 +3114,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/1717.png?v=6",
                 "equipo": "Friburgo",
                 "puntos": "13",
-                "pj": "5",
+                "pj": "6",
                 "pg": "4",
                 "pe": "1",
-                "pp": "0",
-                "gf": 14,
-                "gc": 4,
-                "dg": 10
+                "pp": "1",
+                "gf": 15,
+                "gc": 6,
+                "dg": 9
             },
             {
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png?v=6",
                 "equipo": "Bayer Leverkusen",
-                "puntos": "10",
-                "pj": "5",
-                "pg": "3",
+                "puntos": "13",
+                "pj": "6",
+                "pg": "4",
                 "pe": "1",
                 "pp": "1",
-                "gf": 14,
-                "gc": 8,
-                "dg": 6
+                "gf": 16,
+                "gc": 9,
+                "dg": 7
             },
             {
                 "posicion": "5",
@@ -3254,6 +3254,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/1260.png?v=6",
+                "equipo": "Hoffenheim",
+                "puntos": "6",
+                "pj": "6",
+                "pg": "2",
+                "pe": "0",
+                "pp": "4",
+                "gf": 11,
+                "gc": 14,
+                "dg": -3
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/711.png?v=6",
                 "equipo": "Schalke 04",
                 "puntos": "5",
@@ -3266,7 +3279,7 @@
                 "dg": -3
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/5151.png?v=6",
                 "equipo": "SC Paderborn 07",
                 "puntos": "5",
@@ -3279,7 +3292,7 @@
                 "dg": -4
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/6286.png?v=6",
                 "equipo": "Unión Berlín",
                 "puntos": "5",
@@ -3292,33 +3305,26 @@
                 "dg": -12
             },
             {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/1260.png?v=6",
-                "equipo": "Hoffenheim",
-                "puntos": "3",
-                "pj": "5",
-                "pg": "1",
-                "pe": "0",
-                "pp": "4",
-                "gf": 9,
-                "gc": 13,
-                "dg": -4
-            },
-            {
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/1259.png?v=6",
                 "equipo": "Borussia M.",
                 "puntos": "0",
-                "pj": "5",
+                "pj": "6",
                 "pg": "0",
                 "pe": "0",
-                "pp": "5",
-                "gf": 7,
-                "gc": 18,
-                "dg": -11
+                "pp": "6",
+                "gf": 8,
+                "gc": 20,
+                "dg": -12
             }
         ],
         "goleadores": [
+            {
+                "nombre": "Patrik Schick",
+                "equipo": "Bayer Leverkusen",
+                "escudo": "https://statics-files.tycsports.com/escudos/706.png",
+                "goles": 6
+            },
             {
                 "nombre": "Niclas Füllkrug",
                 "equipo": "Werder Bremen",
@@ -3335,12 +3341,6 @@
                 "nombre": "Michael Olise",
                 "equipo": "Bayern Múnich",
                 "escudo": "https://statics-files.tycsports.com/escudos/617.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Patrik Schick",
-                "equipo": "Bayer Leverkusen",
-                "escudo": "https://statics-files.tycsports.com/escudos/706.png",
                 "goles": 5
             },
             {
