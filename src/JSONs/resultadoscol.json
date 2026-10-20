@@ -1463,22 +1463,12 @@
             },
             {
                 "fecha_torneo": "Fecha 15",
-                "fecha": "19/10/2026 20:30 HS",
-                "local": "CUC",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/266.png?v=6",
-                "visitante": "ATN",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/105.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 15",
-                "fecha": "19/10/2026 22:05 HS",
+                "fecha": "19/10/2026 22:05 HS Finalizado",
                 "local": "PAS",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "visitante": "AFC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/921.png?v=6"
             },
             {
@@ -1500,6 +1490,16 @@
                 "visitante": "FOR",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3209.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "20/10/2026 20:30 HS",
+                "local": "CUC",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/266.png?v=6",
+                "visitante": "ATN",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/105.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
@@ -2321,6 +2321,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
+                "equipo": "Alianza",
+                "puntos": "15",
+                "pj": "14",
+                "pg": "4",
+                "pe": "3",
+                "pp": "7",
+                "gf": 15,
+                "gc": 26,
+                "dg": -11
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/597.png?v=6",
                 "equipo": "Int. de Bogotá",
                 "puntos": "14",
@@ -2333,7 +2346,7 @@
                 "dg": -4
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
                 "equipo": "Junior",
                 "puntos": "12",
@@ -2344,19 +2357,6 @@
                 "gf": 19,
                 "gc": 23,
                 "dg": -4
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
-                "equipo": "Alianza",
-                "puntos": "12",
-                "pj": "13",
-                "pg": "3",
-                "pe": "3",
-                "pp": "7",
-                "gf": 14,
-                "gc": 26,
-                "dg": -12
             },
             {
                 "posicion": "16",
@@ -2415,13 +2415,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "equipo": "Pasto",
                 "puntos": "9",
-                "pj": "12",
+                "pj": "13",
                 "pg": "2",
                 "pe": "3",
-                "pp": "7",
+                "pp": "8",
                 "gf": 9,
-                "gc": 18,
-                "dg": -9
+                "gc": 19,
+                "dg": -10
             }
         ],
         "goleadores": []

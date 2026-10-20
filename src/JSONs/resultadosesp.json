@@ -893,12 +893,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "19/10/2026 16:00 HS",
+                "fecha": "19/10/2026 16:00 HS Finalizado",
                 "local": "GET",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/24.png?v=6",
                 "visitante": "RAY",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3310.png?v=6"
             },
             {
@@ -3961,6 +3961,32 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/3310.png?v=6",
+                "equipo": "Rayo Vallecano",
+                "puntos": "9",
+                "pj": "8",
+                "pg": "2",
+                "pe": "3",
+                "pp": "3",
+                "gf": 12,
+                "gc": 17,
+                "dg": -5
+            },
+            {
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/24.png?v=6",
+                "equipo": "Getafe",
+                "puntos": "9",
+                "pj": "9",
+                "pg": "2",
+                "pe": "3",
+                "pp": "4",
+                "gf": 5,
+                "gc": 11,
+                "dg": -6
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/34.png?v=6",
                 "equipo": "Espanyol",
                 "puntos": "8",
@@ -3971,32 +3997,6 @@
                 "gf": 11,
                 "gc": 12,
                 "dg": -1
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/3310.png?v=6",
-                "equipo": "Rayo Vallecano",
-                "puntos": "8",
-                "pj": "7",
-                "pg": "2",
-                "pe": "2",
-                "pp": "3",
-                "gf": 11,
-                "gc": 16,
-                "dg": -5
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/24.png?v=6",
-                "equipo": "Getafe",
-                "puntos": "8",
-                "pj": "8",
-                "pg": "2",
-                "pe": "2",
-                "pp": "4",
-                "gf": 4,
-                "gc": 10,
-                "dg": -6
             },
             {
                 "posicion": "16",

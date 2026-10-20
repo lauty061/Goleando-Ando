@@ -693,12 +693,12 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "19/10/2026 16:00 HS",
+                "fecha": "19/10/2026 16:00 HS Finalizado",
                 "local": "TOT",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/574.png?v=6",
                 "visitante": "COV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7584.png?v=6"
             },
             {
@@ -4000,19 +4000,32 @@
             },
             {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/7584.png?v=6",
-                "equipo": "Coventry City",
+                "escudo": "https://statics-files.tycsports.com/escudos/574.png?v=6",
+                "equipo": "Tottenham",
                 "puntos": "6",
-                "pj": "6",
-                "pg": "2",
-                "pe": "0",
-                "pp": "4",
-                "gf": 5,
-                "gc": 11,
-                "dg": -6
+                "pj": "7",
+                "pg": "1",
+                "pe": "3",
+                "pp": "3",
+                "gf": 6,
+                "gc": 10,
+                "dg": -4
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/7584.png?v=6",
+                "equipo": "Coventry City",
+                "puntos": "6",
+                "pj": "7",
+                "pg": "2",
+                "pe": "0",
+                "pp": "5",
+                "gf": 6,
+                "gc": 14,
+                "dg": -8
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/565.png?v=6",
                 "equipo": "Fulham",
                 "puntos": "5",
@@ -4025,7 +4038,7 @@
                 "dg": -3
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
                 "equipo": "Nottingham Forest",
                 "puntos": "5",
@@ -4038,7 +4051,7 @@
                 "dg": -4
             },
             {
-                "posicion": "19",
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/704.png?v=6",
                 "equipo": "Sunderland",
                 "puntos": "4",
@@ -4049,19 +4062,6 @@
                 "gf": 6,
                 "gc": 14,
                 "dg": -8
-            },
-            {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/574.png?v=6",
-                "equipo": "Tottenham",
-                "puntos": "3",
-                "pj": "6",
-                "pg": "0",
-                "pe": "3",
-                "pp": "3",
-                "gf": 3,
-                "gc": 9,
-                "dg": -6
             }
         ],
         "goleadores": [

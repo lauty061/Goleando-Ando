@@ -873,12 +873,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "19/10/2026 20:00 HS",
+                "fecha": "19/10/2026 20:00 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/83.png?v=6",
                 "visitante": "MAL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/959.png?v=6"
             },
             {
@@ -1218,6 +1218,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
+                "equipo": "Nacional",
+                "puntos": "23",
+                "pj": "11",
+                "pg": "7",
+                "pe": "2",
+                "pp": "2",
+                "gf": 17,
+                "gc": 11,
+                "dg": 6
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "equipo": "MC Torque",
                 "puntos": "22",
@@ -1230,7 +1243,7 @@
                 "dg": 9
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "equipo": "Peñarol",
                 "puntos": "20",
@@ -1243,30 +1256,17 @@
                 "dg": 8
             },
             {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/83.png?v=6",
-                "equipo": "Nacional",
-                "puntos": "20",
-                "pj": "10",
-                "pg": "6",
-                "pe": "2",
-                "pp": "2",
-                "gf": 14,
-                "gc": 9,
-                "dg": 5
-            },
-            {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png?v=6",
                 "equipo": "Maldonado",
                 "puntos": "18",
-                "pj": "10",
+                "pj": "11",
                 "pg": "5",
                 "pe": "3",
-                "pp": "2",
-                "gf": 14,
-                "gc": 6,
-                "dg": 8
+                "pp": "3",
+                "gf": 16,
+                "gc": 9,
+                "dg": 7
             },
             {
                 "posicion": "6",

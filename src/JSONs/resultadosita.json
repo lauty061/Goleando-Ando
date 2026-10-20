@@ -683,22 +683,22 @@
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "19/10/2026 13:30 HS",
+                "fecha": "19/10/2026 13:30 HS Finalizado",
                 "local": "MON",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
                 "visitante": "CAG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/49.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 7",
-                "fecha": "19/10/2026 15:45 HS",
+                "fecha": "19/10/2026 15:45 HS Finalizado",
                 "local": "PAR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/59.png?v=6",
                 "visitante": "TOR",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/536.png?v=6"
             },
             {
@@ -3870,19 +3870,6 @@
             },
             {
                 "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/49.png?v=6",
-                "equipo": "Cagliari",
-                "puntos": "13",
-                "pj": "6",
-                "pg": "4",
-                "pe": "1",
-                "pp": "1",
-                "gf": 6,
-                "gc": 3,
-                "dg": 3
-            },
-            {
-                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/5402.png?v=6",
                 "equipo": "Frosinone",
                 "puntos": "13",
@@ -3893,6 +3880,19 @@
                 "gf": 13,
                 "gc": 9,
                 "dg": 4
+            },
+            {
+                "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/49.png?v=6",
+                "equipo": "Cagliari",
+                "puntos": "13",
+                "pj": "7",
+                "pg": "4",
+                "pe": "1",
+                "pp": "2",
+                "gf": 6,
+                "gc": 7,
+                "dg": -1
             },
             {
                 "posicion": "8",
@@ -3922,6 +3922,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/536.png?v=6",
+                "equipo": "Torino",
+                "puntos": "10",
+                "pj": "7",
+                "pg": "3",
+                "pe": "1",
+                "pp": "3",
+                "gf": 10,
+                "gc": 9,
+                "dg": 1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png?v=6",
                 "equipo": "Atalanta",
                 "puntos": "9",
@@ -3934,7 +3947,7 @@
                 "dg": -1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/54.png?v=6",
                 "equipo": "Lecce",
                 "puntos": "9",
@@ -3947,7 +3960,7 @@
                 "dg": -3
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/2192.png?v=6",
                 "equipo": "Sassuolo",
                 "puntos": "8",
@@ -3960,20 +3973,20 @@
                 "dg": -2
             },
             {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/536.png?v=6",
-                "equipo": "Torino",
+                "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
+                "equipo": "Monza",
                 "puntos": "7",
-                "pj": "6",
+                "pj": "7",
                 "pg": "2",
                 "pe": "1",
-                "pp": "3",
-                "gf": 7,
-                "gc": 9,
+                "pp": "4",
+                "gf": 13,
+                "gc": 15,
                 "dg": -2
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/46.png?v=6",
                 "equipo": "Bologna",
                 "puntos": "5",
@@ -3986,33 +3999,7 @@
                 "dg": -4
             },
             {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
-                "equipo": "Monza",
-                "puntos": "4",
-                "pj": "6",
-                "pg": "1",
-                "pe": "1",
-                "pp": "4",
-                "gf": 9,
-                "gc": 15,
-                "dg": -6
-            },
-            {
                 "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
-                "equipo": "Parma",
-                "puntos": "4",
-                "pj": "6",
-                "pg": "1",
-                "pe": "1",
-                "pp": "4",
-                "gf": 4,
-                "gc": 10,
-                "dg": -6
-            },
-            {
-                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/64.png?v=6",
                 "equipo": "Udinese",
                 "puntos": "4",
@@ -4025,7 +4012,7 @@
                 "dg": -7
             },
             {
-                "posicion": "18",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/725.png?v=6",
                 "equipo": "Genoa",
                 "puntos": "4",
@@ -4038,7 +4025,7 @@
                 "dg": -8
             },
             {
-                "posicion": "19",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
                 "equipo": "Fiorentina",
                 "puntos": "4",
@@ -4048,6 +4035,19 @@
                 "pp": "5",
                 "gf": 8,
                 "gc": 17,
+                "dg": -9
+            },
+            {
+                "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
+                "equipo": "Parma",
+                "puntos": "4",
+                "pj": "7",
+                "pg": "1",
+                "pe": "1",
+                "pp": "5",
+                "gf": 4,
+                "gc": 13,
                 "dg": -9
             },
             {
@@ -4078,6 +4078,12 @@
                 "goles": 6
             },
             {
+                "nombre": "Gustavo Varela",
+                "equipo": "Monza",
+                "escudo": "https://statics-files.tycsports.com/escudos/10452.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Marcus Thuram",
                 "equipo": "Inter",
                 "escudo": "https://statics-files.tycsports.com/escudos/51.png",
@@ -4102,12 +4108,6 @@
                 "goles": 4
             },
             {
-                "nombre": "Gustavo Varela",
-                "equipo": "Monza",
-                "escudo": "https://statics-files.tycsports.com/escudos/10452.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Daniel Maldini",
                 "equipo": "Cagliari",
                 "escudo": "https://statics-files.tycsports.com/escudos/49.png",
@@ -4120,15 +4120,15 @@
                 "goles": 3
             },
             {
-                "nombre": "Franco Mastantuono",
-                "equipo": "Fiorentina",
-                "escudo": "https://statics-files.tycsports.com/escudos/50.png",
+                "nombre": "Adams, C.",
+                "equipo": "Torino",
+                "escudo": "https://statics-files.tycsports.com/escudos/536.png",
                 "goles": 3
             },
             {
-                "nombre": "Anastasios Douvikas",
-                "equipo": "Como 1907",
-                "escudo": "https://statics-files.tycsports.com/escudos/5826.png",
+                "nombre": "Franco Mastantuono",
+                "equipo": "Fiorentina",
+                "escudo": "https://statics-files.tycsports.com/escudos/50.png",
                 "goles": 3
             }
         ]
