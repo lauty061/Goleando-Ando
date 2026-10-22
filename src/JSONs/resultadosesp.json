@@ -593,12 +593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 6",
-                "fecha": "21/10/2026 15:00 HS",
+                "fecha": "21/10/2026 15:00 HS Finalizado",
                 "local": "LEV",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/35.png?v=6",
                 "visitante": "ATH",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/30.png?v=6"
             },
             {
@@ -3935,16 +3935,16 @@
             },
             {
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/30.png?v=6",
-                "equipo": "Athletic Bilbao",
-                "puntos": "9",
-                "pj": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
+                "equipo": "Levante",
+                "puntos": "10",
+                "pj": "9",
                 "pg": "2",
-                "pe": "3",
-                "pp": "2",
-                "gf": 7,
-                "gc": 6,
-                "dg": 1
+                "pe": "4",
+                "pp": "3",
+                "gf": 15,
+                "gc": 17,
+                "dg": -2
             },
             {
                 "posicion": "12",
@@ -3961,6 +3961,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/30.png?v=6",
+                "equipo": "Athletic Bilbao",
+                "puntos": "9",
+                "pj": "8",
+                "pg": "2",
+                "pe": "3",
+                "pp": "3",
+                "gf": 8,
+                "gc": 9,
+                "dg": -1
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/3310.png?v=6",
                 "equipo": "Rayo Vallecano",
                 "puntos": "9",
@@ -3973,7 +3986,7 @@
                 "dg": -5
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/24.png?v=6",
                 "equipo": "Getafe",
                 "puntos": "9",
@@ -3986,7 +3999,7 @@
                 "dg": -6
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/34.png?v=6",
                 "equipo": "Espanyol",
                 "puntos": "8",
@@ -3999,7 +4012,7 @@
                 "dg": -1
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/38.png?v=6",
                 "equipo": "Racing Santander",
                 "puntos": "8",
@@ -4010,19 +4023,6 @@
                 "gf": 13,
                 "gc": 25,
                 "dg": -12
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
-                "equipo": "Levante",
-                "puntos": "7",
-                "pj": "8",
-                "pg": "1",
-                "pe": "4",
-                "pp": "3",
-                "gf": 12,
-                "gc": 16,
-                "dg": -4
             },
             {
                 "posicion": "18",
@@ -4120,15 +4120,15 @@
                 "goles": 5
             },
             {
-                "nombre": "Fernando Niño",
-                "equipo": "Elche",
-                "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
+                "nombre": "Roger Brugué",
+                "equipo": "Levante",
+                "escudo": "https://statics-files.tycsports.com/escudos/35.png",
                 "goles": 5
             },
             {
-                "nombre": "Lucas Boyé",
-                "equipo": "Alavés",
-                "escudo": "https://statics-files.tycsports.com/escudos/160.png",
+                "nombre": "Fernando Niño",
+                "equipo": "Elche",
+                "escudo": "https://statics-files.tycsports.com/escudos/4460.png",
                 "goles": 5
             }
         ]
