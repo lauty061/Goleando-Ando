@@ -1383,12 +1383,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "22/10/2026 22:00 HS",
+                "fecha": "22/10/2026 22:00 HS Finalizado",
                 "local": "ATN",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "visitante": "PAS",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png?v=6"
             },
             {
@@ -2165,6 +2165,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
+                "equipo": "At. Nacional",
+                "puntos": "29",
+                "pj": "14",
+                "pg": "9",
+                "pe": "2",
+                "pp": "3",
+                "gf": 28,
+                "gc": 12,
+                "dg": 16
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
                 "puntos": "29",
@@ -2177,7 +2190,7 @@
                 "dg": 14
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/66.png?v=6",
                 "equipo": "América de Cali",
                 "puntos": "28",
@@ -2188,19 +2201,6 @@
                 "gf": 26,
                 "gc": 10,
                 "dg": 16
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
-                "equipo": "At. Nacional",
-                "puntos": "26",
-                "pj": "13",
-                "pg": "8",
-                "pe": "2",
-                "pp": "3",
-                "gf": 25,
-                "gc": 12,
-                "dg": 13
             },
             {
                 "posicion": "4",
@@ -2415,13 +2415,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "equipo": "Pasto",
                 "puntos": "9",
-                "pj": "13",
+                "pj": "14",
                 "pg": "2",
                 "pe": "3",
-                "pp": "8",
+                "pp": "9",
                 "gf": 9,
-                "gc": 19,
-                "dg": -10
+                "gc": 22,
+                "dg": -13
             }
         ],
         "goleadores": []
