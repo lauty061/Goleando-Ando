@@ -1513,22 +1513,22 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "23/10/2026 20:00 HS",
+                "fecha": "23/10/2026 20:00 HS Finalizado",
                 "local": "BOY",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/177.png?v=6",
                 "visitante": "BUC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/175.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "23/10/2026 22:10 HS",
+                "fecha": "23/10/2026 22:10 HS Finalizado",
                 "local": "JUN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/81.png?v=6",
                 "visitante": "AGU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/922.png?v=6"
             },
             {
@@ -2220,13 +2220,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "equipo": "Bucaramanga",
                 "puntos": "25",
-                "pj": "13",
+                "pj": "14",
                 "pg": "6",
                 "pe": "7",
-                "pp": "0",
+                "pp": "1",
                 "gf": 22,
-                "gc": 12,
-                "dg": 10
+                "gc": 13,
+                "dg": 9
             },
             {
                 "posicion": "6",
@@ -2298,13 +2298,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/922.png?v=6",
                 "equipo": "Águilas Doradas",
                 "puntos": "19",
-                "pj": "14",
+                "pj": "15",
                 "pg": "4",
                 "pe": "7",
-                "pp": "3",
+                "pp": "4",
                 "gf": 19,
-                "gc": 19,
-                "dg": 0
+                "gc": 20,
+                "dg": -1
             },
             {
                 "posicion": "12",
@@ -2334,6 +2334,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
+                "equipo": "Junior",
+                "puntos": "15",
+                "pj": "15",
+                "pg": "3",
+                "pe": "6",
+                "pp": "6",
+                "gf": 20,
+                "gc": 23,
+                "dg": -3
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
                 "equipo": "Alianza",
                 "puntos": "15",
@@ -2346,7 +2359,20 @@
                 "dg": -11
             },
             {
-                "posicion": "15",
+                "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/177.png?v=6",
+                "equipo": "Boyacá Chicó",
+                "puntos": "15",
+                "pj": "15",
+                "pg": "4",
+                "pe": "3",
+                "pp": "8",
+                "gf": 12,
+                "gc": 25,
+                "dg": -13
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "equipo": "Pereira",
                 "puntos": "13",
@@ -2357,32 +2383,6 @@
                 "gf": 10,
                 "gc": 18,
                 "dg": -8
-            },
-            {
-                "posicion": "16",
-                "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
-                "equipo": "Junior",
-                "puntos": "12",
-                "pj": "14",
-                "pg": "2",
-                "pe": "6",
-                "pp": "6",
-                "gf": 19,
-                "gc": 23,
-                "dg": -4
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/177.png?v=6",
-                "equipo": "Boyacá Chicó",
-                "puntos": "12",
-                "pj": "14",
-                "pg": "3",
-                "pe": "3",
-                "pp": "8",
-                "gf": 11,
-                "gc": 25,
-                "dg": -14
             },
             {
                 "posicion": "18",

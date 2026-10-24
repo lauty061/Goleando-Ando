@@ -903,22 +903,22 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "23/10/2026 17:00 HS",
+                "fecha": "23/10/2026 17:00 HS Finalizado",
                 "local": "RÑU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "visitante": "GUA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/115.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "23/10/2026 19:30 HS",
+                "fecha": "23/10/2026 19:30 HS Finalizado",
                 "local": "LIB",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "visitante": "LUQ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/213.png?v=6"
             },
             {
@@ -1338,6 +1338,19 @@
             },
             {
                 "posicion": "2",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
+                "equipo": "Libertad",
+                "puntos": "30",
+                "pj": "16",
+                "pg": "9",
+                "pe": "3",
+                "pp": "4",
+                "gf": 24,
+                "gc": 17,
+                "dg": 7
+            },
+            {
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "equipo": "Nacional (P)",
                 "puntos": "29",
@@ -1350,7 +1363,7 @@
                 "dg": 15
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
                 "equipo": "2 de Mayo",
                 "puntos": "28",
@@ -1363,7 +1376,7 @@
                 "dg": 1
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
                 "puntos": "27",
@@ -1376,30 +1389,17 @@
                 "dg": 11
             },
             {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
-                "equipo": "Libertad",
-                "puntos": "27",
-                "pj": "15",
-                "pg": "8",
-                "pe": "3",
-                "pp": "4",
-                "gf": 23,
-                "gc": 17,
-                "dg": 6
-            },
-            {
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
-                "puntos": "22",
-                "pj": "15",
-                "pg": "5",
+                "puntos": "25",
+                "pj": "16",
+                "pg": "6",
                 "pe": "7",
                 "pp": "3",
-                "gf": 16,
+                "gf": 18,
                 "gc": 14,
-                "dg": 2
+                "dg": 4
             },
             {
                 "posicion": "7",
@@ -1432,26 +1432,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
                 "equipo": "Sportivo Luqueño",
                 "puntos": "16",
-                "pj": "15",
+                "pj": "16",
                 "pg": "5",
                 "pe": "1",
-                "pp": "9",
+                "pp": "10",
                 "gf": 17,
-                "gc": 29,
-                "dg": -12
+                "gc": 30,
+                "dg": -13
             },
             {
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "equipo": "Rubio Ñu",
                 "puntos": "13",
-                "pj": "15",
+                "pj": "16",
                 "pg": "3",
                 "pe": "4",
-                "pp": "8",
+                "pp": "9",
                 "gf": 15,
-                "gc": 25,
-                "dg": -10
+                "gc": 27,
+                "dg": -12
             },
             {
                 "posicion": "11",

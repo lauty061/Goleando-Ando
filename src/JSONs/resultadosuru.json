@@ -883,12 +883,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "23/10/2026 20:00 HS",
+                "fecha": "23/10/2026 20:00 HS Finalizado",
                 "local": "JUV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/771.png?v=6",
                 "visitante": "PEÑ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/98.png?v=6"
             },
             {
@@ -1246,10 +1246,10 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/98.png?v=6",
                 "equipo": "Peñarol",
-                "puntos": "20",
-                "pj": "11",
+                "puntos": "21",
+                "pj": "12",
                 "pg": "6",
-                "pe": "3",
+                "pe": "4",
                 "pp": "2",
                 "gf": 16,
                 "gc": 8,
@@ -1270,6 +1270,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
+                "equipo": "Juventud",
+                "puntos": "18",
+                "pj": "12",
+                "pg": "4",
+                "pe": "6",
+                "pp": "2",
+                "gf": 12,
+                "gc": 8,
+                "dg": 4
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/188.png?v=6",
                 "equipo": "Cerro",
                 "puntos": "18",
@@ -1280,19 +1293,6 @@
                 "gf": 13,
                 "gc": 14,
                 "dg": -1
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/771.png?v=6",
-                "equipo": "Juventud",
-                "puntos": "17",
-                "pj": "11",
-                "pg": "4",
-                "pe": "5",
-                "pp": "2",
-                "gf": 12,
-                "gc": 8,
-                "dg": 4
             },
             {
                 "posicion": "8",

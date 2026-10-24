@@ -703,12 +703,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "23/10/2026 15:45 HS",
+                "fecha": "23/10/2026 15:45 HS Finalizado",
                 "local": "TOR",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/536.png?v=6",
                 "visitante": "MON",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/10452.png?v=6"
             },
             {
@@ -3896,6 +3896,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/536.png?v=6",
+                "equipo": "Torino",
+                "puntos": "13",
+                "pj": "8",
+                "pg": "4",
+                "pe": "1",
+                "pp": "3",
+                "gf": 13,
+                "gc": 11,
+                "dg": 2
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/52.png?v=6",
                 "equipo": "Juventus",
                 "puntos": "11",
@@ -3908,7 +3921,7 @@
                 "dg": 1
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/726.png?v=6",
                 "equipo": "Napoli",
                 "puntos": "10",
@@ -3919,19 +3932,6 @@
                 "gf": 10,
                 "gc": 7,
                 "dg": 3
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/536.png?v=6",
-                "equipo": "Torino",
-                "puntos": "10",
-                "pj": "7",
-                "pg": "3",
-                "pe": "1",
-                "pp": "3",
-                "gf": 10,
-                "gc": 9,
-                "dg": 1
             },
             {
                 "posicion": "11",
@@ -3977,13 +3977,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
                 "equipo": "Monza",
                 "puntos": "7",
-                "pj": "7",
+                "pj": "8",
                 "pg": "2",
                 "pe": "1",
-                "pp": "4",
-                "gf": 13,
-                "gc": 15,
-                "dg": -2
+                "pp": "5",
+                "gf": 15,
+                "gc": 18,
+                "dg": -3
             },
             {
                 "posicion": "15",
@@ -4072,15 +4072,15 @@
                 "goles": 7
             },
             {
-                "nombre": "Donyell Malen",
-                "equipo": "Roma",
-                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
-                "goles": 6
-            },
-            {
                 "nombre": "Gustavo Varela",
                 "equipo": "Monza",
                 "escudo": "https://statics-files.tycsports.com/escudos/10452.png",
+                "goles": 7
+            },
+            {
+                "nombre": "Donyell Malen",
+                "equipo": "Roma",
+                "escudo": "https://statics-files.tycsports.com/escudos/61.png",
                 "goles": 6
             },
             {

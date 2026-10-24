@@ -703,12 +703,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "23/10/2026 16:00 HS",
+                "fecha": "23/10/2026 16:00 HS Finalizado",
                 "local": "IPS",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
                 "visitante": "NTF",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3295.png?v=6"
             },
             {
@@ -3909,6 +3909,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
+                "equipo": "Ipswich Town",
+                "puntos": "10",
+                "pj": "8",
+                "pg": "3",
+                "pe": "1",
+                "pp": "4",
+                "gf": 12,
+                "gc": 16,
+                "dg": -4
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1261.png?v=6",
                 "equipo": "Hull City",
                 "puntos": "9",
@@ -3919,19 +3932,6 @@
                 "gf": 8,
                 "gc": 7,
                 "dg": 1
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
-                "equipo": "Ipswich Town",
-                "puntos": "9",
-                "pj": "7",
-                "pg": "3",
-                "pe": "0",
-                "pp": "4",
-                "gf": 11,
-                "gc": 15,
-                "dg": -4
             },
             {
                 "posicion": "11",
@@ -4000,6 +4000,19 @@
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
+                "equipo": "Nottingham Forest",
+                "puntos": "6",
+                "pj": "8",
+                "pg": "1",
+                "pe": "3",
+                "pp": "4",
+                "gf": 6,
+                "gc": 10,
+                "dg": -4
+            },
+            {
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/574.png?v=6",
                 "equipo": "Tottenham",
                 "puntos": "6",
@@ -4012,7 +4025,7 @@
                 "dg": -4
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/7584.png?v=6",
                 "equipo": "Coventry City",
                 "puntos": "6",
@@ -4025,7 +4038,7 @@
                 "dg": -8
             },
             {
-                "posicion": "18",
+                "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/565.png?v=6",
                 "equipo": "Fulham",
                 "puntos": "5",
@@ -4036,19 +4049,6 @@
                 "gf": 7,
                 "gc": 10,
                 "dg": -3
-            },
-            {
-                "posicion": "19",
-                "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
-                "equipo": "Nottingham Forest",
-                "puntos": "5",
-                "pj": "7",
-                "pg": "1",
-                "pe": "2",
-                "pp": "4",
-                "gf": 5,
-                "gc": 9,
-                "dg": -4
             },
             {
                 "posicion": "20",

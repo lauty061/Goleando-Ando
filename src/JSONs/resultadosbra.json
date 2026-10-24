@@ -3103,12 +3103,12 @@
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "23/10/2026 20:00 HS",
+                "fecha": "23/10/2026 20:00 HS Finalizado",
                 "local": "CRU",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/108.png?v=6",
                 "visitante": "CDR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3698.png?v=6"
             },
             {
@@ -3831,6 +3831,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/108.png?v=6",
+                "equipo": "Cruzeiro",
+                "puntos": "54",
+                "pj": "32",
+                "pg": "16",
+                "pe": "6",
+                "pp": "10",
+                "gf": 51,
+                "gc": 46,
+                "dg": 5
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/68.png?v=6",
                 "equipo": "Paranaense",
                 "puntos": "53",
@@ -3841,19 +3854,6 @@
                 "gf": 49,
                 "gc": 37,
                 "dg": 12
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/108.png?v=6",
-                "equipo": "Cruzeiro",
-                "puntos": "51",
-                "pj": "31",
-                "pg": "15",
-                "pe": "6",
-                "pp": "10",
-                "gf": 50,
-                "gc": 46,
-                "dg": 4
             },
             {
                 "posicion": "5",
@@ -4042,13 +4042,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
                 "puntos": "26",
-                "pj": "31",
+                "pj": "32",
                 "pg": "5",
                 "pe": "11",
-                "pp": "15",
+                "pp": "16",
                 "gf": 34,
-                "gc": 49,
-                "dg": -15
+                "gc": 50,
+                "dg": -16
             },
             {
                 "posicion": "20",

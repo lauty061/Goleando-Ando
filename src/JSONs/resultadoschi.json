@@ -1923,12 +1923,12 @@
             },
             {
                 "fecha_torneo": "Fecha 25",
-                "fecha": "23/10/2026 20:00 HS",
+                "fecha": "23/10/2026 20:00 HS Finalizado",
                 "local": "AUD",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "visitante": "HUA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png?v=6"
             },
             {
@@ -2470,6 +2470,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
+                "equipo": "Huachipato",
+                "puntos": "35",
+                "pj": "25",
+                "pg": "10",
+                "pe": "5",
+                "pp": "10",
+                "gf": 35,
+                "gc": 40,
+                "dg": -5
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/7596.png?v=6",
                 "equipo": "Deportes Limache",
                 "puntos": "34",
@@ -2480,19 +2493,6 @@
                 "gf": 45,
                 "gc": 37,
                 "dg": 8
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
-                "equipo": "Huachipato",
-                "puntos": "34",
-                "pj": "24",
-                "pg": "10",
-                "pe": "4",
-                "pp": "10",
-                "gf": 34,
-                "gc": 39,
-                "dg": -5
             },
             {
                 "posicion": "8",
@@ -2550,13 +2550,13 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
-                "puntos": "28",
-                "pj": "23",
+                "puntos": "29",
+                "pj": "24",
                 "pg": "7",
-                "pe": "7",
+                "pe": "8",
                 "pp": "9",
-                "gf": 26,
-                "gc": 31,
+                "gf": 27,
+                "gc": 32,
                 "dg": -5
             },
             {

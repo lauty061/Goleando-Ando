@@ -1953,32 +1953,32 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "23/10/2026 18:00 HS",
+                "fecha": "23/10/2026 18:00 HS Finalizado",
                 "local": "GIM",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/8.png?v=6",
                 "visitante": "SAR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/142.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "23/10/2026 18:30 HS",
+                "fecha": "23/10/2026 18:30 HS Finalizado",
                 "local": "GEM",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/816.png?v=6",
                 "visitante": "PLA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/489.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "23/10/2026 21:15 HS",
+                "fecha": "23/10/2026 21:15 HS Finalizado",
                 "local": "TIG",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/136.png?v=6",
                 "visitante": "ATT",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/815.png?v=6"
             },
             {
@@ -2643,13 +2643,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/816.png?v=6",
                 "equipo": "Gimnasia (M)",
                 "puntos": "20",
-                "pj": "13",
+                "pj": "14",
                 "pg": "6",
                 "pe": "2",
-                "pp": "5",
-                "gf": 15,
-                "gc": 13,
-                "dg": 2
+                "pp": "6",
+                "gf": 16,
+                "gc": 15,
+                "dg": 1
             },
             {
                 "zona": "Grupo A",
@@ -2710,6 +2710,20 @@
             {
                 "zona": "Grupo A",
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/489.png?v=6",
+                "equipo": "Platense",
+                "puntos": "14",
+                "pj": "14",
+                "pg": "3",
+                "pe": "5",
+                "pp": "6",
+                "gf": 14,
+                "gc": 20,
+                "dg": -6
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/788.png?v=6",
                 "equipo": "Dep. Riestra",
                 "puntos": "12",
@@ -2720,20 +2734,6 @@
                 "gf": 10,
                 "gc": 13,
                 "dg": -3
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/489.png?v=6",
-                "equipo": "Platense",
-                "puntos": "11",
-                "pj": "13",
-                "pg": "2",
-                "pe": "5",
-                "pp": "6",
-                "gf": 12,
-                "gc": 19,
-                "dg": -7
             },
             {
                 "zona": "Grupo A",
@@ -2794,6 +2794,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/8.png?v=6",
+                "equipo": "Gimnasia",
+                "puntos": "25",
+                "pj": "14",
+                "pg": "7",
+                "pe": "4",
+                "pp": "3",
+                "gf": 21,
+                "gc": 18,
+                "dg": 3
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/124.png?v=6",
                 "equipo": "Belgrano",
                 "puntos": "22",
@@ -2807,31 +2821,17 @@
             },
             {
                 "zona": "Grupo B",
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/8.png?v=6",
-                "equipo": "Gimnasia",
-                "puntos": "22",
-                "pj": "13",
-                "pg": "6",
-                "pe": "4",
-                "pp": "3",
-                "gf": 19,
-                "gc": 18,
-                "dg": 1
-            },
-            {
-                "zona": "Grupo B",
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png?v=6",
                 "equipo": "Sarmiento",
                 "puntos": "21",
-                "pj": "13",
+                "pj": "14",
                 "pg": "6",
                 "pe": "3",
-                "pp": "4",
+                "pp": "5",
                 "gf": 22,
-                "gc": 19,
-                "dg": 3
+                "gc": 21,
+                "dg": 1
             },
             {
                 "zona": "Grupo B",
@@ -2894,14 +2894,14 @@
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/815.png?v=6",
                 "equipo": "Atl. Tucumán",
-                "puntos": "14",
-                "pj": "13",
-                "pg": "3",
+                "puntos": "17",
+                "pj": "14",
+                "pg": "4",
                 "pe": "5",
                 "pp": "5",
-                "gf": 12,
+                "gf": 13,
                 "gc": 13,
-                "dg": -1
+                "dg": 0
             },
             {
                 "zona": "Grupo B",
@@ -2909,13 +2909,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/136.png?v=6",
                 "equipo": "Tigre",
                 "puntos": "13",
-                "pj": "13",
+                "pj": "14",
                 "pg": "3",
                 "pe": "4",
-                "pp": "6",
+                "pp": "7",
                 "gf": 13,
-                "gc": 15,
-                "dg": -2
+                "gc": 16,
+                "dg": -3
             },
             {
                 "zona": "Grupo B",
@@ -2979,7 +2979,7 @@
                 "nombre": "Agustín Módica",
                 "equipo": "Gimnasia (Mendoza)",
                 "escudo": "https://statics-files.tycsports.com/escudos/816.png",
-                "goles": 9
+                "goles": 10
             },
             {
                 "nombre": "Junior Marabel",
