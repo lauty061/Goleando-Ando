@@ -1933,22 +1933,22 @@
             },
             {
                 "fecha_torneo": "Fecha 25",
-                "fecha": "24/10/2026 12:30 HS",
+                "fecha": "24/10/2026 12:30 HS Finalizado",
                 "local": "LSE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "visitante": "CON",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/146.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 25",
-                "fecha": "24/10/2026 20:00 HS",
+                "fecha": "24/10/2026 20:00 HS Finalizado",
                 "local": "OHI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/264.png?v=6",
                 "visitante": "COB",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png?v=6"
             },
             {
@@ -2496,6 +2496,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
+                "equipo": "D. La Serena",
+                "puntos": "33",
+                "pj": "25",
+                "pg": "8",
+                "pe": "9",
+                "pp": "8",
+                "gf": 39,
+                "gc": 42,
+                "dg": -3
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
                 "equipo": "Coquimbo Unido",
                 "puntos": "32",
@@ -2508,20 +2521,20 @@
                 "dg": 2
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/146.png?v=6",
                 "equipo": "D. Concepción",
                 "puntos": "32",
-                "pj": "24",
+                "pj": "25",
                 "pg": "9",
                 "pe": "5",
-                "pp": "10",
-                "gf": 26,
-                "gc": 27,
-                "dg": -1
+                "pp": "11",
+                "gf": 27,
+                "gc": 30,
+                "dg": -3
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "32",
@@ -2532,19 +2545,6 @@
                 "gf": 28,
                 "gc": 37,
                 "dg": -9
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
-                "equipo": "D. La Serena",
-                "puntos": "30",
-                "pj": "24",
-                "pg": "7",
-                "pe": "9",
-                "pp": "8",
-                "gf": 36,
-                "gc": 41,
-                "dg": -5
             },
             {
                 "posicion": "12",
@@ -2563,26 +2563,26 @@
                 "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
                 "equipo": "O'Higgins",
-                "puntos": "27",
-                "pj": "24",
+                "puntos": "28",
+                "pj": "25",
                 "pg": "8",
-                "pe": "3",
+                "pe": "4",
                 "pp": "13",
-                "gf": 28,
-                "gc": 38,
+                "gf": 29,
+                "gc": 39,
                 "dg": -10
             },
             {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "equipo": "Cobresal",
-                "puntos": "25",
-                "pj": "24",
+                "puntos": "26",
+                "pj": "25",
                 "pg": "7",
-                "pe": "4",
+                "pe": "5",
                 "pp": "13",
-                "gf": 35,
-                "gc": 45,
+                "gf": 36,
+                "gc": 46,
                 "dg": -10
             },
             {

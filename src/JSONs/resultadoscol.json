@@ -1533,22 +1533,22 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "24/10/2026 20:05 HS",
+                "fecha": "24/10/2026 20:05 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/66.png?v=6",
                 "visitante": "CUC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/266.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "24/10/2026 22:15 HS",
+                "fecha": "24/10/2026 22:15 HS Finalizado",
                 "local": "ONC",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "visitante": "PER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/181.png?v=6"
             },
             {
@@ -2165,6 +2165,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/66.png?v=6",
+                "equipo": "América de Cali",
+                "puntos": "31",
+                "pj": "15",
+                "pg": "9",
+                "pe": "4",
+                "pp": "2",
+                "gf": 29,
+                "gc": 11,
+                "dg": 18
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/105.png?v=6",
                 "equipo": "At. Nacional",
                 "puntos": "29",
@@ -2177,7 +2190,7 @@
                 "dg": 16
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/111.png?v=6",
                 "equipo": "Deportivo Cali",
                 "puntos": "29",
@@ -2188,19 +2201,6 @@
                 "gf": 23,
                 "gc": 9,
                 "dg": 14
-            },
-            {
-                "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/66.png?v=6",
-                "equipo": "América de Cali",
-                "puntos": "28",
-                "pj": "14",
-                "pg": "8",
-                "pe": "4",
-                "pp": "2",
-                "gf": 26,
-                "gc": 10,
-                "dg": 16
             },
             {
                 "posicion": "4",
@@ -2256,29 +2256,29 @@
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
-                "equipo": "Cúcuta",
+                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
+                "equipo": "Once Caldas",
                 "puntos": "21",
-                "pj": "14",
-                "pg": "6",
-                "pe": "3",
+                "pj": "16",
+                "pg": "5",
+                "pe": "6",
                 "pp": "5",
-                "gf": 17,
-                "gc": 19,
-                "dg": -2
+                "gf": 20,
+                "gc": 18,
+                "dg": 2
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/88.png?v=6",
-                "equipo": "Once Caldas",
-                "puntos": "20",
+                "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
+                "equipo": "Cúcuta",
+                "puntos": "21",
                 "pj": "15",
-                "pg": "5",
-                "pe": "5",
-                "pp": "5",
-                "gf": 19,
-                "gc": 17,
-                "dg": 2
+                "pg": "6",
+                "pe": "3",
+                "pp": "6",
+                "gf": 18,
+                "gc": 22,
+                "dg": -4
             },
             {
                 "posicion": "10",
@@ -2375,13 +2375,13 @@
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "equipo": "Pereira",
-                "puntos": "13",
-                "pj": "14",
+                "puntos": "14",
+                "pj": "15",
                 "pg": "2",
-                "pe": "7",
+                "pe": "8",
                 "pp": "5",
-                "gf": 10,
-                "gc": 18,
+                "gf": 11,
+                "gc": 19,
                 "dg": -8
             },
             {

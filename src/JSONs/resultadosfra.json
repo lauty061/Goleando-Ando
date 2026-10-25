@@ -643,12 +643,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "24/10/2026 15:45 HS",
+                "fecha": "24/10/2026 15:45 HS Finalizado",
                 "local": "LEN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
                 "visitante": "PAR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4360.png?v=6"
             },
             {
@@ -3091,19 +3091,6 @@
             },
             {
                 "posicion": "3",
-                "escudo": "https://statics-files.tycsports.com/escudos/4360.png?v=6",
-                "equipo": "Paris FC",
-                "puntos": "14",
-                "pj": "7",
-                "pg": "4",
-                "pe": "2",
-                "pp": "1",
-                "gf": 12,
-                "gc": 7,
-                "dg": 5
-            },
-            {
-                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
                 "equipo": "Lille",
                 "puntos": "14",
@@ -3114,6 +3101,19 @@
                 "gf": 10,
                 "gc": 5,
                 "dg": 5
+            },
+            {
+                "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/4360.png?v=6",
+                "equipo": "Paris FC",
+                "puntos": "14",
+                "pj": "8",
+                "pg": "4",
+                "pe": "2",
+                "pp": "2",
+                "gf": 13,
+                "gc": 9,
+                "dg": 4
             },
             {
                 "posicion": "5",
@@ -3130,6 +3130,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
+                "equipo": "Lens",
+                "puntos": "13",
+                "pj": "8",
+                "pg": "4",
+                "pe": "1",
+                "pp": "3",
+                "gf": 16,
+                "gc": 12,
+                "dg": 4
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
                 "equipo": "Stade Rennes",
                 "puntos": "13",
@@ -3142,7 +3155,7 @@
                 "dg": 1
             },
             {
-                "posicion": "7",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/1726.png?v=6",
                 "equipo": "Lorient",
                 "puntos": "11",
@@ -3155,7 +3168,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/1729.png?v=6",
                 "equipo": "Nice",
                 "puntos": "11",
@@ -3166,19 +3179,6 @@
                 "gf": 8,
                 "gc": 10,
                 "dg": -2
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/1730.png?v=6",
-                "equipo": "Lens",
-                "puntos": "10",
-                "pj": "7",
-                "pg": "3",
-                "pe": "1",
-                "pp": "3",
-                "gf": 14,
-                "gc": 11,
-                "dg": 3
             },
             {
                 "posicion": "10",
@@ -3354,15 +3354,15 @@
                 "goles": 4
             },
             {
+                "nombre": "Florian Thauvin",
+                "equipo": "Lens",
+                "escudo": "https://statics-files.tycsports.com/escudos/1730.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Ludovic Ajorque",
                 "equipo": "Stade Brestois",
                 "escudo": "https://statics-files.tycsports.com/escudos/2291.png",
-                "goles": 3
-            },
-            {
-                "nombre": "Marquinhos",
-                "equipo": "PSG",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png",
                 "goles": 3
             }
         ]
