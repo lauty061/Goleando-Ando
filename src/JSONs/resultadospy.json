@@ -943,22 +943,22 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "25/10/2026 10:00 HS",
+                "fecha": "25/10/2026 10:00 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "visitante": "OLI",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/215.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "25/10/2026 19:30 HS",
+                "fecha": "25/10/2026 19:30 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=6"
             },
             {
@@ -1327,30 +1327,17 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/215.png?v=6",
                 "equipo": "Olimpia",
-                "puntos": "30",
-                "pj": "15",
-                "pg": "9",
+                "puntos": "33",
+                "pj": "16",
+                "pg": "10",
                 "pe": "3",
                 "pp": "3",
-                "gf": 25,
-                "gc": 10,
-                "dg": 15
+                "gf": 28,
+                "gc": 12,
+                "dg": 16
             },
             {
                 "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
-                "equipo": "Libertad",
-                "puntos": "30",
-                "pj": "16",
-                "pg": "9",
-                "pe": "3",
-                "pp": "4",
-                "gf": 24,
-                "gc": 17,
-                "dg": 7
-            },
-            {
-                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
                 "puntos": "30",
@@ -1361,6 +1348,19 @@
                 "gf": 26,
                 "gc": 14,
                 "dg": 12
+            },
+            {
+                "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
+                "equipo": "Libertad",
+                "puntos": "30",
+                "pj": "16",
+                "pg": "9",
+                "pe": "3",
+                "pp": "4",
+                "gf": 24,
+                "gc": 17,
+                "dg": 7
             },
             {
                 "posicion": "4",
@@ -1405,27 +1405,27 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "equipo": "Cerro Porteño",
-                "puntos": "21",
-                "pj": "15",
-                "pg": "6",
+                "puntos": "24",
+                "pj": "16",
+                "pg": "7",
                 "pe": "3",
                 "pp": "6",
-                "gf": 20,
-                "gc": 16,
-                "dg": 4
+                "gf": 23,
+                "gc": 17,
+                "dg": 6
             },
             {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
                 "puntos": "19",
-                "pj": "15",
+                "pj": "16",
                 "pg": "4",
                 "pe": "7",
-                "pp": "4",
-                "gf": 17,
-                "gc": 18,
-                "dg": -1
+                "pp": "5",
+                "gf": 19,
+                "gc": 21,
+                "dg": -2
             },
             {
                 "posicion": "9",
@@ -1471,13 +1471,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "equipo": "San Lorenzo",
                 "puntos": "4",
-                "pj": "15",
+                "pj": "16",
                 "pg": "0",
                 "pe": "4",
-                "pp": "11",
-                "gf": 7,
-                "gc": 26,
-                "dg": -19
+                "pp": "12",
+                "gf": 8,
+                "gc": 29,
+                "dg": -21
             }
         ],
         "goleadores": [
@@ -1485,7 +1485,7 @@
                 "nombre": "Pablo Vegetti",
                 "equipo": "Cerro Porteño",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png",
-                "goles": 7
+                "goles": 8
             },
             {
                 "nombre": "Elvio Vera",

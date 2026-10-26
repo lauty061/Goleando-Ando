@@ -4483,12 +4483,12 @@
             },
             {
                 "fecha_torneo": "Fecha 41",
-                "fecha": "25/10/2026 15:00 HS",
+                "fecha": "25/10/2026 15:00 HS Finalizado",
                 "local": "TRE",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/681.png?v=6",
                 "visitante": "DSU",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/688.png?v=6"
             },
             {
@@ -4801,6 +4801,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
+                "equipo": "Talleres (RE)",
+                "puntos": "71",
+                "pj": "41",
+                "pg": "20",
+                "pe": "11",
+                "pp": "10",
+                "gf": 46,
+                "gc": 26,
+                "dg": 20
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/677.png?v=6",
                 "equipo": "Sp. Italiano",
                 "puntos": "69",
@@ -4811,19 +4824,6 @@
                 "gf": 47,
                 "gc": 33,
                 "dg": 14
-            },
-            {
-                "posicion": "4",
-                "escudo": "https://statics-files.tycsports.com/escudos/681.png?v=6",
-                "equipo": "Talleres (RE)",
-                "puntos": "68",
-                "pj": "40",
-                "pg": "19",
-                "pe": "11",
-                "pp": "10",
-                "gf": 42,
-                "gc": 26,
-                "dg": 16
             },
             {
                 "posicion": "5",
@@ -4957,19 +4957,6 @@
             },
             {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
-                "equipo": "Dock Sud",
-                "puntos": "47",
-                "pj": "40",
-                "pg": "11",
-                "pe": "14",
-                "pp": "15",
-                "gf": 41,
-                "gc": 45,
-                "dg": -4
-            },
-            {
-                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/683.png?v=6",
                 "equipo": "Argentino de M.",
                 "puntos": "47",
@@ -4982,7 +4969,7 @@
                 "dg": -7
             },
             {
-                "posicion": "17",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/773.png?v=6",
                 "equipo": "Arg. de Quilmes",
                 "puntos": "47",
@@ -4993,6 +4980,19 @@
                 "gf": 33,
                 "gc": 40,
                 "dg": -7
+            },
+            {
+                "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/688.png?v=6",
+                "equipo": "Dock Sud",
+                "puntos": "47",
+                "pj": "41",
+                "pg": "11",
+                "pe": "14",
+                "pp": "16",
+                "gf": 41,
+                "gc": 49,
+                "dg": -8
             },
             {
                 "posicion": "18",
