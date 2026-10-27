@@ -713,12 +713,12 @@
             },
             {
                 "fecha_torneo": "Fecha 8",
-                "fecha": "26/10/2026 16:45 HS",
+                "fecha": "26/10/2026 16:30 HS Finalizado",
                 "local": "PSG",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
                 "visitante": "LYO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/794.png?v=6"
             },
             {
@@ -3065,6 +3065,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
+                "equipo": "PSG",
+                "puntos": "17",
+                "pj": "8",
+                "pg": "5",
+                "pe": "2",
+                "pp": "1",
+                "gf": 16,
+                "gc": 9,
+                "dg": 7
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
                 "equipo": "Stade Rennes",
                 "puntos": "16",
@@ -3077,7 +3090,7 @@
                 "dg": 4
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/1725.png?v=6",
                 "equipo": "Lille",
                 "puntos": "15",
@@ -3090,7 +3103,7 @@
                 "dg": 5
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/1727.png?v=6",
                 "equipo": "Mónaco",
                 "puntos": "15",
@@ -3103,30 +3116,17 @@
                 "dg": 4
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/794.png?v=6",
                 "equipo": "Olympique Lyon",
                 "puntos": "14",
-                "pj": "7",
+                "pj": "8",
                 "pg": "4",
                 "pe": "2",
-                "pp": "1",
+                "pp": "2",
                 "gf": 13,
-                "gc": 5,
-                "dg": 8
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/1370.png?v=6",
-                "equipo": "PSG",
-                "puntos": "14",
-                "pj": "7",
-                "pg": "4",
-                "pe": "2",
-                "pp": "1",
-                "gf": 14,
-                "gc": 9,
-                "dg": 5
+                "gc": 7,
+                "dg": 6
             },
             {
                 "posicion": "6",

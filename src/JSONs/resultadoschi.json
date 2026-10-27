@@ -1993,12 +1993,12 @@
             },
             {
                 "fecha_torneo": "Fecha 25",
-                "fecha": "26/10/2026 18:00 HS",
+                "fecha": "26/10/2026 18:00 HS Finalizado",
                 "local": "UCH",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "visitante": "EVE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/148.png?v=6"
             },
             {
@@ -2420,14 +2420,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/76.png?v=6",
                 "equipo": "U. de Chile",
-                "puntos": "45",
-                "pj": "24",
-                "pg": "13",
+                "puntos": "48",
+                "pj": "25",
+                "pg": "14",
                 "pe": "6",
                 "pp": "5",
-                "gf": 41,
-                "gc": 19,
-                "dg": 22
+                "gf": 45,
+                "gc": 20,
+                "dg": 25
             },
             {
                 "posicion": "3",
@@ -2447,13 +2447,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png?v=6",
                 "equipo": "Everton",
                 "puntos": "39",
-                "pj": "24",
+                "pj": "25",
                 "pg": "11",
                 "pe": "6",
-                "pp": "7",
-                "gf": 40,
-                "gc": 27,
-                "dg": 13
+                "pp": "8",
+                "gf": 41,
+                "gc": 31,
+                "dg": 10
             },
             {
                 "posicion": "5",
@@ -2632,6 +2632,12 @@
                 "goles": 14
             },
             {
+                "nombre": "Eduardo Vargas",
+                "equipo": "Universidad de Chile",
+                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
+                "goles": 13
+            },
+            {
                 "nombre": "Alan Medina",
                 "equipo": "Everton",
                 "escudo": "https://statics-files.tycsports.com/escudos/148.png",
@@ -2641,12 +2647,6 @@
                 "nombre": "Lionel Altamirano",
                 "equipo": "Huachipato",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png",
-                "goles": 10
-            },
-            {
-                "nombre": "Eduardo Vargas",
-                "equipo": "Universidad de Chile",
-                "escudo": "https://statics-files.tycsports.com/escudos/76.png",
                 "goles": 10
             },
             {

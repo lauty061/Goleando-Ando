@@ -1823,22 +1823,22 @@
             },
             {
                 "fecha_torneo": "Fecha 23",
-                "fecha": "26/10/2026 19:00 HS",
+                "fecha": "26/10/2026 19:00 HS Finalizado",
                 "local": "NAP",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
                 "visitante": "CDG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/938.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 23",
-                "fecha": "26/10/2026 21:00 HS",
+                "fecha": "26/10/2026 21:00 HS Finalizado",
                 "local": "BOL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "visitante": "TIN",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7357.png?v=6"
             },
             {
@@ -2483,19 +2483,32 @@
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
-                "equipo": "Guabirá",
-                "puntos": "30",
-                "pj": "22",
-                "pg": "8",
-                "pe": "6",
-                "pp": "8",
-                "gf": 34,
-                "gc": 44,
-                "dg": -10
+                "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
+                "equipo": "Nacional Potosí",
+                "puntos": "31",
+                "pj": "23",
+                "pg": "9",
+                "pe": "4",
+                "pp": "10",
+                "gf": 35,
+                "gc": 31,
+                "dg": 4
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
+                "equipo": "Guabirá",
+                "puntos": "30",
+                "pj": "23",
+                "pg": "8",
+                "pe": "6",
+                "pp": "9",
+                "gf": 34,
+                "gc": 47,
+                "dg": -13
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "29",
@@ -2506,19 +2519,6 @@
                 "gf": 31,
                 "gc": 39,
                 "dg": -8
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
-                "equipo": "Nacional Potosí",
-                "puntos": "28",
-                "pj": "22",
-                "pg": "8",
-                "pe": "4",
-                "pp": "10",
-                "gf": 32,
-                "gc": 31,
-                "dg": 1
             },
             {
                 "posicion": "10",
@@ -2629,7 +2629,7 @@
                 "nombre": "Martín Cauteruccio",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 12
+                "goles": 13
             },
             {
                 "nombre": "Alex Cáceres",

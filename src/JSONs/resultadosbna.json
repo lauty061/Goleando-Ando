@@ -6283,22 +6283,22 @@
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/10/2026 13:00 HS",
+                "fecha": "26/10/2026 13:00 HS Finalizado",
                 "local": "CHI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "visitante": "SMS",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/134.png?v=6"
             },
             {
                 "fecha_torneo": null,
-                "fecha": "26/10/2026 15:30 HS",
+                "fecha": "26/10/2026 15:30 HS Finalizado",
                 "local": "DEF",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/138.png?v=6",
                 "visitante": "SMI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/698.png?v=6"
             },
             {
@@ -6932,13 +6932,13 @@
                 "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/134.png?v=6",
                 "equipo": "San Martín (SJ)",
-                "puntos": "47",
-                "pj": "34",
+                "puntos": "48",
+                "pj": "35",
                 "pg": "12",
-                "pe": "11",
+                "pe": "12",
                 "pp": "11",
-                "gf": 36,
-                "gc": 34,
+                "gf": 37,
+                "gc": 35,
                 "dg": 2
             },
             {
@@ -7056,6 +7056,20 @@
             {
                 "zona": "Posiciones",
                 "posicion": "26",
+                "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
+                "equipo": "Def. de Belgrano",
+                "puntos": "39",
+                "pj": "35",
+                "pg": "8",
+                "pe": "15",
+                "pp": "12",
+                "gf": 25,
+                "gc": 32,
+                "dg": -7
+            },
+            {
+                "zona": "Posiciones",
+                "posicion": "27",
                 "escudo": "https://statics-files.tycsports.com/escudos/127.png?v=6",
                 "equipo": "Chacarita",
                 "puntos": "39",
@@ -7069,7 +7083,7 @@
             },
             {
                 "zona": "Posiciones",
-                "posicion": "27",
+                "posicion": "28",
                 "escudo": "https://statics-files.tycsports.com/escudos/1890.png?v=6",
                 "equipo": "Mitre (SE)",
                 "puntos": "39",
@@ -7080,20 +7094,6 @@
                 "gf": 31,
                 "gc": 42,
                 "dg": -11
-            },
-            {
-                "zona": "Posiciones",
-                "posicion": "28",
-                "escudo": "https://statics-files.tycsports.com/escudos/138.png?v=6",
-                "equipo": "Def. de Belgrano",
-                "puntos": "38",
-                "pj": "34",
-                "pg": "8",
-                "pe": "14",
-                "pp": "12",
-                "gf": 25,
-                "gc": 32,
-                "dg": -7
             },
             {
                 "zona": "Posiciones",
@@ -7156,13 +7156,13 @@
                 "posicion": "33",
                 "escudo": "https://statics-files.tycsports.com/escudos/128.png?v=6",
                 "equipo": "Nueva Chicago",
-                "puntos": "36",
-                "pj": "34",
+                "puntos": "37",
+                "pj": "35",
                 "pg": "9",
-                "pe": "9",
+                "pe": "10",
                 "pp": "16",
-                "gf": 24,
-                "gc": 33,
+                "gf": 25,
+                "gc": 34,
                 "dg": -9
             },
             {
@@ -7184,10 +7184,10 @@
                 "posicion": "35",
                 "escudo": "https://statics-files.tycsports.com/escudos/698.png?v=6",
                 "equipo": "San Miguel",
-                "puntos": "32",
-                "pj": "34",
+                "puntos": "33",
+                "pj": "35",
                 "pg": "6",
-                "pe": "14",
+                "pe": "15",
                 "pp": "14",
                 "gf": 27,
                 "gc": 41,
@@ -7249,7 +7249,7 @@
                 "nombre": "Nazareno Funez",
                 "equipo": "San Martín (SJ)",
                 "escudo": "https://statics-files.tycsports.com/escudos/134.png",
-                "goles": 11
+                "goles": 12
             },
             {
                 "nombre": "Juan Sánchez Sotelo",

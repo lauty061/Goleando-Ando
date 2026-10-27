@@ -3183,22 +3183,22 @@
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "26/10/2026 19:30 HS",
+                "fecha": "26/10/2026 19:30 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "visitante": "GRE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/309.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 32",
-                "fecha": "26/10/2026 20:00 HS",
+                "fecha": "26/10/2026 20:00 HS Finalizado",
                 "local": "FLA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/256.png?v=6",
                 "visitante": "MIN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/624.png?v=6"
             },
             {
@@ -3805,6 +3805,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/256.png?v=6",
+                "equipo": "Flamengo",
+                "puntos": "70",
+                "pj": "32",
+                "pg": "21",
+                "pe": "7",
+                "pp": "4",
+                "gf": 64,
+                "gc": 27,
+                "dg": 37
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/80.png?v=6",
                 "equipo": "Palmeiras",
                 "puntos": "69",
@@ -3815,19 +3828,6 @@
                 "gf": 56,
                 "gc": 22,
                 "dg": 34
-            },
-            {
-                "posicion": "2",
-                "escudo": "https://statics-files.tycsports.com/escudos/256.png?v=6",
-                "equipo": "Flamengo",
-                "puntos": "67",
-                "pj": "31",
-                "pg": "20",
-                "pe": "7",
-                "pp": "4",
-                "gf": 61,
-                "gc": 25,
-                "dg": 36
             },
             {
                 "posicion": "3",
@@ -3873,13 +3873,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
                 "equipo": "Atlético Mineiro",
                 "puntos": "50",
-                "pj": "31",
+                "pj": "32",
                 "pg": "14",
                 "pe": "8",
-                "pp": "9",
-                "gf": 42,
-                "gc": 35,
-                "dg": 7
+                "pp": "10",
+                "gf": 44,
+                "gc": 38,
+                "dg": 6
             },
             {
                 "posicion": "7",
@@ -3951,13 +3951,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "equipo": "Coritiba",
                 "puntos": "39",
-                "pj": "31",
+                "pj": "32",
                 "pg": "10",
                 "pe": "9",
-                "pp": "12",
+                "pp": "13",
                 "gf": 38,
-                "gc": 49,
-                "dg": -11
+                "gc": 50,
+                "dg": -12
             },
             {
                 "posicion": "13",
@@ -4013,6 +4013,19 @@
             },
             {
                 "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/309.png?v=6",
+                "equipo": "Grêmio",
+                "puntos": "34",
+                "pj": "32",
+                "pg": "8",
+                "pe": "10",
+                "pp": "14",
+                "gf": 35,
+                "gc": 44,
+                "dg": -9
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
                 "equipo": "Corinthians",
                 "puntos": "33",
@@ -4023,19 +4036,6 @@
                 "gf": 34,
                 "gc": 42,
                 "dg": -8
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/309.png?v=6",
-                "equipo": "Grêmio",
-                "puntos": "31",
-                "pj": "31",
-                "pg": "7",
-                "pe": "10",
-                "pp": "14",
-                "gf": 34,
-                "gc": 44,
-                "dg": -10
             },
             {
                 "posicion": "19",

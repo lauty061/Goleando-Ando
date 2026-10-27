@@ -2073,22 +2073,22 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "26/10/2026 19:00 HS",
+                "fecha": "26/10/2026 19:00 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/137.png?v=6",
                 "visitante": "EST",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "26/10/2026 21:15 HS",
+                "fecha": "26/10/2026 21:15 HS Finalizado",
                 "local": "INS",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/11.png?v=6",
                 "visitante": "RIE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/788.png?v=6"
             },
             {
@@ -2558,14 +2558,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/11.png?v=6",
                 "equipo": "Instituto",
-                "puntos": "29",
-                "pj": "13",
-                "pg": "9",
+                "puntos": "32",
+                "pj": "14",
+                "pg": "10",
                 "pe": "2",
                 "pp": "2",
-                "gf": 20,
+                "gf": 21,
                 "gc": 10,
-                "dg": 10
+                "dg": 11
             },
             {
                 "zona": "Grupo A",
@@ -2682,30 +2682,30 @@
             {
                 "zona": "Grupo A",
                 "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/7.png?v=6",
-                "equipo": "Estudiantes",
-                "puntos": "14",
-                "pj": "13",
-                "pg": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/137.png?v=6",
+                "equipo": "Unión",
+                "puntos": "17",
+                "pj": "14",
+                "pg": "5",
                 "pe": "2",
                 "pp": "7",
-                "gf": 16,
-                "gc": 15,
-                "dg": 1
+                "gf": 21,
+                "gc": 23,
+                "dg": -2
             },
             {
                 "zona": "Grupo A",
                 "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/137.png?v=6",
-                "equipo": "Unión",
+                "escudo": "https://statics-files.tycsports.com/escudos/7.png?v=6",
+                "equipo": "Estudiantes",
                 "puntos": "14",
-                "pj": "13",
+                "pj": "14",
                 "pg": "4",
                 "pe": "2",
-                "pp": "7",
-                "gf": 18,
-                "gc": 22,
-                "dg": -4
+                "pp": "8",
+                "gf": 17,
+                "gc": 18,
+                "dg": -1
             },
             {
                 "zona": "Grupo A",
@@ -2727,13 +2727,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/788.png?v=6",
                 "equipo": "Dep. Riestra",
                 "puntos": "12",
-                "pj": "13",
+                "pj": "14",
                 "pg": "2",
                 "pe": "6",
-                "pp": "5",
+                "pp": "6",
                 "gf": 10,
-                "gc": 13,
-                "dg": -3
+                "gc": 14,
+                "dg": -4
             },
             {
                 "zona": "Grupo A",
@@ -2994,6 +2994,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Cristian Tarragona",
+                "equipo": "Unión",
+                "escudo": "https://statics-files.tycsports.com/escudos/137.png",
+                "goles": 7
+            },
+            {
                 "nombre": "Alex Arce",
                 "equipo": "Independiente Riv. (M)",
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png",
@@ -3003,12 +3009,6 @@
                 "nombre": "Andrés Vombergar",
                 "equipo": "Aldosivi",
                 "escudo": "https://statics-files.tycsports.com/escudos/122.png",
-                "goles": 6
-            },
-            {
-                "nombre": "Cristian Tarragona",
-                "equipo": "Unión",
-                "escudo": "https://statics-files.tycsports.com/escudos/137.png",
                 "goles": 6
             },
             {
