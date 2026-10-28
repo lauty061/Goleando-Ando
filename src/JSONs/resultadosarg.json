@@ -2093,12 +2093,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "27/10/2026 19:00 HS",
+                "fecha": "27/10/2026 19:00 HS Finalizado",
                 "local": "ARG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2.png?v=6",
                 "visitante": "INM",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/664.png?v=6"
             },
             {
@@ -2140,16 +2140,6 @@
                 "visitante": "ROS",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/18.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 15",
-                "fecha": "31/10/2026 14:45 HS",
-                "local": "DEF",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/129.png?v=6",
-                "visitante": "IND",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/10.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 15",
@@ -2220,6 +2210,16 @@
                 "visitante": "GEM",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/816.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 15",
+                "fecha": "02/11/2026 19:00 HS",
+                "local": "DEF",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/129.png?v=6",
+                "visitante": "IND",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/10.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 15",
@@ -2782,14 +2782,14 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/2.png?v=6",
                 "equipo": "Argentinos",
-                "puntos": "25",
-                "pj": "13",
-                "pg": "7",
+                "puntos": "28",
+                "pj": "14",
+                "pg": "8",
                 "pe": "4",
                 "pp": "2",
-                "gf": 17,
+                "gf": 18,
                 "gc": 11,
-                "dg": 6
+                "dg": 7
             },
             {
                 "zona": "Grupo B",
@@ -2881,13 +2881,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/664.png?v=6",
                 "equipo": "Indep.Mza.",
                 "puntos": "19",
-                "pj": "13",
+                "pj": "14",
                 "pg": "5",
                 "pe": "4",
-                "pp": "4",
+                "pp": "5",
                 "gf": 17,
-                "gc": 21,
-                "dg": -4
+                "gc": 22,
+                "dg": -5
             },
             {
                 "zona": "Grupo B",
