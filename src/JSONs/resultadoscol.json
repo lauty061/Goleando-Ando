@@ -483,22 +483,22 @@
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "30/10/2026 18:00 HS",
+                "fecha": "30/10/2026 18:00 HS Finalizado",
                 "local": "PER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "visitante": "JAG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1655.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 5",
-                "fecha": "30/10/2026 22:05 HS",
+                "fecha": "30/10/2026 22:05 HS Finalizado",
                 "local": "BUC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/175.png?v=6",
                 "visitante": "PAS",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png?v=6"
             },
             {
@@ -1673,7 +1673,7 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "03/11/2026 22:00 HS",
+                "fecha": "03/11/2026 20:20 HS",
                 "local": "PAS",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/180.png?v=6",
@@ -2204,6 +2204,19 @@
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
+                "equipo": "Bucaramanga",
+                "puntos": "28",
+                "pj": "16",
+                "pg": "7",
+                "pe": "7",
+                "pp": "2",
+                "gf": 25,
+                "gc": 16,
+                "dg": 9
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/183.png?v=6",
                 "equipo": "Santa Fe",
                 "puntos": "28",
@@ -2216,7 +2229,7 @@
                 "dg": 6
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/184.png?v=6",
                 "equipo": "Millonarios",
                 "puntos": "26",
@@ -2227,19 +2240,6 @@
                 "gf": 24,
                 "gc": 14,
                 "dg": 10
-            },
-            {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/175.png?v=6",
-                "equipo": "Bucaramanga",
-                "puntos": "25",
-                "pj": "15",
-                "pg": "6",
-                "pe": "7",
-                "pp": "2",
-                "gf": 23,
-                "gc": 15,
-                "dg": 8
             },
             {
                 "posicion": "7",
@@ -2347,6 +2347,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
+                "equipo": "Pereira",
+                "puntos": "17",
+                "pj": "16",
+                "pg": "3",
+                "pe": "8",
+                "pp": "5",
+                "gf": 12,
+                "gc": 19,
+                "dg": -7
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
                 "equipo": "Junior",
                 "puntos": "16",
@@ -2359,7 +2372,7 @@
                 "dg": -3
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/177.png?v=6",
                 "equipo": "Boyacá Chicó",
                 "puntos": "16",
@@ -2372,30 +2385,17 @@
                 "dg": -13
             },
             {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
-                "equipo": "Pereira",
-                "puntos": "14",
-                "pj": "15",
-                "pg": "2",
-                "pe": "8",
-                "pp": "5",
-                "gf": 11,
-                "gc": 19,
-                "dg": -8
-            },
-            {
                 "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/1655.png?v=6",
                 "equipo": "Jaguares",
                 "puntos": "13",
-                "pj": "15",
+                "pj": "16",
                 "pg": "3",
                 "pe": "4",
-                "pp": "8",
+                "pp": "9",
                 "gf": 17,
-                "gc": 28,
-                "dg": -11
+                "gc": 29,
+                "dg": -12
             },
             {
                 "posicion": "19",
@@ -2415,13 +2415,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "equipo": "Pasto",
                 "puntos": "12",
-                "pj": "15",
+                "pj": "16",
                 "pg": "3",
                 "pe": "3",
-                "pp": "9",
-                "gf": 10,
-                "gc": 22,
-                "dg": -12
+                "pp": "10",
+                "gf": 11,
+                "gc": 24,
+                "dg": -13
             }
         ],
         "goleadores": []

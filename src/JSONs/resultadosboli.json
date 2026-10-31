@@ -1843,22 +1843,22 @@
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "30/10/2026 19:00 HS",
+                "fecha": "30/10/2026 19:00 HS Finalizado",
                 "local": "RPO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "visitante": "IPE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3319.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "30/10/2026 21:00 HS",
+                "fecha": "30/10/2026 21:00 HS Finalizado",
                 "local": "ORI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "visitante": "AUR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/228.png?v=6"
             },
             {
@@ -2407,14 +2407,14 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "equipo": "Bolívar",
-                "puntos": "51",
-                "pj": "22",
-                "pg": "16",
+                "puntos": "54",
+                "pj": "23",
+                "pg": "17",
                 "pe": "3",
                 "pp": "3",
-                "gf": 56,
-                "gc": 22,
-                "dg": 34
+                "gf": 58,
+                "gc": 23,
+                "dg": 35
             },
             {
                 "posicion": "2",
@@ -2446,39 +2446,39 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "equipo": "Real Potosí",
-                "puntos": "38",
-                "pj": "23",
+                "puntos": "39",
+                "pj": "24",
                 "pg": "10",
-                "pe": "8",
+                "pe": "9",
                 "pp": "5",
-                "gf": 30,
-                "gc": 16,
+                "gf": 31,
+                "gc": 17,
                 "dg": 14
             },
             {
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "equipo": "Oriente Petrolero",
-                "puntos": "37",
-                "pj": "23",
+                "puntos": "38",
+                "pj": "24",
                 "pg": "11",
-                "pe": "4",
+                "pe": "5",
                 "pp": "8",
-                "gf": 40,
-                "gc": 29,
+                "gf": 41,
+                "gc": 30,
                 "dg": 11
             },
             {
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/228.png?v=6",
                 "equipo": "Aurora",
-                "puntos": "34",
-                "pj": "23",
+                "puntos": "35",
+                "pj": "24",
                 "pg": "8",
-                "pe": "10",
+                "pe": "11",
                 "pp": "5",
-                "gf": 34,
-                "gc": 30,
+                "gf": 35,
+                "gc": 31,
                 "dg": 4
             },
             {
@@ -2496,6 +2496,19 @@
             },
             {
                 "posicion": "8",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
+                "equipo": "Independiente",
+                "puntos": "30",
+                "pj": "24",
+                "pg": "8",
+                "pe": "6",
+                "pp": "10",
+                "gf": 32,
+                "gc": 40,
+                "dg": -8
+            },
+            {
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "30",
@@ -2506,19 +2519,6 @@
                 "gf": 34,
                 "gc": 47,
                 "dg": -13
-            },
-            {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/3319.png?v=6",
-                "equipo": "Independiente",
-                "puntos": "29",
-                "pj": "23",
-                "pg": "8",
-                "pe": "5",
-                "pp": "10",
-                "gf": 31,
-                "gc": 39,
-                "dg": -8
             },
             {
                 "posicion": "10",
@@ -2564,13 +2564,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7357.png?v=6",
                 "equipo": "U. de Vinto",
                 "puntos": "21",
-                "pj": "22",
+                "pj": "23",
                 "pg": "6",
                 "pe": "3",
-                "pp": "13",
-                "gf": 29,
-                "gc": 43,
-                "dg": -14
+                "pp": "14",
+                "gf": 30,
+                "gc": 45,
+                "dg": -15
             },
             {
                 "posicion": "14",
@@ -2632,16 +2632,16 @@
                 "goles": 13
             },
             {
+                "nombre": "Willie Barbosa",
+                "equipo": "Independiente Petrolero",
+                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Alex Cáceres",
                 "equipo": "GV San José",
                 "escudo": "https://statics-files.tycsports.com/escudos/11268.png",
                 "goles": 12
-            },
-            {
-                "nombre": "Willie Barbosa",
-                "equipo": "Independiente Petrolero",
-                "escudo": "https://statics-files.tycsports.com/escudos/3319.png",
-                "goles": 11
             },
             {
                 "nombre": "Darwin Lom",

@@ -963,22 +963,22 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "30/10/2026 19:30 HS",
+                "fecha": "30/10/2026 19:30 HS Finalizado",
                 "local": "GUA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "visitante": "2MA",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/269.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "30/10/2026 19:30 HS",
+                "fecha": "30/10/2026 19:30 HS Finalizado",
                 "local": "TRI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "visitante": "RÑU",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1029.png?v=6"
             },
             {
@@ -1341,13 +1341,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
                 "puntos": "30",
-                "pj": "16",
+                "pj": "17",
                 "pg": "9",
                 "pe": "3",
-                "pp": "4",
-                "gf": 26,
-                "gc": 14,
-                "dg": 12
+                "pp": "5",
+                "gf": 28,
+                "gc": 18,
+                "dg": 10
             },
             {
                 "posicion": "3",
@@ -1380,26 +1380,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
                 "equipo": "2 de Mayo",
                 "puntos": "29",
-                "pj": "16",
+                "pj": "17",
                 "pg": "8",
                 "pe": "5",
-                "pp": "3",
+                "pp": "4",
                 "gf": 18,
-                "gc": 17,
-                "dg": 1
+                "gc": 18,
+                "dg": 0
             },
             {
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
-                "puntos": "25",
-                "pj": "16",
-                "pg": "6",
+                "puntos": "28",
+                "pj": "17",
+                "pg": "7",
                 "pe": "7",
                 "pp": "3",
-                "gf": 18,
+                "gf": 19,
                 "gc": 14,
-                "dg": 4
+                "dg": 5
             },
             {
                 "posicion": "7",
@@ -1444,14 +1444,14 @@
                 "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "equipo": "Rubio Ñu",
-                "puntos": "13",
-                "pj": "16",
-                "pg": "3",
+                "puntos": "16",
+                "pj": "17",
+                "pg": "4",
                 "pe": "4",
                 "pp": "9",
-                "gf": 15,
-                "gc": 27,
-                "dg": -12
+                "gf": 19,
+                "gc": 29,
+                "dg": -10
             },
             {
                 "posicion": "11",
@@ -1503,7 +1503,7 @@
                 "nombre": "Luis Abreu",
                 "equipo": "Trinidense",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png",
-                "goles": 5
+                "goles": 6
             },
             {
                 "nombre": "Estivel Moreira",
