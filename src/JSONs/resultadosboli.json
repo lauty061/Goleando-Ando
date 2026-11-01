@@ -1863,22 +1863,22 @@
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "31/10/2026 16:00 HS",
+                "fecha": "31/10/2026 16:00 HS Finalizado",
                 "local": "TRO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
                 "visitante": "NAP",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1657.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 24",
-                "fecha": "31/10/2026 18:15 HS",
+                "fecha": "31/10/2026 18:15 HS Finalizado",
                 "local": "ABB",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/12012.png?v=6",
                 "visitante": "SAB",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/11267.png?v=6"
             },
             {
@@ -2485,13 +2485,13 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
                 "equipo": "Nacional Potosí",
-                "puntos": "31",
-                "pj": "23",
+                "puntos": "32",
+                "pj": "24",
                 "pg": "9",
-                "pe": "4",
+                "pe": "5",
                 "pp": "10",
-                "gf": 35,
-                "gc": 31,
+                "gf": 36,
+                "gc": 32,
                 "dg": 4
             },
             {
@@ -2522,6 +2522,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
+                "equipo": "Totora Real Oruro",
+                "puntos": "28",
+                "pj": "24",
+                "pg": "8",
+                "pe": "4",
+                "pp": "12",
+                "gf": 38,
+                "gc": 57,
+                "dg": -19
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=6",
                 "equipo": "Blooming",
                 "puntos": "28",
@@ -2534,30 +2547,17 @@
                 "dg": 6
             },
             {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/12013.png?v=6",
-                "equipo": "Totora Real Oruro",
-                "puntos": "27",
-                "pj": "23",
-                "pg": "8",
-                "pe": "3",
-                "pp": "12",
-                "gf": 37,
-                "gc": 56,
-                "dg": -19
-            },
-            {
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/11267.png?v=6",
                 "equipo": "San Antonio",
-                "puntos": "24",
-                "pj": "23",
-                "pg": "7",
+                "puntos": "27",
+                "pj": "24",
+                "pg": "8",
                 "pe": "3",
                 "pp": "13",
-                "gf": 24,
-                "gc": 43,
-                "dg": -19
+                "gf": 27,
+                "gc": 45,
+                "dg": -18
             },
             {
                 "posicion": "13",
@@ -2577,13 +2577,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/12012.png?v=6",
                 "equipo": "ABB",
                 "puntos": "20",
-                "pj": "23",
+                "pj": "24",
                 "pg": "6",
                 "pe": "2",
-                "pp": "15",
-                "gf": 33,
-                "gc": 51,
-                "dg": -18
+                "pp": "16",
+                "gf": 35,
+                "gc": 54,
+                "dg": -19
             },
             {
                 "posicion": "15",
@@ -2668,15 +2668,15 @@
                 "goles": 8
             },
             {
+                "nombre": "Adalid Terrazas",
+                "equipo": "San Antonio Bulo Bulo",
+                "escudo": "https://statics-files.tycsports.com/escudos/11267.png",
+                "goles": 8
+            },
+            {
                 "nombre": "Dairon Asprilla",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Bayron Garcés",
-                "equipo": "Blooming",
-                "escudo": "https://statics-files.tycsports.com/escudos/229.png",
                 "goles": 7
             }
         ]

@@ -2023,12 +2023,12 @@
             },
             {
                 "fecha_torneo": "Fecha 26",
-                "fecha": "31/10/2026 18:00 HS",
+                "fecha": "31/10/2026 18:00 HS Finalizado",
                 "local": "OHI",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/264.png?v=6",
                 "visitante": "ÑUB",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/599.png?v=6"
             },
             {
@@ -2483,6 +2483,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
+                "equipo": "Coquimbo Unido",
+                "puntos": "35",
+                "pj": "26",
+                "pg": "10",
+                "pe": "5",
+                "pp": "11",
+                "gf": 38,
+                "gc": 36,
+                "dg": 2
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/149.png?v=6",
                 "equipo": "Huachipato",
                 "puntos": "35",
@@ -2495,20 +2508,20 @@
                 "dg": -5
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "equipo": "Ñublense",
                 "puntos": "35",
-                "pj": "25",
+                "pj": "26",
                 "pg": "9",
                 "pe": "8",
-                "pp": "8",
+                "pp": "9",
                 "gf": 30,
-                "gc": 38,
-                "dg": -8
+                "gc": 39,
+                "dg": -9
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/150.png?v=6",
                 "equipo": "D. La Serena",
                 "puntos": "33",
@@ -2519,19 +2532,6 @@
                 "gf": 39,
                 "gc": 42,
                 "dg": -3
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/145.png?v=6",
-                "equipo": "Coquimbo Unido",
-                "puntos": "32",
-                "pj": "25",
-                "pg": "9",
-                "pe": "5",
-                "pp": "11",
-                "gf": 37,
-                "gc": 36,
-                "dg": 1
             },
             {
                 "posicion": "11",
@@ -2548,6 +2548,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
+                "equipo": "O'Higgins",
+                "puntos": "31",
+                "pj": "26",
+                "pg": "9",
+                "pe": "4",
+                "pp": "13",
+                "gf": 30,
+                "gc": 39,
+                "dg": -9
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/143.png?v=6",
                 "equipo": "Audax Italiano",
                 "puntos": "30",
@@ -2558,19 +2571,6 @@
                 "gf": 28,
                 "gc": 33,
                 "dg": -5
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png?v=6",
-                "equipo": "O'Higgins",
-                "puntos": "28",
-                "pj": "25",
-                "pg": "8",
-                "pe": "4",
-                "pp": "13",
-                "gf": 29,
-                "gc": 39,
-                "dg": -10
             },
             {
                 "posicion": "14",
@@ -2603,13 +2603,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png?v=6",
                 "equipo": "U. La Calera",
                 "puntos": "21",
-                "pj": "25",
+                "pj": "26",
                 "pg": "5",
                 "pe": "6",
-                "pp": "14",
+                "pp": "15",
                 "gf": 23,
-                "gc": 42,
-                "dg": -19
+                "gc": 43,
+                "dg": -20
             }
         ],
         "goleadores": [
@@ -2650,6 +2650,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Arnaldo Castillo",
+                "equipo": "O'Higgins",
+                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Nicolás Johansen",
                 "equipo": "Coquimbo Unido",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
@@ -2666,12 +2672,6 @@
                 "equipo": "U. La Calera",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "goles": 9
-            },
-            {
-                "nombre": "Arnaldo Castillo",
-                "equipo": "O'Higgins",
-                "escudo": "https://statics-files.tycsports.com/escudos/264.png",
-                "goles": 8
             },
             {
                 "nombre": "Justo Giani",

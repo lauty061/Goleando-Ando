@@ -1613,12 +1613,12 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "31/10/2026 20:00 HS",
+                "fecha": "31/10/2026 20:00 HS Finalizado",
                 "local": "LLA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/880.png?v=6",
                 "visitante": "JUN",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/81.png?v=6"
             },
             {
@@ -1703,6 +1703,16 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
+                "fecha": "06/11/2026 20:00 HS",
+                "local": "BOY",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/177.png?v=6",
+                "visitante": "INT",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/597.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 18",
                 "fecha": "06/11/2026 22:00 HS",
                 "local": "FOR",
                 "goles_local": "-",
@@ -1713,23 +1723,13 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "07/11/2026 16:00 HS",
+                "fecha": "07/11/2026 18:05 HS",
                 "local": "ONC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/88.png?v=6",
                 "visitante": "AGU",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/922.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 18",
-                "fecha": "07/11/2026 18:05 HS",
-                "local": "TOL",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/179.png?v=6",
-                "visitante": "MIL",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/184.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
@@ -1754,12 +1754,12 @@
             {
                 "fecha_torneo": "Fecha 18",
                 "fecha": "08/11/2026 16:00 HS",
-                "local": "BOY",
+                "local": "SFE",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/177.png?v=6",
-                "visitante": "INT",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/183.png?v=6",
+                "visitante": "PAS",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/597.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
@@ -1774,12 +1774,12 @@
             {
                 "fecha_torneo": "Fecha 18",
                 "fecha": "08/11/2026 20:10 HS",
-                "local": "JUN",
+                "local": "TOL",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/81.png?v=6",
-                "visitante": "CUC",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/179.png?v=6",
+                "visitante": "MIL",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/266.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/184.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
@@ -1793,13 +1793,13 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "09/11/2026 21:30 HS",
-                "local": "SFE",
+                "fecha": "09/11/2026 21:00 HS",
+                "local": "JUN",
                 "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/183.png?v=6",
-                "visitante": "PAS",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/81.png?v=6",
+                "visitante": "CUC",
                 "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/180.png?v=6"
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/266.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 19",
@@ -2321,6 +2321,19 @@
             },
             {
                 "posicion": "13",
+                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
+                "equipo": "Llaneros FC",
+                "puntos": "20",
+                "pj": "17",
+                "pg": "6",
+                "pe": "2",
+                "pp": "9",
+                "gf": 19,
+                "gc": 23,
+                "dg": -4
+            },
+            {
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/921.png?v=6",
                 "equipo": "Alianza",
                 "puntos": "18",
@@ -2331,19 +2344,6 @@
                 "gf": 16,
                 "gc": 27,
                 "dg": -11
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/880.png?v=6",
-                "equipo": "Llaneros FC",
-                "puntos": "17",
-                "pj": "16",
-                "pg": "5",
-                "pe": "2",
-                "pp": "9",
-                "gf": 16,
-                "gc": 21,
-                "dg": -5
             },
             {
                 "posicion": "15",
@@ -2363,13 +2363,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/81.png?v=6",
                 "equipo": "Junior",
                 "puntos": "16",
-                "pj": "16",
+                "pj": "17",
                 "pg": "3",
                 "pe": "7",
-                "pp": "6",
-                "gf": 21,
-                "gc": 24,
-                "dg": -3
+                "pp": "7",
+                "gf": 23,
+                "gc": 27,
+                "dg": -4
             },
             {
                 "posicion": "17",

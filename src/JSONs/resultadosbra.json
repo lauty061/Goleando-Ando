@@ -3293,12 +3293,12 @@
             },
             {
                 "fecha_torneo": "Fecha 33",
-                "fecha": "31/10/2026 16:00 HS",
+                "fecha": "31/10/2026 16:00 HS Finalizado",
                 "local": "CFC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "visitante": "VIT",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/988.png?v=6"
             },
             {
@@ -3935,6 +3935,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
+                "equipo": "Coritiba",
+                "puntos": "42",
+                "pj": "33",
+                "pg": "11",
+                "pe": "9",
+                "pp": "13",
+                "gf": 40,
+                "gc": 50,
+                "dg": -10
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png?v=6",
                 "equipo": "Botafogo",
                 "puntos": "39",
@@ -3945,19 +3958,6 @@
                 "gf": 45,
                 "gc": 53,
                 "dg": -8
-            },
-            {
-                "posicion": "12",
-                "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
-                "equipo": "Coritiba",
-                "puntos": "39",
-                "pj": "32",
-                "pg": "10",
-                "pe": "9",
-                "pp": "13",
-                "gf": 38,
-                "gc": 50,
-                "dg": -12
             },
             {
                 "posicion": "13",
@@ -3977,13 +3977,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/988.png?v=6",
                 "equipo": "Vitória",
                 "puntos": "38",
-                "pj": "32",
+                "pj": "33",
                 "pg": "10",
                 "pe": "8",
-                "pp": "14",
+                "pp": "15",
                 "gf": 35,
-                "gc": 46,
-                "dg": -11
+                "gc": 48,
+                "dg": -13
             },
             {
                 "posicion": "15",

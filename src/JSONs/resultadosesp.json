@@ -1013,42 +1013,42 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "31/10/2026 10:00 HS",
+                "fecha": "31/10/2026 10:00 HS Finalizado",
                 "local": "LEV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/35.png?v=6",
                 "visitante": "ATM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/29.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "31/10/2026 12:15 HS",
+                "fecha": "31/10/2026 12:15 HS Finalizado",
                 "local": "RAY",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3310.png?v=6",
                 "visitante": "CEL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/162.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "31/10/2026 14:30 HS",
+                "fecha": "31/10/2026 14:30 HS Finalizado",
                 "local": "BET",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/32.png?v=6",
                 "visitante": "MGA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/25.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "31/10/2026 17:00 HS",
+                "fecha": "31/10/2026 17:00 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/31.png?v=6",
                 "visitante": "ALV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/160.png?v=6"
             },
             {
@@ -3807,27 +3807,27 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/31.png?v=6",
                 "equipo": "Barcelona",
-                "puntos": "27",
-                "pj": "10",
-                "pg": "9",
+                "puntos": "30",
+                "pj": "11",
+                "pg": "10",
                 "pe": "0",
                 "pp": "1",
-                "gf": 40,
-                "gc": 11,
-                "dg": 29
+                "gf": 46,
+                "gc": 12,
+                "dg": 34
             },
             {
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/29.png?v=6",
                 "equipo": "Atl. Madrid",
-                "puntos": "25",
-                "pj": "10",
-                "pg": "8",
+                "puntos": "28",
+                "pj": "11",
+                "pg": "9",
                 "pe": "1",
                 "pp": "1",
-                "gf": 20,
+                "gf": 22,
                 "gc": 8,
-                "dg": 12
+                "dg": 14
             },
             {
                 "posicion": "3",
@@ -3846,14 +3846,14 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/32.png?v=6",
                 "equipo": "Betis",
-                "puntos": "20",
-                "pj": "10",
-                "pg": "6",
+                "puntos": "23",
+                "pj": "11",
+                "pg": "7",
                 "pe": "2",
                 "pp": "2",
-                "gf": 16,
-                "gc": 14,
-                "dg": 2
+                "gf": 18,
+                "gc": 15,
+                "dg": 3
             },
             {
                 "posicion": "5",
@@ -3883,19 +3883,6 @@
             },
             {
                 "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/160.png?v=6",
-                "equipo": "Alavés",
-                "puntos": "12",
-                "pj": "10",
-                "pg": "3",
-                "pe": "3",
-                "pp": "4",
-                "gf": 14,
-                "gc": 11,
-                "dg": 3
-            },
-            {
-                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/30.png?v=6",
                 "equipo": "Athletic Bilbao",
                 "puntos": "12",
@@ -3908,20 +3895,7 @@
                 "dg": 3
             },
             {
-                "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/162.png?v=6",
-                "equipo": "Celta",
-                "puntos": "12",
-                "pj": "10",
-                "pg": "2",
-                "pe": "6",
-                "pp": "2",
-                "gf": 10,
-                "gc": 7,
-                "dg": 3
-            },
-            {
-                "posicion": "10",
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/43.png?v=6",
                 "equipo": "Villarreal",
                 "puntos": "12",
@@ -3934,7 +3908,46 @@
                 "dg": 0
             },
             {
+                "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/162.png?v=6",
+                "equipo": "Celta",
+                "puntos": "12",
+                "pj": "11",
+                "pg": "2",
+                "pe": "6",
+                "pp": "3",
+                "gf": 10,
+                "gc": 10,
+                "dg": 0
+            },
+            {
+                "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/160.png?v=6",
+                "equipo": "Alavés",
+                "puntos": "12",
+                "pj": "11",
+                "pg": "3",
+                "pe": "3",
+                "pp": "5",
+                "gf": 15,
+                "gc": 17,
+                "dg": -2
+            },
+            {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/3310.png?v=6",
+                "equipo": "Rayo Vallecano",
+                "puntos": "12",
+                "pj": "10",
+                "pg": "3",
+                "pe": "3",
+                "pp": "4",
+                "gf": 15,
+                "gc": 20,
+                "dg": -5
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/33.png?v=6",
                 "equipo": "Deportivo",
                 "puntos": "11",
@@ -3947,7 +3960,7 @@
                 "dg": 0
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/34.png?v=6",
                 "equipo": "Espanyol",
                 "puntos": "11",
@@ -3960,7 +3973,7 @@
                 "dg": -1
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/37.png?v=6",
                 "equipo": "Osasuna",
                 "puntos": "11",
@@ -3973,7 +3986,7 @@
                 "dg": -10
             },
             {
-                "posicion": "14",
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/38.png?v=6",
                 "equipo": "Racing Santander",
                 "puntos": "11",
@@ -3984,19 +3997,6 @@
                 "gf": 15,
                 "gc": 26,
                 "dg": -11
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
-                "equipo": "Levante",
-                "puntos": "10",
-                "pj": "10",
-                "pg": "2",
-                "pe": "4",
-                "pp": "4",
-                "gf": 16,
-                "gc": 19,
-                "dg": -3
             },
             {
                 "posicion": "16",
@@ -4013,16 +4013,16 @@
             },
             {
                 "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/3310.png?v=6",
-                "equipo": "Rayo Vallecano",
-                "puntos": "9",
-                "pj": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
+                "equipo": "Levante",
+                "puntos": "10",
+                "pj": "11",
                 "pg": "2",
-                "pe": "3",
-                "pp": "4",
-                "gf": 12,
-                "gc": 20,
-                "dg": -8
+                "pe": "4",
+                "pp": "5",
+                "gf": 16,
+                "gc": 21,
+                "dg": -5
             },
             {
                 "posicion": "18",
@@ -4055,13 +4055,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/25.png?v=6",
                 "equipo": "Málaga",
                 "puntos": "5",
-                "pj": "10",
+                "pj": "11",
                 "pg": "0",
                 "pe": "5",
-                "pp": "5",
-                "gf": 7,
-                "gc": 19,
-                "dg": -12
+                "pp": "6",
+                "gf": 8,
+                "gc": 21,
+                "dg": -13
             }
         ],
         "goleadores": [
@@ -4069,7 +4069,7 @@
                 "nombre": "Raphinha",
                 "equipo": "Barcelona",
                 "escudo": "https://statics-files.tycsports.com/escudos/31.png",
-                "goles": 13
+                "goles": 15
             },
             {
                 "nombre": "Kylian Mbappé",
@@ -4078,15 +4078,15 @@
                 "goles": 11
             },
             {
-                "nombre": "Mohamed Zabiri",
-                "equipo": "Racing Santander",
-                "escudo": "https://statics-files.tycsports.com/escudos/38.png",
-                "goles": 8
-            },
-            {
                 "nombre": "Lamine Yamal",
                 "equipo": "Barcelona",
                 "escudo": "https://statics-files.tycsports.com/escudos/31.png",
+                "goles": 10
+            },
+            {
+                "nombre": "Mohamed Zabiri",
+                "equipo": "Racing Santander",
+                "escudo": "https://statics-files.tycsports.com/escudos/38.png",
                 "goles": 8
             },
             {
