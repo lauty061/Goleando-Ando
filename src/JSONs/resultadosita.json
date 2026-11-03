@@ -983,22 +983,22 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "02/11/2026 14:30 HS",
+                "fecha": "02/11/2026 14:30 HS Finalizado",
                 "local": "SAS",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/2192.png?v=6",
                 "visitante": "FIO",
-                "goles_visita": "-",
+                "goles_visita": "4",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/50.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "02/11/2026 16:45 HS",
+                "fecha": "02/11/2026 16:45 HS Finalizado",
                 "local": "ATA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/45.png?v=6",
                 "visitante": "PAR",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/59.png?v=6"
             },
             {
@@ -3964,13 +3964,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/45.png?v=6",
                 "equipo": "Atalanta",
                 "puntos": "11",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "2",
-                "pp": "4",
+                "pp": "5",
                 "gf": 16,
-                "gc": 17,
-                "dg": -1
+                "gc": 20,
+                "dg": -4
             },
             {
                 "posicion": "14",
@@ -3987,19 +3987,45 @@
             },
             {
                 "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/2192.png?v=6",
-                "equipo": "Sassuolo",
+                "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
+                "equipo": "Parma",
                 "puntos": "8",
-                "pj": "9",
+                "pj": "10",
                 "pg": "2",
                 "pe": "2",
-                "pp": "5",
-                "gf": 14,
-                "gc": 22,
-                "dg": -8
+                "pp": "6",
+                "gf": 8,
+                "gc": 15,
+                "dg": -7
             },
             {
                 "posicion": "16",
+                "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
+                "equipo": "Fiorentina",
+                "puntos": "8",
+                "pj": "10",
+                "pg": "2",
+                "pe": "2",
+                "pp": "6",
+                "gf": 15,
+                "gc": 23,
+                "dg": -8
+            },
+            {
+                "posicion": "17",
+                "escudo": "https://statics-files.tycsports.com/escudos/2192.png?v=6",
+                "equipo": "Sassuolo",
+                "puntos": "8",
+                "pj": "10",
+                "pg": "2",
+                "pe": "2",
+                "pp": "6",
+                "gf": 16,
+                "gc": 26,
+                "dg": -10
+            },
+            {
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/10452.png?v=6",
                 "equipo": "Monza",
                 "puntos": "7",
@@ -4010,32 +4036,6 @@
                 "gf": 17,
                 "gc": 24,
                 "dg": -7
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/50.png?v=6",
-                "equipo": "Fiorentina",
-                "puntos": "5",
-                "pj": "9",
-                "pg": "1",
-                "pe": "2",
-                "pp": "6",
-                "gf": 11,
-                "gc": 21,
-                "dg": -10
-            },
-            {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/59.png?v=6",
-                "equipo": "Parma",
-                "puntos": "5",
-                "pj": "9",
-                "pg": "1",
-                "pe": "2",
-                "pp": "6",
-                "gf": 5,
-                "gc": 15,
-                "dg": -10
             },
             {
                 "posicion": "19",
