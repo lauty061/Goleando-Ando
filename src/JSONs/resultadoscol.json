@@ -1663,22 +1663,22 @@
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "03/11/2026 17:30 HS",
+                "fecha": "03/11/2026 17:30 HS Finalizado",
                 "local": "PER",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "visitante": "TOL",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/179.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 17",
-                "fecha": "03/11/2026 20:20 HS",
+                "fecha": "03/11/2026 20:20 HS Finalizado",
                 "local": "PAS",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/180.png?v=6",
                 "visitante": "JAG",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1655.png?v=6"
             },
             {
@@ -2282,6 +2282,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
+                "equipo": "Tolima",
+                "puntos": "23",
+                "pj": "17",
+                "pg": "6",
+                "pe": "5",
+                "pp": "6",
+                "gf": 21,
+                "gc": 20,
+                "dg": 1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/266.png?v=6",
                 "equipo": "Cúcuta",
                 "puntos": "21",
@@ -2292,19 +2305,6 @@
                 "gf": 18,
                 "gc": 24,
                 "dg": -6
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/179.png?v=6",
-                "equipo": "Tolima",
-                "puntos": "20",
-                "pj": "16",
-                "pg": "5",
-                "pe": "5",
-                "pp": "6",
-                "gf": 18,
-                "gc": 19,
-                "dg": -1
             },
             {
                 "posicion": "12",
@@ -2350,13 +2350,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/181.png?v=6",
                 "equipo": "Pereira",
                 "puntos": "17",
-                "pj": "16",
+                "pj": "17",
                 "pg": "3",
                 "pe": "8",
-                "pp": "5",
-                "gf": 12,
-                "gc": 19,
-                "dg": -7
+                "pp": "6",
+                "gf": 13,
+                "gc": 22,
+                "dg": -9
             },
             {
                 "posicion": "16",
@@ -2386,19 +2386,32 @@
             },
             {
                 "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/1655.png?v=6",
-                "equipo": "Jaguares",
-                "puntos": "13",
-                "pj": "16",
-                "pg": "3",
-                "pe": "4",
-                "pp": "9",
-                "gf": 17,
-                "gc": 29,
-                "dg": -12
+                "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
+                "equipo": "Pasto",
+                "puntos": "15",
+                "pj": "17",
+                "pg": "4",
+                "pe": "3",
+                "pp": "10",
+                "gf": 13,
+                "gc": 24,
+                "dg": -11
             },
             {
                 "posicion": "19",
+                "escudo": "https://statics-files.tycsports.com/escudos/1655.png?v=6",
+                "equipo": "Jaguares",
+                "puntos": "13",
+                "pj": "17",
+                "pg": "3",
+                "pe": "4",
+                "pp": "10",
+                "gf": 17,
+                "gc": 31,
+                "dg": -14
+            },
+            {
+                "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/3209.png?v=6",
                 "equipo": "Fortaleza FC",
                 "puntos": "12",
@@ -2409,19 +2422,6 @@
                 "gf": 17,
                 "gc": 25,
                 "dg": -8
-            },
-            {
-                "posicion": "20",
-                "escudo": "https://statics-files.tycsports.com/escudos/180.png?v=6",
-                "equipo": "Pasto",
-                "puntos": "12",
-                "pj": "16",
-                "pg": "3",
-                "pe": "3",
-                "pp": "10",
-                "gf": 11,
-                "gc": 24,
-                "dg": -13
             }
         ],
         "goleadores": []

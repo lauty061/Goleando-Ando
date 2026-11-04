@@ -1023,22 +1023,22 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "03/11/2026 17:00 HS",
+                "fecha": "03/11/2026 17:00 HS Finalizado",
                 "local": "2MA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/269.png?v=6",
                 "visitante": "TRI",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/605.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "03/11/2026 19:30 HS",
+                "fecha": "03/11/2026 19:30 HS Finalizado",
                 "local": "NAC",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "visitante": "SLO",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/2119.png?v=6"
             },
             {
@@ -1341,22 +1341,22 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/214.png?v=6",
                 "equipo": "Nacional (P)",
                 "puntos": "32",
-                "pj": "17",
+                "pj": "18",
                 "pg": "9",
                 "pe": "5",
-                "pp": "3",
+                "pp": "4",
                 "gf": 26,
-                "gc": 9,
-                "dg": 17
+                "gc": 11,
+                "dg": 15
             },
             {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
-                "puntos": "30",
-                "pj": "17",
+                "puntos": "31",
+                "pj": "18",
                 "pg": "9",
-                "pe": "3",
+                "pe": "4",
                 "pp": "5",
                 "gf": 28,
                 "gc": 18,
@@ -1379,10 +1379,10 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
                 "equipo": "2 de Mayo",
-                "puntos": "29",
-                "pj": "17",
+                "puntos": "30",
+                "pj": "18",
                 "pg": "8",
-                "pe": "5",
+                "pe": "6",
                 "pp": "4",
                 "gf": 18,
                 "gc": 18,
@@ -1470,14 +1470,14 @@
                 "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/2119.png?v=6",
                 "equipo": "San Lorenzo",
-                "puntos": "7",
-                "pj": "17",
-                "pg": "1",
+                "puntos": "10",
+                "pj": "18",
+                "pg": "2",
                 "pe": "4",
                 "pp": "12",
-                "gf": 10,
+                "gf": 12,
                 "gc": 30,
-                "dg": -20
+                "dg": -18
             }
         ],
         "goleadores": [
@@ -1536,15 +1536,15 @@
                 "goles": 4
             },
             {
-                "nombre": "Aldo González",
-                "equipo": "Deportivo Recoleta",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "nombre": "Marcelo Ferreira",
+                "equipo": "San Lorenzo",
+                "escudo": "https://statics-files.tycsports.com/escudos/2119.png",
                 "goles": 4
             },
             {
-                "nombre": "Leandro Meza",
-                "equipo": "Nacional (P)",
-                "escudo": "https://statics-files.tycsports.com/escudos/214.png",
+                "nombre": "Aldo González",
+                "equipo": "Deportivo Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "goles": 4
             }
         ]

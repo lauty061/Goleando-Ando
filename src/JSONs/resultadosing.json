@@ -893,12 +893,12 @@
             },
             {
                 "fecha_torneo": "Fecha 9",
-                "fecha": "02/11/2026 17:00 HS",
+                "fecha": "02/11/2026 17:00 HS Finalizado",
                 "local": "NEW",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/570.png?v=6",
                 "visitante": "EVE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/564.png?v=6"
             },
             {
@@ -3883,6 +3883,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
+                "equipo": "Everton",
+                "puntos": "13",
+                "pj": "9",
+                "pg": "3",
+                "pe": "4",
+                "pp": "2",
+                "gf": 9,
+                "gc": 9,
+                "dg": 0
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png?v=6",
                 "equipo": "Bournemouth",
                 "puntos": "12",
@@ -3895,7 +3908,7 @@
                 "dg": 1
             },
             {
-                "posicion": "8",
+                "posicion": "9",
                 "escudo": "https://statics-files.tycsports.com/escudos/574.png?v=6",
                 "equipo": "Tottenham",
                 "puntos": "12",
@@ -3908,7 +3921,7 @@
                 "dg": 0
             },
             {
-                "posicion": "9",
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/559.png?v=6",
                 "equipo": "Aston Villa",
                 "puntos": "12",
@@ -3921,7 +3934,7 @@
                 "dg": -3
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1261.png?v=6",
                 "equipo": "Hull City",
                 "puntos": "11",
@@ -3934,7 +3947,7 @@
                 "dg": 1
             },
             {
-                "posicion": "11",
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png?v=6",
                 "equipo": "Leeds United",
                 "puntos": "11",
@@ -3947,20 +3960,20 @@
                 "dg": 1
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/570.png?v=6",
                 "equipo": "Newcastle United",
                 "puntos": "11",
-                "pj": "8",
+                "pj": "9",
                 "pg": "3",
                 "pe": "2",
-                "pp": "3",
+                "pp": "4",
                 "gf": 12,
-                "gc": 14,
-                "dg": -2
+                "gc": 15,
+                "dg": -3
             },
             {
-                "posicion": "13",
+                "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
                 "equipo": "Ipswich Town",
                 "puntos": "11",
@@ -3971,19 +3984,6 @@
                 "gf": 14,
                 "gc": 18,
                 "dg": -4
-            },
-            {
-                "posicion": "14",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
-                "equipo": "Everton",
-                "puntos": "10",
-                "pj": "8",
-                "pg": "2",
-                "pe": "4",
-                "pp": "2",
-                "gf": 8,
-                "gc": 9,
-                "dg": -1
             },
             {
                 "posicion": "15",
@@ -4102,6 +4102,12 @@
                 "goles": 5
             },
             {
+                "nombre": "Thierno Barry",
+                "equipo": "Everton",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
+                "goles": 4
+            },
+            {
                 "nombre": "Rayan Cherki",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
@@ -4118,12 +4124,6 @@
                 "equipo": "Manchester United",
                 "escudo": "https://statics-files.tycsports.com/escudos/568.png",
                 "goles": 4
-            },
-            {
-                "nombre": "Thierno Barry",
-                "equipo": "Everton",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
-                "goles": 3
             },
             {
                 "nombre": "Jack Hinshelwood",
