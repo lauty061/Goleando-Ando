@@ -1043,32 +1043,32 @@
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "04/11/2026 19:00 HS",
+                "fecha": "04/11/2026 19:00 HS Finalizado",
                 "local": "LIB",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "visitante": "CER",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/77.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "04/11/2026 19:00 HS",
+                "fecha": "04/11/2026 19:00 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "visitante": "GUA",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/115.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 18",
-                "fecha": "04/11/2026 21:15 HS",
+                "fecha": "04/11/2026 21:15 HS Primer Tiempo",
                 "local": "OLI",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/215.png?v=6",
                 "visitante": "REC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7699.png?v=6"
             },
             {
@@ -1351,6 +1351,19 @@
             },
             {
                 "posicion": "3",
+                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
+                "equipo": "Guaraní",
+                "puntos": "31",
+                "pj": "18",
+                "pg": "8",
+                "pe": "7",
+                "pp": "3",
+                "gf": 20,
+                "gc": 14,
+                "dg": 6
+            },
+            {
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/605.png?v=6",
                 "equipo": "Trinidense",
                 "puntos": "31",
@@ -1363,20 +1376,20 @@
                 "dg": 10
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/69.png?v=6",
                 "equipo": "Libertad",
                 "puntos": "30",
-                "pj": "17",
+                "pj": "18",
                 "pg": "9",
                 "pe": "3",
-                "pp": "5",
+                "pp": "6",
                 "gf": 25,
-                "gc": 19,
-                "dg": 6
+                "gc": 20,
+                "dg": 5
             },
             {
-                "posicion": "5",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/269.png?v=6",
                 "equipo": "2 de Mayo",
                 "puntos": "30",
@@ -1389,43 +1402,30 @@
                 "dg": 0
             },
             {
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
-                "equipo": "Guaraní",
-                "puntos": "28",
-                "pj": "17",
-                "pg": "7",
-                "pe": "7",
-                "pp": "3",
-                "gf": 19,
-                "gc": 14,
-                "dg": 5
-            },
-            {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/77.png?v=6",
                 "equipo": "Cerro Porteño",
-                "puntos": "24",
-                "pj": "17",
-                "pg": "7",
+                "puntos": "27",
+                "pj": "18",
+                "pg": "8",
                 "pe": "3",
                 "pp": "7",
-                "gf": 23,
+                "gf": 24,
                 "gc": 19,
-                "dg": 4
+                "dg": 5
             },
             {
                 "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "equipo": "Sp. Ameliano",
                 "puntos": "19",
-                "pj": "17",
+                "pj": "18",
                 "pg": "4",
                 "pe": "7",
-                "pp": "6",
+                "pp": "7",
                 "gf": 19,
-                "gc": 24,
-                "dg": -5
+                "gc": 25,
+                "dg": -6
             },
             {
                 "posicion": "9",

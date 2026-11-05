@@ -598,12 +598,12 @@
             {
                 "fase": "Fase de Liga",
                 "jornada": "Fecha 4",
-                "fecha_partido": "04/11/2026 12:30 HS",
+                "fecha_partido": "04/11/2026 12:30 HS Finalizado",
                 "local": "REN",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
                 "visitante": "OLY",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/795.png?v=6"
             },
             {
@@ -2084,6 +2084,19 @@
         "tabla_posiciones": [
             {
                 "posicion": "1",
+                "escudo": "https://statics-files.tycsports.com/escudos/795.png?v=6",
+                "equipo": "Olympiacos",
+                "puntos": "10",
+                "pj": "4",
+                "pg": "3",
+                "pe": "1",
+                "pp": "0",
+                "gf": 4,
+                "gc": 1,
+                "dg": 3
+            },
+            {
+                "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/798.png?v=6",
                 "equipo": "Benfica",
                 "puntos": "9",
@@ -2096,7 +2109,7 @@
                 "dg": 8
             },
             {
-                "posicion": "2",
+                "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/706.png?v=6",
                 "equipo": "Bayer Leverkusen",
                 "puntos": "9",
@@ -2109,7 +2122,7 @@
                 "dg": 8
             },
             {
-                "posicion": "3",
+                "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/5376.png?v=6",
                 "equipo": "Bournemouth",
                 "puntos": "9",
@@ -2122,7 +2135,7 @@
                 "dg": 7
             },
             {
-                "posicion": "4",
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/5121.png?v=6",
                 "equipo": "Ferencváros",
                 "puntos": "9",
@@ -2133,19 +2146,6 @@
                 "gf": 9,
                 "gc": 3,
                 "dg": 6
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/795.png?v=6",
-                "equipo": "Olympiacos",
-                "puntos": "9",
-                "pj": "3",
-                "pg": "3",
-                "pe": "0",
-                "pp": "0",
-                "gf": 4,
-                "gc": 1,
-                "dg": 3
             },
             {
                 "posicion": "6",
@@ -2227,6 +2227,19 @@
             },
             {
                 "posicion": "12",
+                "escudo": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
+                "equipo": "Stade Rennes",
+                "puntos": "6",
+                "pj": "4",
+                "pg": "1",
+                "pe": "3",
+                "pp": "0",
+                "gf": 4,
+                "gc": 3,
+                "dg": 1
+            },
+            {
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/794.png?v=6",
                 "equipo": "Olympique Lyon",
                 "puntos": "6",
@@ -2237,19 +2250,6 @@
                 "gf": 5,
                 "gc": 6,
                 "dg": -1
-            },
-            {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/1732.png?v=6",
-                "equipo": "Stade Rennes",
-                "puntos": "5",
-                "pj": "3",
-                "pg": "1",
-                "pe": "2",
-                "pp": "0",
-                "gf": 4,
-                "gc": 3,
-                "dg": 1
             },
             {
                 "posicion": "14",
