@@ -3373,22 +3373,22 @@
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "05/11/2026 19:30 HS",
+                "fecha": "05/11/2026 19:30 HS Finalizado",
                 "local": "PAL",
-                "goles_local": "-",
+                "goles_local": "6",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/80.png?v=6",
                 "visitante": "CDR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3698.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 34",
-                "fecha": "05/11/2026 21:30 HS",
+                "fecha": "05/11/2026 21:30 HS Finalizado",
                 "local": "CRU",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/108.png?v=6",
                 "visitante": "BAH",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/991.png?v=6"
             },
             {
@@ -3820,27 +3820,27 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/80.png?v=6",
                 "equipo": "Palmeiras",
-                "puntos": "70",
-                "pj": "33",
-                "pg": "20",
+                "puntos": "73",
+                "pj": "34",
+                "pg": "21",
                 "pe": "10",
                 "pp": "3",
-                "gf": 56,
-                "gc": 22,
-                "dg": 34
+                "gf": 62,
+                "gc": 23,
+                "dg": 39
             },
             {
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png?v=6",
                 "equipo": "Cruzeiro",
-                "puntos": "57",
-                "pj": "33",
-                "pg": "17",
+                "puntos": "60",
+                "pj": "34",
+                "pg": "18",
                 "pe": "6",
                 "pp": "10",
-                "gf": 52,
-                "gc": 46,
-                "dg": 6
+                "gf": 55,
+                "gc": 48,
+                "dg": 7
             },
             {
                 "posicion": "4",
@@ -3873,13 +3873,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/991.png?v=6",
                 "equipo": "Bahia",
                 "puntos": "53",
-                "pj": "33",
+                "pj": "34",
                 "pg": "14",
                 "pe": "11",
-                "pp": "8",
-                "gf": 48,
-                "gc": 42,
-                "dg": 6
+                "pp": "9",
+                "gf": 50,
+                "gc": 45,
+                "dg": 5
             },
             {
                 "posicion": "7",
@@ -4042,13 +4042,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
                 "puntos": "29",
-                "pj": "33",
+                "pj": "34",
                 "pg": "6",
                 "pe": "11",
-                "pp": "16",
-                "gf": 36,
-                "gc": 51,
-                "dg": -15
+                "pp": "17",
+                "gf": 37,
+                "gc": 57,
+                "dg": -20
             },
             {
                 "posicion": "20",
@@ -4084,15 +4084,15 @@
                 "goles": 15
             },
             {
-                "nombre": "Samuel Lino",
-                "equipo": "Flamengo",
-                "escudo": "https://statics-files.tycsports.com/escudos/256.png",
-                "goles": 12
-            },
-            {
                 "nombre": "Pinto Ramos, K.",
                 "equipo": "Cruzeiro",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png",
+                "goles": 14
+            },
+            {
+                "nombre": "Samuel Lino",
+                "equipo": "Flamengo",
+                "escudo": "https://statics-files.tycsports.com/escudos/256.png",
                 "goles": 12
             },
             {
@@ -4114,22 +4114,22 @@
                 "goles": 10
             },
             {
+                "nombre": "José Manuel López",
+                "equipo": "Palmeiras",
+                "escudo": "https://statics-files.tycsports.com/escudos/80.png",
+                "goles": 10
+            },
+            {
                 "nombre": "de Oliveira, D.",
                 "equipo": "Botafogo",
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png",
                 "goles": 10
             },
             {
-                "nombre": "Jonathan Calleri",
-                "equipo": "São Paulo",
-                "escudo": "https://statics-files.tycsports.com/escudos/75.png",
+                "nombre": "Maurício Magalhães",
+                "equipo": "Palmeiras",
+                "escudo": "https://statics-files.tycsports.com/escudos/80.png",
                 "goles": 10
-            },
-            {
-                "nombre": "Costa Pereira, M.",
-                "equipo": "Cruzeiro",
-                "escudo": "https://statics-files.tycsports.com/escudos/108.png",
-                "goles": 9
             }
         ]
     }
