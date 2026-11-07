@@ -903,12 +903,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "06/11/2026 17:00 HS",
+                "fecha": "06/11/2026 17:00 HS Finalizado",
                 "local": "EVE",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/564.png?v=6",
                 "visitante": "COV",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/7584.png?v=6"
             },
             {
@@ -3857,6 +3857,19 @@
             },
             {
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
+                "equipo": "Everton",
+                "puntos": "16",
+                "pj": "10",
+                "pg": "4",
+                "pe": "4",
+                "pp": "2",
+                "gf": 12,
+                "gc": 10,
+                "dg": 2
+            },
+            {
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png?v=6",
                 "equipo": "Liverpool",
                 "puntos": "15",
@@ -3869,7 +3882,7 @@
                 "dg": 2
             },
             {
-                "posicion": "6",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
                 "equipo": "Brentford",
                 "puntos": "14",
@@ -3880,19 +3893,6 @@
                 "gf": 16,
                 "gc": 9,
                 "dg": 7
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
-                "equipo": "Everton",
-                "puntos": "13",
-                "pj": "9",
-                "pg": "3",
-                "pe": "4",
-                "pp": "2",
-                "gf": 9,
-                "gc": 9,
-                "dg": 0
             },
             {
                 "posicion": "8",
@@ -4003,13 +4003,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/7584.png?v=6",
                 "equipo": "Coventry City",
                 "puntos": "9",
-                "pj": "9",
+                "pj": "10",
                 "pg": "3",
                 "pe": "0",
-                "pp": "6",
-                "gf": 9,
-                "gc": 16,
-                "dg": -7
+                "pp": "7",
+                "gf": 10,
+                "gc": 19,
+                "dg": -9
             },
             {
                 "posicion": "17",
@@ -4072,6 +4072,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Thierno Barry",
+                "equipo": "Everton",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Alexander Isak",
                 "equipo": "Liverpool",
                 "escudo": "https://statics-files.tycsports.com/escudos/566.png",
@@ -4102,12 +4108,6 @@
                 "goles": 5
             },
             {
-                "nombre": "Thierno Barry",
-                "equipo": "Everton",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
-                "goles": 4
-            },
-            {
                 "nombre": "Rayan Cherki",
                 "equipo": "Manchester City",
                 "escudo": "https://statics-files.tycsports.com/escudos/567.png",
@@ -4126,9 +4126,9 @@
                 "goles": 4
             },
             {
-                "nombre": "Jack Hinshelwood",
-                "equipo": "Brighton and Hove",
-                "escudo": "https://statics-files.tycsports.com/escudos/4713.png",
+                "nombre": "Kiernan Dewsbury-Hall",
+                "equipo": "Everton",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png",
                 "goles": 3
             }
         ]

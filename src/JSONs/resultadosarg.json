@@ -2273,62 +2273,62 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "06/11/2026 15:00 HS",
+                "fecha": "06/11/2026 15:00 HS Finalizado",
                 "local": "BAR",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/685.png?v=6",
                 "visitante": "RAC",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/16.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "06/11/2026 19:15 HS",
+                "fecha": "06/11/2026 19:15 HS Finalizado",
                 "local": "SLO",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/19.png?v=6",
                 "visitante": "PLA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/489.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "06/11/2026 19:15 HS",
+                "fecha": "06/11/2026 19:15 HS Finalizado",
                 "local": "UNI",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/137.png?v=6",
                 "visitante": "VEL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/20.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "06/11/2026 19:15 HS",
+                "fecha": "06/11/2026 19:15 HS Finalizado",
                 "local": "IND",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/10.png?v=6",
                 "visitante": "RIE",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/788.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "06/11/2026 22:00 HS",
+                "fecha": "06/11/2026 22:00 HS Finalizado",
                 "local": "BAN",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4.png?v=6",
                 "visitante": "ATT",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/815.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "06/11/2026 22:00 HS",
+                "fecha": "06/11/2026 22:00 HS Finalizado",
                 "local": "TIG",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/136.png?v=6",
                 "visitante": "SAR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/142.png?v=6"
             },
             {
@@ -2822,6 +2822,20 @@
             {
                 "zona": "Grupo B",
                 "posicion": "5",
+                "escudo": "https://statics-files.tycsports.com/escudos/685.png?v=6",
+                "equipo": "Barracas Central",
+                "puntos": "26",
+                "pj": "16",
+                "pg": "7",
+                "pe": "5",
+                "pp": "4",
+                "gf": 17,
+                "gc": 13,
+                "dg": 4
+            },
+            {
+                "zona": "Grupo B",
+                "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/124.png?v=6",
                 "equipo": "Belgrano",
                 "puntos": "23",
@@ -2831,20 +2845,6 @@
                 "pp": "5",
                 "gf": 17,
                 "gc": 15,
-                "dg": 2
-            },
-            {
-                "zona": "Grupo B",
-                "posicion": "6",
-                "escudo": "https://statics-files.tycsports.com/escudos/685.png?v=6",
-                "equipo": "Barracas Central",
-                "puntos": "23",
-                "pj": "15",
-                "pg": "6",
-                "pe": "5",
-                "pp": "4",
-                "gf": 15,
-                "gc": 13,
                 "dg": 2
             },
             {
@@ -2923,13 +2923,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/16.png?v=6",
                 "equipo": "Racing Club",
                 "puntos": "15",
-                "pj": "15",
+                "pj": "16",
                 "pg": "4",
                 "pe": "3",
-                "pp": "8",
+                "pp": "9",
                 "gf": 16,
-                "gc": 22,
-                "dg": -6
+                "gc": 24,
+                "dg": -8
             },
             {
                 "zona": "Grupo B",
@@ -2988,6 +2988,12 @@
                 "goles": 10
             },
             {
+                "nombre": "Cristian Tarragona",
+                "equipo": "Unión",
+                "escudo": "https://statics-files.tycsports.com/escudos/137.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Junior Marabel",
                 "equipo": "Sarmiento",
                 "escudo": "https://statics-files.tycsports.com/escudos/142.png",
@@ -2997,12 +3003,6 @@
                 "nombre": "Andrés Vombergar",
                 "equipo": "Aldosivi",
                 "escudo": "https://statics-files.tycsports.com/escudos/122.png",
-                "goles": 7
-            },
-            {
-                "nombre": "Cristian Tarragona",
-                "equipo": "Unión",
-                "escudo": "https://statics-files.tycsports.com/escudos/137.png",
                 "goles": 7
             },
             {

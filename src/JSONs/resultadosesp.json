@@ -1103,12 +1103,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "06/11/2026 17:00 HS",
+                "fecha": "06/11/2026 17:00 HS Finalizado",
                 "local": "SEV",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/41.png?v=6",
                 "visitante": "ALV",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/160.png?v=6"
             },
             {
@@ -3872,10 +3872,10 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/41.png?v=6",
                 "equipo": "Sevilla",
-                "puntos": "17",
-                "pj": "11",
+                "puntos": "18",
+                "pj": "12",
                 "pg": "5",
-                "pe": "2",
+                "pe": "3",
                 "pp": "4",
                 "gf": 17,
                 "gc": 19,
@@ -3909,6 +3909,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/160.png?v=6",
+                "equipo": "Alavés",
+                "puntos": "13",
+                "pj": "12",
+                "pg": "3",
+                "pe": "4",
+                "pp": "5",
+                "gf": 15,
+                "gc": 17,
+                "dg": -2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/43.png?v=6",
                 "equipo": "Villarreal",
                 "puntos": "12",
@@ -3921,7 +3934,7 @@
                 "dg": 0
             },
             {
-                "posicion": "10",
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/162.png?v=6",
                 "equipo": "Celta",
                 "puntos": "12",
@@ -3932,19 +3945,6 @@
                 "gf": 10,
                 "gc": 10,
                 "dg": 0
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/160.png?v=6",
-                "equipo": "Alavés",
-                "puntos": "12",
-                "pj": "11",
-                "pg": "3",
-                "pe": "3",
-                "pp": "5",
-                "gf": 15,
-                "gc": 17,
-                "dg": -2
             },
             {
                 "posicion": "12",
