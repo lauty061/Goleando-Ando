@@ -1963,12 +1963,12 @@
             },
             {
                 "fecha_torneo": "Fecha 25",
-                "fecha": "08/11/2026 16:00 HS",
+                "fecha": "08/11/2026 16:00 HS Finalizado",
                 "local": "NAP",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
                 "visitante": "RPO",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/233.png?v=6"
             },
             {
@@ -2446,13 +2446,13 @@
                 "posicion": "4",
                 "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "equipo": "Real Potosí",
-                "puntos": "39",
-                "pj": "24",
+                "puntos": "40",
+                "pj": "25",
                 "pg": "10",
-                "pe": "9",
+                "pe": "10",
                 "pp": "5",
-                "gf": 31,
-                "gc": 17,
+                "gf": 32,
+                "gc": 18,
                 "dg": 14
             },
             {
@@ -2483,6 +2483,19 @@
             },
             {
                 "posicion": "7",
+                "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
+                "equipo": "Nacional Potosí",
+                "puntos": "33",
+                "pj": "25",
+                "pg": "9",
+                "pe": "6",
+                "pp": "10",
+                "gf": 37,
+                "gc": 33,
+                "dg": 4
+            },
+            {
+                "posicion": "8",
                 "escudo": "https://statics-files.tycsports.com/escudos/938.png?v=6",
                 "equipo": "Guabirá",
                 "puntos": "33",
@@ -2493,19 +2506,6 @@
                 "gf": 40,
                 "gc": 50,
                 "dg": -10
-            },
-            {
-                "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/1657.png?v=6",
-                "equipo": "Nacional Potosí",
-                "puntos": "32",
-                "pj": "24",
-                "pg": "9",
-                "pe": "5",
-                "pp": "10",
-                "gf": 36,
-                "gc": 32,
-                "dg": 4
             },
             {
                 "posicion": "9",
@@ -2650,16 +2650,16 @@
                 "goles": 12
             },
             {
+                "nombre": "Luis Alí",
+                "equipo": "Real Potosí",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Dorny Romero",
                 "equipo": "Bolívar",
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png",
                 "goles": 9
-            },
-            {
-                "nombre": "Luis Alí",
-                "equipo": "Real Potosí",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png",
-                "goles": 8
             },
             {
                 "nombre": "José Flores",
