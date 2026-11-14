@@ -1043,22 +1043,22 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "12/11/2026 20:00 HS",
+                "fecha": "12/11/2026 20:00 HS Finalizado",
                 "local": "CLA",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/958.png?v=6",
                 "visitante": "PRO",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/510.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "13/11/2026 17:00 HS",
+                "fecha": "13/11/2026 16:30 HS Finalizado",
                 "local": "MCT",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "visitante": "RCM",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/964.png?v=6"
             },
             {
@@ -1220,13 +1220,13 @@
                 "posicion": "2",
                 "escudo": "https://statics-files.tycsports.com/escudos/4043.png?v=6",
                 "equipo": "MC Torque",
-                "puntos": "28",
-                "pj": "13",
+                "puntos": "29",
+                "pj": "14",
                 "pg": "9",
-                "pe": "1",
+                "pe": "2",
                 "pp": "3",
-                "gf": 26,
-                "gc": 14,
+                "gf": 28,
+                "gc": 16,
                 "dg": 12
             },
             {
@@ -1272,26 +1272,26 @@
                 "posicion": "6",
                 "escudo": "https://statics-files.tycsports.com/escudos/964.png?v=6",
                 "equipo": "Racing (U)",
-                "puntos": "19",
-                "pj": "13",
+                "puntos": "20",
+                "pj": "14",
                 "pg": "5",
-                "pe": "4",
+                "pe": "5",
                 "pp": "4",
-                "gf": 18,
-                "gc": 14,
+                "gf": 20,
+                "gc": 16,
                 "dg": 4
             },
             {
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/510.png?v=6",
                 "equipo": "Progreso",
-                "puntos": "19",
-                "pj": "13",
+                "puntos": "20",
+                "pj": "14",
                 "pg": "6",
-                "pe": "1",
+                "pe": "2",
                 "pp": "6",
-                "gf": 13,
-                "gc": 15,
+                "gf": 15,
+                "gc": 17,
                 "dg": -2
             },
             {
@@ -1374,6 +1374,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
+                "equipo": "Cerro Largo",
+                "puntos": "10",
+                "pj": "14",
+                "pg": "1",
+                "pe": "7",
+                "pp": "6",
+                "gf": 12,
+                "gc": 19,
+                "dg": -7
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/72.png?v=6",
                 "equipo": "Danubio",
                 "puntos": "10",
@@ -1384,19 +1397,6 @@
                 "gf": 7,
                 "gc": 15,
                 "dg": -8
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/958.png?v=6",
-                "equipo": "Cerro Largo",
-                "puntos": "9",
-                "pj": "13",
-                "pg": "1",
-                "pe": "6",
-                "pp": "6",
-                "gf": 10,
-                "gc": 17,
-                "dg": -7
             },
             {
                 "posicion": "16",
@@ -1468,15 +1468,15 @@
                 "goles": 10
             },
             {
+                "nombre": "Sebastián Da Silva",
+                "equipo": "Racing (U)",
+                "escudo": "https://statics-files.tycsports.com/escudos/964.png",
+                "goles": 10
+            },
+            {
                 "nombre": "Renato César",
                 "equipo": "Deportivo Maldonado",
                 "escudo": "https://statics-files.tycsports.com/escudos/959.png",
-                "goles": 9
-            },
-            {
-                "nombre": "Esteban Obregón",
-                "equipo": "MC Torque",
-                "escudo": "https://statics-files.tycsports.com/escudos/4043.png",
                 "goles": 9
             }
         ]
