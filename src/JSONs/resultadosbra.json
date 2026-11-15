@@ -2093,12 +2093,12 @@
             },
             {
                 "fecha_torneo": "Fecha 21",
-                "fecha": "14/11/2026 20:30 HS",
+                "fecha": "14/11/2026 20:30 HS Finalizado",
                 "local": "CHA",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3694.png?v=6",
                 "visitante": "VAS",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/261.png?v=6"
             },
             {
@@ -3403,12 +3403,12 @@
             },
             {
                 "fecha_torneo": "Fecha 35",
-                "fecha": "14/11/2026 18:30 HS",
+                "fecha": "14/11/2026 18:30 HS Finalizado",
                 "local": "MIR",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/884.png?v=6",
                 "visitante": "MIN",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/624.png?v=6"
             },
             {
@@ -3885,10 +3885,10 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
                 "equipo": "Atlético Mineiro",
-                "puntos": "50",
-                "pj": "34",
+                "puntos": "51",
+                "pj": "35",
                 "pg": "14",
-                "pe": "8",
+                "pe": "9",
                 "pp": "12",
                 "gf": 44,
                 "gc": 40,
@@ -3935,6 +3935,19 @@
             },
             {
                 "posicion": "11",
+                "escudo": "https://statics-files.tycsports.com/escudos/261.png?v=6",
+                "equipo": "Vasco da Gama",
+                "puntos": "44",
+                "pj": "34",
+                "pg": "12",
+                "pe": "8",
+                "pp": "14",
+                "gf": 45,
+                "gc": 50,
+                "dg": -5
+            },
+            {
+                "posicion": "12",
                 "escudo": "https://statics-files.tycsports.com/escudos/254.png?v=6",
                 "equipo": "Botafogo",
                 "puntos": "42",
@@ -3947,7 +3960,7 @@
                 "dg": -7
             },
             {
-                "posicion": "12",
+                "posicion": "13",
                 "escudo": "https://statics-files.tycsports.com/escudos/628.png?v=6",
                 "equipo": "Coritiba",
                 "puntos": "42",
@@ -3960,26 +3973,13 @@
                 "dg": -11
             },
             {
-                "posicion": "13",
-                "escudo": "https://statics-files.tycsports.com/escudos/261.png?v=6",
-                "equipo": "Vasco da Gama",
-                "puntos": "41",
-                "pj": "33",
-                "pg": "11",
-                "pe": "8",
-                "pp": "14",
-                "gf": 43,
-                "gc": 50,
-                "dg": -7
-            },
-            {
                 "posicion": "14",
                 "escudo": "https://statics-files.tycsports.com/escudos/884.png?v=6",
                 "equipo": "Mirassol",
-                "puntos": "40",
-                "pj": "34",
+                "puntos": "41",
+                "pj": "35",
                 "pg": "10",
-                "pe": "10",
+                "pe": "11",
                 "pp": "14",
                 "gf": 39,
                 "gc": 48,
@@ -4055,13 +4055,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3694.png?v=6",
                 "equipo": "Chapecoense",
                 "puntos": "21",
-                "pj": "33",
+                "pj": "34",
                 "pg": "4",
                 "pe": "9",
-                "pp": "20",
+                "pp": "21",
                 "gf": 33,
-                "gc": 68,
-                "dg": -35
+                "gc": 70,
+                "dg": -37
             }
         ],
         "goleadores": [
