@@ -2163,12 +2163,12 @@
             },
             {
                 "fecha_torneo": "Fecha 28",
-                "fecha": "20/11/2026 18:00 HS",
+                "fecha": "20/11/2026 18:00 HS Segundo Tiempo",
                 "local": "COB",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/144.png?v=6",
                 "visitante": "AUD",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/143.png?v=6"
             },
             {
@@ -2243,27 +2243,7 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
-                "local": "COL",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png?v=6",
-                "visitante": "LSE",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
-                "local": "UCA",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png?v=6",
-                "visitante": "HUA",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
+                "fecha": "28/11/2026 18:00 HS",
                 "local": "COQ",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/145.png?v=6",
@@ -2273,7 +2253,37 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
+                "fecha": "28/11/2026 20:30 HS",
+                "local": "COL",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/95.png?v=6",
+                "visitante": "LSE",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/150.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 18:00 HS",
+                "local": "UCA",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/120.png?v=6",
+                "visitante": "HUA",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/149.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 18:00 HS",
+                "local": "CON",
+                "goles_local": "-",
+                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png?v=6",
+                "visitante": "UCH",
+                "goles_visita": "-",
+                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png?v=6"
+            },
+            {
+                "fecha_torneo": "Fecha 29",
+                "fecha": "29/11/2026 20:30 HS",
                 "local": "ULC",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/945.png?v=6",
@@ -2283,7 +2293,7 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
+                "fecha": "29/11/2026 20:30 HS",
                 "local": "EVE",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/148.png?v=6",
@@ -2293,7 +2303,7 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
+                "fecha": "29/11/2026 20:30 HS",
                 "local": "AUD",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/143.png?v=6",
@@ -2303,23 +2313,13 @@
             },
             {
                 "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
+                "fecha": "29/11/2026 20:30 HS",
                 "local": "ÑUB",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/599.png?v=6",
                 "visitante": "COB",
                 "goles_visita": "-",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/144.png?v=6"
-            },
-            {
-                "fecha_torneo": "Fecha 29",
-                "fecha": "29/11/2026 HS",
-                "local": "CON",
-                "goles_local": "-",
-                "escudo_local": "https://statics-files.tycsports.com/escudos/146.png?v=6",
-                "visitante": "UCH",
-                "goles_visita": "-",
-                "escudo_visita": "https://statics-files.tycsports.com/escudos/76.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 30",
@@ -2656,6 +2656,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Steffan Pino",
+                "equipo": "Cobresal",
+                "escudo": "https://statics-files.tycsports.com/escudos/144.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Nicolás Johansen",
                 "equipo": "Coquimbo Unido",
                 "escudo": "https://statics-files.tycsports.com/escudos/145.png",
@@ -2672,12 +2678,6 @@
                 "equipo": "U. La Calera",
                 "escudo": "https://statics-files.tycsports.com/escudos/945.png",
                 "goles": 9
-            },
-            {
-                "nombre": "Justo Giani",
-                "equipo": "U. Católica",
-                "escudo": "https://statics-files.tycsports.com/escudos/120.png",
-                "goles": 8
             }
         ]
     }

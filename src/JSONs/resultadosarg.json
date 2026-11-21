@@ -2423,12 +2423,12 @@
             },
             {
                 "fecha_torneo": "Fecha 16",
-                "fecha": "20/11/2026 20:00 HS",
+                "fecha": "20/11/2026 20:00 HS Finalizado",
                 "local": "VEL",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/20.png?v=6",
                 "visitante": "BEL",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/124.png?v=6"
             },
             {
@@ -2558,13 +2558,13 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/11.png?v=6",
                 "equipo": "Instituto",
-                "puntos": "33",
-                "pj": "15",
+                "puntos": "34",
+                "pj": "16",
                 "pg": "10",
-                "pe": "3",
+                "pe": "4",
                 "pp": "2",
-                "gf": 24,
-                "gc": 13,
+                "gf": 26,
+                "gc": 15,
                 "dg": 11
             },
             {
@@ -2614,18 +2614,32 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/12.png?v=6",
                 "equipo": "Lanús",
-                "puntos": "25",
-                "pj": "15",
+                "puntos": "26",
+                "pj": "16",
                 "pg": "7",
-                "pe": "4",
+                "pe": "5",
                 "pp": "4",
-                "gf": 18,
-                "gc": 11,
+                "gf": 19,
+                "gc": 12,
                 "dg": 7
             },
             {
                 "zona": "Grupo A",
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
+                "equipo": "Newell`s",
+                "puntos": "23",
+                "pj": "16",
+                "pg": "5",
+                "pe": "8",
+                "pp": "3",
+                "gf": 16,
+                "gc": 13,
+                "dg": 3
+            },
+            {
+                "zona": "Grupo A",
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/10.png?v=6",
                 "equipo": "Independiente",
                 "puntos": "23",
@@ -2636,20 +2650,6 @@
                 "gf": 15,
                 "gc": 16,
                 "dg": -1
-            },
-            {
-                "zona": "Grupo A",
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/13.png?v=6",
-                "equipo": "Newell`s",
-                "puntos": "22",
-                "pj": "15",
-                "pg": "5",
-                "pe": "7",
-                "pp": "3",
-                "gf": 14,
-                "gc": 11,
-                "dg": 3
             },
             {
                 "zona": "Grupo A",
@@ -2754,13 +2754,13 @@
                 "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/1485.png?v=6",
                 "equipo": "C.Córdoba (SE)",
-                "puntos": "10",
-                "pj": "15",
+                "puntos": "11",
+                "pj": "16",
                 "pg": "2",
-                "pe": "4",
+                "pe": "5",
                 "pp": "9",
-                "gf": 11,
-                "gc": 25,
+                "gf": 12,
+                "gc": 26,
                 "dg": -14
             },
             {
@@ -2979,7 +2979,7 @@
                 "nombre": "Ronaldo Martínez",
                 "equipo": "Vélez",
                 "escudo": "https://statics-files.tycsports.com/escudos/20.png",
-                "goles": 10
+                "goles": 11
             },
             {
                 "nombre": "Agustín Módica",

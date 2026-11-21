@@ -813,12 +813,12 @@
             },
             {
                 "fecha_torneo": "Fecha 10",
-                "fecha": "20/11/2026 16:30 HS",
+                "fecha": "20/11/2026 16:30 HS Finalizado",
                 "local": "BAY",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/617.png?v=6",
                 "visitante": "COL",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/1258.png?v=6"
             },
             {
@@ -3087,13 +3087,13 @@
                 "posicion": "1",
                 "escudo": "https://statics-files.tycsports.com/escudos/617.png?v=6",
                 "equipo": "Bayern Múnich",
-                "puntos": "21",
-                "pj": "9",
+                "puntos": "22",
+                "pj": "10",
                 "pg": "6",
-                "pe": "3",
+                "pe": "4",
                 "pp": "0",
-                "gf": 29,
-                "gc": 9,
+                "gf": 30,
+                "gc": 10,
                 "dg": 20
             },
             {
@@ -3254,6 +3254,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/1258.png?v=6",
+                "equipo": "Colonia",
+                "puntos": "10",
+                "pj": "10",
+                "pg": "2",
+                "pe": "4",
+                "pp": "4",
+                "gf": 11,
+                "gc": 15,
+                "dg": -4
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/3305.png?v=6",
                 "equipo": "Augsburg",
                 "puntos": "9",
@@ -3264,19 +3277,6 @@
                 "gf": 20,
                 "gc": 20,
                 "dg": 0
-            },
-            {
-                "posicion": "15",
-                "escudo": "https://statics-files.tycsports.com/escudos/1258.png?v=6",
-                "equipo": "Colonia",
-                "puntos": "9",
-                "pj": "9",
-                "pg": "2",
-                "pe": "3",
-                "pp": "4",
-                "gf": 10,
-                "gc": 14,
-                "dg": -4
             },
             {
                 "posicion": "16",
