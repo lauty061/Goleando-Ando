@@ -1143,22 +1143,22 @@
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "20/11/2026 17:30 HS",
+                "fecha": "20/11/2026 17:30 HS Finalizado",
                 "local": "AME",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
                 "visitante": "LUQ",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/213.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 20",
-                "fecha": "20/11/2026 20:00 HS",
+                "fecha": "20/11/2026 20:00 HS Finalizado",
                 "local": "REC",
-                "goles_local": "-",
+                "goles_local": "2",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
                 "visitante": "GUA",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/115.png?v=6"
             },
             {
@@ -1379,13 +1379,13 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/115.png?v=6",
                 "equipo": "Guaraní",
-                "puntos": "31",
-                "pj": "19",
+                "puntos": "32",
+                "pj": "20",
                 "pg": "8",
-                "pe": "7",
+                "pe": "8",
                 "pp": "4",
-                "gf": 21,
-                "gc": 17,
+                "gf": 23,
+                "gc": 19,
                 "dg": 4
             },
             {
@@ -1416,32 +1416,45 @@
             },
             {
                 "posicion": "8",
-                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
-                "equipo": "Sportivo Luqueño",
+                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
+                "equipo": "Sp. Ameliano",
                 "puntos": "22",
-                "pj": "19",
-                "pg": "7",
-                "pe": "1",
-                "pp": "11",
-                "gf": 25,
-                "gc": 33,
+                "pj": "20",
+                "pg": "5",
+                "pe": "7",
+                "pp": "8",
+                "gf": 20,
+                "gc": 28,
                 "dg": -8
             },
             {
                 "posicion": "9",
-                "escudo": "https://statics-files.tycsports.com/escudos/7948.png?v=6",
-                "equipo": "Sp. Ameliano",
-                "puntos": "19",
-                "pj": "19",
-                "pg": "4",
-                "pe": "7",
-                "pp": "8",
-                "gf": 19,
-                "gc": 28,
+                "escudo": "https://statics-files.tycsports.com/escudos/213.png?v=6",
+                "equipo": "Sportivo Luqueño",
+                "puntos": "22",
+                "pj": "20",
+                "pg": "7",
+                "pe": "1",
+                "pp": "12",
+                "gf": 25,
+                "gc": 34,
                 "dg": -9
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
+                "equipo": "D. Recoleta",
+                "puntos": "17",
+                "pj": "20",
+                "pg": "4",
+                "pe": "5",
+                "pp": "11",
+                "gf": 23,
+                "gc": 35,
+                "dg": -12
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/1029.png?v=6",
                 "equipo": "Rubio Ñu",
                 "puntos": "17",
@@ -1452,19 +1465,6 @@
                 "gf": 21,
                 "gc": 36,
                 "dg": -15
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png?v=6",
-                "equipo": "D. Recoleta",
-                "puntos": "16",
-                "pj": "19",
-                "pg": "4",
-                "pe": "4",
-                "pp": "11",
-                "gf": 21,
-                "gc": 33,
-                "dg": -12
             },
             {
                 "posicion": "12",
@@ -1500,6 +1500,12 @@
                 "goles": 8
             },
             {
+                "nombre": "Aldo González",
+                "equipo": "Deportivo Recoleta",
+                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
+                "goles": 6
+            },
+            {
                 "nombre": "Iván Maggi",
                 "equipo": "Sportivo Luqueño",
                 "escudo": "https://statics-files.tycsports.com/escudos/213.png",
@@ -1527,12 +1533,6 @@
                 "nombre": "Marcelo Ferreira",
                 "equipo": "San Lorenzo",
                 "escudo": "https://statics-files.tycsports.com/escudos/2119.png",
-                "goles": 5
-            },
-            {
-                "nombre": "Aldo González",
-                "equipo": "Deportivo Recoleta",
-                "escudo": "https://statics-files.tycsports.com/escudos/7699.png",
                 "goles": 5
             },
             {
