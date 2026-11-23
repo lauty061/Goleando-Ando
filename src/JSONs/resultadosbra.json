@@ -3523,32 +3523,32 @@
             },
             {
                 "fecha_torneo": "Fecha 36",
-                "fecha": "21/11/2026 21:00 HS",
+                "fecha": "21/11/2026 21:00 HS Finalizado",
                 "local": "CHA",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3694.png?v=6",
                 "visitante": "CRU",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/108.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 36",
-                "fecha": "22/11/2026 16:00 HS",
+                "fecha": "22/11/2026 16:00 HS Finalizado",
                 "local": "ATP",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/68.png?v=6",
                 "visitante": "CDR",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3698.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 36",
-                "fecha": "22/11/2026 18:30 HS",
+                "fecha": "22/11/2026 18:30 HS Entretiempo",
                 "local": "FLU",
-                "goles_local": "-",
+                "goles_local": "0",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/113.png?v=6",
                 "visitante": "MIR",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/884.png?v=6"
             },
             {
@@ -3833,14 +3833,14 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png?v=6",
                 "equipo": "Cruzeiro",
-                "puntos": "63",
-                "pj": "35",
-                "pg": "19",
+                "puntos": "66",
+                "pj": "36",
+                "pg": "20",
                 "pe": "6",
                 "pp": "10",
-                "gf": 57,
-                "gc": 49,
-                "dg": 8
+                "gf": 59,
+                "gc": 50,
+                "dg": 9
             },
             {
                 "posicion": "4",
@@ -3859,14 +3859,14 @@
                 "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/68.png?v=6",
                 "equipo": "Paranaense",
-                "puntos": "54",
-                "pj": "35",
-                "pg": "15",
+                "puntos": "57",
+                "pj": "36",
+                "pg": "16",
                 "pe": "9",
                 "pp": "11",
-                "gf": 52,
-                "gc": 45,
-                "dg": 7
+                "gf": 56,
+                "gc": 47,
+                "dg": 9
             },
             {
                 "posicion": "6",
@@ -4042,26 +4042,26 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
                 "puntos": "32",
-                "pj": "35",
+                "pj": "36",
                 "pg": "7",
                 "pe": "11",
-                "pp": "17",
-                "gf": 39,
-                "gc": 57,
-                "dg": -18
+                "pp": "18",
+                "gf": 41,
+                "gc": 61,
+                "dg": -20
             },
             {
                 "posicion": "20",
                 "escudo": "https://statics-files.tycsports.com/escudos/3694.png?v=6",
                 "equipo": "Chapecoense",
                 "puntos": "21",
-                "pj": "35",
+                "pj": "36",
                 "pg": "4",
                 "pe": "9",
-                "pp": "22",
-                "gf": 33,
-                "gc": 72,
-                "dg": -39
+                "pp": "23",
+                "gf": 34,
+                "gc": 74,
+                "dg": -40
             }
         ],
         "goleadores": [
@@ -4096,6 +4096,12 @@
                 "goles": 13
             },
             {
+                "nombre": "Costa Pereira, M.",
+                "equipo": "Cruzeiro",
+                "escudo": "https://statics-files.tycsports.com/escudos/108.png",
+                "goles": 11
+            },
+            {
                 "nombre": "Renê Sousa",
                 "equipo": "Vitória",
                 "escudo": "https://statics-files.tycsports.com/escudos/988.png",
@@ -4112,12 +4118,6 @@
                 "equipo": "Bahia",
                 "escudo": "https://statics-files.tycsports.com/escudos/991.png",
                 "goles": 11
-            },
-            {
-                "nombre": "Costa Pereira, M.",
-                "equipo": "Cruzeiro",
-                "escudo": "https://statics-files.tycsports.com/escudos/108.png",
-                "goles": 10
             },
             {
                 "nombre": "José Manuel López",

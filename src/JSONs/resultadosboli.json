@@ -2033,22 +2033,22 @@
             },
             {
                 "fecha_torneo": "Fecha 26",
-                "fecha": "22/11/2026 16:00 HS",
+                "fecha": "22/11/2026 16:00 HS Finalizado",
                 "local": "RPO",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/233.png?v=6",
                 "visitante": "BOL",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/70.png?v=6"
             },
             {
                 "fecha_torneo": "Fecha 26",
-                "fecha": "22/11/2026 18:15 HS",
+                "fecha": "22/11/2026 18:15 HS Finalizado",
                 "local": "STR",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/74.png?v=6",
                 "visitante": "BLO",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/229.png?v=6"
             },
             {
@@ -2408,13 +2408,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/70.png?v=6",
                 "equipo": "Bolívar",
                 "puntos": "60",
-                "pj": "25",
+                "pj": "26",
                 "pg": "19",
                 "pe": "3",
-                "pp": "3",
+                "pp": "4",
                 "gf": 61,
-                "gc": 24,
-                "dg": 37
+                "gc": 25,
+                "dg": 36
             },
             {
                 "posicion": "2",
@@ -2433,17 +2433,30 @@
                 "posicion": "3",
                 "escudo": "https://statics-files.tycsports.com/escudos/74.png?v=6",
                 "equipo": "The Strongest",
-                "puntos": "48",
-                "pj": "25",
-                "pg": "14",
+                "puntos": "51",
+                "pj": "26",
+                "pg": "15",
                 "pe": "6",
                 "pp": "5",
-                "gf": 46,
+                "gf": 50,
                 "gc": 29,
-                "dg": 17
+                "dg": 21
             },
             {
                 "posicion": "4",
+                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
+                "equipo": "Real Potosí",
+                "puntos": "43",
+                "pj": "26",
+                "pg": "11",
+                "pe": "10",
+                "pp": "5",
+                "gf": 33,
+                "gc": 18,
+                "dg": 15
+            },
+            {
+                "posicion": "5",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png?v=6",
                 "equipo": "Oriente Petrolero",
                 "puntos": "42",
@@ -2454,19 +2467,6 @@
                 "gf": 44,
                 "gc": 32,
                 "dg": 12
-            },
-            {
-                "posicion": "5",
-                "escudo": "https://statics-files.tycsports.com/escudos/233.png?v=6",
-                "equipo": "Real Potosí",
-                "puntos": "40",
-                "pj": "25",
-                "pg": "10",
-                "pe": "10",
-                "pp": "5",
-                "gf": 32,
-                "gc": 18,
-                "dg": 14
             },
             {
                 "posicion": "6",
@@ -2538,13 +2538,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/229.png?v=6",
                 "equipo": "Blooming",
                 "puntos": "31",
-                "pj": "25",
+                "pj": "26",
                 "pg": "7",
                 "pe": "10",
-                "pp": "8",
+                "pp": "9",
                 "gf": 33,
-                "gc": 27,
-                "dg": 6
+                "gc": 31,
+                "dg": 2
             },
             {
                 "posicion": "12",
@@ -2662,6 +2662,12 @@
                 "goles": 9
             },
             {
+                "nombre": "Adrián Estacio",
+                "equipo": "The Strongest",
+                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
+                "goles": 9
+            },
+            {
                 "nombre": "Nahuel Roldan",
                 "equipo": "Oriente Petrolero",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
@@ -2671,12 +2677,6 @@
                 "nombre": "José Flores",
                 "equipo": "Oriente Petrolero",
                 "escudo": "https://statics-files.tycsports.com/escudos/97.png",
-                "goles": 8
-            },
-            {
-                "nombre": "Adrián Estacio",
-                "equipo": "The Strongest",
-                "escudo": "https://statics-files.tycsports.com/escudos/74.png",
                 "goles": 8
             }
         ]
