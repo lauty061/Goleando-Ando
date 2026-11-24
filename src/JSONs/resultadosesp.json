@@ -1293,12 +1293,12 @@
             },
             {
                 "fecha_torneo": "Fecha 13",
-                "fecha": "23/11/2026 17:00 HS",
+                "fecha": "23/11/2026 17:00 HS Finalizado",
                 "local": "LEV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/35.png?v=6",
                 "visitante": "ELC",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/4460.png?v=6"
             },
             {
@@ -3987,6 +3987,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
+                "equipo": "Levante",
+                "puntos": "12",
+                "pj": "13",
+                "pg": "2",
+                "pe": "6",
+                "pp": "5",
+                "gf": 17,
+                "gc": 22,
+                "dg": -5
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/3310.png?v=6",
                 "equipo": "Rayo Vallecano",
                 "puntos": "12",
@@ -3999,7 +4012,7 @@
                 "dg": -7
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/42.png?v=6",
                 "equipo": "Valencia",
                 "puntos": "12",
@@ -4012,7 +4025,7 @@
                 "dg": -11
             },
             {
-                "posicion": "17",
+                "posicion": "18",
                 "escudo": "https://statics-files.tycsports.com/escudos/24.png?v=6",
                 "equipo": "Getafe",
                 "puntos": "12",
@@ -4025,29 +4038,16 @@
                 "dg": -13
             },
             {
-                "posicion": "18",
-                "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
-                "equipo": "Levante",
-                "puntos": "11",
-                "pj": "12",
-                "pg": "2",
-                "pe": "5",
-                "pp": "5",
-                "gf": 16,
-                "gc": 21,
-                "dg": -5
-            },
-            {
                 "posicion": "19",
                 "escudo": "https://statics-files.tycsports.com/escudos/4460.png?v=6",
                 "equipo": "Elche",
-                "puntos": "10",
-                "pj": "12",
+                "puntos": "11",
+                "pj": "13",
                 "pg": "2",
-                "pe": "4",
+                "pe": "5",
                 "pp": "6",
-                "gf": 14,
-                "gc": 20,
+                "gf": 15,
+                "gc": 21,
                 "dg": -6
             },
             {
