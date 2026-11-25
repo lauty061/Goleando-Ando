@@ -1093,12 +1093,12 @@
             },
             {
                 "fecha_torneo": "Fecha 11",
-                "fecha": "23/11/2026 17:00 HS",
+                "fecha": "23/11/2026 17:00 HS Finalizado",
                 "local": "BRE",
-                "goles_local": "-",
+                "goles_local": "4",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
                 "visitante": "EVE",
-                "goles_visita": "-",
+                "goles_visita": "0",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/564.png?v=6"
             },
             {
@@ -3870,6 +3870,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
+                "equipo": "Brentford",
+                "puntos": "17",
+                "pj": "11",
+                "pg": "4",
+                "pe": "5",
+                "pp": "2",
+                "gf": 20,
+                "gc": 11,
+                "dg": 9
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/2184.png?v=6",
                 "equipo": "Leeds United",
                 "puntos": "17",
@@ -3880,19 +3893,6 @@
                 "gf": 14,
                 "gc": 9,
                 "dg": 5
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
-                "equipo": "Everton",
-                "puntos": "16",
-                "pj": "10",
-                "pg": "4",
-                "pe": "4",
-                "pp": "2",
-                "gf": 12,
-                "gc": 10,
-                "dg": 2
             },
             {
                 "posicion": "8",
@@ -3909,6 +3909,19 @@
             },
             {
                 "posicion": "9",
+                "escudo": "https://statics-files.tycsports.com/escudos/564.png?v=6",
+                "equipo": "Everton",
+                "puntos": "16",
+                "pj": "11",
+                "pg": "4",
+                "pe": "4",
+                "pp": "3",
+                "gf": 12,
+                "gc": 14,
+                "dg": -2
+            },
+            {
+                "posicion": "10",
                 "escudo": "https://statics-files.tycsports.com/escudos/574.png?v=6",
                 "equipo": "Tottenham",
                 "puntos": "15",
@@ -3919,19 +3932,6 @@
                 "gf": 12,
                 "gc": 11,
                 "dg": 1
-            },
-            {
-                "posicion": "10",
-                "escudo": "https://statics-files.tycsports.com/escudos/5377.png?v=6",
-                "equipo": "Brentford",
-                "puntos": "14",
-                "pj": "10",
-                "pg": "3",
-                "pe": "5",
-                "pp": "2",
-                "gf": 16,
-                "gc": 11,
-                "dg": 5
             },
             {
                 "posicion": "11",
@@ -4120,15 +4120,15 @@
                 "goles": 5
             },
             {
-                "nombre": "Bryan Mbeumo",
-                "equipo": "Manchester United",
-                "escudo": "https://statics-files.tycsports.com/escudos/568.png",
+                "nombre": "Keane Lewis-Potter",
+                "equipo": "Brentford",
+                "escudo": "https://statics-files.tycsports.com/escudos/5377.png",
                 "goles": 4
             },
             {
-                "nombre": "Noah Okafor",
-                "equipo": "Leeds United",
-                "escudo": "https://statics-files.tycsports.com/escudos/2184.png",
+                "nombre": "Bryan Mbeumo",
+                "equipo": "Manchester United",
+                "escudo": "https://statics-files.tycsports.com/escudos/568.png",
                 "goles": 4
             }
         ]
