@@ -3593,12 +3593,12 @@
             },
             {
                 "fecha_torneo": "Fecha 36",
-                "fecha": "25/11/2026 20:00 HS",
+                "fecha": "25/11/2026 20:00 HS Finalizado",
                 "local": "MIN",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/624.png?v=6",
                 "visitante": "COR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/107.png?v=6"
             },
             {
@@ -3613,12 +3613,12 @@
             },
             {
                 "fecha_torneo": "Fecha 37",
-                "fecha": "26/11/2026 20:00 HS",
+                "fecha": "26/11/2026 20:00 HS Finalizado",
                 "local": "SPA",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/75.png?v=6",
                 "visitante": "CDR",
-                "goles_visita": "-",
+                "goles_visita": "1",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/3698.png?v=6"
             },
             {
@@ -3885,13 +3885,13 @@
                 "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/624.png?v=6",
                 "equipo": "Atlético Mineiro",
-                "puntos": "51",
-                "pj": "35",
+                "puntos": "52",
+                "pj": "36",
                 "pg": "14",
-                "pe": "9",
+                "pe": "10",
                 "pp": "12",
-                "gf": 44,
-                "gc": 40,
+                "gf": 45,
+                "gc": 41,
                 "dg": 4
             },
             {
@@ -3922,6 +3922,19 @@
             },
             {
                 "posicion": "10",
+                "escudo": "https://statics-files.tycsports.com/escudos/75.png?v=6",
+                "equipo": "São Paulo",
+                "puntos": "48",
+                "pj": "37",
+                "pg": "13",
+                "pe": "9",
+                "pp": "15",
+                "gf": 43,
+                "gc": 42,
+                "dg": 1
+            },
+            {
+                "posicion": "11",
                 "escudo": "https://statics-files.tycsports.com/escudos/261.png?v=6",
                 "equipo": "Vasco da Gama",
                 "puntos": "47",
@@ -3932,19 +3945,6 @@
                 "gf": 47,
                 "gc": 52,
                 "dg": -5
-            },
-            {
-                "posicion": "11",
-                "escudo": "https://statics-files.tycsports.com/escudos/75.png?v=6",
-                "equipo": "São Paulo",
-                "puntos": "45",
-                "pj": "36",
-                "pg": "12",
-                "pe": "9",
-                "pp": "15",
-                "gf": 40,
-                "gc": 41,
-                "dg": -1
             },
             {
                 "posicion": "12",
@@ -3987,6 +3987,19 @@
             },
             {
                 "posicion": "15",
+                "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
+                "equipo": "Corinthians",
+                "puntos": "41",
+                "pj": "36",
+                "pg": "10",
+                "pe": "11",
+                "pp": "15",
+                "gf": 41,
+                "gc": 43,
+                "dg": -2
+            },
+            {
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/309.png?v=6",
                 "equipo": "Grêmio",
                 "puntos": "41",
@@ -3999,7 +4012,7 @@
                 "dg": -7
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/884.png?v=6",
                 "equipo": "Mirassol",
                 "puntos": "41",
@@ -4010,19 +4023,6 @@
                 "gf": 39,
                 "gc": 49,
                 "dg": -10
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/107.png?v=6",
-                "equipo": "Corinthians",
-                "puntos": "40",
-                "pj": "35",
-                "pg": "10",
-                "pe": "10",
-                "pp": "15",
-                "gf": 40,
-                "gc": 42,
-                "dg": -2
             },
             {
                 "posicion": "18",
@@ -4042,13 +4042,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/3698.png?v=6",
                 "equipo": "Remo",
                 "puntos": "32",
-                "pj": "36",
+                "pj": "37",
                 "pg": "7",
                 "pe": "11",
-                "pp": "18",
-                "gf": 41,
-                "gc": 61,
-                "dg": -20
+                "pp": "19",
+                "gf": 42,
+                "gc": 64,
+                "dg": -22
             },
             {
                 "posicion": "20",
@@ -4102,6 +4102,12 @@
                 "goles": 12
             },
             {
+                "nombre": "Jonathan Calleri",
+                "equipo": "São Paulo",
+                "escudo": "https://statics-files.tycsports.com/escudos/75.png",
+                "goles": 12
+            },
+            {
                 "nombre": "Costa Pereira, M.",
                 "equipo": "Cruzeiro",
                 "escudo": "https://statics-files.tycsports.com/escudos/108.png",
@@ -4123,12 +4129,6 @@
                 "nombre": "José Manuel López",
                 "equipo": "Palmeiras",
                 "escudo": "https://statics-files.tycsports.com/escudos/80.png",
-                "goles": 10
-            },
-            {
-                "nombre": "de Oliveira, D.",
-                "equipo": "Botafogo",
-                "escudo": "https://statics-files.tycsports.com/escudos/254.png",
                 "goles": 10
             }
         ]
