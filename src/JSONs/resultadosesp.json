@@ -1303,12 +1303,12 @@
             },
             {
                 "fecha_torneo": "Fecha 14",
-                "fecha": "27/11/2026 17:00 HS",
+                "fecha": "27/11/2026 17:00 HS Finalizado",
                 "local": "LEV",
-                "goles_local": "-",
+                "goles_local": "1",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/35.png?v=6",
                 "visitante": "RAC",
-                "goles_visita": "-",
+                "goles_visita": "3",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/38.png?v=6"
             },
             {
@@ -2213,7 +2213,7 @@
             },
             {
                 "fecha_torneo": "Fecha 23",
-                "fecha": "07/12/2026 17:30 HS",
+                "fecha": "02/12/2026 17:30 HS",
                 "local": "BAR",
                 "goles_local": "-",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/31.png?v=6",
@@ -3870,6 +3870,19 @@
             },
             {
                 "posicion": "6",
+                "escudo": "https://statics-files.tycsports.com/escudos/38.png?v=6",
+                "equipo": "Racing Santander",
+                "puntos": "20",
+                "pj": "14",
+                "pg": "6",
+                "pe": "2",
+                "pp": "6",
+                "gf": 23,
+                "gc": 33,
+                "dg": -10
+            },
+            {
+                "posicion": "7",
                 "escudo": "https://statics-files.tycsports.com/escudos/41.png?v=6",
                 "equipo": "Sevilla",
                 "puntos": "19",
@@ -3880,19 +3893,6 @@
                 "gf": 18,
                 "gc": 20,
                 "dg": -2
-            },
-            {
-                "posicion": "7",
-                "escudo": "https://statics-files.tycsports.com/escudos/38.png?v=6",
-                "equipo": "Racing Santander",
-                "puntos": "17",
-                "pj": "13",
-                "pg": "5",
-                "pe": "2",
-                "pp": "6",
-                "gf": 20,
-                "gc": 32,
-                "dg": -12
             },
             {
                 "posicion": "8",
@@ -3990,13 +3990,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/35.png?v=6",
                 "equipo": "Levante",
                 "puntos": "12",
-                "pj": "13",
+                "pj": "14",
                 "pg": "2",
                 "pe": "6",
-                "pp": "5",
-                "gf": 17,
-                "gc": 22,
-                "dg": -5
+                "pp": "6",
+                "gf": 18,
+                "gc": 25,
+                "dg": -7
             },
             {
                 "posicion": "16",
@@ -4081,7 +4081,7 @@
                 "nombre": "Mohamed Zabiri",
                 "equipo": "Racing Santander",
                 "escudo": "https://statics-files.tycsports.com/escudos/38.png",
-                "goles": 11
+                "goles": 12
             },
             {
                 "nombre": "Lamine Yamal",

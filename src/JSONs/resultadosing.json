@@ -1103,12 +1103,12 @@
             },
             {
                 "fecha_torneo": "Fecha 12",
-                "fecha": "27/11/2026 17:00 HS",
+                "fecha": "27/11/2026 17:00 HS Finalizado",
                 "local": "NTF",
-                "goles_local": "-",
+                "goles_local": "3",
                 "escudo_local": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
                 "visitante": "CHE",
-                "goles_visita": "-",
+                "goles_visita": "2",
                 "escudo_visita": "https://statics-files.tycsports.com/escudos/563.png?v=6"
             },
             {
@@ -3899,13 +3899,13 @@
                 "escudo": "https://statics-files.tycsports.com/escudos/563.png?v=6",
                 "equipo": "Chelsea",
                 "puntos": "16",
-                "pj": "11",
+                "pj": "12",
                 "pg": "5",
                 "pe": "1",
-                "pp": "5",
-                "gf": 20,
-                "gc": 20,
-                "dg": 0
+                "pp": "6",
+                "gf": 22,
+                "gc": 23,
+                "dg": -1
             },
             {
                 "posicion": "9",
@@ -3974,6 +3974,19 @@
             },
             {
                 "posicion": "14",
+                "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
+                "equipo": "Nottingham Forest",
+                "puntos": "12",
+                "pj": "12",
+                "pg": "3",
+                "pe": "3",
+                "pp": "6",
+                "gf": 12,
+                "gc": 17,
+                "dg": -5
+            },
+            {
+                "posicion": "15",
                 "escudo": "https://statics-files.tycsports.com/escudos/7584.png?v=6",
                 "equipo": "Coventry City",
                 "puntos": "12",
@@ -3986,7 +3999,7 @@
                 "dg": -8
             },
             {
-                "posicion": "15",
+                "posicion": "16",
                 "escudo": "https://statics-files.tycsports.com/escudos/565.png?v=6",
                 "equipo": "Fulham",
                 "puntos": "11",
@@ -3999,7 +4012,7 @@
                 "dg": -2
             },
             {
-                "posicion": "16",
+                "posicion": "17",
                 "escudo": "https://statics-files.tycsports.com/escudos/2252.png?v=6",
                 "equipo": "Ipswich Town",
                 "puntos": "11",
@@ -4010,19 +4023,6 @@
                 "gf": 15,
                 "gc": 22,
                 "dg": -7
-            },
-            {
-                "posicion": "17",
-                "escudo": "https://statics-files.tycsports.com/escudos/3295.png?v=6",
-                "equipo": "Nottingham Forest",
-                "puntos": "9",
-                "pj": "11",
-                "pg": "2",
-                "pe": "3",
-                "pp": "6",
-                "gf": 9,
-                "gc": 15,
-                "dg": -6
             },
             {
                 "posicion": "18",
